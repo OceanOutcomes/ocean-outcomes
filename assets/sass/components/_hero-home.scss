@@ -1,0 +1,25 @@
+.hero-home {
+  background: #000;
+  position: relative;
+  
+  .hero-image {
+    width: 100%;
+    opacity: 0.6;
+  }
+
+  .hero-text {
+    @include outer-container;
+    position: absolute;
+    color: white;
+    bottom: 120px;
+  }
+
+  .hero-text h1 {
+    color: white;
+    text-transform: initial;
+
+    @include media($medium-screen) {
+      font-size: 3.5em
+    }
+  }
+}

@@ -1,0 +1,80 @@
+---
+layout: home
+bodyclass: home
+---
+
+  
+  <section class="hero hero-home">
+    <img class="hero-image" src="{{site.baseurl}}/assets/images/hero-placeholder.jpg">
+    <div class="hero-text">
+      <h1>Locally led, independently supported fishery improvement projects</h1>
+      <a class="button-large" href="#">Contact Us</a>
+    </div>
+  </section>
+
+  <section class="home-about">
+   <div class="grid-container">
+    <h1>About Ocean Outcomes</h1>
+    <ul class="home-about__item who-we-are">
+      <li><a href="#">Who We Are</a><a href="#" class="drop-down-menu-toggle"></a></li>
+      <li class="drop-down-menu">
+        <ul>
+          <li><a href="#">Secondary Link 1</a></li>
+          <li><a href="#">Secondary Link 2</a></li>
+          <li><a href="#">Secondary Link 3</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="home-about__item what-we-do">
+      <li><a href="#">What We Do</a><a href="#" class="drop-down-menu-toggle"></a></li>
+      <li class="drop-down-menu">
+        <ul>
+          <li><a href="#">Secondary Link 1</a></li>
+          <li><a href="#">Secondary Link 2</a></li>
+          <li><a href="#">Secondary Link 3</a></li>
+        </ul>
+      </li>
+    </ul>
+    <ul class="home-about__item sustainable-fisheries">
+      <li><a href="#">Sustainable Fisheries</a><a href="#" class="drop-down-menu-toggle"></a></li>
+      <li class="drop-down-menu">
+        <ul>
+          <li><a href="#">Secondary Link 1</a></li>
+          <li><a href="#">Secondary Link 2</a></li>
+          <li><a href="#">Secondary Link 3</a></li>
+        </ul>
+      </li>
+    </ul>
+   </div>
+  </section>
+
+  <section class="home-success-stories">
+    <div class="grid-container">
+      <h1>Stories of Success</h1>
+      <h2>Frank Riggs - Salmon Fisherman, Kiev Russia</h2>
+      <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p> 
+      <a class="button-large" href="#">See More Success Stories</a> 
+      <div class="support-image">
+        photo of dude    
+      </div>
+    </div>
+  </section>
+
+  <section class="home-news">
+    <div class="grid-container">
+      <h1>News & Analysis</h1>
+      <ul class="posts">
+        {% for post in site.posts %}
+          <li class="post">
+            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+      <a class="button-large" href="#">See all News & Analysis</a>
+    </div>
+  </section>
+  <footer>
+    footer
+  </footer>
+
