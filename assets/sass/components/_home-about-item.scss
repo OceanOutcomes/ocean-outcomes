@@ -1,0 +1,61 @@
+.home-about__item {
+  padding: 3em;
+  margin-top: 1em;
+  border: solid 5px $blue;
+  position: relative;
+  cursor: pointer;
+
+  @include media($medium-screen) {
+    @include span-columns(4);
+    margin-top: 3em;
+  }
+
+
+  .drop-down-menu-title {
+    font-size: 1.25em;
+    font-weight: bold;
+  }
+
+  .drop-down-menu {
+    visibility: hidden;
+    position: absolute;
+    background-color: $dark-gray;
+    text-align: center;
+    width: 90%;
+    z-index: 300;
+    left: 5%;
+    transition: all .4s;
+    opacity: 0;
+    top: 75%;
+
+    li {
+      margin: 1em 0;
+    }
+
+    a {
+      color: white;
+    }
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: -10px;
+      left: calc(50% - 5px);
+      display: block;
+      width: 0; 
+      height: 0; 
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-bottom: 10px solid $dark-gray;
+    }
+  }
+
+
+
+  &:hover .drop-down-menu {
+    visibility: visible;
+    transition: all .4s;
+    opacity: .9;
+    top: 85%;
+  }
+}

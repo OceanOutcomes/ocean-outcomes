@@ -1,25 +1,54 @@
 .hero-home {
   background: #000;
   position: relative;
-  
-  .hero-image {
-    width: 100%;
-    opacity: 0.6;
+  transition: height .4s;
+  height: 400px;
+
+  @include media($medium-screen) {
+    height: 600px;
   }
 
-  .hero-text {
-    @include outer-container;
-    position: absolute;
-    color: white;
-    bottom: 120px;
+  @include media($large-screen) {
+    height: 800px;
+  }
+}
+
+.hero-home:after {
+  background: url('/assets/images/hero-placeholder.jpg') center top no-repeat;
+  background-size: cover;
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: 1;
+  content: "";
+}
+
+.hero-home .hero-text {
+  @include outer-container;
+  color: white;
+  z-index: 10000;
+  position: relative;
+  top: 55%;
+  padding: 0 1em;
+}
+
+.hero-home .hero-text h1 {
+  color: white;
+  text-transform: initial;
+  margin-bottom: .5em;
+
+  @include media($medium-screen) {
+    font-size: 2.5em
   }
 
-  .hero-text h1 {
-    color: white;
-    text-transform: initial;
-
-    @include media($medium-screen) {
-      font-size: 3.5em
-    }
+  @include media($large-screen) {
+    font-size: 3.5em 
   }
+}
+
+.hero-home .button-large {
+  @extend %button-white;
 }

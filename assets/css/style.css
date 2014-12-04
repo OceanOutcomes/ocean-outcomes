@@ -237,36 +237,160 @@ body {
   src: url("../fonts/fontawesome-webfont.eot?#iefix&v=4.2.0") format("embedded-opentype"), url("../fonts/fontawesome-webfont.woff?v=4.2.0") format("woff"), url("../fonts/fontawesome-webfont.ttf?v=4.2.0") format("truetype"), url("../fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal; }
-.font-awesome-icons p {
-  font-family: "FontAwesome"; }
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  line-height: 1.5em;
+  margin: 0;
+  text-rendering: optimizeLegibility; }
 
 h1 {
   font-size: 1.5em;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  margin-bottom: 1em;
+  color: #999; }
+
+h2 {
+  font-size: 2em; }
+
+h3 {
+  font-size: 1.75em; }
+
+h4 {
+  font-size: 1.5em; }
+
+h5 {
+  font-size: 1.25em; }
+
+h6 {
+  font-size: 1em; }
+
+p {
+  margin: 0 0 0.75em; }
+
+.button-large {
+  box-sizing: border-box;
+  display: inline-block;
+  padding: .75em 2em;
+  font-size: 18px;
+  text-transform: uppercase;
+  border: solid 3px #477DCA;
+  font-weight: bold;
+  transition: all .4s; }
+  .button-large:hover {
+    background-color: #477DCA;
+    color: white;
+    transition: all .4s; }
+
+.hero-home .button-large {
+  border-color: white;
+  color: white; }
+  .hero-home .button-large:hover {
+    color: #333;
+    background: white; }
 
 .hero-home {
   background: #000;
-  position: relative; }
-  .hero-home .hero-image {
-    width: 100%;
-    opacity: 0.6; }
-  .hero-home .hero-text {
-    max-width: 73.75em;
-    margin-left: auto;
-    margin-right: auto;
+  position: relative;
+  transition: height .4s;
+  height: 400px; }
+  @media screen and (min-width: 40em) {
+    .hero-home {
+      height: 600px; } }
+  @media screen and (min-width: 53.75em) {
+    .hero-home {
+      height: 800px; } }
+
+.hero-home:after {
+  background: url("/assets/images/hero-placeholder.jpg") center top no-repeat;
+  background-size: cover;
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: 1;
+  content: ""; }
+
+.hero-home .hero-text {
+  max-width: 73.75em;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  z-index: 10000;
+  position: relative;
+  top: 55%;
+  padding: 0 1em; }
+  .hero-home .hero-text:after {
+    content: "";
+    display: table;
+    clear: both; }
+
+.hero-home .hero-text h1 {
+  color: white;
+  text-transform: initial;
+  margin-bottom: .5em; }
+  @media screen and (min-width: 40em) {
+    .hero-home .hero-text h1 {
+      font-size: 2.5em; } }
+  @media screen and (min-width: 53.75em) {
+    .hero-home .hero-text h1 {
+      font-size: 3.5em; } }
+
+.home-about__item {
+  padding: 3em;
+  margin-top: 1em;
+  border: solid 5px #477DCA;
+  position: relative;
+  cursor: pointer; }
+  @media screen and (min-width: 40em) {
+    .home-about__item {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 31.76157%;
+      margin-top: 3em; }
+      .home-about__item:last-child {
+        margin-right: 0; } }
+  .home-about__item .drop-down-menu-title {
+    font-size: 1.25em;
+    font-weight: bold; }
+  .home-about__item .drop-down-menu {
+    visibility: hidden;
     position: absolute;
-    color: white;
-    bottom: 120px; }
-    .hero-home .hero-text:after {
+    background-color: #333;
+    text-align: center;
+    width: 90%;
+    z-index: 300;
+    left: 5%;
+    transition: all .4s;
+    opacity: 0;
+    top: 75%; }
+    .home-about__item .drop-down-menu li {
+      margin: 1em 0; }
+    .home-about__item .drop-down-menu a {
+      color: white; }
+    .home-about__item .drop-down-menu:before {
       content: "";
-      display: table;
-      clear: both; }
-  .hero-home .hero-text h1 {
-    color: white;
-    text-transform: initial; }
-    @media screen and (min-width: 40em) {
-      .hero-home .hero-text h1 {
-        font-size: 3.5em; } }
+      position: absolute;
+      top: -10px;
+      left: calc(50% - 5px);
+      display: block;
+      width: 0;
+      height: 0;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-bottom: 10px solid #333; }
+  .home-about__item:hover .drop-down-menu {
+    visibility: visible;
+    transition: all .4s;
+    opacity: .9;
+    top: 85%; }
+
+.home-about {
+  background: white;
+  padding: 3em 0;
+  text-align: center; }
 
 /* No files to import found in vendor/* */
 

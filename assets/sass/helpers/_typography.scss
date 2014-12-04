@@ -7,7 +7,7 @@ $header-font-family: $base-font-family;
 $base-font-size: 1em;
 $base-line-height: $base-font-size * 1.5;
 $unitless-line-height: $base-line-height / ($base-line-height * 0 + 1); // Strip units from line-height: https://developer.mozilla.org/en-US/docs/Web/CSS/line-height#Prefer_unitless_numbers_for_line-height_values
-$header-line-height: $base-font-size * 1.25;
+$header-line-height: $base-font-size * 1.5;
 $base-border-radius: em(3);
 
 //Font Awesome Icon base-font-size
@@ -20,23 +20,40 @@ $base-border-radius: em(3);
 }
 
 
-//remove me!
-.font-awesome-icons p{
-  font-family: "FontAwesome";
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font-family;
+  line-height: $header-line-height;
+  margin: 0;
+  text-rendering: optimizeLegibility; // Fix the character spacing for headings
 }
 
-h1, 
-%h1 {
-  font-size: 1.5em;
+h1 {
+  font-size: $base-font-size * 1.5; 
   text-transform: uppercase;
+  margin-bottom: 1em;
+  color: $medium-gray;
 }
 
-h2, 
-%h2 {
-
+h2 {
+  font-size: $base-font-size * 2; // 16 * 2 = 32px
 }
 
-h3, 
-%h3 {
+h3 {
+  font-size: $base-font-size * 1.75; // 16 * 1.75 = 28px
+}
 
+h4 {
+  font-size: $base-font-size * 1.5; // 16 * 1.5 = 24px
+}
+
+h5 {
+  font-size: $base-font-size * 1.25; // 16 * 1.25 = 20px
+}
+
+h6 {
+  font-size: $base-font-size;
+}
+
+p {
+  margin: 0 0 ($base-line-height * .5);
 }

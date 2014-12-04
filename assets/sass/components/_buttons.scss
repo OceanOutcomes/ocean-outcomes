@@ -1,0 +1,27 @@
+.button-large, 
+%button-large {
+  box-sizing: border-box;
+  display: inline-block;
+  padding: .75em 2em;
+  font-size: 18px;
+  text-transform: uppercase;
+  border: solid 3px $base-link-color; 
+  font-weight: bold;
+  transition: all .4s;
+
+  &:hover {
+    background-color: $base-link-color;
+    color: white;
+    transition: all .4s;
+  }
+}
+
+%button-white {
+  border-color: white;
+  color: white;
+
+  &:hover {
+    color: $dark-gray;
+    background: white;
+  }
+}

@@ -24,4 +24,11 @@ $(document).ready(function() {
     $(this).addClass("active-nav-item");
     $(".nav .more").removeClass("active-nav-item");
   });
+
+  // Show/Hide elements for click events
+$('.toggle').click(function() {
+  $(this).parent().toggleClass('active');
+});
+
+
 });
