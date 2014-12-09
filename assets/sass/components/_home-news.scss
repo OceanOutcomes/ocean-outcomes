@@ -1,0 +1,48 @@
+.home-news {
+  padding: 1em 0;
+  text-align: center;
+
+  @include media($medium-screen) {
+    padding: 3em 0;
+  }
+}
+
+.home-news .posts {
+  @include clearfix;
+  @include media($medium-screen) {
+    padding-top: 2em;
+  }
+}
+
+.home-news .post {
+  text-align: left;
+  margin-bottom: 2em;
+  @include span-columns(12);
+
+  @include media($medium-screen) {
+    @include span-columns(6);
+  }
+}
+
+.home-news .post-date {
+  font-size: .9em;
+  margin: 1em 0 0 0;
+
+  @include media($medium-screen) {
+     margin-top: 2em;
+  }
+}
+
+.home-news .post-link {
+  display: block;
+  font-size: 1.125em;
+  font-weight: bold;
+
+  @include media($medium-screen) {
+    font-size: 1.5em;
+  }
+}
+
+.home-news .button-large {
+  clear: both;
+}

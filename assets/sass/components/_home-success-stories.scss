@@ -1,0 +1,52 @@
+.home-success-stories {
+  background-color: $medium-gray;
+  padding: 3em 0;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+
+  @include media($medium-screen) {
+    text-align: left;
+  }
+
+  h1 {
+    color: white;
+  }
+
+  h2 {
+    font-size: 1.5em;
+    @include media($medium-screen) {
+      max-width: 70%;
+    }
+  }
+
+  p {
+    color: white;
+    margin-bottom: 2em;
+     @include media($medium-screen) {
+      max-width: 60%;
+    }
+  }
+
+  .button-large {
+    @extend %button-white;
+    margin: 0 auto;
+
+    @include media($medium-screen) {
+      margin: 0;
+    }
+  }
+
+  .support-image {
+    max-width: 120px;
+    margin: 0 auto;
+    display: block;
+
+    @include media($medium-screen) {
+      position: absolute;
+      bottom: -6px;
+      left: 65%;
+      max-width: 100%;
+    }
+  }
+}

@@ -3,9 +3,11 @@ layout: post
 title:  "News Item 1"
 date:   2014-09-15 13:23:55
 categories: jekyll update
+blurb: When I started Reynholm Industries, I had just two things in my possession- a dream and 6 million pounds. Oh really? Then why don't you come down and make me then.
+image: http://placehold.it/600x320&text=teaser-image!
 ---
 
-Graphic homoeroticism? Does that mean they're going to get them out? When I started Reynholm Industries, I had just two things in my possession: a dream and 6 million pounds. Oh really? Then why don't you come down and make me then. Oh really? Then why don't you come down and make me then. OK. Moss, what did you have for breakfast this morning? Smarties cereal. Unbelievable! Some idiot disabled his firewall, meaning all the computers on Seven are teeming with viruses, plus I've just had to walk all the way down the motherfudging stairs, because the lifts are broken AGAIN! Yes! Yesterday's jam. That is what we are to them!... Actually, that doesn't work, as a thing, because, you know, jam lasts for ages.
+When I started Reynholm Industries, I had just two things in my possession: a dream and 6 million pounds. Oh really? Then why don't you come down and make me then. Oh really? Then why don't you come down and make me then. OK. Moss, what did you have for breakfast this morning? Smarties cereal. Unbelievable! Some idiot disabled his firewall, meaning all the computers on Seven are teeming with viruses, plus I've just had to walk all the way down the motherfudging stairs, because the lifts are broken AGAIN! Yes! Yesterday's jam. That is what we are to them!... Actually, that doesn't work, as a thing, because, you know, jam lasts for ages.
 
 He's had quite an evening. Someone stole his wheelchair. Did you see who it was? Red bearded man. You mean 999. Yes, yes, I mean 999! Yeah, I know. That's the American one, you berk! Oh my God. I didn't even know Smarties made a cereal. They don't. It's just Smarties in a bowl with milk. You're not comfortable with your sexuality? Oh, I'm very comfortable with my sexuality, I just don't want to be slapped in the face with their sexuality. Huh, what you think I'm afraid of you? I'm not afraid of you. I'll put this over here, with the rest of the fire. It's my term for my time of the month. Oh. What time of the month? The weekend?
 
