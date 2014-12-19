@@ -7,5 +7,6 @@ $medium-screen-up: new-breakpoint(min-width $medium-screen 4);
 $large-screen-up: new-breakpoint(min-width $large-screen 8);
 
 //Grid Settings
+$visual-grid: true;
 
 

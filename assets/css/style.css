@@ -208,6 +208,50 @@ input[type="submit"] {
   vertical-align: middle;
   white-space: nowrap; }
 
+/*$alert-color: $blue;
+$error-color: $red;
+$notice-color: $dark-green;
+$success-color: $green;*/
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("../fonts/fontawesome-webfont.eot?v=4.2.0");
+  src: url("../fonts/fontawesome-webfont.eot?#iefix&v=4.2.0") format("embedded-opentype"), url("../fonts/fontawesome-webfont.woff?v=4.2.0") format("woff"), url("../fonts/fontawesome-webfont.ttf?v=4.2.0") format("truetype"), url("../fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+h1, h2, h3, h4, h5, h6 {
+  font-family: "adriane", Georgia, Times, serif;
+  line-height: 1.25em;
+  margin: 0;
+  text-rendering: optimizeLegibility; }
+
+h1 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  margin-bottom: 1em; }
+
+h2 {
+  font-size: 2em; }
+
+h3 {
+  font-size: 1.75em; }
+
+h4 {
+  font-size: 1.5em; }
+
+h5 {
+  font-size: 1.25em; }
+
+h6 {
+  font-size: 1em; }
+
+p {
+  margin: 0 0 0.975em; }
+
+body {
+  font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0; }
+
 .grid-container {
   max-width: 73.75em;
   margin-left: auto;
@@ -228,56 +272,16 @@ input[type="submit"] {
     display: table;
     clear: both; }
 
-body {
-  margin: 0; }
-
-@font-face {
-  font-family: 'FontAwesome';
-  src: url("../fonts/fontawesome-webfont.eot?v=4.2.0");
-  src: url("../fonts/fontawesome-webfont.eot?#iefix&v=4.2.0") format("embedded-opentype"), url("../fonts/fontawesome-webfont.woff?v=4.2.0") format("woff"), url("../fonts/fontawesome-webfont.ttf?v=4.2.0") format("truetype"), url("../fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular") format("svg");
-  font-weight: normal;
-  font-style: normal; }
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  line-height: 1.5em;
-  margin: 0;
-  text-rendering: optimizeLegibility; }
-
-h1 {
-  font-size: 1.5em;
-  text-transform: uppercase;
-  margin-bottom: 1em;
-  color: #999; }
-
-h2 {
-  font-size: 2em; }
-
-h3 {
-  font-size: 1.75em; }
-
-h4 {
-  font-size: 1.5em; }
-
-h5 {
-  font-size: 1.25em; }
-
-h6 {
-  font-size: 1em; }
-
-p {
-  margin: 0 0 0.875em; }
-
 .button-large {
   box-sizing: border-box;
   display: inline-block;
   padding: .75em 2em;
   font-size: 18px;
   text-transform: uppercase;
-  border: solid 3px #477DCA;
-  font-weight: bold;
+  border: solid 3px #0071C5;
   transition: all .4s; }
   .button-large:hover {
-    background-color: #477DCA;
+    background-color: #0071C5;
     color: white;
     transition: all .4s; }
 
@@ -340,7 +344,7 @@ p {
 .home-about__item {
   padding: 3em;
   margin-top: 1em;
-  border: solid 5px #477DCA;
+  border: solid 5px #0071C5;
   position: relative;
   cursor: pointer; }
   @media screen and (min-width: 40em) {

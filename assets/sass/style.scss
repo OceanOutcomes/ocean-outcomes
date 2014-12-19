@@ -3,11 +3,14 @@
 @import 'bourbon/neat/neat';
 @import 'bourbon/base/base';
 
-// Layouts
-@import "layout/*";
-
 // Helpers - extends, variables & mixins
 @import "helpers/*";
+
+// Base styles for elements
+@import "base/*";
+
+// Layouts
+@import "layout/*";
 
 // Components
 @import "components/*";
