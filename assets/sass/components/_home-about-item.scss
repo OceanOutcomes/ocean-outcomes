@@ -1,7 +1,7 @@
 .home-about__item {
-  padding: 3em;
+  background: $abyss;
+  padding: 4em 3em;
   margin-top: 1em;
-  border: solid 5px $blue;
   position: relative;
   cursor: pointer;
 
@@ -13,13 +13,15 @@
 
   .drop-down-menu-title {
     font-size: 1.25em;
-    font-weight: bold;
+    text-transform: uppercase;
+
+    a { color: $white; }
   }
 
   .drop-down-menu {
     visibility: hidden;
     position: absolute;
-    background-color: $dark-gray;
+    background-color: $darker-blue;
     text-align: center;
     width: 90%;
     z-index: 300;
@@ -29,11 +31,18 @@
     top: 75%;
 
     li {
-      margin: 1em 0;
+      border-bottom: 1px solid $blue;
+      display: inline-block;
+      padding: 1em;
+
+      &:last-child {
+        border-bottom: none; 
+      }
     }
 
     a {
       color: white;
+      font-family: $serif;
     }
 
     &:before {
@@ -46,7 +55,7 @@
       height: 0; 
       border-left: 10px solid transparent;
       border-right: 10px solid transparent;
-      border-bottom: 10px solid $dark-gray;
+      border-bottom: 10px solid $darker-blue;
     }
   }
 
@@ -57,5 +66,31 @@
     transition: all .4s;
     opacity: .9;
     top: 85%;
+  }
+}
+
+// Who We Are
+.home-about__item.who-we-are {
+  background: $abyss url(../images/who-we-are.png) no-repeat center center;
+  background-size: cover;
+}
+
+// What We Do
+.home-about__item.what-we-do {
+  background: $abyss url(../images/what-we-do.png) no-repeat center center;
+  background-size: cover;
+}
+
+// Sustainable Fisheries
+.home-about__item.sustainable-fisheries {
+  background: $abyss url(../images/sustainable-fisheries.png) no-repeat center center;
+  background-size: cover;
+}
+
+
+.home-about__item {
+  &:hover {
+    background-color: $aqua;
+    transition: all .4s;
   }
 }
