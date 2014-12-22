@@ -1,0 +1,20 @@
+.toggle {
+  font-size: em(16);
+  line-height: em(61);
+  padding: 0.75em;
+  text-transform: uppercase;
+}
+
+.toggle.language {
+  @extend .toggle; 
+  background: $blue;
+  color: $white;
+  i { color: $abyss; }
+}
+
+.toggle.navigation {
+  @extend .toggle; 
+  background: $white;
+  color: $black;
+  i { color: $blue; }
+}

@@ -1,0 +1,48 @@
+.site-header {
+  position: absolute;
+  margin: em(50) auto 0;
+  width: 100%;
+  z-index: 1;
+
+  .wrap {
+    @extend .grid-container;
+  }
+
+  .logo-container {
+    @include span-columns(4);
+    a {
+      @include retina-image('../images/logo', em(315) em(61)); 
+      @include hide-text;
+      background-repeat: no-repeat;
+      display: block;
+      height: em(61);
+      width: em(315);
+    }
+  }
+
+  .site-actions {
+    @include span-columns(8);
+    text-align: right;
+  }
+
+  .toggle {
+    font-size: em(16);
+    line-height: em(61);
+    padding: 0.75em;
+    text-transform: uppercase;
+  }
+
+ .toggle.language {
+    @extend .toggle; 
+    background: $blue;
+    color: $white;
+    i { color: $abyss; }
+  }
+  
+  .toggle.navigation {
+    @extend .toggle; 
+    background: $white;
+    color: $black;
+    i { color: $blue; }
+  }
+}

@@ -252,12 +252,12 @@ body {
   margin: 0;
   padding: 0; }
 
-.grid-container {
+.grid-container, .site-footer .wrap, .site-header .wrap {
   max-width: 73.75em;
   margin-left: auto;
   margin-right: auto;
   padding: 0 1em; }
-  .grid-container:after {
+  .grid-container:after, .site-footer .wrap:after, .site-header .wrap:after {
     content: "";
     display: table;
     clear: both; }
@@ -292,6 +292,98 @@ body {
     color: #333;
     background: white; }
 
+.site-footer {
+  background-image: url("../images/footer-bg.png");
+  background-color: #2B3A46; }
+  @media only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 1.3 / 1), only screen and (min-resolution: 125dpi), only screen and (min-resolution: 1.3dppx) {
+    .site-footer {
+      background-image: url("../images/footer-bg_2x.png");
+      background-size: 100% 100%; } }
+  .site-footer .wrap {
+    overflow: hidden;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    text-align: center; }
+  .site-footer ul {
+    margin-bottom: 3em; }
+    .site-footer ul li {
+      display: inline; }
+    .site-footer ul li a {
+      color: #FFFFFF;
+      padding: 1em;
+      text-transform: uppercase; }
+  .site-footer .logo-container {
+    text-align: center; }
+    .site-footer .logo-container a {
+      background-image: url("../images/logo.png");
+      overflow: hidden;
+      background-repeat: no-repeat;
+      width: 19.6875em;
+      height: 3.8125em;
+      display: block;
+      margin: 0 auto; }
+      @media only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 1.3 / 1), only screen and (min-resolution: 125dpi), only screen and (min-resolution: 1.3dppx) {
+        .site-footer .logo-container a {
+          background-image: url("../images/logo_2x.png");
+          background-size: 19.6875em 3.8125em; } }
+      .site-footer .logo-container a:before {
+        content: "";
+        display: block;
+        width: 0;
+        height: 100%; }
+
+.site-header {
+  position: absolute;
+  margin: 3.125em auto 0;
+  width: 100%;
+  z-index: 1; }
+  .site-header .logo-container {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 31.76157%; }
+    .site-header .logo-container:last-child {
+      margin-right: 0; }
+    .site-header .logo-container a {
+      background-image: url("../images/logo.png");
+      overflow: hidden;
+      background-repeat: no-repeat;
+      display: block;
+      height: 3.8125em;
+      width: 19.6875em; }
+      @media only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 1.3 / 1), only screen and (min-resolution: 125dpi), only screen and (min-resolution: 1.3dppx) {
+        .site-header .logo-container a {
+          background-image: url("../images/logo_2x.png");
+          background-size: 19.6875em 3.8125em; } }
+      .site-header .logo-container a:before {
+        content: "";
+        display: block;
+        width: 0;
+        height: 100%; }
+  .site-header .site-actions {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 65.88078%;
+    text-align: right; }
+    .site-header .site-actions:last-child {
+      margin-right: 0; }
+  .site-header .toggle {
+    font-size: 1em;
+    line-height: 3.8125em;
+    padding: 0.75em;
+    text-transform: uppercase; }
+  .site-header .language.toggle {
+    background: #0071C5;
+    color: #FFFFFF; }
+    .site-header .language.toggle i {
+      color: #2B3A46; }
+  .site-header .navigation.toggle {
+    background: #FFFFFF;
+    color: #303030; }
+    .site-header .navigation.toggle i {
+      color: #0071C5; }
+
 .hero-home {
   background: #000;
   position: relative;
@@ -313,7 +405,6 @@ body {
   bottom: 0;
   right: 0;
   position: absolute;
-  z-index: 1;
   content: ""; }
 
 .hero-home .hero-text {
@@ -484,6 +575,24 @@ body {
         bottom: -6px;
         left: 65%;
         max-width: 100%; } }
+
+.toggle, .site-header .toggle.language, .site-header .toggle.navigation, .toggle.language, .toggle.navigation {
+  font-size: 1em;
+  line-height: 3.8125em;
+  padding: 0.75em;
+  text-transform: uppercase; }
+
+.toggle.language, .site-header .language.toggle {
+  background: #0071C5;
+  color: #FFFFFF; }
+  .toggle.language i, .site-header .language.toggle i {
+    color: #2B3A46; }
+
+.toggle.navigation, .site-header .navigation.toggle {
+  background: #FFFFFF;
+  color: #303030; }
+  .toggle.navigation i, .site-header .navigation.toggle i {
+    color: #0071C5; }
 
 /* No files to import found in vendor/* */
 
