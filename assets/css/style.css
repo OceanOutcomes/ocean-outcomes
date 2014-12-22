@@ -440,7 +440,7 @@ body {
 
 .home-about__item {
   background: #2B3A46;
-  padding: 4em 3em;
+  padding: 4em 0;
   margin-top: 1em;
   position: relative;
   cursor: pointer; }
@@ -473,7 +473,10 @@ body {
     top: 75%; }
     .home-about__item .drop-down-menu li {
       border-bottom: 1px solid #0071C5;
-      display: inline-block;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 90%;
       padding: 1em; }
       .home-about__item .drop-down-menu li:last-child {
         border-bottom: none; }
