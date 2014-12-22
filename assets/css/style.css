@@ -375,21 +375,6 @@ body {
     text-align: right; }
     .site-header .site-actions:last-child {
       margin-right: 0; }
-  .site-header .toggle {
-    font-size: 1em;
-    line-height: 3.8125em;
-    padding: 0.75em;
-    text-transform: uppercase; }
-  .site-header .language.toggle {
-    background: #0071C5;
-    color: #FFFFFF; }
-    .site-header .language.toggle i {
-      color: #2B3A46; }
-  .site-header .navigation.toggle {
-    background: #FFFFFF;
-    color: #303030; }
-    .site-header .navigation.toggle i {
-      color: #0071C5; }
 
 .hero-home {
   background: url(../images/hero-bg.png) no-repeat;
@@ -432,6 +417,7 @@ body {
 .hero-home .hero-text h1 {
   color: white;
   font-weight: normal;
+  line-height: 1.5em;
   text-transform: initial;
   margin-bottom: 1em; }
   @media screen and (min-width: 40em) {
@@ -445,9 +431,9 @@ body {
   display: inline; }
 
 .home-about__item {
-  padding: 3em;
+  background: #2B3A46;
+  padding: 4em 3em;
   margin-top: 1em;
-  border: solid 5px #0071C5;
   position: relative;
   cursor: pointer; }
   @media screen and (min-width: 40em) {
@@ -461,11 +447,13 @@ body {
         margin-right: 0; } }
   .home-about__item .drop-down-menu-title {
     font-size: 1.25em;
-    font-weight: bold; }
+    text-transform: uppercase; }
+    .home-about__item .drop-down-menu-title a {
+      color: #FFFFFF; }
   .home-about__item .drop-down-menu {
     visibility: hidden;
     position: absolute;
-    background-color: #333;
+    background-color: #004883;
     text-align: center;
     width: 90%;
     z-index: 300;
@@ -474,9 +462,14 @@ body {
     opacity: 0;
     top: 75%; }
     .home-about__item .drop-down-menu li {
-      margin: 1em 0; }
+      border-bottom: 1px solid #0071C5;
+      display: inline-block;
+      padding: 1em; }
+      .home-about__item .drop-down-menu li:last-child {
+        border-bottom: none; }
     .home-about__item .drop-down-menu a {
-      color: white; }
+      color: white;
+      font-family: "adriane", Georgia, Times, serif; }
     .home-about__item .drop-down-menu:before {
       content: "";
       position: absolute;
@@ -487,17 +480,35 @@ body {
       height: 0;
       border-left: 10px solid transparent;
       border-right: 10px solid transparent;
-      border-bottom: 10px solid #333; }
+      border-bottom: 10px solid #004883; }
   .home-about__item:hover .drop-down-menu {
     visibility: visible;
     transition: all .4s;
     opacity: .9;
     top: 85%; }
 
+.home-about__item.who-we-are {
+  background: #2B3A46 url(../images/who-we-are.png) no-repeat center center;
+  background-size: cover; }
+
+.home-about__item.what-we-do {
+  background: #2B3A46 url(../images/what-we-do.png) no-repeat center center;
+  background-size: cover; }
+
+.home-about__item.sustainable-fisheries {
+  background: #2B3A46 url(../images/sustainable-fisheries.png) no-repeat center center;
+  background-size: cover; }
+
+.home-about__item:hover {
+  background-color: #00A6AE;
+  transition: all .4s; }
+
 .home-about {
   background: white;
-  padding: 3em 0;
+  padding: 5em 0;
   text-align: center; }
+  .home-about h2 {
+    line-height: 1.8em; }
 
 .home-news {
   padding: 1em 0;
@@ -588,22 +599,22 @@ body {
         left: 65%;
         max-width: 100%; } }
 
-.toggle, .site-header .toggle.language, .site-header .toggle.navigation, .toggle.language, .toggle.navigation {
+.toggle, .toggle.language, .toggle.navigation {
   font-size: 1em;
   line-height: 3.8125em;
   padding: 0.75em;
   text-transform: uppercase; }
 
-.toggle.language, .site-header .language.toggle {
+.toggle.language {
   background: #0071C5;
   color: #FFFFFF; }
-  .toggle.language i, .site-header .language.toggle i {
+  .toggle.language i {
     color: #2B3A46; }
 
-.toggle.navigation, .site-header .navigation.toggle {
+.toggle.navigation {
   background: #FFFFFF;
   color: #303030; }
-  .toggle.navigation i, .site-header .navigation.toggle i {
+  .toggle.navigation i {
     color: #0071C5; }
 
 /* No files to import found in vendor/* */
