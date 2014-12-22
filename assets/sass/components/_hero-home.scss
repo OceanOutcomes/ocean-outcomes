@@ -1,21 +1,22 @@
 .hero-home {
-  background: #000;
+  background: url(../images/hero-bg.png) no-repeat;
   position: relative;
   transition: height .4s;
   height: 400px;
+  text-align: center;
 
   @include media($medium-screen) {
     height: 600px;
   }
 
   @include media($large-screen) {
-    height: 800px;
+    height: 700px;
   }
 }
 
 .hero-home:after {
-  background: url('/assets/images/hero-placeholder.jpg') center top no-repeat;
   background-size: cover;
+  background-image: linear-gradient(-90deg, #0075C1 3%, #00A6AE 49%, #4DB742 99%);
   opacity: 0.4;
   top: 0;
   left: 0;
@@ -28,16 +29,17 @@
 .hero-home .hero-text {
   @include outer-container;
   color: white;
-  z-index: 10000;
   position: relative;
-  top: 55%;
   padding: 0 1em;
+  top: 50%;
+  z-index: 10000;
 }
 
 .hero-home .hero-text h1 {
   color: white;
+  font-weight: normal;
   text-transform: initial;
-  margin-bottom: .5em;
+  margin-bottom: 1em;
 
   @include media($medium-screen) {
     font-size: 2.5em
@@ -50,4 +52,5 @@
 
 .hero-home .button-large {
   @extend %button-white;
+  display: inline;
 }

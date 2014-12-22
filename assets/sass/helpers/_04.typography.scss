@@ -41,6 +41,15 @@ h6 {
   font-size: $base-font-size;
 }
 
+.aqua-heading,
+%aqua-heading {
+  color: $aqua;
+  font-family: $base-font-family;
+  font-size: em(24);
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
 p {
   margin: 0 0 ($base-line-height * .5);
 }
