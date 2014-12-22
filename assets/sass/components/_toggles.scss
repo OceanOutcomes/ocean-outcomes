@@ -1,20 +1,23 @@
-.toggle {
-  font-size: em(16);
+%toggle {
   line-height: em(61);
   padding: 0.75em;
   text-transform: uppercase;
 }
 
 .toggle.language {
-  @extend .toggle; 
+  @extend %toggle; 
   background: $blue;
   color: $white;
+  font-size: em(16);
+
   i { color: $abyss; }
 }
 
 .toggle.navigation {
-  @extend .toggle; 
+  @extend %toggle; 
   background: $white;
   color: $black;
-  i { color: $blue; }
+  font-size: em(16);
+
+  i { color: $abyss; }
 }

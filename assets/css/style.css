@@ -628,23 +628,24 @@ body {
         left: 40%;
         max-width: 100%; } }
 
-.toggle, .toggle.language, .toggle.navigation {
-  font-size: 1em;
+.toggle.language, .toggle.navigation {
   line-height: 3.8125em;
   padding: 0.75em;
   text-transform: uppercase; }
 
 .toggle.language {
   background: #0071C5;
-  color: #FFFFFF; }
+  color: #FFFFFF;
+  font-size: 1em; }
   .toggle.language i {
     color: #2B3A46; }
 
 .toggle.navigation {
   background: #FFFFFF;
-  color: #303030; }
+  color: #303030;
+  font-size: 1em; }
   .toggle.navigation i {
-    color: #0071C5; }
+    color: #2B3A46; }
 
 /* No files to import found in vendor/* */
 
