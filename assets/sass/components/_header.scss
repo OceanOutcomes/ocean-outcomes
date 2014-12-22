@@ -2,7 +2,7 @@
   position: absolute;
   margin: em(50) auto 0;
   width: 100%;
-  z-index: 1;
+  z-index: 10;
 
   .wrap {
     @extend .grid-container;
@@ -10,6 +10,7 @@
 
   .logo-container {
     @include span-columns(4);
+    
     a {
       @include retina-image('../images/logo', em(315) em(61)); 
       @include hide-text;
@@ -24,5 +25,4 @@
     @include span-columns(8);
     text-align: right;
   }
-
 }

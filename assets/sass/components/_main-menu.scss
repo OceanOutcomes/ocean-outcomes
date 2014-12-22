@@ -1,0 +1,39 @@
+.main-menu {
+  background: $abyss;
+  display: none;
+  min-height: 150%;
+  left: 0;
+  padding-top: 10em;
+  padding-bottom: 10em;
+  position: absolute;
+  top: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 5;
+  
+  li.top-level {
+    border-bottom: em(1) solid #445A6B;
+    display: block;
+    margin: 0 auto;
+    max-width: 60%;
+  }
+
+  li.top-level > a {
+    color: $white;
+    font-family: $serif;
+    font-size: em(36);
+  }
+
+  li.top-level ul > li {
+    display: inline;
+  }
+
+  li.top-level ul > li a {
+    color: $aqua;
+    padding: 0.5em 1em;
+
+    &:hover {
+      color: $white; 
+    }
+  }
+}
