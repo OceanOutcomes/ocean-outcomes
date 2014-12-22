@@ -7,6 +7,10 @@
   }
 }
 
+.home-news h1 {
+  @extend %aqua-heading;
+}
+
 .home-news .posts {
   @include clearfix;
   @include media($medium-screen) {
@@ -24,22 +28,32 @@
   }
 }
 
+.home-news img {
+  width: 100%;
+}
+
 .home-news .post-date {
+  color: $aqua;
   font-size: .9em;
-  margin: 1em 0 0 0;
+  margin: 0.5em 0 0 0;
 
   @include media($medium-screen) {
-     margin-top: 2em;
+     margin-top: 1em;
   }
 }
 
-.home-news .post-link {
-  display: block;
-  font-size: 1.125em;
-  font-weight: bold;
+.home-news h2 {
+  color: $blue;
+  font-family: $serif;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  a { 
+    font-size: em(21);
+    font-weight: normal;
+  }
 
   @include media($medium-screen) {
-    font-size: 1.5em;
+    font-size: em(18);
   }
 }
 

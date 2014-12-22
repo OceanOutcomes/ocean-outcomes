@@ -4,7 +4,7 @@ title:  "News Item 1"
 date:   2014-09-15 13:23:55
 categories: jekyll update
 blurb: When I started Reynholm Industries, I had just two things in my possession- a dream and 6 million pounds. Oh really? Then why don't you come down and make me then.
-image: http://placehold.it/600x320&text=teaser-image!
+image: assets/images/posts/news-item-1.jpg 
 ---
 
 When I started Reynholm Industries, I had just two things in my possession: a dream and 6 million pounds. Oh really? Then why don't you come down and make me then. Oh really? Then why don't you come down and make me then. OK. Moss, what did you have for breakfast this morning? Smarties cereal. Unbelievable! Some idiot disabled his firewall, meaning all the computers on Seven are teeming with viruses, plus I've just had to walk all the way down the motherfudging stairs, because the lifts are broken AGAIN! Yes! Yesterday's jam. That is what we are to them!... Actually, that doesn't work, as a thing, because, you know, jam lasts for ages.

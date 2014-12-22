@@ -10,12 +10,13 @@
     margin-top: 3em;
   }
 
-
   .drop-down-menu-title {
     font-size: 1.25em;
     text-transform: uppercase;
 
     a { color: $white; }
+    i { color: $aqua; }
+
   }
 
   .drop-down-menu {
@@ -87,10 +88,12 @@
   background-size: cover;
 }
 
-
+// Hover behavior
 .home-about__item {
   &:hover {
-    background-color: $aqua;
+    background-color: $green;
     transition: all .4s;
+
+    a i { color: $white }
   }
 }

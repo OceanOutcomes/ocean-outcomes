@@ -226,6 +226,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 1.5em;
+  font-weight: normal;
   text-transform: uppercase;
   margin-bottom: 1em; }
 
@@ -245,6 +246,7 @@ h6 {
   font-size: 1em; }
 
 .aqua-heading,
+.home-news h1,
 .home-success-stories h1 {
   color: #00A6AE;
   font-family: "proxima-nova", Helvetica, Arial, sans-serif;
@@ -258,6 +260,7 @@ p {
 body {
   font-family: "proxima-nova", Helvetica, Arial, sans-serif;
   font-size: 18px;
+  color: #303030;
   margin: 0;
   padding: 0; }
 
@@ -455,6 +458,8 @@ body {
     text-transform: uppercase; }
     .home-about__item .drop-down-menu-title a {
       color: #FFFFFF; }
+    .home-about__item .drop-down-menu-title i {
+      color: #00A6AE; }
   .home-about__item .drop-down-menu {
     visibility: hidden;
     position: absolute;
@@ -505,15 +510,20 @@ body {
   background-size: cover; }
 
 .home-about__item:hover {
-  background-color: #00A6AE;
+  background-color: #3BBB33;
   transition: all .4s; }
+  .home-about__item:hover a i {
+    color: #FFFFFF; }
 
 .home-about {
   background: white;
   padding: 5em 0;
   text-align: center; }
   .home-about h2 {
-    line-height: 1.8em; }
+    font-weight: normal;
+    line-height: 1.8em;
+    max-width: 90%;
+    margin: 0 auto; }
 
 .home-news {
   padding: 1em 0;
@@ -548,20 +558,28 @@ body {
       .home-news .post:last-child {
         margin-right: 0; } }
 
+.home-news img {
+  width: 100%; }
+
 .home-news .post-date {
+  color: #00A6AE;
   font-size: .9em;
-  margin: 1em 0 0 0; }
+  margin: 0.5em 0 0 0; }
   @media screen and (min-width: 40em) {
     .home-news .post-date {
-      margin-top: 2em; } }
+      margin-top: 1em; } }
 
-.home-news .post-link {
-  display: block;
-  font-size: 1.125em;
-  font-weight: bold; }
+.home-news h2 {
+  color: #0071C5;
+  font-family: "adriane", Georgia, Times, serif;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em; }
+  .home-news h2 a {
+    font-size: 1.3125em;
+    font-weight: normal; }
   @media screen and (min-width: 40em) {
-    .home-news .post-link {
-      font-size: 1.5em; } }
+    .home-news h2 {
+      font-size: 1.125em; } }
 
 .home-news .button-large {
   clear: both; }
