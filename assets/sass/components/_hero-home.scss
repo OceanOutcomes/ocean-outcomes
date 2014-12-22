@@ -16,7 +16,7 @@
 
 .hero-home:after {
   background-size: cover;
-  background-image: linear-gradient(-90deg, #0075C1 3%, #00A6AE 49%, #4DB742 99%);
+  background-image: linear-gradient(-90deg, #339F2B 3%, #00A6AE 49%, #0075C1 99%);
   opacity: 0.4;
   top: 0;
   left: 0;
@@ -47,7 +47,10 @@
   }
 
   @include media($large-screen) {
-    font-size: 3.5em 
+    font-size: 2.5em;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 

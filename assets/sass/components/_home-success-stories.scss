@@ -1,6 +1,6 @@
 .home-success-stories {
-  background-color: $medium-gray;
-  padding: 3em 0;
+  background-color: $abyss;
+  padding: 5em 0;
   position: relative;
   overflow: hidden;
   text-align: center;
@@ -9,12 +9,19 @@
     text-align: left;
   }
 
+  h1, h2, p {
+    position: relative;
+    z-index: 1;
+  }
+
   h1 {
-    color: white;
+    @extend %aqua-heading;
   }
 
   h2 {
     font-size: 1.5em;
+    color: $white;
+    font-weight: normal;
     @include media($medium-screen) {
       max-width: 70%;
     }
@@ -45,7 +52,7 @@
     @include media($medium-screen) {
       position: absolute;
       bottom: -6px;
-      left: 65%;
+      left: 40%;
       max-width: 100%;
     }
   }

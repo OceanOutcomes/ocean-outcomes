@@ -244,7 +244,8 @@ h5 {
 h6 {
   font-size: 1em; }
 
-.aqua-heading {
+.aqua-heading,
+.home-success-stories h1 {
   color: #00A6AE;
   font-family: "proxima-nova", Helvetica, Arial, sans-serif;
   font-size: 1.5em;
@@ -256,6 +257,7 @@ p {
 
 body {
   font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+  font-size: 18px;
   margin: 0;
   padding: 0; }
 
@@ -391,7 +393,7 @@ body {
 
 .hero-home:after {
   background-size: cover;
-  background-image: linear-gradient(-90deg, #0075C1 3%, #00A6AE 49%, #4DB742 99%);
+  background-image: linear-gradient(-90deg, #339F2B 3%, #00A6AE 49%, #0075C1 99%);
   opacity: 0.4;
   top: 0;
   left: 0;
@@ -425,7 +427,10 @@ body {
       font-size: 2.5em; } }
   @media screen and (min-width: 53.75em) {
     .hero-home .hero-text h1 {
-      font-size: 3.5em; } }
+      font-size: 2.5em;
+      max-width: 70%;
+      margin-left: auto;
+      margin-right: auto; } }
 
 .hero-home .button-large {
   display: inline; }
@@ -562,18 +567,21 @@ body {
   clear: both; }
 
 .home-success-stories {
-  background-color: #999;
-  padding: 3em 0;
+  background-color: #2B3A46;
+  padding: 5em 0;
   position: relative;
   overflow: hidden;
   text-align: center; }
   @media screen and (min-width: 40em) {
     .home-success-stories {
       text-align: left; } }
-  .home-success-stories h1 {
-    color: white; }
+  .home-success-stories h1, .home-success-stories h2, .home-success-stories p {
+    position: relative;
+    z-index: 1; }
   .home-success-stories h2 {
-    font-size: 1.5em; }
+    font-size: 1.5em;
+    color: #FFFFFF;
+    font-weight: normal; }
     @media screen and (min-width: 40em) {
       .home-success-stories h2 {
         max-width: 70%; } }
@@ -596,7 +604,7 @@ body {
       .home-success-stories .support-image {
         position: absolute;
         bottom: -6px;
-        left: 65%;
+        left: 40%;
         max-width: 100%; } }
 
 .toggle, .toggle.language, .toggle.navigation {
