@@ -454,7 +454,7 @@ body {
       .home-about__item:last-child {
         margin-right: 0; } }
   .home-about__item .drop-down-menu-title {
-    font-size: 1.25em;
+    font-size: 1em;
     text-transform: uppercase; }
     .home-about__item .drop-down-menu-title a {
       color: #FFFFFF; }
