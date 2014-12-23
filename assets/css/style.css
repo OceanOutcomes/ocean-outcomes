@@ -664,7 +664,7 @@ body {
     .main-menu-container li.top-level ul > li a:hover {
       color: #FFFFFF; }
 
-.toggle.language, .toggle.navigation {
+.toggle.language, .toggle.navigation, .toggle.close {
   line-height: 3.8125em;
   padding: 0.75em;
   text-transform: uppercase; }
@@ -682,6 +682,13 @@ body {
   font-size: 1em; }
   .toggle.navigation i {
     color: #2B3A46; }
+
+.toggle.close {
+  background: none;
+  border: 0.1875em solid #FFFFFF;
+  color: #FFFFFF;
+  display: none;
+  padding: 0.584em; }
 
 /* No files to import found in vendor/* */
 

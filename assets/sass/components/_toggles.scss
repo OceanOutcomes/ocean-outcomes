@@ -21,3 +21,12 @@
 
   i { color: $abyss; }
 }
+
+.toggle.close {
+  @extend %toggle;
+  background: none;
+  border: em(3) solid $white;
+  color: $white;
+  display: none;
+  padding: 0.584em
+}
