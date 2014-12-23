@@ -11,25 +11,37 @@
 
   // Footer menu
   ul {
-    margin-bottom: 3em;
+    margin-bottom: 1em;
+    
     li { display: inline }
+
     li a { 
       color: $white;
       padding: 1em; 
       text-transform: uppercase; 
+    }
+
+    @include media($medium-screen) {
+      margin-bottom: 3em;
     }
   }
 
   .logo-container {
     text-align: center;
     a {
-      @include retina-image('../images/logo', em(315) em(61)); 
+      @include retina-image('../images/logo', 100% 100%); 
       @include hide-text;
       background-repeat: no-repeat;
-      width: em(315);
-      height: em(61);
+      width: em(157.5);
+      height: em(30.5);
       display: block;
       margin: 0 auto;
+
+      @include media($medium-screen) {
+        @include retina-image('../images/logo', em(315) em(61)); 
+        width: em(315);
+        height: em(61);
+      }
     }
   }
 }

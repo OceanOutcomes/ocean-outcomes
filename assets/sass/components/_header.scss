@@ -1,8 +1,14 @@
+
 .site-header {
+  background: rgba($black, 0.2);
   position: absolute;
-  margin: em(50) auto 0;
   width: 100%;
   z-index: 10;
+
+  @include media($medium-screen) {
+    background: none;
+    margin: em(50) auto 0;
+  }
 
   .wrap {
     @extend .grid-container;
@@ -12,12 +18,20 @@
     @include span-columns(4);
     
     a {
-      @include retina-image('../images/logo', em(315) em(61)); 
+      @include retina-image('../images/logo', 100% 100%); 
       @include hide-text;
       background-repeat: no-repeat;
       display: block;
-      height: em(61);
-      width: em(315);
+      height: em(29.5);
+      margin-top: 1em;
+      width: em(157.5);
+
+      @include media($medium-screen) {
+        @include retina-image('../images/logo', em(315) em(61)); 
+        height: em(61);
+        margin-top: 0;
+        width: em(316);
+      }
     }
   }
 
