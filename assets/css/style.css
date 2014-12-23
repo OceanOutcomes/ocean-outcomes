@@ -628,9 +628,9 @@ body {
         left: 40%;
         max-width: 100%; } }
 
-.main-menu {
+.main-menu-container {
   background: #2B3A46;
-  display: none;
+  display: block;
   min-height: 150%;
   left: 0;
   padding-top: 10em;
@@ -640,21 +640,28 @@ body {
   text-align: center;
   width: 100%;
   z-index: 5; }
-  .main-menu li.top-level {
+  .main-menu-container li.top-level {
     border-bottom: 0.0625em solid #445A6B;
     display: block;
     margin: 0 auto;
-    max-width: 60%; }
-  .main-menu li.top-level > a {
+    max-width: 60%;
+    padding-bottom: 1em; }
+    .main-menu-container li.top-level:last-child {
+      border-bottom: none; }
+  .main-menu-container li.top-level > a {
     color: #FFFFFF;
     font-family: "adriane", Georgia, Times, serif;
     font-size: 2.25em; }
-  .main-menu li.top-level ul > li {
+  .main-menu-container li.top-level.small {
+    padding: 1em; }
+  .main-menu-container li.top-level.small a {
+    font-size: 1.5em; }
+  .main-menu-container li.top-level ul > li {
     display: inline; }
-  .main-menu li.top-level ul > li a {
+  .main-menu-container li.top-level ul > li a {
     color: #00A6AE;
     padding: 0.5em 1em; }
-    .main-menu li.top-level ul > li a:hover {
+    .main-menu-container li.top-level ul > li a:hover {
       color: #FFFFFF; }
 
 .toggle.language, .toggle.navigation {

@@ -1,6 +1,6 @@
-.main-menu {
+.main-menu-container {
   background: $abyss;
-  display: none;
+  display: block;
   min-height: 150%;
   left: 0;
   padding-top: 10em;
@@ -16,12 +16,25 @@
     display: block;
     margin: 0 auto;
     max-width: 60%;
+    padding-bottom: 1em;
+
+    &:last-child {
+      border-bottom: none;
+    }
   }
 
   li.top-level > a {
     color: $white;
     font-family: $serif;
     font-size: em(36);
+  }
+
+  li.top-level.small {
+    padding: 1em;
+  }
+
+  li.top-level.small a {
+    font-size: em(24);
   }
 
   li.top-level ul > li {
