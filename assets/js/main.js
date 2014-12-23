@@ -46,5 +46,4 @@ $(document).ready(function() {
 
   o2.init();
 
-
 });
