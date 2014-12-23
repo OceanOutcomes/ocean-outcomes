@@ -26,9 +26,25 @@ $(document).ready(function() {
   });
 
   // Show/Hide elements for click events
-$('.toggle').click(function() {
-  $(this).parent().toggleClass('active');
-});
+  $('.toggle').click(function() {
+    $(this).parent().toggleClass('active');
+  });
+
+  var o2 = {
+    fadeToggleElement: function(el) {
+      el.fadeToggle(); 
+    },
+
+    init: function() {
+      $('.toggle.navigation').click(function(e){
+          e.preventDefault();
+          o2.fadeToggleElement($('.main-menu-container'));
+          $('.page-content').fadeToggle();
+      });
+    }
+  }
+
+  o2.init();
 
 
 });

@@ -630,7 +630,7 @@ body {
 
 .main-menu-container {
   background: #2B3A46;
-  display: block;
+  display: none;
   min-height: 150%;
   left: 0;
   padding-top: 10em;
