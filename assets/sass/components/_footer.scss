@@ -1,6 +1,7 @@
 .site-footer {
   @include retina-image('../images/footer-bg', 100% 100%);
   background-color: $abyss;
+
   .wrap {
     @extend .grid-container;
     overflow: hidden;

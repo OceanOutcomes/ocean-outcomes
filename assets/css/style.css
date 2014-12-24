@@ -275,14 +275,7 @@ body {
     clear: both; }
 
 .layout-default .site-footer {
-  max-width: 73.75em;
-  margin-left: auto;
-  margin-right: auto;
   padding: 0 1em; }
-  .layout-default .site-footer:after {
-    content: "";
-    display: table;
-    clear: both; }
 
 .button-large {
   box-sizing: border-box;
