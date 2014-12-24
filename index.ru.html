@@ -74,7 +74,7 @@ bodyclass: home
     <div class="grid-container">
       <h1>News & Analysis</h1>
       <div class="posts">
-        {% for post in site.posts %}
+        {% for post in site.tags.ru %}
           <div class="post">
             <img src="{{ post.image }}">
             <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
