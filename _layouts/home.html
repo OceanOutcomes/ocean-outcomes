@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
 
-    <body class="layout-{{ page.layout }}">
+  <body class="layout-{{ page.layout }}">
 
+  {% if page.lang != 'und' %}
+    {% include header.{{page.lang}}.html %}
+  {%else%}
     {% include header.html %}
+  {%endif%}
 
-    <div class="page-content">
-      {{ content }}
-    </div>
+  <div class="page-content">
+    {{ content }}
+  </div>
 
-    {% include footer.html %}
+  {% include footer.html %}
 
-    </body>
+  </body>
 </html>
