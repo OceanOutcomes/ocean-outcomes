@@ -1,8 +1,10 @@
 source "https://rubygems.org"
 
-gem "jekyll", "2.4.0"
+gem "jekyll", "2.5.3"
 gem "bourbon"
 gem "neat"
 gem "bitters"
 gem "sass","3.4.2"
 gem "sass-globbing"
+gem "jekyll-i18n"
+gem "i18n"
