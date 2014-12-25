@@ -1,13 +1,28 @@
 .home-about {
   background: white;
-  padding: 5em 0;
+  padding: 2em 0;
   text-align: center;
 
+  h1 {
+    font-size: 1em;
+  }
+
   h2 {
+    font-size: em(18); 
     font-weight: normal;
     line-height: 1.8em;
     max-width: 90%;
     margin: 0 auto;
+  }
+
+  @include media ($medium-screen) {
+    padding: 5em 0;
+    h1 { font-size: em(24); }
+
+    h2 { 
+      font-size: em(28);
+      line-height: 1.8em; 
+    }
   }
 }
 

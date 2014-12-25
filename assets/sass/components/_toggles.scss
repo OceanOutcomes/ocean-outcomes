@@ -7,17 +7,46 @@
 .toggle.language {
   @extend %toggle; 
   background: $blue;
+  display: none;
   color: $white;
   font-size: em(16);
+
+  @include media($medium-screen) {
+    display: initial;
+  }
 
   i { color: $abyss; }
 }
 
+footer .toggle.language {
+  display: initial;
+}
+
 .toggle.navigation {
   @extend %toggle; 
-  background: $white;
-  color: $black;
+  background: none;
+  color: $white;
   font-size: em(16);
+  
+  i { color: $white; }
 
-  i { color: $abyss; }
+  // menu text
+  span { display: none; }
+
+  @include media($medium-screen) {
+    background: $white;
+    color: $black;
+    span { display: initial; }
+    i { color: $abyss; }
+  }
+
+}
+
+.toggle.close {
+  @extend %toggle;
+  background: none;
+  border: em(3) solid $white;
+  color: $white;
+  display: none;
+  padding: 0.584em
 }

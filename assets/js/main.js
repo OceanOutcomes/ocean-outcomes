@@ -37,13 +37,22 @@ $(document).ready(function() {
 
     init: function() {
       $('.toggle.navigation').click(function(e){
-          e.preventDefault();
-          o2.fadeToggleElement($('.main-menu-container'));
-          $('.page-content').fadeToggle();
+        e.preventDefault();
+        $(this).removeClass('flipInX').hide();
+        $('.toggle.close').show().addClass('flipInX');
+        $('.main-menu-container').fadeToggle();
+        $('.page-content').fadeToggle();
+      });
+
+      $('.toggle.close').click(function(e){
+        e.preventDefault();
+        $(this).removeClass('flipInX').hide();
+        $('.toggle.navigation').show().addClass('flipInX');
+        $('.main-menu-container').fadeToggle();
+        $('.page-content').fadeToggle();
       });
     }
   }
 
   o2.init();
-
 });
