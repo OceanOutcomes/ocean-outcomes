@@ -3,7 +3,8 @@
 }
 
 .post .post-header {
-  background: url(../images/news-header-bg.jpg) no-repeat;
+  background: $abyss url(../images/news-header-bg.png) no-repeat;
+  background-size: cover;
   height: em(400);
   position: relative;
   text-align: center;
@@ -12,6 +13,7 @@
     background: rgba($abyss, 0.5);
     content: "";
     display: block;
+    display: none;
     height: 100%;
     left: 0;
     position: absolute;
@@ -26,7 +28,7 @@
   section.title {
     position: absolute;
     text-align: center;
-    top: 25%;
+    top: 40%;
     width: 100%;
     z-index: 1;
   }
@@ -69,3 +71,12 @@
 
 .post h2 { font-size: em(36); }
 .post h3 { font-size: em(28); }
+
+// Meta
+.post .meta {
+  background: $white;  
+  border-bottom: em(1) solid $light-gray;
+  text-align: center;
+  padding: 1em 0;
+  p { margin: 0; }
+}

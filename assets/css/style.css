@@ -227,7 +227,6 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 1.5em;
   font-weight: normal;
-  text-transform: uppercase;
   margin-bottom: 1em; }
 
 h2 {
@@ -611,19 +610,16 @@ body {
     .home-news .post-date {
       margin-top: 1em; } }
 
-.home-news h2 {
+.home-news .post h2 {
   color: #0071C5;
   font-family: "adriane", Georgia, Times, serif;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
-  font-size: 1.125em; }
-  .home-news h2 a {
-    font-weight: normal; }
+  font-size: 1.125em;
+  font-weight: normal; }
   @media screen and (min-width: 40em) {
-    .home-news h2 {
-      font-size: 1.3125em; }
-      .home-news h2 a {
-        font-size: 1.125em; } }
+    .home-news .post h2 {
+      font-size: 1.3125em; } }
 
 .home-news .button-large {
   clear: both; }
@@ -718,7 +714,8 @@ body {
       color: #FFFFFF; }
 
 .post .post-header {
-  background: url(../images/news-header-bg.jpg) no-repeat;
+  background: #2B3A46 url(../images/news-header-bg.png) no-repeat;
+  background-size: cover;
   height: 25em;
   position: relative;
   text-align: center; }
@@ -726,6 +723,7 @@ body {
     background: rgba(43, 58, 70, 0.5);
     content: "";
     display: block;
+    display: none;
     height: 100%;
     left: 0;
     position: absolute;
@@ -734,7 +732,7 @@ body {
   .post .post-header section.title {
     position: absolute;
     text-align: center;
-    top: 25%;
+    top: 40%;
     width: 100%;
     z-index: 1; }
   .post .post-header .section-title {
@@ -770,6 +768,14 @@ body {
 
 .post h3 {
   font-size: 1.75em; }
+
+.post .meta {
+  background: #FFFFFF;
+  border-bottom: 0.0625em solid #E9E9E9;
+  text-align: center;
+  padding: 1em 0; }
+  .post .meta p {
+    margin: 0; }
 
 .toggle.language, .toggle.navigation, .toggle.close {
   line-height: 3.8125em;
