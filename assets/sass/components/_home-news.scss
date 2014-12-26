@@ -25,6 +25,9 @@
 
   @include media($medium-screen) {
     @include span-columns(6);
+    &:nth-child(2n) {
+      @include omega; 
+    }
   }
 }
 
