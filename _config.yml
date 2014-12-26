@@ -1,4 +1,4 @@
-name: Site Title 
+name: Ocean Outcomes 
 description:
   
 markdown: redcarpet
@@ -22,3 +22,6 @@ relative_permalinks: false
 
 sass:
   sass_dir: assets/sass
+
+# Plugin config
+gems: [jekyll-i18n]

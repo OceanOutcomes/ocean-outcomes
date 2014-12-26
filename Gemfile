@@ -6,5 +6,8 @@ gem "neat"
 gem "bitters"
 gem "sass","3.4.2"
 gem "sass-globbing"
-gem "jekyll-i18n"
 gem "i18n"
+
+group :jekyll_plugins do
+  gem "jekyll-i18n"
+end
