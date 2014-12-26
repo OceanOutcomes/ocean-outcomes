@@ -21,4 +21,4 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'config.rb', 'asse
 relative_permalinks: false
 
 sass:
-  sass_dir: _sass
+  sass_dir: assets/sass
