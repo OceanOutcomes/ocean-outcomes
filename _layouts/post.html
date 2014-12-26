@@ -1,15 +1,32 @@
 ---
 layout: default
+bodyclass: news news-article
+headerimage: assets/images/news-header-bg.jpg
 ---
 <div class="post">
 
   <header class="post-header">
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <section class="title">
+      <p class="section-title"><span>News &amp; Analysis</span></p>
+      <h1>{{ page.title }}</h1>
+    </section>
+    <section class="meta">
+      <p class="meta-data">
+      <a href="">Back to News & Analysis</a>
+      {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+      </p>
+    </section>
   </header>
 
   <article class="post-content">
-  {{ content }}
+    {% if page.image %}
+    <section class="post-image">
+      <img src="{{site.baseurl}}/{{page.image}}" alt="{{page.imagealt}}">
+    </section>
+    {% endif %}
+    <section class="article-content"> 
+      {{ content }}
+    </section>
   </article>
 
 </div>

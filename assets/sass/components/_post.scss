@@ -1,0 +1,71 @@
+.post .post-content {
+  @extend %grid-container; 
+}
+
+.post .post-header {
+  background: url(../images/news-header-bg.jpg) no-repeat;
+  height: em(400);
+  position: relative;
+  text-align: center;
+
+  &:after {
+    background: rgba($abyss, 0.5);
+    content: "";
+    display: block;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  section {
+    @extend %grid-container;
+  }
+
+  section.title {
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    width: 100%;
+    z-index: 1;
+  }
+
+  .section-title {
+    color: $white;
+
+    span { 
+      border-bottom: em(2) solid $white; 
+      padding-bottom: 1em;
+    }
+  }
+
+  h1 {
+    color: $white;
+    font-size: em(48);
+    position: relative;
+    margin: 1em 0;
+    z-index: 1;
+  }
+}
+
+.post .post-image {
+  margin: 0 auto;
+  width: 75%; 
+  img { width: 100%; }
+}
+
+.post .article-content {
+  margin: 2em auto 0;
+  width: 60%;
+}
+
+.post h2, .post h3 {
+  color: $aqua;
+  font-weight: normal;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.post h2 { font-size: em(36); }
+.post h3 { font-size: em(28); }
