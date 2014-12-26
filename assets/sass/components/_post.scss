@@ -1,5 +1,6 @@
 .post .post-content {
   @extend %grid-container; 
+  margin-bottom: 5em;
 }
 
 .post .post-header {
@@ -78,5 +79,62 @@
   border-bottom: em(1) solid $light-gray;
   text-align: center;
   padding: 1em 0;
+
   p { margin: 0; }
+}
+
+// Previous and Next Post
+.post .prev-next {
+  padding: 2em 0 3em;
+  h1 {
+    @extend %aqua-heading;
+    margin-bottom: 3em;
+    text-align: center;
+  }
+  
+  h1 span {
+    border-bottom: em(1) solid $light-gray;
+    padding-bottom: 1em;
+  }
+
+  .nav-buttons {
+    @extend %grid-container;
+  } 
+
+  // Prev/Next Buttons
+  a { 
+    @include span-columns(4);
+    border: em(5) solid $light-gray;
+    font-family: $serif;
+    padding: 1em 1em 2em;
+
+    span.link-text {
+      font-size: em(24);
+    }
+
+    span.post-title { 
+      display: block; 
+      font-family: $sans-serif;
+      color: $black;
+
+      &:nth-child(1) { margin-left: 1em; }
+
+      &:nth-child(2) { margin-right: 1em; }
+      // Quotes around post title
+      &:before, &:after {
+        content: '\0022'; 
+      }
+    }
+    
+    // First button
+    &:nth-child(1) {
+      @include shift(2);
+    }
+
+    // Second button
+    &:nth-child(2) {
+      text-align: right;
+    }
+  }
+
 }
