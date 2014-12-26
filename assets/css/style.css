@@ -227,7 +227,6 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 1.5em;
   font-weight: normal;
-  text-transform: uppercase;
   margin-bottom: 1em; }
 
 h2 {
@@ -247,7 +246,8 @@ h6 {
 
 .aqua-heading,
 .home-news h1,
-.home-success-stories h1 {
+.home-success-stories h1,
+.post .prev-next h1 {
   color: #00A6AE;
   font-family: "proxima-nova", Helvetica, Arial, sans-serif;
   font-size: 1.5em;
@@ -264,25 +264,24 @@ body {
   margin: 0;
   padding: 0; }
 
-.grid-container, .site-footer .wrap, .site-header .wrap {
+.grid-container, .site-footer .wrap, .site-header .wrap,
+.post .post-content,
+.post .post-header section,
+.post .prev-next .nav-buttons {
   max-width: 73.75em;
   margin-left: auto;
   margin-right: auto;
   padding: 0 1em; }
-  .grid-container:after, .site-footer .wrap:after, .site-header .wrap:after {
+  .grid-container:after, .site-footer .wrap:after, .site-header .wrap:after,
+  .post .post-content:after,
+  .post .post-header section:after,
+  .post .prev-next .nav-buttons:after {
     content: "";
     display: table;
     clear: both; }
 
 .layout-default .site-footer {
-  max-width: 73.75em;
-  margin-left: auto;
-  margin-right: auto;
   padding: 0 1em; }
-  .layout-default .site-footer:after {
-    content: "";
-    display: table;
-    clear: both; }
 
 .button-large {
   box-sizing: border-box;
@@ -614,19 +613,16 @@ body {
     .home-news .post-date {
       margin-top: 1em; } }
 
-.home-news h2 {
+.home-news .post h2 {
   color: #0071C5;
   font-family: "adriane", Georgia, Times, serif;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
-  font-size: 1.125em; }
-  .home-news h2 a {
-    font-weight: normal; }
+  font-size: 1.125em;
+  font-weight: normal; }
   @media screen and (min-width: 40em) {
-    .home-news h2 {
-      font-size: 1.3125em; }
-      .home-news h2 a {
-        font-size: 1.125em; } }
+    .home-news .post h2 {
+      font-size: 1.3125em; } }
 
 .home-news .button-large {
   clear: both; }
@@ -719,6 +715,108 @@ body {
     padding: 0.5em 1em; }
     .main-menu-container li.top-level ul > li a:hover {
       color: #FFFFFF; }
+
+.post .post-content {
+  margin-bottom: 5em; }
+
+.post .post-header {
+  background: #2B3A46 url(../images/news-header-bg.png) no-repeat;
+  background-size: cover;
+  height: 25em;
+  position: relative;
+  text-align: center; }
+  .post .post-header:after {
+    background: rgba(43, 58, 70, 0.5);
+    content: "";
+    display: block;
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%; }
+  .post .post-header section.title {
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    width: 100%;
+    z-index: 1; }
+  .post .post-header .section-title {
+    color: #FFFFFF; }
+    .post .post-header .section-title span {
+      border-bottom: 0.125em solid #FFFFFF;
+      padding-bottom: 1em; }
+  .post .post-header h1 {
+    color: #FFFFFF;
+    font-size: 3em;
+    position: relative;
+    margin: 1em 0;
+    z-index: 1; }
+
+.post .post-image {
+  margin: 0 auto;
+  width: 75%; }
+  .post .post-image img {
+    width: 100%; }
+
+.post .article-content {
+  margin: 2em auto 0;
+  width: 60%; }
+
+.post h2, .post h3 {
+  color: #00A6AE;
+  font-weight: normal;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em; }
+
+.post h2 {
+  font-size: 2.25em; }
+
+.post h3 {
+  font-size: 1.75em; }
+
+.post .meta {
+  background: #FFFFFF;
+  border-bottom: 0.0625em solid #E9E9E9;
+  text-align: center;
+  padding: 1em 0; }
+  .post .meta p {
+    margin: 0; }
+
+.post .prev-next {
+  padding: 2em 0 3em; }
+  .post .prev-next h1 {
+    margin-bottom: 3em;
+    text-align: center; }
+  .post .prev-next h1 span {
+    border-bottom: 0.0625em solid #E9E9E9;
+    padding-bottom: 1em; }
+  .post .prev-next a {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 31.76157%;
+    border: 0.3125em solid #E9E9E9;
+    font-family: "adriane", Georgia, Times, serif;
+    padding: 1em 1em 2em; }
+    .post .prev-next a:last-child {
+      margin-right: 0; }
+    .post .prev-next a span.link-text {
+      font-size: 1.5em; }
+    .post .prev-next a span.post-title {
+      display: block;
+      font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+      color: #303030; }
+      .post .prev-next a span.post-title:nth-child(1) {
+        margin-left: 1em; }
+      .post .prev-next a span.post-title:nth-child(2) {
+        margin-right: 1em; }
+      .post .prev-next a span.post-title:before, .post .prev-next a span.post-title:after {
+        content: '\0022'; }
+    .post .prev-next a:nth-child(1) {
+      margin-left: 17.05961%; }
+    .post .prev-next a:nth-child(2) {
+      text-align: right; }
 
 .toggle.language, .toggle.navigation, .toggle.close {
   line-height: 3.8125em;

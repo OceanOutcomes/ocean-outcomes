@@ -42,19 +42,16 @@
   }
 }
 
-.home-news h2 {
+.home-news .post h2 {
   color: $blue;
   font-family: $serif;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
   font-size: em(18);
-  a { 
-    font-weight: normal;
-  }
+  font-weight: normal;
 
   @include media($medium-screen) {
     font-size: em(21); 
-    a { font-size: em(18); }
   }
 }
 

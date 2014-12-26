@@ -1,15 +1,50 @@
 ---
 layout: default
+bodyclass: news news-article
+headerimage: assets/images/news-header-bg.jpg
 ---
 <div class="post">
 
   <header class="post-header">
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <section class="title">
+      <p class="section-title"><span>News &amp; Analysis</span></p>
+      <h1>{{ page.title }}</h1>
+    </section>
   </header>
 
+  <section class="meta">
+    <p class="meta-data">
+      <a href="">Back to News & Analysis</a> | Published 
+      {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+    </p>
+  </section>
   <article class="post-content">
-  {{ content }}
+    {% if page.image %}
+    <section class="post-image">
+      <img src="{{site.baseurl}}/{{page.image}}" alt="{{page.imagealt}}">
+    </section>
+    {% endif %}
+    <section class="article-content"> 
+      {{ content }}
+    </section>
   </article>
+
+  <section class="prev-next">
+    <h1><span>More News &amp; Analysis</span></h1> 
+    <div class="nav-buttons">
+    <a href="" class="prev">
+      <span class="link-text">
+        <i class="fa fa-chevron-left"></i> Previous Article    
+      </span>
+      <span class="post-title">Post title</span>
+    </a>
+    <a href="" class="next">
+      <span class="link-text">
+        Next Article <i class="fa fa-chevron-right"></i>   
+      </span>
+      <span class="post-title">Post Title</span>
+    </a>
+    </div>
+  </section>
 
 </div>
