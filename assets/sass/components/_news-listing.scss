@@ -1,0 +1,73 @@
+.news .news-header {
+  background: $abyss url(../images/post-header-bg.png) no-repeat;
+  background-size: cover;
+  height: em(400);
+  position: relative;
+  text-align: center;
+
+  &:after {
+    background: rgba($abyss, 0.5);
+    content: "";
+    display: block;
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  section {
+    @extend %grid-container;
+  }
+
+  section.title {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    z-index: 1;
+  }
+
+  .section-title {
+    color: $white;
+
+    span { 
+      border-bottom: em(2) solid $white; 
+      padding-bottom: 1em;
+    }
+  }
+
+  h1 {
+    color: $white;
+    font-size: em(48);
+    position: relative;
+    margin: 1em 0;
+    z-index: 1;
+  }
+}
+
+.news .newest {
+  border-bottom: em(1) solid $light-gray;
+}
+
+.news .newest h1 {
+  @extend %aqua-heading;
+}
+
+.news .all-news {
+  .post {
+    border-bottom: em(1) solid $light-gray;
+    padding: 3em;
+  }
+
+  .post h2 {
+    font-size: em(24);
+  }
+
+  .post img {
+    float: left;
+    max-width: 40%;
+    margin-right: 1em;
+  }
+}

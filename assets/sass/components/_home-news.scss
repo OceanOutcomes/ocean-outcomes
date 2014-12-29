@@ -1,3 +1,4 @@
+.news .newest,
 .home-news {
   padding: 2em 0;
   text-align: center;
@@ -11,6 +12,7 @@
   @extend %aqua-heading;
 }
 
+.news .newest .posts,
 .home-news .posts {
   @include clearfix;
   @include media($medium-screen) {
@@ -18,6 +20,7 @@
   }
 }
 
+.news .newest .post,
 .home-news .post {
   text-align: left;
   margin-bottom: 2em;
@@ -31,10 +34,12 @@
   }
 }
 
+.news .newest img,
 .home-news img {
   width: 100%;
 }
 
+.news .newest .post-date,
 .home-news .post-date {
   color: $aqua;
   font-size: .9em;
@@ -45,6 +50,7 @@
   }
 }
 
+.news .newest .post h2,
 .home-news .post h2 {
   color: $blue;
   font-family: $serif;
