@@ -10,13 +10,6 @@ bodyclass: landing
   </section>
 </header>
 
-<article class="post-content">
-  {% if page.image %}
-  <section class="post-image">
-    <img src="{{site.baseurl}}/{{page.image}}" alt="{{page.imagealt}}">
-  </section>
-  {% endif %}
-  <section class="article-content"> 
-    {{ content }}
-  </section>
-</article>
+{% for section in page.sections %}
+  {% include landing-section.html %}
+{% endfor %}

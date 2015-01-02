@@ -1,0 +1,9 @@
+<article class="landing-section">
+  <h2>{{ section.title }}</h2>
+  <p> 
+    {{ section.excerpt }}
+  </p>
+  <a href="{{site.baseurl}}/{{page.title | downcase | replace: ' ', '-'}}/{{section.link.url}}">
+    {{section.link.title}}
+  </a>
+</article>
