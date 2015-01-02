@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+ruby '2.1.3'
+
 gem "jekyll", "2.5.3"
 gem "bourbon"
 gem "neat"
