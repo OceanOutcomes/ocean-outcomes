@@ -1,7 +1,7 @@
 .landing .landing-header {
   background: $abyss url(../images/landing-header-bg.png) no-repeat;
   background-size: cover;
-  height: em(400);
+  height: em(580);
   position: relative;
   text-align: center;
 
@@ -22,29 +22,34 @@
   }
 
   section.title {
+    color: $white;
     position: absolute;
     text-align: center;
-    top: 50%;
+    top: 45%;
     width: 100%;
     z-index: 1;
-
   }
 
-  .section-title {
-    color: $white;
-
-    span { 
-      border-bottom: em(2) solid $white; 
-      padding-bottom: 1em;
-    }
-  }
-
-  h1 {
+  section.title h1 {
     color: $white;
     font-size: em(48);
     position: relative;
-    margin: 1em 0;
+    margin: 1em 0 0;
     z-index: 1;
+
+    &:after {
+      content: "";
+      display: block;
+      border-bottom: em(1) solid $white; 
+      margin: 0.5em auto;
+      width: 15%;
+    }
+  }
+
+  section.title p {
+    margin : 0 auto;
+    text-align: center;
+    width: 40%;
   }
 }
 
