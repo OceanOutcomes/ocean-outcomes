@@ -20,8 +20,10 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'config.rb', 'asse
 #Setting relative permalink to false. See http://jekyllrb.com/docs/upgrading/.
 relative_permalinks: false
 
+# Plugin config
+gems: [jekyll-i18n]
+
+# Assets config
 sass:
   sass_dir: assets/sass
 
-# Plugin config
-gems: [jekyll-i18n]
