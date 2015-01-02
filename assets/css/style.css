@@ -247,6 +247,7 @@ h6 {
 .aqua-heading,
 .home-news h1,
 .home-success-stories h1,
+.landing-section h2,
 .news .newest h1,
 .post .prev-next h1 {
   color: #00A6AE;
@@ -301,10 +302,10 @@ body {
     color: white;
     transition: all .4s; }
 
-.hero-home .button-large, .home-success-stories .button-large {
+.hero-home .button-large, .home-success-stories .button-large, .landing-section:hover .button-large {
   border-color: white;
   color: white; }
-  .hero-home .button-large:hover, .home-success-stories .button-large:hover {
+  .hero-home .button-large:hover, .home-success-stories .button-large:hover, .landing-section:hover .button-large:hover {
     color: #333;
     background: white; }
 
@@ -690,7 +691,7 @@ body {
         max-width: 100%; } }
 
 .landing .landing-header {
-  background: #2B3A46 url(../images/landing-header-bg.png) no-repeat;
+  background: #2B3A46 url(../images/landing-header-bg.png) center center no-repeat;
   background-size: cover;
   height: 36.25em;
   position: relative;
@@ -728,6 +729,37 @@ body {
     margin: 0 auto;
     text-align: center;
     width: 40%; }
+
+.landing-section {
+  border-bottom: 0.0625em solid #E9E9E9;
+  text-align: center;
+  padding: 3em 0;
+  position: relative; }
+  .landing-section:hover {
+    background-color: #303030;
+    color: #FFFFFF;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    transition: all 0.2s; }
+    .landing-section:hover h2 {
+      color: #FFFFFF; }
+
+.landing-section .excerpt {
+  max-width: 50%;
+  margin: 1em auto; }
+
+.landing-section .details {
+  position: relative;
+  z-index: 1; }
+
+.landing-section .hover-bg {
+  display: none;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 0; }
 
 .language-menu-container,
 .main-menu-container {

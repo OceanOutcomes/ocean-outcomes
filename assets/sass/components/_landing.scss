@@ -1,5 +1,5 @@
 .landing .landing-header {
-  background: $abyss url(../images/landing-header-bg.png) no-repeat;
+  background: $abyss url(../images/landing-header-bg.png) center center no-repeat;
   background-size: cover;
   height: em(580);
   position: relative;
@@ -51,5 +51,50 @@
     text-align: center;
     width: 40%;
   }
+}
+
+.landing-section {
+  border-bottom: em(1) solid $light-gray;
+  text-align: center;
+  padding: 3em 0;
+  position: relative;
+
+  &:hover {
+    background-color: $black;
+    color: $white;
+    @include transition(all 0.2s);
+
+    h2 {
+      color: $white; 
+    }
+
+    .button-large {
+      @extend %button-white; 
+    }
+  }
+}
+
+.landing-section h2 {
+  @extend %aqua-heading;
+}
+
+.landing-section .excerpt {
+  max-width: 50%;
+  margin: 1em auto;
+}
+
+.landing-section .details {
+  position: relative;
+  z-index: 1;
+}
+
+.landing-section .hover-bg {
+  display: none;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 0;
 }
 

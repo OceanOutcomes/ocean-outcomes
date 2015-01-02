@@ -51,6 +51,12 @@ $(document).ready(function() {
         $('.main-menu-container').fadeToggle();
         $('.page-content').fadeToggle();
       });
+
+      $('.landing-section').hover(function() {
+        $(this).find('.hover-bg').fadeIn(); 
+      }, function() {
+        $(this).find('.hover-bg').fadeOut(); 
+      });
     }
   }
 

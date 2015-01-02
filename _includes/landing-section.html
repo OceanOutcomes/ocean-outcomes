@@ -1,9 +1,12 @@
-<article class="landing-section">
-  <h2>{{ section.title }}</h2>
-  <p> 
-    {{ section.excerpt }}
-  </p>
-  <a href="{{site.baseurl}}/{{page.title | downcase | replace: ' ', '-'}}/{{section.link.url}}">
-    {{section.link.title}}
-  </a>
+<article class="landing-section {{section.title | downcase | replace: ' ', '-'}}">
+  <section class="details">
+    <h2>{{ section.title }}</h2>
+    <p class="excerpt"> 
+      {{ section.excerpt }}
+    </p>
+    <a class="button-large" href="{{site.baseurl}}/{{page.title | downcase | replace: ' ', '-'}}/{{section.link.url}}">
+      {{section.link.title}}
+    </a>
+  </section>
+  <section class="hover-bg" style="background-image: url({{site.baseurl}}/assets/images/{{section.background-image.url}})">
 </article>
