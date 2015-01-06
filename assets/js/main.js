@@ -75,13 +75,16 @@ $(document).ready(function() {
         $('.page-content').fadeToggle();
       });
 
-      $('.landing-section').hover(function() {
-        $(this).find('.hover-bg').fadeIn().addClass('active'); 
-      }, function() {
-        $(this).find('.hover-bg').fadeOut().removeClass('active'); 
+      $('.landing-section').on({
+        mouseenter: function(e) {
+          $(this).find('.hover-bg').stop().transition({y: -60, opacity: 1}, 1200, 'ease'); 
+        }, 
+        mouseleave: function(e) {
+          $(this).find('.hover-bg').transition({y: 0, opacity: 0}, 600, 'ease'); 
+        }
       });
     }
-  }
+  } // end o2
 
   o2.init();
 });

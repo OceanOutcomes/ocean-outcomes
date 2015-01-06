@@ -932,8 +932,8 @@ body {
   z-index: 1; }
 
 .landing-section .hover-bg {
-  display: none;
-  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
   height: 120%;
   left: 0;
   position: absolute;
@@ -941,12 +941,11 @@ body {
   width: 100%;
   z-index: 0; }
   .landing-section .hover-bg.active {
-    background-repeat: no-repeat;
-    background-position: 0 -40px;
-    background-size: 140%;
-    -webkit-transition: all 0.5s;
-    -moz-transition: all 0.5s;
-    transition: all 0.5s; }
+    display: block;
+    background-position: center -10em;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    transition: all 1s; }
 
 .language-menu-container,
 .main-menu-container {
