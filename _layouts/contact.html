@@ -1,0 +1,47 @@
+---
+layout: default
+bodyclass: contact
+headerimage: assets/images/news-header-bg.jpg
+---
+
+  <header class="contact-header">
+    <section class="title">
+      <h1>{{ page.title }}</h1>
+    </section>
+  </header>
+
+  <section class="contact-location">
+    <div class="grid-container">
+      <img class="map-icon" src="{{site.baseurl}}/assets/images/map-location-icon.png" alt="Map Icon">
+      <h1>Our Location</h1> 
+      <p>
+        <span class="street">{{page.address.street}}</span><br>
+        <span class="city-state-zip">{{page.address.citystatezip}}</span><br>
+        <span class="phone">{{page.address.phone}} • {{page.address.tollfree}}</span>
+      </p>
+    </div>
+  </section>
+
+  <section class="contact-form">
+    <div class="grid-container">
+      <h1><i class="fa fa-send"></i> Get In Touch</h1>
+      <form action="">
+        <label for="name">Your Name*</label>
+        <input type="text" placeholder="Your name here">
+        
+        <label for="">Your Email Address*</label>
+        <input type="text" placeholder="Your email address here">
+
+        <label for="phone number">Your Phone Number*</label>
+        <input type="text" placeholder="Your Phone Number Here">
+        
+        <label for="message">Your Message</label>
+        <textarea id="" name="" cols="30" rows="10" placeholder="Your Message Here"></textarea>
+        <label for=""><input type="checkbox"> I would like to receive future updates about
+          Ocean Outcomes</label>
+        <div class="actions">
+          <button type="submit" class="button-white">Submit</button>
+        </div>
+      </form>
+    </div>
+  </section>

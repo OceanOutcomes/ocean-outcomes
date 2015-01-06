@@ -103,7 +103,8 @@
     //transform: translate(0px, -20px); 
     background-repeat: no-repeat;
     background-position: 0 -40px;
-    @include transition(background-position 0.5s);
+    background-size: 140%;
+    @include transition(all 0.5s);
   }
 }
 

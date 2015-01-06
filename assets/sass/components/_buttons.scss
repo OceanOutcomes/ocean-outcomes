@@ -15,9 +15,12 @@
   }
 }
 
+.button-white,
 %button-white {
-  border-color: white;
-  color: white;
+  background: transparent;
+  border: em(2) solid $white;
+  border-radius: 0;
+  color: $white;
 
   &:hover {
     color: $dark-gray;

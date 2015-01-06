@@ -245,6 +245,8 @@ h6 {
   font-size: 1em; }
 
 .aqua-heading,
+.contact .contact-location h1,
+.contact .contact-form h1,
 .home-news h1,
 .home-success-stories h1,
 .landing-section h2,
@@ -267,6 +269,7 @@ body {
   padding: 0; }
 
 .grid-container, .site-footer .wrap, .site-header .wrap,
+.contact .contact-header section,
 .content-page .content-header section,
 .landing .landing-header section,
 .news .news-header section,
@@ -278,6 +281,7 @@ body {
   margin-right: auto;
   padding: 0 1em; }
   .grid-container:after, .site-footer .wrap:after, .site-header .wrap:after,
+  .contact .contact-header section:after,
   .content-page .content-header section:after,
   .landing .landing-header section:after,
   .news .news-header section:after,
@@ -304,12 +308,99 @@ body {
     color: white;
     transition: all .4s; }
 
-.hero-home .button-large, .home-success-stories .button-large, .landing-section:hover .button-large {
-  border-color: white;
-  color: white; }
-  .hero-home .button-large:hover, .home-success-stories .button-large:hover, .landing-section:hover .button-large:hover {
+.button-white,
+.hero-home .button-large,
+.home-success-stories .button-large,
+.landing-section:hover .button-large {
+  background: transparent;
+  border: 0.125em solid #FFFFFF;
+  border-radius: 0;
+  color: #FFFFFF; }
+  .button-white:hover,
+  .hero-home .button-large:hover,
+  .home-success-stories .button-large:hover,
+  .landing-section:hover .button-large:hover {
     color: #333;
     background: white; }
+
+.contact .contact-header {
+  background: #2B3A46 url(../images/contact-header-bg.png) no-repeat;
+  background-size: cover;
+  height: 25em;
+  position: relative;
+  text-align: center; }
+  .contact .contact-header:after {
+    background: rgba(43, 58, 70, 0.5);
+    content: "";
+    display: block;
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%; }
+  .contact .contact-header section.title {
+    position: absolute;
+    text-align: center;
+    top: 60%;
+    width: 100%;
+    z-index: 1; }
+  .contact .contact-header .section-title {
+    color: #FFFFFF; }
+    .contact .contact-header .section-title span {
+      border-bottom: 0.125em solid #FFFFFF;
+      padding-bottom: 1em; }
+  .contact .contact-header h1 {
+    color: #FFFFFF;
+    font-size: 3em;
+    position: relative;
+    margin: 1em 0;
+    z-index: 1; }
+
+.contact .contact-location,
+.contact .contact-form {
+  padding: 3em 0; }
+
+.contact .contact-location {
+  text-align: center; }
+
+.contact .contact-form {
+  background: #0071C5; }
+  .contact .contact-form .fa-send {
+    text-align: center;
+    display: block;
+    font-size: 1.4em;
+    margin-bottom: 1em; }
+  .contact .contact-form h1 {
+    color: #FFFFFF;
+    text-align: center; }
+  .contact .contact-form form {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 65.88078%;
+    margin-left: 17.05961%; }
+    .contact .contact-form form:last-child {
+      margin-right: 0; }
+    .contact .contact-form form label {
+      color: #FFFFFF;
+      font-weight: normal; }
+    .contact .contact-form form input[type=text], .contact .contact-form form textarea {
+      font-family: "adriane", Georgia, Times, serif;
+      font-weight: normal;
+      margin-bottom: 1em;
+      border: none;
+      border-radius: 0;
+      box-shadow: none;
+      padding: 1em 2em; }
+    .contact .contact-form form .actions {
+      text-align: center;
+      margin-top: 3em; }
+      .contact .contact-form form .actions button {
+        font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+        font-weight: normal;
+        padding: 0.75em 3em;
+        text-transform: uppercase; }
 
 .content-page .content-header {
   background: #2B3A46 url(../images/content-header-bg.png) no-repeat;
@@ -847,9 +938,10 @@ body {
   .landing-section .hover-bg.active {
     background-repeat: no-repeat;
     background-position: 0 -40px;
-    -webkit-transition: background-position 0.5s;
-    -moz-transition: background-position 0.5s;
-    transition: background-position 0.5s; }
+    background-size: 140%;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    transition: all 0.5s; }
 
 .language-menu-container,
 .main-menu-container {
