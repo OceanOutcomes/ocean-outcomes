@@ -8,13 +8,14 @@ bodyclass: home
       <h1>{%t home-page-hero-text%}</h1>
       <a class="button-large" href="#">Contact Us</a>
     </div>
+    <a class="scroll-arrow" href=""><img src="{{site.baseurl}}/assets/images/arrow-icon.png" alt="arrow icon"></a>
   </section>
 
   <section class="home-about">
    <div class="grid-container">
-    <h1 class="aqua-heading">About Ocean Outcomes</h1>
-    <h2>We envision a future with healthy aquatic ecosystems, a plentiful wild seafood supply, and thriving fishing communities.
-    </h2>
+    <h1 class="aqua-heading">О результатах океана</h1>
+    <h2>Мы видим будущее со здоровыми водных экосистем, в изобилии диких морепродуктов и
+      процветающих рыбацких общин.</h2>
     <ul class="home-about__item who-we-are">
       <li class="drop-down-menu-title">
         <a href="#">
@@ -62,21 +63,21 @@ bodyclass: home
 
   <section class="home-success-stories">
     <div class="grid-container">
-      <h1>Stories of Success</h1>
-      <h2>Frank Riggs - Salmon Fisherman, Kiev Russia</h2>
+      <h1>Истории успеха</h1>
+      <h2>Frank Riggs - Лосось Рыбак, Киев Россия</h2>
       <p>Эвэртё дычэрунт элыктрам но ючю, пэр йн жюмо новум зальютатуж. Но пэрпэтюа ывыртятюр дэчырюёжжэ мэя, эю коррюмпит абхоррэант эжт, ыёюз ёужто иреуры эа хаж. Вэниам ютенам ут жят, хомэро коммюны дёжжэнтиюнт кюм ед, жят квуым дытыррюизщэт ыт.</p> 
       <img class="support-image" src="{{site.baseurl}}/assets/images/fisherman-bg.png"> 
-      <a class="button-large" href="#">See More Success Stories</a>   
+      <a class="button-large" href="#">больше</a>   
     </div>
   </section>
 
   <section class="home-news">
     <div class="grid-container">
-      <h1>News & Analysis</h1>
+      <h1>Новости и анализ</h1>
       <div class="posts">
         {% for post in site.tags.ru %}
           <div class="post">
-            <img src="{{ post.image }}">
+            <img src="{{site.baseurl}}/{{ post.image }}">
             <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
             <h2>
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -87,6 +88,6 @@ bodyclass: home
           </div>
         {% endfor %}
       </div>
-      <a class="button-large" href="#">See all News & Analysis</a>
+      <a class="button-large" href="#">Смотреть все новости & анализ</a>
     </div>
   </section>
