@@ -11,7 +11,7 @@
   &:hover {
     background-color: $base-link-color;
     color: white;
-    transition: all .4s;
+    @include transition(all 0.4s)
   }
 }
 
@@ -25,5 +25,6 @@
   &:hover {
     color: $dark-gray;
     background: white;
+    @include transition(all 0.4s)
   }
 }

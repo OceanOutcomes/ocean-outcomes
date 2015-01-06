@@ -306,7 +306,9 @@ body {
   .button-large:hover {
     background-color: #0071C5;
     color: white;
-    transition: all .4s; }
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s; }
 
 .button-white,
 .hero-home .button-large,
@@ -321,7 +323,10 @@ body {
   .home-success-stories .button-large:hover,
   .landing-section:hover .button-large:hover {
     color: #333;
-    background: white; }
+    background: white;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s; }
 
 .contact .contact-header {
   background: #2B3A46 url(../images/contact-header-bg.png) no-repeat;
