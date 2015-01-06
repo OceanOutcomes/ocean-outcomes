@@ -76,9 +76,9 @@ $(document).ready(function() {
       });
 
       $('.landing-section').hover(function() {
-        $(this).find('.hover-bg').fadeIn(); 
+        $(this).find('.hover-bg').fadeIn().addClass('active'); 
       }, function() {
-        $(this).find('.hover-bg').fadeOut(); 
+        $(this).find('.hover-bg').fadeOut().removeClass('active'); 
       });
     }
   }

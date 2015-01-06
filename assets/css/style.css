@@ -818,15 +818,12 @@ body {
 
 .landing-section {
   border-bottom: 0.0625em solid #E9E9E9;
-  text-align: center;
+  overflow: hidden;
   padding: 3em 0;
-  position: relative; }
+  position: relative;
+  text-align: center; }
   .landing-section:hover {
-    background-color: #303030;
-    color: #FFFFFF;
-    -webkit-transition: all 0.2s;
-    -moz-transition: all 0.2s;
-    transition: all 0.2s; }
+    color: #FFFFFF; }
     .landing-section:hover h2 {
       color: #FFFFFF; }
 
@@ -840,12 +837,19 @@ body {
 
 .landing-section .hover-bg {
   display: none;
-  height: 100%;
+  background-size: cover;
+  height: 120%;
   left: 0;
   position: absolute;
   top: 0;
   width: 100%;
   z-index: 0; }
+  .landing-section .hover-bg.active {
+    background-repeat: no-repeat;
+    background-position: 0 -40px;
+    -webkit-transition: background-position 0.5s;
+    -moz-transition: background-position 0.5s;
+    transition: background-position 0.5s; }
 
 .language-menu-container,
 .main-menu-container {

@@ -55,14 +55,15 @@
 
 .landing-section {
   border-bottom: em(1) solid $light-gray;
-  text-align: center;
+  overflow: hidden;
   padding: 3em 0;
   position: relative;
+  text-align: center;
 
   &:hover {
-    background-color: $black;
+    //background-color: $black;
     color: $white;
-    @include transition(all 0.2s);
+    //@include transition(all 0.2s);
 
     h2 {
       color: $white; 
@@ -90,11 +91,19 @@
 
 .landing-section .hover-bg {
   display: none;
-  height: 100%;
+  background-size: cover;
+  height: 120%;
   left: 0;
   position: absolute;
   top: 0;
   width: 100%;
   z-index: 0;
+
+  &.active {
+    //transform: translate(0px, -20px); 
+    background-repeat: no-repeat;
+    background-position: 0 -40px;
+    @include transition(background-position 0.5s);
+  }
 }
 
