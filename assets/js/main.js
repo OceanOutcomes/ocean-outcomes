@@ -83,6 +83,13 @@ $(document).ready(function() {
           $(this).find('.hover-bg').transition({y: 0, opacity: 0}, 600, 'ease'); 
         }
       });
+
+      $('.hero-home .scroll-arrow').click(function(e){
+        e.preventDefault(); 
+        $('html, body').animate({
+          scrollTop: $('.home-about').offset().top 
+        }, 1000);
+      });
     }
   } // end o2
 

@@ -657,6 +657,16 @@ body {
 .hero-home .button-large {
   display: inline; }
 
+.hero-home .scroll-arrow {
+  bottom: -2.2em;
+  color: #FFFFFF;
+  position: absolute;
+  z-index: 5;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto; }
+
 .home-about__item {
   background: #2B3A46;
   padding: 4em 0;
