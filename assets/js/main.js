@@ -59,7 +59,7 @@ $(document).ready(function() {
         $('.toggle.close.lang').show().addClass('flipInX');
         $('.language-menu-container').fadeToggle();
         if ($('.main-menu-container').is(':visible')) {
-          $('.main-menu-container').fadeToggle();
+          $('.main-menu-container').fadeOut();
         }
         $('.page-content').fadeToggle();
       });
@@ -70,7 +70,7 @@ $(document).ready(function() {
         $('.toggle.close.nav').show().addClass('flipInX');
         $('.main-menu-container').fadeToggle();
         if ($('.language-menu-container').is(':visible')) {
-          $('.language-menu-container').fadeToggle();
+          $('.language-menu-container').fadeOut();
         }
         $('.page-content').fadeToggle();
       });
