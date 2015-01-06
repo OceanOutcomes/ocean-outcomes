@@ -1175,7 +1175,7 @@ body {
 
 .toggle.language {
   background: #0071C5;
-  display: none;
+  left: 0;
   color: #FFFFFF;
   font-size: 1em; }
   @media screen and (min-width: 40em) {

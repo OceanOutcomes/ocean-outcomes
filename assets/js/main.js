@@ -90,6 +90,10 @@ $(document).ready(function() {
           scrollTop: $('.home-about').offset().top 
         }, 1000);
       });
+
+      new Share('.share-button', {
+        title: 'Share' 
+      });
     }
   } // end o2
 
