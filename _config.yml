@@ -13,7 +13,7 @@ port: 4000
 twitter_handle: 
 
 # Permalink Configuration
-permalink: /blog/:year/:month/:title
+permalink: /:year/:month/:title
 
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'config.rb', 'assets/sass',  'node_modules', 'Procfile']
 
