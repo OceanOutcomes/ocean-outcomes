@@ -5,91 +5,96 @@ bodyclass: home
   
   <section class="hero hero-home">
     <div class="hero-text">
-      <h1>{%t home-page-hero-text%}</h1>
-      <a class="button-large" href="#">Связаться С Нами</a>
+      <h1>{%t home-page-hero-text %}</h1>
+      <a class="button-large" href="{{site.baseurl}}/contact.html">{%t contact-us %}</a>
     </div>
     <a class="scroll-arrow" href=""><img src="{{site.baseurl}}/assets/images/arrow-icon.png" alt="arrow icon"></a>
   </section>
 
   <section class="home-about">
    <div class="grid-container">
-    <h1 class="aqua-heading">О результатах океана</h1>
-    <h2>Мы видим будущее со здоровыми водных экосистем, в изобилии диких морепродуктов и
-      процветающих рыбацких общин.</h2>
+    <h1 class="aqua-heading">{%t about-section-heading %}</h1>
+    <h2>{%t about-section-content %}
+    </h2>
     <ul class="home-about__item who-we-are">
       <li class="drop-down-menu-title">
-        <a href="#">
-          Who We Are <i class="fa fa-chevron-down"></i>
+      <a href="{{site.baseurl}}/who-we-are">
+          {%t who-we-are %} <i class="fa fa-chevron-down"></i>
         </a>
       </li>
       <li class="drop-down-menu">
         <ul>
-          <li><a href="#">Secondary Link 1</a></li>
-          <li><a href="#">Secondary Link 2</a></li>
-          <li><a href="#">Secondary Link 3</a></li>
+          <li><a href="/who-we-are/our-story.html">{%t our-story %}</a></li>
+          <li><a href="/who-we-are/vision-and-mission.html">{%t vision-mission %}</a></li>
+          <li><a href="#">{%t our-team %}</a></li>
         </ul>
       </li>
     </ul>
     <ul class="home-about__item what-we-do">
       <li class="drop-down-menu-title">
         <a href="#">
-          What We Do <i class="fa fa-chevron-down"></i>
+          {%t what-we-do %} <i class="fa fa-chevron-down"></i>
         </a>
       </li>
       <li class="drop-down-menu">
         <ul>
-          <li><a href="#">Secondary Link 1</a></li>
-          <li><a href="#">Secondary Link 2</a></li>
-          <li><a href="#">Secondary Link 3</a></li>
+          <li><a href="#">{%t our-services %}</a></li>
+          <li><a href="#">{%t success-stories %}</a></li>
         </ul>
       </li>
     </ul>
     <ul class="home-about__item sustainable-fisheries">
       <li class="drop-down-menu-title">
         <a href="#">
-          Sustainable Fisheries <i class="fa fa-chevron-down"></i>
+          {%t sustainable-fisheries %} <i class="fa fa-chevron-down"></i>
         </a>
       </li>
       <li class="drop-down-menu">
         <ul>
-          <li><a href="#">Secondary Link 1</a></li>
-          <li><a href="#">Secondary Link 2</a></li>
-          <li><a href="#">Secondary Link 3</a></li>
+          <li><a href="#">{%t our-fisheries %}</a></li>
+          <li><a href="#">{%t initiatives %}</a></li>
+          <li><a href="#">{%t resources %}</a></li>
         </ul>
       </li>
     </ul>
    </div>
   </section>
 
-  <section class="home-success-stories">
-    <div class="grid-container">
-      <h1>Истории успеха</h1>
-      <h2>Frank Riggs - Лосось Рыбак, Киев Россия</h2>
-      <p>Эвэртё дычэрунт элыктрам но ючю, пэр йн жюмо новум зальютатуж. Но пэрпэтюа ывыртятюр дэчырюёжжэ мэя, эю коррюмпит абхоррэант эжт, ыёюз ёужто иреуры эа хаж. Вэниам ютенам ут жят, хомэро коммюны дёжжэнтиюнт кюм ед, жят квуым дытыррюизщэт ыт.</p> 
-      <img class="support-image" src="{{site.baseurl}}/assets/images/fisherman-bg.png"> 
-      <a class="button-large" href="#">больше</a>   
-    </div>
-  </section>
+  {% for block in site.data.featured-blocks %}
+    {% if block.featured %}
+      <section class="home-success-stories">
+        <div class="grid-container">
+          <h1>{{block.heading}}</h1>
+          <h2>{{block.title}}</h2>
+          <p>{{block.content}}</p>
+          <img class="support-image" src="{{site.baseurl}}/assets/images/{{block.image}}">
+          {% if block.link %}
+            <a class="button-large" href="{{block.link.link-URL}}">{{block.link.link-text}}</a>
+          {% endif %}
+        </div>
+      </section>
+    {% endif %}
+  {% endfor %}
 
   <section class="home-news">
     <div class="grid-container">
-      <h1>Новости и анализ</h1>
+      <h1>{%t news-section-heading %}</h1>
       <div class="posts">
         {% for post in site.tags.ru %}
           {% if post.featured %}
             <div class="post">
-              <img src="{{site.baseurl}}/{{ post.image }}">
+              <img src="{{ post.image }}">
               <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
               <h2>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                  {{post.title }}
-                </a>
-              </h2>
-              <p class="post-blurb">{{ post.blurb }}</p>
-            </div>
+                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                    {{ post.title }}
+                  </a>
+                </h2>
+                <p class="post-blurb">{{ post.blurb }}</p>
+              </div>
           {% endif %}
         {% endfor %}
       </div>
-      <a class="button-large" href="#">Смотреть все новости & анализ</a>
+      <a class="button-large" href="{{site.baseurl}}/ru/news">{%t news-section-link-text %}</a>
     </div>
   </section>

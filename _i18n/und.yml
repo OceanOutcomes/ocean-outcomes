@@ -1,4 +1,34 @@
 # Site default language is English, which is represented as 'und' or 'Undefined'.
 und:
+  ##########################
+  # Home page translatables
+  ##########################
+  ## Home page banner
   home-page-hero-text: "Locally led, independently supported fishery improvement projects"
+  contact-us: "Contact us"
   testing: "testing"
+
+  ## About section
+  about-section-heading: "About Ocean Outcomes"
+  about-section-content: "We envision a future with healthy aquatic ecosystems, a plentiful wild seafood supply, and thriving fishing communities."
+  ### Top level menu item
+  who-we-are: "Who We Are"
+  #### Sub-menu items
+  our-story: "Our Story"
+  vision-mission: "Vision & Mission"
+  our-team: "Our Team"
+  ### Top level menu item
+  what-we-do: "What We Do"
+  #### Sub-menu items
+  our-services: "Our Services"
+  success-stories: "Success Stories"
+  ### Top level menu item
+  sustainable-fisheries: "Sustainable Fisheries"
+  #### Sub-menu items
+  our-fisheries: "Our Fisheries"
+  initiatives: "Initiatives"
+  resources: "Resources"
+
+  ## News section
+  news-section-heading: "News & Analysis"
+  news-section-link-text: "See all News & Analysis"

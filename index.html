@@ -6,73 +6,79 @@ bodyclass: home
   <section class="hero hero-home">
     <div class="hero-text">
       <h1>{%t home-page-hero-text %}</h1>
-      <a class="button-large" href="{{site.baseurl}}/contact.html">Contact Us</a>
+      <a class="button-large" href="{{site.baseurl}}/contact.html">{%t contact-us %}</a>
     </div>
     <a class="scroll-arrow" href=""><img src="{{site.baseurl}}/assets/images/arrow-icon.png" alt="arrow icon"></a>
   </section>
 
   <section class="home-about">
    <div class="grid-container">
-    <h1 class="aqua-heading">About Ocean Outcomes</h1>
-    <h2>We envision a future with healthy aquatic ecosystems, a plentiful wild seafood supply, and thriving fishing communities.
+    <h1 class="aqua-heading">{%t about-section-heading %}</h1>
+    <h2>{%t about-section-content %}
     </h2>
     <ul class="home-about__item who-we-are">
       <li class="drop-down-menu-title">
       <a href="{{site.baseurl}}/who-we-are">
-          Who We Are <i class="fa fa-chevron-down"></i>
+          {%t who-we-are %} <i class="fa fa-chevron-down"></i>
         </a>
       </li>
       <li class="drop-down-menu">
         <ul>
-          <li><a href="/who-we-are/our-story.html">Our Story</a></li>
-          <li><a href="/who-we-are/vision-and-mission.html">Vision &amp; Mission</a></li>
-          <li><a href="#">Our Team</a></li>
+          <li><a href="/who-we-are/our-story.html">{%t our-story %}</a></li>
+          <li><a href="/who-we-are/vision-and-mission.html">{%t vision-mission %}</a></li>
+          <li><a href="#">{%t our-team %}</a></li>
         </ul>
       </li>
     </ul>
     <ul class="home-about__item what-we-do">
       <li class="drop-down-menu-title">
         <a href="#">
-          What We Do <i class="fa fa-chevron-down"></i>
+          {%t what-we-do %} <i class="fa fa-chevron-down"></i>
         </a>
       </li>
       <li class="drop-down-menu">
         <ul>
-          <li><a href="#">Our Services</a></li>
-          <li><a href="#">Success Stories</a></li>
+          <li><a href="#">{%t our-services %}</a></li>
+          <li><a href="#">{%t success-stories %}</a></li>
         </ul>
       </li>
     </ul>
     <ul class="home-about__item sustainable-fisheries">
       <li class="drop-down-menu-title">
         <a href="#">
-          Sustainable Fisheries <i class="fa fa-chevron-down"></i>
+          {%t sustainable-fisheries %} <i class="fa fa-chevron-down"></i>
         </a>
       </li>
       <li class="drop-down-menu">
         <ul>
-          <li><a href="#">Our Fisheries</a></li>
-          <li><a href="#">Initiatives</a></li>
-          <li><a href="#">Resources</a></li>
+          <li><a href="#">{%t our-fisheries %}</a></li>
+          <li><a href="#">{%t initiatives %}</a></li>
+          <li><a href="#">{%t resources %}</a></li>
         </ul>
       </li>
     </ul>
    </div>
   </section>
 
-  <section class="home-success-stories">
-    <div class="grid-container">
-      <h1>Stories of Success</h1>
-      <h2>Frank Riggs - Salmon Fisherman, Kiev Russia</h2>
-      <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p> 
-      <img class="support-image" src="{{site.baseurl}}/assets/images/fisherman-bg.png"> 
-      <a class="button-large" href="#">See More Success Stories</a>   
-    </div>
-  </section>
+  {% for block in site.data.featured-blocks %}
+    {% if block.featured %}
+      <section class="home-success-stories">
+        <div class="grid-container">
+          <h1>{{block.heading}}</h1>
+          <h2>{{block.title}}</h2>
+          <p>{{block.content}}</p>
+          <img class="support-image" src="{{site.baseurl}}/assets/images/{{block.image}}">
+          {% if block.link %}
+            <a class="button-large" href="{{block.link.link-URL}}">{{block.link.link-text}}</a>
+          {% endif %}
+        </div>
+      </section>
+    {% endif %}
+  {% endfor %}
 
   <section class="home-news">
     <div class="grid-container">
-      <h1>News & Analysis</h1>
+      <h1>{%t news-section-heading %}</h1>
       <div class="posts">
         {% for post in site.tags.und %}
           {% if post.featured %}
@@ -80,15 +86,15 @@ bodyclass: home
               <img src="{{ post.image }}">
               <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
               <h2>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                  {{post.title }}
-                </a>
-              </h2>
-              <p class="post-blurb">{{ post.blurb }}</p>
-            </div>
+                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                    {{ post.title }}
+                  </a>
+                </h2>
+                <p class="post-blurb">{{ post.blurb }}</p>
+              </div>
           {% endif %}
         {% endfor %}
       </div>
-      <a class="button-large" href="{{site.baseurl}}/news">See all News & Analysis</a>
+      <a class="button-large" href="{{site.baseurl}}/news">{%t news-section-link-text %}</a>
     </div>
   </section>
