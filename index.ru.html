@@ -76,16 +76,18 @@ bodyclass: home
       <h1>Новости и анализ</h1>
       <div class="posts">
         {% for post in site.tags.ru %}
-          <div class="post">
-            <img src="{{site.baseurl}}/{{ post.image }}">
-            <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
-            <h2>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                {{post.title }}
-              </a>
-            </h2>
-            <p class="post-blurb">{{ post.blurb }}</p>
-          </div>
+          {% if post.featured %}
+            <div class="post">
+              <img src="{{site.baseurl}}/{{ post.image }}">
+              <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
+              <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                  {{post.title }}
+                </a>
+              </h2>
+              <p class="post-blurb">{{ post.blurb }}</p>
+            </div>
+          {% endif %}
         {% endfor %}
       </div>
       <a class="button-large" href="#">Смотреть все новости & анализ</a>

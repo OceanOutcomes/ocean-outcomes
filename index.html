@@ -75,16 +75,18 @@ bodyclass: home
       <h1>News & Analysis</h1>
       <div class="posts">
         {% for post in site.tags.und %}
-          <div class="post">
-            <img src="{{ post.image }}">
-            <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
-            <h2>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                {{post.title }}
-              </a>
-            </h2>
-            <p class="post-blurb">{{ post.blurb }}</p>
-          </div>
+          {% if post.featured %}
+            <div class="post">
+              <img src="{{ post.image }}">
+              <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
+              <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                  {{post.title }}
+                </a>
+              </h2>
+              <p class="post-blurb">{{ post.blurb }}</p>
+            </div>
+          {% endif %}
         {% endfor %}
       </div>
       <a class="button-large" href="{{site.baseurl}}/news">See all News & Analysis</a>
