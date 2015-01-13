@@ -1,3 +1,34 @@
+# This file contains all Russian translations of variable content.
 ru:
+  ##########################
+  # Home page translatables
+  ##########################
+  ## Home page banner
   home-page-hero-text: "Локально LED, независимо поддержку проектам по улучшению рыболовства"
+  contact-us: "связаться с нами"
   testing: "тестирование"
+
+  ## About section
+  about-section-heading: "относительно Ocean Outcomes"
+  about-section-content: "Мы видим будущее со здоровыми водных экосистем, в изобилии диких морепродуктов и процветающих рыбацких общин."
+  ### Top level menu item
+  who-we-are: "Кто мы"
+  #### Sub-menu items
+  our-story: "Our Story"
+  vision-mission: "Vision & Mission"
+  our-team: "Our Team"
+  ### Top level menu item
+  what-we-do: "Что мы делаем"
+  #### Sub-menu items
+  our-services: "Our Services"
+  success-stories: "Success Stories"
+  ### Top level menu item
+  sustainable-fisheries: "Обеспечение устойчивого рыболовства"
+  #### Sub-menu items
+  our-fisheries: "Our Fisheries"
+  initiatives: "Initiatives"
+  resources: "Resources"
+
+  ## News section
+  news-section-heading: "новости & анализ"
+  news-section-link-text: "Смотреть все новости & анализ"

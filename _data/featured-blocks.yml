@@ -1,0 +1,30 @@
+- featured: FALSE
+  language: en
+  heading: Stories of Success
+  title: Sue Piggs - Wild Woman, Ohmaha Nebraska
+  image:
+  link:
+    link-text: See more stories of success
+    link-URL: #
+  content: |
+    Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+- featured: TRUE
+  language: en
+  heading: Stories of Success
+  title: Frank Riggs - Salmon Fisherman, Kiev Russia
+  image: fisherman-bg.png
+  link:
+    link-text: See more stories of success
+    link-URL: #
+  content: |
+    Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+- featured: TRUE
+  language: ru
+  heading: Истории успеха
+  title: Sergi Rigov - Лосось Рыбак, Kiev Russia
+  image: fisherman-bg.png
+  link:
+    link-text: Посмотреть больше историй успеха
+    link-URL: #
+  content: |
+    Совместно управлять Усиленное рынки через плагин и играть сетях. Динамически откладывать пользователей B2C После установки базовых пособий. Резко себе клиентов, направленную сходимость без революционной ROI.
