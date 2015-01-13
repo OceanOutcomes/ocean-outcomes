@@ -1,6 +1,5 @@
 ---
 layout: content 
-parent: Who We Are
 title: Vision &amp; Mission
 ---
 
