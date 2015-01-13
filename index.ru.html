@@ -61,7 +61,7 @@ bodyclass: home
   </section>
 
   {% for block in site.data.featured-blocks %}
-    {% if block.featured %}
+    {% if block.featured and block.language == 'ru' %}
       <section class="home-success-stories">
         <div class="grid-container">
           <h1>{{block.heading}}</h1>
