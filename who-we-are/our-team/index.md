@@ -1,18 +1,6 @@
 ---
 layout: content 
-parent: Who We Are
-title: Vision &amp; Mission
-subnav:
-  -
-    title: Our Story
-    url: our-story.html 
-  -
-    title: Vision &amp; Mission 
-    url: vision-and-mission.html 
-    active: true
-  -
-    title: Our Team
-    url: our-team.html 
+title: Our Team
 ---
 
 # The city's most abused creek was showing signs of healing itself this fall.
