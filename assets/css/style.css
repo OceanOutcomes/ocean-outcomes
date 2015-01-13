@@ -591,10 +591,18 @@ body {
     float: left;
     display: block;
     margin-right: 2.35765%;
-    width: 65.88078%;
+    width: 100%;
     text-align: right; }
     .site-header .site-actions:last-child {
       margin-right: 0; }
+    @media screen and (min-width: 40em) {
+      .site-header .site-actions {
+        float: left;
+        display: block;
+        margin-right: 2.35765%;
+        width: 65.88078%; }
+        .site-header .site-actions:last-child {
+          margin-right: 0; } }
 
 .hero-home {
   background: url(../images/hero-bg.png) no-repeat;
@@ -1168,7 +1176,7 @@ body {
     .post .prev-next a:nth-child(2) {
       text-align: right; }
 
-.toggle.language, .toggle.navigation, .toggle.close {
+.toggle.language, .toggle.navigation, .toggle.close, .mobile-nav-toggle {
   line-height: 3.8125em;
   padding: 0.75em;
   text-transform: uppercase; }
@@ -1177,6 +1185,8 @@ body {
   background: #0071C5;
   left: 0;
   color: #FFFFFF;
+  float: left;
+  line-height: normal;
   font-size: 1em; }
   @media screen and (min-width: 40em) {
     .toggle.language {
@@ -1184,25 +1194,22 @@ body {
   .toggle.language i {
     color: #2B3A46; }
 
-footer .toggle.language {
-  display: initial; }
-
 .toggle.navigation {
-  background: none;
-  color: #FFFFFF;
+  background: #FFFFFF;
+  color: #303030;
   font-size: 1em; }
   .toggle.navigation i {
-    color: #FFFFFF; }
-  .toggle.navigation span {
-    display: none; }
+    color: #2B3A46; }
+
+.toggle.language,
+.toggle.navigation {
+  display: none;
+  margin-top: 1em; }
   @media screen and (min-width: 40em) {
+    .toggle.language,
     .toggle.navigation {
-      background: #FFFFFF;
-      color: #303030; }
-      .toggle.navigation span {
-        display: initial; }
-      .toggle.navigation i {
-        color: #2B3A46; } }
+      display: inline !important;
+      float: none; } }
 
 .toggle.close {
   background: none;
@@ -1210,6 +1217,26 @@ footer .toggle.language {
   color: #FFFFFF;
   display: none;
   padding: 0.584em; }
+
+.toggle.close.mobile-nav {
+  float: right;
+  line-height: normal;
+  margin-top: 1em; }
+  @media screen and (min-width: 40em) {
+    .toggle.close.mobile-nav {
+      display: none; } }
+
+footer .toggle.language {
+  display: initial; }
+
+.mobile-nav-toggle {
+  color: #FFFFFF;
+  float: right;
+  line-hight: normal;
+  padding: 0; }
+  @media screen and (min-width: 40em) {
+    .mobile-nav-toggle {
+      display: none !important; } }
 
 /* No files to import found in vendor/* */
 
