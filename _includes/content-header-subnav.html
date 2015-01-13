@@ -1,0 +1,30 @@
+{% assign url_parts = page.url | remove: 'index.html' | split: '/' %}
+{% assign url_parts_size = url_parts | size %}
+{% assign rm = url_parts | last %}
+{% assign base_url = page.url | replace: rm %}
+{% assign parent_url = base_url | append: 'index.html' %}
+
+<header class="content-header">
+  <section class="title">
+    {% for node in site.pages %}
+      {% if node.url == parent_url %}
+        <p class="section-title"><span>{{ node.title }}</span></p>
+        <h1>{{ page.title }}</h1>
+      {% endif %}
+    {% endfor %}
+  </section>
+</header>
+
+<section class="subnav">
+  <ul>
+    {% for node in site.pages %}
+      {% if node.url contains base_url %}
+        {% if node.url == page.url %}
+          <li><a class="active" href="{{node.url}}">{{node.title}}</a></li>
+        {% elsif node.url != parent_url %}
+          <li><a href="{{node.url}}">{{node.title}}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>

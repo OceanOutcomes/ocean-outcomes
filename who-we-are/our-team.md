@@ -1,7 +1,6 @@
 ---
 layout: content 
-parent: Who We Are
-title: Vision &amp; Mission
+title: Our Team
 ---
 
 # The city's most abused creek was showing signs of healing itself this fall.
