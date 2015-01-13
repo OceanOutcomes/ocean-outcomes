@@ -1,6 +1,5 @@
 {% assign url_parts = page.url | remove: 'index.html' | split: '/' %}
-{% assign url_parts_size = url_parts | size %}
-{% assign rm = url_parts | last %}
+{% assign rm = url_parts | last | append: '/index.html' %}
 {% assign base_url = page.url | replace: rm %}
 {% assign parent_url = base_url | append: 'index.html' %}
 
