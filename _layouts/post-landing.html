@@ -8,42 +8,39 @@ bodyclass: news news-listing
   </section>
 </header>
 
+{% assign sorted_posts = site.tags.und | reversed %}
 <section class="newest">
   <div class="grid-container">
     <h1>Newest Stories</h1>
     <div class="posts">
-      {% for post in site.posts %}
-        {% if post.newest %}
+      {% for post in sorted_posts limit:2 %}
         <div class="post">
-          <img src="{{sites.baseurl}}/{{ post.image }}">
+          <img src="{{sites.baseurl}}/{{ post.hero-image }}">
           <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-              {{post.title }}
+              {{ post.title }}
             </a>
           </h2>
-          <p class="post-blurb">{{ post.blurb }}</p>
+          <p class="post-teaser-text">{{ post.teaser-text }}</p>
         </div>
-        {% endif %}
       {% endfor %}
     </div>
   </div>
 </section>
 <section class="all-news">
-  {% for post in site.posts %}
-    {% if post.newest %}
+  {% for post in sorted_posts offset:2 %}
     <div class="post">
       <div class="grid-container">
-        <img src="{{sites.baseurl}}/{{ post.image }}">
+        <img src="{{sites.baseurl}}/{{ post.hero-image }}">
         <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             {{post.title }}
           </a>
         </h2>
-        <p class="post-blurb">{{ post.blurb }}</p>
+        <p class="post-teaser-text">{{ post.teaser-text }}</p>
       </div>
     </div>
-    {% endif %}
   {% endfor %}
 </section>
