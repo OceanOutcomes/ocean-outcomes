@@ -1,5 +1,5 @@
 ---
-layout: content 
+layout: page 
 title: Vision &amp; Mission
 banner-image: http://placehold.it/740x490
 subtitle: Some subtitle text

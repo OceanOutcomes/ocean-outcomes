@@ -1,5 +1,5 @@
 ---
-layout: content 
+layout: page 
 title: Our Story
 banner-image: http://placehold.it/740x490
 subtitle: Some subtitle text
