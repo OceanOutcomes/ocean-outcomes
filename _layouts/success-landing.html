@@ -1,0 +1,33 @@
+---
+layout: default
+bodyclass: news news-listing
+---
+<!-- PLACEHOLDER FOR NEW SUCCESS STORY LANDING TEMPLATE -->
+<!-- PLACEHOLDER FOR NEW SUCCESS STORY LANDING TEMPLATE -->
+<!-- PLACEHOLDER FOR NEW SUCCESS STORY LANDING TEMPLATE -->
+<!-- PLACEHOLDER FOR NEW SUCCESS STORY LANDING TEMPLATE -->
+
+<header class="news-header">
+  <section class="title">
+    <h1>{{ page.title }}</h1>
+  </section>
+</header>
+
+<section class="all-news">
+  {% for post in site.pages %}
+    {% if post.url contains 'success-stories' and post.url != page.url %}
+      {% assign post_url = post.url | remove: 'index.html' %}
+      <div class="post">
+        <div class="grid-container">
+          <img src="{{sites.baseurl}}/{{ post.hero-image }}">
+          <h2>
+            <a class="post-link" href="{{ post_url }}">
+              {{ post.title }}
+            </a>
+          </h2>
+          <p class="post-blurb">{{ post.teaser-text }}</p>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</section>
