@@ -24,3 +24,14 @@ def jekyll(opts = '')
   system 'rm -rf _site'
   system 'bundle exec jekyll ' + opts
 end
+
+# Amazon S3 publishing options
+desc "Generate and publish site to www.oceanoutcomes.org on Amazon S3."
+task :publish => [:build] do
+  system 'bundle exec s3_website push'
+end
+
+desc "Generate and publish site to stage.oceanoutcomes.org on Amazon S3."
+task :stage => [:build] do
+  system 'bundle exec s3_website push --config-dir=stage_config'
+end
