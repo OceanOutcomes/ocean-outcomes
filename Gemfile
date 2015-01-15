@@ -9,6 +9,8 @@ gem "bitters"
 gem "sass","3.4.9"
 gem "sass-globbing"
 gem "i18n"
+gem "s3_website", "~> 2.7.3"
+gem "rake", "~> 10"
 
 group :jekyll_plugins do
   gem "jekyll-i18n"
