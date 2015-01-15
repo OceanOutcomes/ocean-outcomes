@@ -1,4 +1,3 @@
-
 language: ruby
 rvm:
 - 2.2.0
@@ -18,5 +17,5 @@ branches:
   - live
 env:
   global:
-  - secure: EciSz3rL8k9q9SyyGGsKSzpwQzPp/234Xzk4vA6aRMbRxzEBCeD9J7CtCpon2sk8UtSO4cj6jpJtgPbGyyXbGw3pyIR4l6giDxdxu/PWxeHICnSQpf7lJQqz0dBRVFt8801VvcnknYLCDmX+VWUAI028PFBFFHhjVIC+AN0sezQ=
-  - secure: OsBYQUP/INNm/YHWaHAinX2Cg3ksjh6iRimWokUxOB0x8Vq4UX6Nno+HRNfxW5dDmG3zC3OlrTPa+ymDBwPiZKLoLRrleC58V568OKZNQUIw+fJnQj1m6w+pl4HZ2h4WTsMgIsCTOeVquKLHRnHfHneqBeLMHN/ATWsrI4N5YFk=
+  - secure: Q6mCAiVmO14syG10GKW0mEotPEUhAIfLKa2dzgRUDIoIhC2tl359WoO1skqBm5mthmzVz2BXwL2q5MRWFBn/ml41q96b1Fx/RR+WWj0+yfN8lMFNZrREI9g49PaL4Za5ByoMkiPuP0AHx+NXwJq6HAgFLRyKsLMJ0pFGjKYatR4=
+  - secure: ckdyojnsrpxr1MTzlwDo1IAw5VcuFRPzRbxJ97HDzE5+p8rJ9nzdi3Ujdp9fiJ8+fkjz5uZP0sS7SaXrnRy+w8tiUzppjcxsnpv8LdO6QhmGCujn5+tNo5gQqxSQoW0gekSwQq+Jz54l7EEAiijwO6OR9ZANvB645dzcGjFQzXs=
