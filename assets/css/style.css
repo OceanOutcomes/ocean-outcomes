@@ -1106,10 +1106,13 @@ body {
       padding-bottom: 1em; }
   .post .post-header h1 {
     color: #FFFFFF;
-    font-size: 3em;
+    font-size: 2em;
     position: relative;
     margin: 1em 0;
     z-index: 1; }
+    @media screen and (min-width: 40em) {
+      .post .post-header h1 {
+        font-size: 3em; } }
 
 .post .post-image {
   margin: 0 auto;
@@ -1119,7 +1122,10 @@ body {
 
 .post .article-content {
   margin: 2em auto 0;
-  width: 60%; }
+  width: 100%; }
+  @media screen and (min-width: 40em) {
+    .post .article-content {
+      width: 60%; } }
 
 .post h2, .post h3 {
   color: #00A6AE;
@@ -1128,10 +1134,16 @@ body {
   margin-bottom: 0.5em; }
 
 .post h2 {
-  font-size: 2.25em; }
+  font-size: 1.75em; }
+  @media screen and (min-width: 40em) {
+    .post h2 {
+      font-size: 2.25em; } }
 
 .post h3 {
-  font-size: 1.75em; }
+  font-size: 1.5em; }
+  @media screen and (min-width: 40em) {
+    .post h3 {
+      font-size: 1.75em; } }
 
 .post .meta {
   background: #FFFFFF;
@@ -1139,7 +1151,11 @@ body {
   text-align: center;
   padding: 1em 0; }
   .post .meta p {
+    font-size: 0.775em;
     margin: 0; }
+    @media screen and (min-width: 40em) {
+      .post .meta p {
+        font-size: 1em; } }
 
 .post .prev-next {
   padding: 2em 0 3em; }
