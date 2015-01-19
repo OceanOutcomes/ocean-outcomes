@@ -45,10 +45,14 @@
 
   h1 {
     color: $white;
-    font-size: em(48);
+    font-size: em(32);
     position: relative;
     margin: 1em 0;
     z-index: 1;
+
+    @include media($medium-screen) {
+      font-size: em(48);
+    }
   }
 }
 
@@ -60,7 +64,11 @@
 
 .post .article-content {
   margin: 2em auto 0;
-  width: 60%;
+  width: 100%;
+
+  @include media($medium-screen) {
+    width: 60%;
+  }
 }
 
 .post h2, .post h3 {
@@ -70,8 +78,21 @@
   margin-bottom: 0.5em;
 }
 
-.post h2 { font-size: em(36); }
-.post h3 { font-size: em(28); }
+.post h2 { 
+  font-size: em(28); 
+
+  @include media($medium-screen) {
+    font-size: em(36); 
+  }
+}
+
+.post h3 { 
+  font-size: em(24); 
+
+  @include media($medium-screen) {
+    font-size: em(28); 
+  }
+}
 
 // Meta
 .post .meta {
@@ -80,7 +101,13 @@
   text-align: center;
   padding: 1em 0;
 
-  p { margin: 0; }
+  p { 
+    font-size: 0.775em;
+    margin: 0; 
+    @include media($medium-screen) {
+      font-size: 1em;
+    }
+  }
 }
 
 // Previous and Next Post
