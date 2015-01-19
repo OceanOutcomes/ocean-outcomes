@@ -18,6 +18,9 @@ bodyclass: news news-article
     </p>
   </section>
   <article class="post-content">
+    {% if page.youtube %}
+      {% youtube page.youtube %}
+    {% endif %}
     {% if page.hero-image %}
     <section class="post-image">
       <img src="{{site.baseurl}}/{{page.hero-image}}" alt="{{page.imagealt}}">
