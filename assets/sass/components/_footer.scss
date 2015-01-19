@@ -16,6 +16,15 @@
     margin-bottom: 1em;
     
     li { display: inline }
+    li.last {
+      display: inline-block;
+      overflow: hidden;
+      text-align: center;
+
+      @include media($medium-screen) {
+        display: inline;
+      }
+    }
 
     li a { 
       color: $white;
@@ -29,7 +38,9 @@
   }
 
   .logo-container {
+    clear: left;
     text-align: center;
+  
     a {
       @include retina-image('../images/logo', 100% 100%); 
       @include hide-text;

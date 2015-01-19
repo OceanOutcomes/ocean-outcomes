@@ -532,6 +532,13 @@ body {
     margin-bottom: 1em; }
     .site-footer ul li {
       display: inline; }
+    .site-footer ul li.last {
+      display: inline-block;
+      overflow: hidden;
+      text-align: center; }
+      @media screen and (min-width: 40em) {
+        .site-footer ul li.last {
+          display: inline; } }
     .site-footer ul li a {
       color: #FFFFFF;
       padding: 1em;
@@ -540,6 +547,7 @@ body {
       .site-footer ul {
         margin-bottom: 3em; } }
   .site-footer .logo-container {
+    clear: left;
     text-align: center; }
     .site-footer .logo-container a {
       background-image: url("../images/logo.png");
