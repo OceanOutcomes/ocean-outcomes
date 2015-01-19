@@ -1176,6 +1176,28 @@ body {
     .post .prev-next a:nth-child(2) {
       text-align: right; }
 
+.page-content .share-button.sharer-0 {
+  text-align: center;
+  width: auto; }
+
+.page-content .share-button.sharer-0 label {
+  background: none;
+  border: 2px solid #0071C5;
+  border-radius: 0;
+  color: #0071C5;
+  display: inline; }
+  .page-content .share-button.sharer-0 label:hover {
+    background: #0071C5 !important;
+    color: #FFFFFF !important; }
+  .page-content .share-button.sharer-0 label span {
+    font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+    font-weight: normal; }
+
+.page-content .share-button.sharer-0 .social.networks-5.center,
+.page-content .share-button.sharer-0 .social.active.top {
+  margin-left: auto;
+  margin-right: auto; }
+
 .toggle.language, .toggle.navigation, .toggle.close, .mobile-nav-toggle {
   line-height: 3.8125em;
   padding: 0.75em;
