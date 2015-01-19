@@ -1153,6 +1153,15 @@ body {
   .post .post-image img {
     width: 100%; }
 
+.post .post-image {
+  margin: 0 auto;
+  width: 100%; }
+  .post .post-image image {
+    width: 100%; }
+  @media screen and (min-width: 40em) {
+    .post .post-image {
+      width: 75%; } }
+
 .post .article-content {
   margin: 2em auto 0;
   width: 100%; }
@@ -1364,6 +1373,18 @@ footer .toggle.language {
   @media screen and (min-width: 40em) {
     .mobile-nav-toggle {
       display: none !important; } }
+
+.post .post-video {
+  margin: 0 auto;
+  width: 100%; }
+  .post .post-video iframe {
+    width: 100%; }
+  @media screen and (min-width: 40em) {
+    .post .post-video {
+      width: 75%; } }
+
+iframe {
+  width: 100%; }
 
 /* No files to import found in vendor/* */
 

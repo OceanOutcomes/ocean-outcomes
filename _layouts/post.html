@@ -18,8 +18,11 @@ bodyclass: news news-article
     </p>
   </section>
   <article class="post-content">
-    {% if page.youtube %}
-      {% youtube page.youtube %}
+    {% if page.video %}
+    <section class="post-video">
+      <div class="outer-container">
+      </div>
+    </section>
     {% endif %}
     {% if page.hero-image %}
     <section class="post-image">
