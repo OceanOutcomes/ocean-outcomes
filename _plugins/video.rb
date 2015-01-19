@@ -1,4 +1,4 @@
-class YouTube < Liquid::Tag
+class Video < Liquid::Tag
   Syntax = /^\s*([^\s]+)(\s+(\d+)\s+(\d+)\s*)?/
   def initialize(tagName, markup, tokens)
     super
@@ -19,8 +19,8 @@ class YouTube < Liquid::Tag
   end
 
   def render(context)
-    "<iframe width=\"#{@width}\" height=\"#{@height}\" src=\"http://www.youtube.com/embed/#{@id}?color=white&theme=light\"></iframe>"
+    "<iframe frameborder=\"0\" width=\"#{@width}\" height=\"#{@height}\" src=\"http://www.youtube.com/embed/#{@id}?color=white&theme=light\"></iframe>"
   end
 
-   Liquid::Template.register_tag "youtube", self
+   Liquid::Template.register_tag "video", self
 end

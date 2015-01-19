@@ -1,0 +1,11 @@
+.post .post-video {
+  margin: 0 auto;
+  width: 100%; 
+  iframe { width: 100%; }
+
+  @include media($medium-screen) {
+    width: 75%;
+  }
+}
+
+iframe { width: 100%; }
