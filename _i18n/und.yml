@@ -20,14 +20,15 @@ und:
   ### Top level menu item
   what-we-do: "What We Do"
   #### Sub-menu items
-  our-services: "Our Services"
+  our-work: "Our Work"
+  services: "Services"
   success-stories: "Success Stories"
   ### Top level menu item
   sustainable-fisheries: "Sustainable Fisheries"
   #### Sub-menu items
-  our-fisheries: "Our Fisheries"
-  initiatives: "Initiatives"
-  resources: "Resources"
+  russia: "Russia"
+  japan: "Japan"
+  initiatives-resources: "Initiatives/Resources"
 
   ## News section
   news-section-heading: "News & Analysis"
