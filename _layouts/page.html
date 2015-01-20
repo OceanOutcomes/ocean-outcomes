@@ -2,7 +2,7 @@
 layout: default
 bodyclass: content-page
 ---
-<div class="content-page-content">
+<div class="content-page-content {{page.title | downcase | replace: ' ', '-' }}">
   
   {% include content-header-subnav.html %}
 
