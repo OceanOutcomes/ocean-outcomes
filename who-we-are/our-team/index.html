@@ -1,0 +1,25 @@
+---
+layout: page 
+title: Our Team
+banner-image: http://placehold.it/740x490
+subtitle: Some subtitle text
+hero-image: landing-sections/vision-and-mission-hover.jpg
+teaser-text: This will show up on the landing page list
+---
+
+<ul id="og-grid" class="og-grid">
+{% for person in site.data.staff %}
+  <li>
+     <a href="/"
+       data-largesrc="{{site.baseurl}}/assets/images/staff-image-large.jpg"
+       data-title="{{person.name}}" data-description="{{person.bio}}"
+       data-position="{{person.title}}">
+      <img src="{{site.baseurl}}/assets/images/staff-image.jpg" alt="img01"/>
+      <span class="initial-details">
+        <span class="og-name">{{person.name}}</span>
+        <span class="og-title">{{person.title}}</span>
+      </span>
+    </a>
+  </li>
+{% endfor %}
+</ul>
