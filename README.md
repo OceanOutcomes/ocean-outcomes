@@ -1,4 +1,8 @@
 # Content Management
+##Content staging URLs
+* [Staging site](http://stage.oceanoutcomes.org.s3-website-us-east-1.amazonaws.com/)
+* [Live site](http://www.oceanoutcomes.org.s3-website-us-east-1.amazonaws.com/)
+
 ##Content Type and field map
 [O2 Content Types.pdf](/O2 Content Types.pdf) maps out all Content Types that are available and which fields exist for each. Use this as a reference when creating new or editing existing content.
 
