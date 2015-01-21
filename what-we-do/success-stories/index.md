@@ -1,4 +1,4 @@
 ---
-layout: success-landing 
+layout: action-landing 
 title: Success Stories
 ---

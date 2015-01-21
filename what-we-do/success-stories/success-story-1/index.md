@@ -1,5 +1,5 @@
 ---
-layout: success
+layout: action
 title:  "Success Story 1"
 hero-image: assets/images/posts/news-item-1.jpg
 teaser-text: |
