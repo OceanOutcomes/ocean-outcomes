@@ -1,19 +1,14 @@
 ---
 layout: default
-bodyclass: success-story 
+bodyclass: news news-listing
 ---
-<!-- PLACEHOLDER FOR NEW SUCCESS STORY LANDING TEMPLATE -->
-<!-- PLACEHOLDER FOR NEW SUCCESS STORY LANDING TEMPLATE -->
-<!-- PLACEHOLDER FOR NEW SUCCESS STORY LANDING TEMPLATE -->
-<!-- PLACEHOLDER FOR NEW SUCCESS STORY LANDING TEMPLATE -->
-
-<header class="success-header">
+<header class="news-header">
   <section class="title">
     <h1>{{ page.title }}</h1>
   </section>
 </header>
 
-<section class="all-stories">
+<section class="all-news">
   {% for post in site.pages %}
     {% if post.url contains 'success-stories' and post.url != page.url %}
       {% assign post_url = post.url | remove: 'index.html' %}
