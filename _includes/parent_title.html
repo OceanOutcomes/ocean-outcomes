@@ -1,0 +1,8 @@
+{% include parent_url.html %}
+
+{% for node in site.pages %}
+  {% assign node_url = node.url | remove: 'index.html' %}
+  {% if node_url == parent_url %}
+    {% assign parent_title = node.title %}
+  {% endif %}
+{% endfor %}

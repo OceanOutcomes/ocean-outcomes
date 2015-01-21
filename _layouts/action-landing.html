@@ -1,26 +1,25 @@
 ---
 layout: default
-bodyclass: news news-listing
+bodyclass: news
 ---
-<header class="news-header">
-  <section class="title">
-    <h1>{{ page.title }}</h1>
-  </section>
-</header>
+
+{% include content-header.html %}
+
+{% include child_depth.html %}
 
 <section class="all-news">
-  {% for post in site.pages %}
-    {% if post.url contains 'success-stories' and post.url != page.url %}
-      {% assign post_url = post.url | remove: 'index.html' %}
+  {% for node in site.pages %}
+    {% include node_depth.html %}
+    {% if node_url contains page_url and node_depth == child_depth %}
       <div class="post">
         <div class="grid-container">
-          <img src="{{sites.baseurl}}/{{ post.hero-image }}">
+          <img src="{{sites.baseurl}}/{{ node.hero-image }}">
           <h2>
-            <a class="post-link" href="{{ post_url }}">
-              {{ post.title }}
+            <a class="post-link" href="{{ node_url }}">
+              {{ node.title }}
             </a>
           </h2>
-          <p class="post-teaser-text">{{ post.teaser-text }}</p>
+          <p class="post-teaser-text">{{ node.teaser-text }}</p>
         </div>
       </div>
     {% endif %}

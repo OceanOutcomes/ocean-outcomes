@@ -12,8 +12,9 @@ port: 4000
 
 twitter_handle: 
 
-# Permalink Configuration
-permalink: /:year/:month/:title
+# Permalink Configuration - need to add 'index.html' to posts to get them to
+# behave like pages, which we're doing some clever automated menu generation with.
+permalink: /news/:title/index.html
 
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'config.rb', 'assets/sass',  'node_modules', 'Procfile']
 

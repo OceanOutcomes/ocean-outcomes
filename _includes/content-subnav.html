@@ -1,18 +1,5 @@
 {% include parent_url.html %}
 
-<header class="content-header">
-  <section class="title">
-    {% for node in site.pages %}
-      {% assign node_url = node.url | remove: 'index.html' %}
-      {% if node_url == parent_url %}
-        <p class="section-title"><span>{{ node.title }}</span></p>
-        <h1>{{ page.title }}</h1>
-        <p>{{ page.subtitle }}</p>
-      {% endif %}
-    {% endfor %}
-  </section>
-</header>
-
 <section class="subnav">
   <ul>
     {% for node in site.pages %}

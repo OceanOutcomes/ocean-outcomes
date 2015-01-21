@@ -4,7 +4,8 @@ bodyclass: content-page
 ---
 <div class="content-page-content {{page.title | downcase | replace: ' ', '-' }}">
   
-  {% include content-header-subnav.html %}
+  {% include content-header.html %}
+  {% include content-subnav.html %}
 
   <article>
     <div class="grid-container">
