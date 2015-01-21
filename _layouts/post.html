@@ -18,12 +18,19 @@ bodyclass: news news-article
     </p>
   </section>
   <article class="post-content">
+    {% if page.video %}
+    <section class="post-video">
+      <div class="outer-container">
+      </div>
+    </section>
+    {% endif %}
     {% if page.hero-image %}
     <section class="post-image">
       <img src="{{site.baseurl}}/{{page.hero-image}}" alt="{{page.imagealt}}">
     </section>
     {% endif %}
     <section class="article-content"> 
+      <div class="share-button"></div>
       {{ content }}
     </section>
   </article>

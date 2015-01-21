@@ -1,9 +1,13 @@
 .content-page .content-header {
   background: $abyss url(../images/content-header-bg.png) no-repeat;
   background-size: cover;
-  height: em(580);
+  height: em(380);
   position: relative;
   text-align: center;
+
+  @include media($medium-screen) {
+    height: em(580);
+  }
 
   &:after {
     background: rgba($abyss, 0.5);
@@ -41,10 +45,14 @@
 
   h1 {
     color: $white;
-    font-size: em(48);
+    font-size: em(32);
     position: relative;
     margin: 1em 0;
     z-index: 1;
+
+    @include media($medium-screen) {
+      font-size: em(48);
+    }
   }
 }
 
@@ -54,45 +62,62 @@
 
   ul {
     border-bottom: em(1) solid $light-gray;
-    padding: 0.75em 0.75em 0.7em;
+
+    @include media($medium-screen) {
+      padding: 0.75em 0.75em 0.7em;
+    }
   }
 
   ul li {
-    display: inline-block; 
-    margin-left: em(-5);
-    margin-right: em(-5);
-    position: relative;
+    @include media($medium-screen) {
+      display: inline-block; 
+      margin-left: em(-5);
+      margin-right: em(-5);
+      position: relative;
+    }
   }
 
   ul li a {
     color: $black;
     padding: 1em;
     text-transform: uppercase;
+    display: block;
+
+    @include media($medium-screen) {
+      display: initial;
+    }
 
     &:hover,
     &.active {
       color: $white;
       background: $aqua; 
       
-      &.active:after {
-        content: "";
-        position: absolute;
-        bottom: -1.1em;
-        left: calc(50% - 5px);
-        display: block;
-        width: 0; 
-        height: 0; 
-        border-left: 10px solid transparent;
-        border-right: 10px solid transparent;
-        border-top: 10px solid $aqua;
+      @include media($medium-screen) {
+        &.active:after {
+          content: "";
+          position: absolute;
+          bottom: -1.1em;
+          left: calc(50% - 5px);
+          display: block;
+          width: 0; 
+          height: 0; 
+          border-left: 10px solid transparent;
+          border-right: 10px solid transparent;
+          border-top: 10px solid $aqua;
+        }
       }
     }
   }
 }
 
 .content-page .content-page-content article {
-  @include span-columns(8);
-  @include shift(2);
+  @include span-columns(12);
+  @include shift(0);
+
+  @include media($medium-screen) {
+    @include span-columns(8);
+    @include shift(2);
+  }
 
   padding-bottom: 3em;
 
