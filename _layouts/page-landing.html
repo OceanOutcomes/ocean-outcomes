@@ -10,11 +10,11 @@ bodyclass: landing
   </section>
 </header>
 
-{% assign page_url = page.url | remove: 'index.html' %}
+{% include child_depth.html %}
 
 {% for node in site.pages %}
-  {% if node.url contains page_url %}
-    {% assign node_url = node.url | remove: 'index.html' %}
+  {% include node_depth.html %}
+  {% if node_url contains page_url and node_depth == child_depth %}
     {% if node_url != page_url%}
       <article class="landing-section {{node.title | downcase | replace: ' ', '-'}}">
         <section class="details">
