@@ -46,6 +46,16 @@ of a news article. And now and image after this paragraph.
 ![alt-text](https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/images/200x200.gif)
 ```
 
+##Markdown notes
+* Use a pipe followed by a newline to get markdown working from variables. Variables always looks like ```key: value```. Some examples are what you see in the header of [a page](who-we-are/index.md) or entire data files like what you see in [featured-blocks.yml](_data/featured-blocks.yml).
+
+Example: 
+```
+title-text: This text does not support markdown
+teaser-text: | 
+	Some text containing markdown
+```
+
 # Getting started for Development
 To get up and running:
 
