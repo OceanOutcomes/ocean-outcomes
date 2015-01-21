@@ -13,7 +13,7 @@ bodyclass: content-page
           <li>
              <a href="/"
                data-largesrc="{{site.baseurl}}/assets/images/staff-image-large.jpg"
-               data-title="{{person.name}}" data-description="{{person.bio}}"
+               data-title="{{person.name}}" data-description="{{person.bio | markdownify}}"
                data-position="{{person.title}}">
               <img src="{{site.baseurl}}/assets/images/staff-image.jpg" alt="img01"/>
               <span class="initial-details">
