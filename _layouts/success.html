@@ -2,13 +2,7 @@
 layout: default
 bodyclass: news news-article
 ---
-<!-- PLACEHOLDER FOR NEW SUCCESS STORY TEMPLATE -->
-<!-- PLACEHOLDER FOR NEW SUCCESS STORY TEMPLATE -->
-<!-- PLACEHOLDER FOR NEW SUCCESS STORY TEMPLATE -->
-<!-- PLACEHOLDER FOR NEW SUCCESS STORY TEMPLATE -->
-
 <div class="post">
-
   <header class="post-header">
     <section class="title">
       <p class="section-title"><span>Success Stories</span></p>
@@ -18,11 +12,11 @@ bodyclass: news news-article
 
   <section class="meta">
     <p class="meta-data">
-    {% include parent-url.html %}
-    <a href="{{parent_url}}">Back to Success Stories</a> | Published 
-      {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+      {% include parent-url.html %}
+      <a href="{{parent_url}}">&laquo Back to Success Stories</a>
     </p>
   </section>
+
   <article class="post-content">
     {% if page.hero-image %}
     <section class="post-image">
