@@ -1,0 +1,22 @@
+---
+layout: default
+bodyclass: news
+---
+
+{% include content-header.html %}
+
+{% include child_depth.html %}
+
+<section class="all-news">
+  {% for resource in site.data.resources %}
+    <div class="post">
+      <div class="grid-container">
+        <img src="{{sites.baseurl}}/{{ resource.hero-image }}">
+        <h2>
+          {{ resource.title }}
+        </h2>
+        <p class="post-teaser-text">{{ resource.teaser-text }}</p>
+      </div>
+    </div>
+  {% endfor %}
+</section>
