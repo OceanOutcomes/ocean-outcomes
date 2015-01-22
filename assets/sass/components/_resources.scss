@@ -1,0 +1,39 @@
+.resources .content-header {
+  background: $abyss url(../images/post-header-bg.png) no-repeat;
+  height: em(400);
+
+  section.title {
+    top: 50%;
+  }
+}
+
+
+.resources .resources-list {
+  .post {
+    border-bottom: em(1) solid $light-gray;
+    padding: 1em;
+    @include media($medium-screen) {
+      padding: 3em;
+      @include span-columns(12);
+    }
+  }
+
+  .image-container {
+    @include span-columns(12 of 12);
+    @include media($medium-screen) {
+      @include span-columns(5 of 12);
+    }
+    img { width: 100%; }
+  }
+
+  .details {
+    @include span-columns(12 of 12);
+    @include media($medium-screen) {
+      @include span-columns(7 of 12);
+    }
+  }
+
+  .post h2 {
+    font-size: em(24);
+  }
+}
