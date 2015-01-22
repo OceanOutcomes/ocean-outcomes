@@ -1,0 +1,25 @@
+---
+layout: default
+bodyclass: resources
+---
+
+{% include content-header.html %}
+
+{% include child_depth.html %}
+
+<section class="resources-list">
+  {% for resource in site.data.resources %}
+    <div class="post">
+      <div class="grid-container">
+        <div class="image-container">
+          <img src="{{sites.baseurl}}/{{ resource.hero-image }}">
+        </div>
+        <div class="details">
+          <h2>{{ resource.title }}</h2>
+          <p class="post-teaser-text">{{ resource.teaser-text }}</p>
+          <a class="button-large" href="{{ resource.download-url }}">Download</a>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</section>
