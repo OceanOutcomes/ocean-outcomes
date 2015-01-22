@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Our Story
+title: Services
 banner-image: http://placehold.it/740x490
 subtitle: Some subtitle text
 hero-image: landing-sections/vision-and-mission-hover.jpg
