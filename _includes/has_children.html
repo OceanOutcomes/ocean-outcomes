@@ -1,0 +1,7 @@
+{% assign has_children = false %}
+{% for child in secondary %}
+  {% assign child-info = child | split: '|' %}
+  {% if child-info[0] contains parent-info[0] %}
+    {% capture has_children %}true{% endcapture %}
+  {% endif %}
+{% endfor %}
