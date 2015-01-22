@@ -1,6 +1,6 @@
 ---
 layout: action
-title:  "Success Story 1"
+title:  "Hokkaido Fishery Improvements"
 hero-image: assets/images/posts/news-item-1.jpg
 teaser-text: |
   Positive reforms in Japan are a result of retooled management policies and improved habitat access.
