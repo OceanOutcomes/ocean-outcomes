@@ -85,7 +85,7 @@ title: Home | Ocean Outcomes
         {% for post in site.tags.und %}
           {% if post.featured %}
             <div class="post">
-              <img src="{{ post.image }}">
+              <img src="{{ post.hero-image }}">
               <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
               <h2>
                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -97,6 +97,6 @@ title: Home | Ocean Outcomes
           {% endif %}
         {% endfor %}
       </div>
-      <a class="button-large" href="{{site.baseurl}}/news">{%t news-section-link-text %}</a>
+      <a class="button-large" href="/news">{%t news-section-link-text %}</a>
     </div>
   </section>
