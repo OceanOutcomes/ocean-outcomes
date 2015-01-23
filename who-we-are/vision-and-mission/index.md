@@ -5,6 +5,7 @@ banner-image: http://placehold.it/740x490
 subtitle: 
 hero-image: landing-sections/vision-and-mission-hover.jpg
 teaser-text: We envision a future with healthy aquatic ecosystems, a plentiful wild seafood supply, and thriving fishing communities.
+weight: 2
 ---
 
 ## Locally led, industry supported fishery improvements
