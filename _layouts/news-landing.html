@@ -12,7 +12,7 @@ bodyclass: news
     <div class="posts">
       {% for post in sorted_posts limit:2 %}
         <div class="post">
-          <img src="{{sites.baseurl}}/{{ post.hero-image }}">
+          <img src="{{ post.hero-image }}">
           <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -29,11 +29,11 @@ bodyclass: news
   {% for post in sorted_posts offset:2 %}
     <div class="post">
       <div class="grid-container">
-        <img src="{{sites.baseurl}}/{{ post.hero-image }}">
+        <img src="{{ post.hero-image }}">
         <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{post.title }}
+          <a class="post-link" href="{{ post.url }}">
+            {{ post.title }}
           </a>
         </h2>
         <p class="post-teaser-text">{{ post.teaser-text }}</p>
