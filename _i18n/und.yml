@@ -28,7 +28,8 @@ und:
   #### Sub-menu items
   russia: "Russia"
   japan: "Japan"
-  initiatives-resources: "Initiatives/Resources"
+  initiatives: "Initiatives"
+  resources: "Resources"
 
   ## News section
   news-section-heading: "News & Analysis"
