@@ -1,9 +1,12 @@
 {% include parent_url.html %}
 
+{% include child_depth.html %}
+
 <section class="subnav">
   <ul>
     {% for node in site.pages %}
-      {% if node.url contains parent_url %}
+      {% include node_depth.html %}
+      {% if node.url contains parent_url and page_depth == node_depth %}
         {% assign node_url = node.url | remove: 'index.html' %}
         {% if node_url == page_url %}
           <li><a class="active" href="{{node_url}}">{{node.title}}</a></li>
