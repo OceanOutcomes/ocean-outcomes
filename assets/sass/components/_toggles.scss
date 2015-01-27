@@ -66,6 +66,10 @@
 
 footer .toggle.language {
   display: initial;
+
+  @include media($medium-screen) {
+    float: none;
+  }
 }
 
 .mobile-nav-toggle {

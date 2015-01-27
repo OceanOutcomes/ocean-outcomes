@@ -98,8 +98,8 @@ $(document).ready(function() {
         $('.toggle.language').addClass('animated flipInX').show();
         $('.logo-container').hide();
         $('.toggle.close.mobile-nav').show().addClass('flipInX');
-        $('.main-menu-container').fadeToggle();
-        $('.page-content').fadeToggle();
+        $('.main-menu-container').fadeIn();
+        $('.page-content').fadeOut();
       });
       
       // Mobile language toggle
@@ -117,7 +117,30 @@ $(document).ready(function() {
         $('.small-screen-menu .toggle.language').hide(); 
         $('.language-menu-container').hide();
         $('.main-menu-container, .language-menu-container').hide();
-        $('.page-content').fadeIn();
+        $('.page-content, footer').fadeIn();
+      });
+
+      // Footer language toggle 
+      $('footer .toggle.language').click(function(e){
+        e.preventDefault();
+        $('.language-menu-container').fadeIn();
+        if($(window).width() > 640) {
+          $('.large-screen-menu .toggle.close.nav').show().addClass('flipInX');
+          $('.large-screen-menu .toggle.navigation').hide().removeClass('flipInX');
+        } else {
+          $('.small-screen-menu .toggle.language').addClass('animated flipInX').show();
+          $('.logo-container, .mobile-nav-toggle').hide();
+          $('.small-screen-menu .toggle.close.mobile-nav').show().addClass('flipInX');
+        }
+
+        if ($('.main-menu-container').is(':visible')) {
+          $('.main-menu-container').hide();
+        }
+        $('.page-content, footer').hide();
+
+        $('html, body').animate({
+          scrollTop: $('html, body').offset().top 
+        }, 0);
       });
 
       $('.landing-section').on({

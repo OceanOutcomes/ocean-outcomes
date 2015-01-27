@@ -1553,6 +1553,9 @@ body {
 
 footer .toggle.language {
   display: initial; }
+  @media screen and (min-width: 40em) {
+    footer .toggle.language {
+      float: none; } }
 
 .mobile-nav-toggle {
   color: #FFFFFF;
