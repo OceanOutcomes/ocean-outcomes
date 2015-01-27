@@ -674,6 +674,14 @@ body {
         width: 65.88078%; }
         .site-header .site-actions:last-child {
           margin-right: 0; } }
+  .site-header .large-screen-menu {
+    display: none; }
+    @media screen and (min-width: 40em) {
+      .site-header .large-screen-menu {
+        display: block; } }
+  @media screen and (min-width: 40em) {
+    .site-header .small-screen-menu {
+      display: none; } }
 
 .hero-home {
   background: url(../images/hero-bg.png) no-repeat;
