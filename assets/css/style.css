@@ -424,22 +424,21 @@ body {
     color: #FFFFFF;
     position: absolute;
     text-align: center;
-    top: 45%;
+    top: 35%;
     width: 100%;
     z-index: 1; }
     .content-header section.title span {
       border-bottom: 0.125em solid #FFFFFF;
       padding-bottom: 1em; }
-  .content-header section-title h1 {
+  .content-header section.title h1 {
     color: #FFFFFF;
     font-size: 3em;
     position: relative;
     margin: 1em 0 0;
     z-index: 1; }
-    .content-header section-title h1:after {
+    .content-header section.title h1:after {
       content: "";
       display: block;
-      border-bottom: 0.0625em solid #FFFFFF;
       margin: 0.5em auto;
       width: 15%; }
   .content-header section.title p {
@@ -469,7 +468,7 @@ body {
   .content-page .content-header section.title {
     position: absolute;
     text-align: center;
-    top: 60%;
+    top: 45%;
     width: 100%;
     z-index: 1; }
   .content-page .content-header .section-title {
@@ -482,7 +481,7 @@ body {
     color: #FFFFFF;
     font-size: 2em;
     position: relative;
-    margin: 1em 0;
+    margin: 1em 0 0;
     z-index: 1; }
     @media screen and (min-width: 40em) {
       .content-page .content-header h1 {

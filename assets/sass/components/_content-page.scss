@@ -28,7 +28,7 @@
   section.title {
     position: absolute;
     text-align: center;
-    top: 60%;
+    top: 45%;
     width: 100%;
     z-index: 1;
   }
@@ -47,7 +47,7 @@
     color: $white;
     font-size: em(32);
     position: relative;
-    margin: 1em 0;
+    margin: 1em 0 0;
     z-index: 1;
 
     @include media($medium-screen) {
