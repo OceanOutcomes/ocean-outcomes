@@ -37,56 +37,62 @@ $(document).ready(function() {
 
     init: function() {
 
-      $('.toggle.close.nav').click(function(e){
+      // Large screen language toggle
+      $('.large-screen-menu .toggle.language').click(function(e){
         e.preventDefault();
-        $(this).removeClass('flipInX').hide();
-        $('.toggle.navigation').show().addClass('flipInX');
-        $('.main-menu-container').fadeToggle();
-        $('.page-content').fadeIn();
+        $('.large-screen-menu .toggle.close.nav').show().addClass('flipInX');
+        $('.large-screen-menu .toggle.navigation').hide().removeClass('flipInX');
+        $('.language-menu-container').fadeIn();
+        if ($('.main-menu-container').is(':visible')) {
+          $('.main-menu-container').hide();
+        }
+        $('.page-content').hide();
       });
 
-      $('.toggle.close.lang').click(function(e){
+      // Large screen menu toggle
+      $('.large-screen-menu .toggle.navigation').click(function(e){
         e.preventDefault();
         $(this).removeClass('flipInX').hide();
-        $('.toggle.language').show().addClass('flipInX');
+        $('.page-content, footer').hide();
+        $('.large-screen-menu .toggle.close.nav').addClass('flipInX').show();
+        $('.language-menu-container').hide();
+        $('.main-menu-container').fadeIn();
+        if($('.language-menu-container').is(':visible')) {
+          $('.language-menu-container').Hide();
+        }
+      });
+
+      // Large screen menu close button
+      $('.large-screen-menu .toggle.close.nav').click(function(e){
+        e.preventDefault();
+        $(this).removeClass('flipInX').hide();
+        $('.large-screen-menu .toggle.navigation').addClass('flipInX').show();
+        $('.main-menu-container, .language-menu-container').hide();
+        $('.page-content, footer').fadeIn();
+      });
+
+      // Large screen language close button
+      $('.large-screen-menu .toggle.close.lang').click(function(e){
+        e.preventDefault();
+        $(this).removeClass('flipInX').hide();
+        $('.large-screen-menu .toggle.language').show().addClass('flipInX');
         $('.language-menu-container').fadeToggle();
-        $('.page-content').fadeIn();
+        $('.page-content, footer').fadeIn();
       });
 
-      $('.toggle.close.mobile-nav').click(function(e){
+      // Mobile nav close button
+      $('.small-screen-menu .toggle.close.mobile-nav').click(function(e){
         e.preventDefault();
         $(this).removeClass('flipInX').hide();
         $('.mobile-nav-toggle').show().addClass('flipInX');
-        $('.toggle.language').hide();
+        $('.small-screen-menu .toggle.language').hide();
         $('.logo-container').addClass('animated flipInY').show();
         $('.main-menu-container').fadeToggle();
         $('.page-content').fadeIn();
       });
 
-      $('.large-screen-menu .toggle.language').click(function(e){
-        e.preventDefault();
-
-        $(this).removeClass('flipInX').hide();
-        $('.toggle.close.lang').show().addClass('flipInX');
-        $('.language-menu-container').fadeToggle();
-        if ($('.main-menu-container').is(':visible')) {
-          $('.main-menu-container').fadeOut();
-        }
-        $('.page-content').fadeToggle();
-      });
-
-      $('.toggle.navigation').click(function(e){
-        e.preventDefault();
-        $(this).removeClass('flipInX').hide();
-        $('.toggle.close.nav').show().addClass('flipInX');
-        $('.main-menu-container').fadeToggle();
-        if ($('.language-menu-container').is(':visible')) {
-          $('.language-menu-container').fadeOut();
-        }
-        $('.page-content').fadeToggle();
-      });
-
-      $('.mobile-nav-toggle').click(function(e) {
+      // Mobile nav toggle (hamburger icon)
+      $('.small-screen-menu .mobile-nav-toggle').click(function(e) {
         e.preventDefault();
         $(this).removeClass('flipInX').hide();
         $('.toggle.language').addClass('animated flipInX').show();
@@ -99,11 +105,8 @@ $(document).ready(function() {
       // Mobile language toggle
       $('.small-screen-menu .toggle.language').click(function(e){
         e.preventDefault();
-
         $('.language-menu-container').fadeIn();
-
         $('.main-menu-container').fadeOut();
-
         $('.page-content').hide();
       });
 
@@ -111,6 +114,7 @@ $(document).ready(function() {
       $('.small-screen-menu .toggle.close').click(function(e){
         e.preventDefault();
         $(this).removeClass('flipInX').hide();
+        $('.small-screen-menu .toggle.language').hide(); 
         $('.language-menu-container').hide();
         $('.main-menu-container, .language-menu-container').hide();
         $('.page-content').fadeIn();

@@ -1522,15 +1522,19 @@ body {
   .toggle.navigation i {
     color: #2B3A46; }
 
-.toggle.language,
-.toggle.navigation {
+.large-screen-menu .toggle.language,
+.large-screen-menu .toggle.navigation {
+  margin-top: 1em;
+  display: none; }
+  @media screen and (min-width: 40em) {
+    .large-screen-menu .toggle.language,
+    .large-screen-menu .toggle.navigation {
+      display: inline;
+      float: none; } }
+
+.small-screen-menu .toggle.language {
   display: none;
   margin-top: 1em; }
-  @media screen and (min-width: 40em) {
-    .toggle.language,
-    .toggle.navigation {
-      display: inline !important;
-      float: none; } }
 
 .toggle.close {
   background: none;

@@ -29,15 +29,20 @@
   i { color: $abyss; }
 }
 
-.toggle.language, 
-.toggle.navigation {
-  display: none;
+.large-screen-menu .toggle.language, 
+.large-screen-menu .toggle.navigation {
   margin-top: 1em;
+  display: none;
 
   @include media($medium-screen) {
-    display: inline !important;
+    display: inline;
     float: none;
   }
+}
+
+.small-screen-menu .toggle.language {
+  display: none;
+  margin-top: 1em;
 }
 
 .toggle.close {
