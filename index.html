@@ -25,7 +25,6 @@ title: Home | Ocean Outcomes
       </li>
       <li class="drop-down-menu">
         <ul>
-          <li><a href="/who-we-are/our-story">{%t our-story %}</a></li>
           <li><a href="/who-we-are/vision-and-mission">{%t vision-mission %}</a></li>
           <li><a href="/who-we-are/our-team">{%t our-team %}</a></li>
         </ul>
@@ -53,9 +52,10 @@ title: Home | Ocean Outcomes
       </li>
       <li class="drop-down-menu">
         <ul>
-          <li><a href="/sustainable-fisheries/russia">{%t russia %}</a></li>
           <li><a href="/sustainable-fisheries/japan">{%t japan %}</a></li>
-          <li><a href="/sustainable-fisheries/initiatives">{%t initiatives-resources %}</a></li>
+          <li><a href="/sustainable-fisheries/russia">{%t russia %}</a></li>
+          <li><a href="/sustainable-fisheries/initiatives">{%t initiatives %}</a></li>
+          <li><a href="/sustainable-fisheries/resources">{%t resources %}</a></li>
         </ul>
       </li>
     </ul>
@@ -85,7 +85,7 @@ title: Home | Ocean Outcomes
         {% for post in site.tags.und %}
           {% if post.featured %}
             <div class="post">
-              <img src="{{ post.image }}">
+              <img src="{{ post.hero-image }}">
               <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
               <h2>
                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -97,6 +97,6 @@ title: Home | Ocean Outcomes
           {% endif %}
         {% endfor %}
       </div>
-      <a class="button-large" href="{{site.baseurl}}/news">{%t news-section-link-text %}</a>
+      <a class="button-large" href="/news">{%t news-section-link-text %}</a>
     </div>
   </section>

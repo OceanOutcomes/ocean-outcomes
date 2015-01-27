@@ -1,0 +1,13 @@
+<p>{{page.lang}}</p>
+<ul class="language-menu">
+{% if page.lang == 'ru' %}
+  <li class="top-level"><a href="/">English</a></li>
+  <li class="top-level"><a href="/jp">日本語</a></li>
+{% elsif page.lang == 'jp' %}
+  <li class="top-level"><a href="/">English</a></li>
+  <li class="top-level"><a href="/ru">русский</a></li>
+{% else %}
+  <li class="top-level"><a href="/ru">русский</a></li>
+  <li class="top-level"><a href="/jp">日本語</a></li>
+{% endif %}
+</ul>

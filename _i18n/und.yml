@@ -5,8 +5,7 @@ und:
   ##########################
   ## Home page banner
   home-page-hero-text: "Locally led, independently supported fishery improvement projects"
-  contact-us: "Contact us"
-  testing: "testing"
+  contact-us: "Contact Us"
 
   ## About section
   about-section-heading: "About Ocean Outcomes"
@@ -28,8 +27,17 @@ und:
   #### Sub-menu items
   russia: "Russia"
   japan: "Japan"
-  initiatives-resources: "Initiatives/Resources"
+  initiatives: "Initiatives"
+  resources: "Resources"
 
   ## News section
   news-section-heading: "News & Analysis"
   news-section-link-text: "See all News & Analysis"
+
+  ##########################
+  # Header & Footer translatables
+  ##########################
+  ocean-outcomes-home: "Ocean Outcomes Home"
+  language: "Language"
+  close: "Close"
+  menu: "Menu"

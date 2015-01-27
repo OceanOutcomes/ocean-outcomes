@@ -1,0 +1,43 @@
+# Site default language is English, which is represented as 'und' or 'Undefined'.
+jp:
+  ##########################
+  # Home page translatables
+  ##########################
+  ## Home page banner
+  home-page-hero-text: "ローカルにつながった、独立して漁業改善プロジェクトを支援"
+  contact-us: "お問い合わせ"
+
+  ## About section
+  about-section-heading: "オーシャンアウトカムについて"
+  about-section-content: "私たちは健康的な水界生態系、豊富な野生の魚介類の供給、及び繁栄漁村との未来を思い描く。"
+  ### Top level menu item
+  who-we-are: "私たちは誰でしょう"
+  #### Sub-menu items
+  our-story: "私たちの物語"
+  vision-mission: "ビジョン＆ミッション"
+  our-team: "私達のチーム"
+  ### Top level menu item
+  what-we-do: "当社のサービス"
+  #### Sub-menu items
+  our-work: "私たちの仕事"
+  services: "サービス"
+  success-stories: "サクセスストーリー"
+  ### Top level menu item
+  sustainable-fisheries: "持続可能な漁業"
+  #### Sub-menu items
+  russia: "ロシア"
+  japan: "日本"
+  initiatives: "取り組み"
+  resources: "リソース"
+
+  ## News section
+  news-section-heading: "ニュース＆分析"
+  news-section-link-text: "すべてのニュース＆分析を見る"
+
+  ##########################
+  # Header & Footer translatables
+  ##########################
+  ocean-outcomes-home: "オーシャンアウトカムホーム"
+  language: "言語"
+  close: "クローズ"
+  menu: "メニュー"

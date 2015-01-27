@@ -7,7 +7,8 @@ bodyclass: landing
 
 {% include child_depth.html %}
 
-{% for node in site.pages %}
+{% assign sorted_pages = site.pages | sort: 'weight' %}
+{% for node in sorted_pages %}
   {% include node_depth.html %}
   {% if node_url contains page_url and node_depth == child_depth %}
     {% if node_url != page_url%}
