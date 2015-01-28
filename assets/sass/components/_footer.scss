@@ -15,7 +15,8 @@
   ul {
     margin-bottom: 1em;
     
-    li { display: inline }
+    li { display: list-item; }
+
     li.last {
       display: inline-block;
       overflow: hidden;
