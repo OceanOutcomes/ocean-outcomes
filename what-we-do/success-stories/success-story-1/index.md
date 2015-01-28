@@ -1,6 +1,6 @@
 ---
 layout: action
-title:  "Reinvisioning the World’s Largest Chum Salmon Fishery"
+title:  "Re-Envisioning the World’s Largest Chum Salmon Fishery"
 hero-image: assets/images/posts/news-item-1.jpg
 teaser-text: |
   Need teaser text about Hokkaido success story.
