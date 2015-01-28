@@ -1,4 +1,4 @@
-![Build Status](https://travis-ci.org/thinkshout/ocean-outcomes.svg)](https://travis-ci.org/thinkshout/ocean-outcomes)
+[![Build Status](https://travis-ci.org/thinkshout/ocean-outcomes.svg)](https://travis-ci.org/thinkshout/ocean-outcomes)
 
 # Content Management
 ##Content staging URLs
