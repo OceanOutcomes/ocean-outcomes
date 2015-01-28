@@ -1,26 +1,37 @@
 <header class="site-header">
   <div class="wrap">
-    <div class="logo-container">
-      <a href="/">{%t ocean-outcomes-home %}</a>
+
+    <div class="large-screen-menu">
+      <div class="logo-container">
+        <a href="/">{%t ocean-outcomes-home %}</a>
+      </div>
+
+      <div class="site-actions" role="navigation">
+        <a class="toggle language" href="">
+          {%t language %} <i class="fa fa-chevron-down"></i>
+        </a>
+        <a class="toggle close lang animated" href="">
+          {%t close %} <i class="fa fa-close"></i>
+        </a>
+        <a class="toggle navigation animated" href="">
+          <span>{%t menu %}</span> <i class="fa fa-bars"></i>
+        </a>
+        <a class="toggle close nav animated" href="">
+          {%t close %} <i class="fa fa-close"></i>
+        </a>
+      </div>
     </div>
-    <a class="mobile-nav-toggle" href="">
-      <i class="fa fa-bars"></i>
-    </a>
-    <div class="site-actions" role="navigation">
-      <a class="toggle language" href="">
+    
+    <div class="small-screen-menu">
+      <div class="logo-container">
+        <a href="/">{%t ocean-outcomes-home %}</a>
+      </div>
+      <a class="mobile-nav-toggle animated" href="">
+        <i class="fa fa-bars"></i>
+      </a>
+      <a class="toggle language animated" href="">
         {%t language %} <i class="fa fa-chevron-down"></i>
       </a>
-      <a class="toggle close lang animated" href="">
-        {%t close %} <i class="fa fa-close"></i>
-      </a>
-      <a class="toggle navigation animated" href="">
-        <span>{%t menu %}</span> <i class="fa fa-bars"></i>
-      </a>
-      <a class="toggle close nav animated" href="">
-        {%t close %} <i class="fa fa-close"></i>
-      </a>
-
-      <!-- MOBILE TOGGLES -->
       <a class="toggle close mobile-nav animated" href="">
         {%t close %} <i class="fa fa-close"></i>
       </a>

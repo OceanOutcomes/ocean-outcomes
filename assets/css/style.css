@@ -407,9 +407,12 @@ body {
 
 .content-header {
   background-size: cover;
-  height: 36.25em;
+  height: 30em;
   position: relative;
   text-align: center; }
+  @media screen and (min-width: 40em) {
+    .content-header {
+      height: 36.25em; } }
   .content-header:after {
     background: rgba(43, 58, 70, 0.5);
     content: "";
@@ -424,33 +427,37 @@ body {
     color: #FFFFFF;
     position: absolute;
     text-align: center;
-    top: 45%;
+    top: 25%;
     width: 100%;
     z-index: 1; }
     .content-header section.title span {
       border-bottom: 0.125em solid #FFFFFF;
       padding-bottom: 1em; }
-  .content-header section-title h1 {
+  .content-header section.title h1 {
     color: #FFFFFF;
-    font-size: 3em;
+    font-size: 1.75em;
     position: relative;
     margin: 1em 0 0;
     z-index: 1; }
-    .content-header section-title h1:after {
+    @media screen and (min-width: 40em) {
+      .content-header section.title h1 {
+        font-size: 3em; } }
+    .content-header section.title h1:after {
       content: "";
       display: block;
-      border-bottom: 0.0625em solid #FFFFFF;
       margin: 0.5em auto;
       width: 15%; }
   .content-header section.title p {
     margin: 0 auto;
-    text-align: center;
-    width: 40%; }
+    text-align: center; }
+    @media screen and (min-width: 40em) {
+      .content-header section.title p {
+        width: 40%; } }
 
 .content-page .content-header {
   background: #2B3A46 url(../images/content-header-bg.png) no-repeat;
   background-size: cover;
-  height: 23.75em;
+  height: 30em;
   position: relative;
   text-align: center; }
   @media screen and (min-width: 40em) {
@@ -466,10 +473,12 @@ body {
     position: absolute;
     top: 0;
     width: 100%; }
+  .content-page .content-header section {
+    max-width: none; }
   .content-page .content-header section.title {
     position: absolute;
     text-align: center;
-    top: 60%;
+    top: 30%;
     width: 100%;
     z-index: 1; }
   .content-page .content-header .section-title {
@@ -482,7 +491,7 @@ body {
     color: #FFFFFF;
     font-size: 2em;
     position: relative;
-    margin: 1em 0;
+    margin: 1em 0 0;
     z-index: 1; }
     @media screen and (min-width: 40em) {
       .content-page .content-header h1 {
@@ -674,6 +683,14 @@ body {
         width: 65.88078%; }
         .site-header .site-actions:last-child {
           margin-right: 0; } }
+  .site-header .large-screen-menu {
+    display: none; }
+    @media screen and (min-width: 40em) {
+      .site-header .large-screen-menu {
+        display: block; } }
+  @media screen and (min-width: 40em) {
+    .site-header .small-screen-menu {
+      display: none; } }
 
 .hero-home {
   background: url(../images/hero-bg.png) no-repeat;
@@ -1514,15 +1531,19 @@ body {
   .toggle.navigation i {
     color: #2B3A46; }
 
-.toggle.language,
-.toggle.navigation {
+.large-screen-menu .toggle.language,
+.large-screen-menu .toggle.navigation {
+  margin-top: 1em;
+  display: none; }
+  @media screen and (min-width: 40em) {
+    .large-screen-menu .toggle.language,
+    .large-screen-menu .toggle.navigation {
+      display: inline;
+      float: none; } }
+
+.small-screen-menu .toggle.language {
   display: none;
   margin-top: 1em; }
-  @media screen and (min-width: 40em) {
-    .toggle.language,
-    .toggle.navigation {
-      display: inline !important;
-      float: none; } }
 
 .toggle.close {
   background: none;
@@ -1541,6 +1562,9 @@ body {
 
 footer .toggle.language {
   display: initial; }
+  @media screen and (min-width: 40em) {
+    footer .toggle.language {
+      float: none; } }
 
 .mobile-nav-toggle {
   color: #FFFFFF;

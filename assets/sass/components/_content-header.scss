@@ -1,8 +1,12 @@
 .content-header {
   background-size: cover;
-  height: em(580);
+  height: em(480);
   position: relative;
   text-align: center;
+
+  @include media($medium-screen) {
+    height: em(580);
+  }
 
   &:after {
     background: rgba($abyss, 0.5);
@@ -24,27 +28,30 @@
     color: $white;
     position: absolute;
     text-align: center;
-    top: 45%;
+    top: 25%;
     width: 100%;
     z-index: 1;
 
     span { 
-       border-bottom: em(2) solid $white; 
+      border-bottom: em(2) solid $white; 
       padding-bottom: 1em;
     }    
   }
 
-  section-title h1 {
+  section.title h1 {
     color: $white;
-    font-size: em(48);
+    font-size: em(28);
     position: relative;
     margin: 1em 0 0;
     z-index: 1;
 
+    @include media($medium-screen) {
+      font-size: em(48);
+    }
+
     &:after {
       content: "";
       display: block;
-      border-bottom: em(1) solid $white; 
       margin: 0.5em auto;
       width: 15%;
     }
@@ -53,6 +60,9 @@
   section.title p {
     margin : 0 auto;
     text-align: center;
-    width: 40%;
+
+    @include media($medium-screen) {
+      width: 40%;
+    }
   }
 }

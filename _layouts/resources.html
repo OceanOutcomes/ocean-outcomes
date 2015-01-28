@@ -12,7 +12,9 @@ bodyclass: resources
     <div class="post">
       <div class="grid-container">
         <div class="image-container">
+          {% if resource.hero-image %}
           <img src="{{sites.baseurl}}/{{ resource.hero-image }}">
+          {% endif %}
         </div>
         <div class="details">
           <h2>{{ resource.title }}</h2>
