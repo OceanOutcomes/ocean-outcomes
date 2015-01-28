@@ -1,6 +1,6 @@
 ---
 layout: page-landing
 title: What We Do
-subi
+subtitle
 weight: 2
 ---
