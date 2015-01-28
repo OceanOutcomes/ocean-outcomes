@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Vision &amp; Mission
+title: Vision & Mission
 banner-image: http://placehold.it/740x490
 subtitle: 
 hero-image: landing-sections/vision-and-mission-hover.jpg
