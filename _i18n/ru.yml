@@ -23,12 +23,14 @@ ru:
   services: "Services"
   success-stories: "Success Stories"
   ### Top level menu item
-  sustainable-fisheries: "Обеспечение устойчивого рыболовства"
-  #### Sub-menu items
-  russia: "Russia"
-  japan: "Japan"
   initiatives: "Initiatives"
-  resources: "Resources"
+  #### Sub-menu items
+  russian-fisheries: "Russian Fisheries"
+  japananese-fisheries: "Japanese Fisheries"
+  iuu: "IUU"
+  partnership: "Salmon FIP Partnership"
+  tracker: "Salmon FIP Tracker"
+  lets-talk: "Let's Talk Fish"
 
   ## News section
   news-section-heading: "новости & анализ"
