@@ -23,12 +23,14 @@ und:
   services: "Services"
   success-stories: "Success Stories"
   ### Top level menu item
-  japanese-fisheries: "Initiatives"
+  initiatives: "Initiatives"
   #### Sub-menu items
   russian-fisheries: "Russian Fisheries"
   japananese-fisheries: "Japanese Fisheries"
-  initiatives: "Initiatives"
-  resources: "Resources"
+  iuu: "IUU"
+  partnership: "Salmon FIP Partnership"
+  tracker: "Salmon FIP Tracker"
+  lets-talk: "Let's Talk Fish"
 
   ## News section
   news-section-heading: "News & Analysis"
