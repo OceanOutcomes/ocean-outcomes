@@ -2,20 +2,27 @@
 layout: page 
 title: Services
 banner-image: http://placehold.it/740x490
-subtitle: Some subtitle text
 hero-image: landing-sections/vision-and-mission-hover.jpg
 weight: 2
-teaser-text: This will show up on the landing page list
+teaser-text: Whether you are a fishermen, seafood buyer/supplier or NGO advising on seafood sustainability, the environmental and business case for improving fisheries has never been stronger.
 ---
 
-# The city's most abused creek was showing signs of healing itself this fall.
+With three-quarters of global fisheries fully or overexploited, and demand for sustainable seafood at an all-time high. Fishermen and businesses depend on healthy, abundant fish populations, and consumers rely on them to deliver consistent supplies of sustainable seafood. 
 
-In the greenbelt behind the Providence Alaska Medical Center, where Chester Creek was left
-intact and undisturbed within its natural channel, coho salmon seemed to be everywhere. By
-threes and fours or half-dozens, spawning fish worked the gravels in the riffles at the ends of
-the many deep pools where the clear water meandered through the cottonwood and spruce forest.
+At Ocean Outcomes, we work hand in hand with fisheries, seafood businesses, seafood ranking/certification programs and NGOs to: 
+*Conduct fishery assessments 
+*Develop fishery assessment criteria
+*Develop comprehensive risk analysis reports on global fisheries
+*Convene stakeholders and supply chain actors 
+*Assist fisheries in making connections in the marketplace
+*Facilitate independent observers and IUU audits
+*Design, launch and/or implement fishery improvement projects
 
-Blown-down trees reminiscent of wilderness Alaska creeks hung across the swirling water in many
-places and woody debris filled a creek between banks untrampled by human feet. But the volume of
-litter in the woods and the human flotsam on the water made it clear this was not your normal
-Cook Inlet tributary.
+Benefits derived from our work include:
+
+*Healthy and robust fisheries that deliver long-term business value from responsible environmental stewardship
+*Based on buyer demands, our projects achieve heightened market recognition, particularly in the North American and European markets where demand for sustainability is high
+*Increased potential to attract investment based on the implementation of sustainable practices
+*Risk mitigation for businesses and communities
+
+Whether you are a fishermen, seafood buyer/supplier or NGO advising on seafood sustainability, [get in touch] (/contact.html) with us today to learn how we can help you improve the world’s supply of sustainable seafood.
