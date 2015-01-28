@@ -14,8 +14,8 @@ By teaming up with commercial fishers, seafood businesses, fishery managers, and
 
 A few examples of improvements that we are catalyzing include:
 
-* Science based management improvements—such as working with KamchatNIRO to develop new escapement goals for the Karaginsky Bay fishery to allow more wild fish to spawn.
-* On the ground fishery practice improvements—such as working with Russian salmon fishermen to implement enhanced anti-IUU practices such as independent observers, traceability mechanisms, and satellite monitoring that will deter and reduce IUU fishing.
-* Supply chain policy improvements—such as working with Japanese stakeholders to develop a draft Wild Salmon Policy for Japan that would set escapement goals and harvest rules for wild fish for the first time.
+  * Science based management improvements—such as working with KamchatNIRO to develop new escapement goals for the Karaginsky Bay fishery to allow more wild fish to spawn.
+  * On the ground fishery practice improvements—such as working with Russian salmon fishermen to implement enhanced anti-IUU practices such as independent observers, traceability mechanisms, and satellite monitoring that will deter and reduce IUU fishing.
+  * Supply chain policy improvements—such as working with Japanese stakeholders to develop a draft Wild Salmon Policy for Japan that would set escapement goals and harvest rules for wild fish for the first time.
 
 Further information on our work can be found in the [Initiatives] (/initiatives) section of our website.
