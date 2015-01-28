@@ -1,5 +1,5 @@
 ---
-layout: landing-page 
+layout: page-landing 
 title: Salmon FIP Partnership
 banner-image: http://placehold.it/740x490
 subtitle: Some subtitle text
