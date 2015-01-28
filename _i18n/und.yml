@@ -23,10 +23,10 @@ und:
   services: "Services"
   success-stories: "Success Stories"
   ### Top level menu item
-  sustainable-fisheries: "Sustainable Fisheries"
+  japanese-fisheries: "Initiatives"
   #### Sub-menu items
-  russia: "Russia"
-  japan: "Japan"
+  russian-fisheries: "Russian Fisheries"
+  japananese-fisheries: "Japanese Fisheries"
   initiatives: "Initiatives"
   resources: "Resources"
 
