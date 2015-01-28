@@ -1,6 +1,6 @@
 ---
 layout: page-landing
 title: What We Do
-subtitle
+subtitle: 
 weight: 2
 ---
