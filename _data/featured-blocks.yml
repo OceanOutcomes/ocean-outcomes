@@ -1,23 +1,23 @@
 - featured: FALSE
   language: en
   heading: Stories of Success
-  title: Sue Piggs - Wild Woman, Ohmaha Nebraska
-  hero-image:
+  title: Combating Illegal Fishing on Northeast Sakhalin Island
+  hero-image: fisherman-bg.png
   link:
-    link-text: See more stories of success
-    link-url: #
+    link-text: Learn more
+    link-url: what-we-do/success-stories/success-story-2
   content: |
-    Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+    Need teaser text for NE Sakhalin success story.
 - featured: TRUE
   language: en
   heading: Stories of Success
-  title: Hokkaido Fishery Improvements, Kitami, Japan
+  title: Reenvisioning the World’s Largest Chum Salmon Fishery
   hero-image: fisherman-bg.png
   link:
     link-text: Learn more
     link-url: what-we-do/success-stories/success-story-1
   content: |
-    Hokaiddo got better, etc. etc.
+    Need teaser text about Hokkaido success story.
 - featured: FALSE
   language: ru
   heading: Истории успеха
