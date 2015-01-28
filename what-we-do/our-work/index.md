@@ -2,20 +2,20 @@
 layout: page 
 title: Our Work
 banner-image: http://placehold.it/740x490
-subtitle: Some subtitle text
 hero-image: landing-sections/vision-and-mission-hover.jpg
 weight: 1
-teaser-text: This will show up on the landing page list
+teaser-text: Our work addresses the full range of major fishery challenges contributing to the global fisheries crisis such as Illegal, Unreported and Unregulated fishing (IUU), overfishing, depletion of non-target stocks, habitat impacts, and management system issues such as inadequate monitoring.
 ---
+At O2, we work hand-in-hand with commercial fishers to improve high risk fisheries. Our work addresses the full range of major fishery challenges contributing to the global fisheries crisis such as Illegal, Unreported and Unregulated fishing (IUU), overfishing, depletion of non-target stocks, habitat impacts, and management system issues such as inadequate monitoring. These challenges represent serious risks to the sustainability and security of fisheries, food supplies, and human livelihoods.  
 
-# The city's most abused creek was showing signs of healing itself this fall.
+Many commercial fisheries work at the margins of profitability and have limited capacity on their own to improve the sustainability of their fishery, that’s where we come in. Our hands-on partnership approach has proven effective in helping fisheries achieve meaningful improvements and reap the tangible benefits of sustainability.
 
-In the greenbelt behind the Providence Alaska Medical Center, where Chester Creek was left
-intact and undisturbed within its natural channel, coho salmon seemed to be everywhere. By
-threes and fours or half-dozens, spawning fish worked the gravels in the riffles at the ends of
-the many deep pools where the clear water meandered through the cottonwood and spruce forest.
+By teaming up with commercial fishers, seafood businesses, fishery managers, and community leaders to co-design, implement, and monitor effective on-the-water improvements we can find the path forward.
 
-Blown-down trees reminiscent of wilderness Alaska creeks hung across the swirling water in many
-places and woody debris filled a creek between banks untrampled by human feet. But the volume of
-litter in the woods and the human flotsam on the water made it clear this was not your normal
-Cook Inlet tributary.
+A few examples of improvements that we are catalyzing include:
+
+* Science based management improvements—such as working with KamchatNIRO to develop new escapement goals for the Karaginsky Bay fishery to allow more wild fish to spawn.
+* On the ground fishery practice improvements—such as working with Russian salmon fishermen to implement enhanced anti-IUU practices such as independent observers, traceability mechanisms, and satellite monitoring that will deter and reduce IUU fishing.
+* Supply chain policy improvements—such as working with Japanese stakeholders to develop a draft Wild Salmon Policy for Japan that would set escapement goals and harvest rules for wild fish for the first time.
+
+Further information on our work can be found in the [Initiatives] (/initiatives) section of our website.
