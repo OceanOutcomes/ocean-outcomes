@@ -10,19 +10,19 @@ teaser-text: Whether you are a fishermen, seafood buyer/supplier or NGO advising
 With three-quarters of global fisheries fully or overexploited, and demand for sustainable seafood at an all-time high. Fishermen and businesses depend on healthy, abundant fish populations, and consumers rely on them to deliver consistent supplies of sustainable seafood. 
 
 At Ocean Outcomes, we work hand in hand with fisheries, seafood businesses, seafood ranking/certification programs and NGOs to: 
-* Conduct fishery assessments 
-* Develop fishery assessment criteria
-* Develop comprehensive risk analysis reports on global fisheries
-* Convene stakeholders and supply chain actors 
-* Assist fisheries in making connections in the marketplace
-* Facilitate independent observers and IUU audits
-* Design, launch and/or implement fishery improvement projects
+  * Conduct fishery assessments 
+  * Develop fishery assessment criteria
+  * Develop comprehensive risk analysis reports on global fisheries
+  * Convene stakeholders and supply chain actors 
+  * Assist fisheries in making connections in the marketplace
+  * Facilitate independent observers and IUU audits
+  * Design, launch and/or implement fishery improvement projects
 
 Benefits derived from our work include:
 
-* Healthy and robust fisheries that deliver long-term business value from responsible environmental stewardship
-* Based on buyer demands, our projects achieve heightened market recognition, particularly in the North American and European markets where demand for sustainability is high
-* Increased potential to attract investment based on the implementation of sustainable practices
-* Risk mitigation for businesses and communities
+  * Healthy and robust fisheries that deliver long-term business value from responsible environmental stewardship
+  * Based on buyer demands, our projects achieve heightened market recognition, particularly in the North American and European markets where demand for sustainability is high
+  * Increased potential to attract investment based on the implementation of sustainable practices
+  * Risk mitigation for businesses and communities
 
 Whether you are a fishermen, seafood buyer/supplier or NGO advising on seafood sustainability, [get in touch] (/contact.html) with us today to learn how we can help you improve the world’s supply of sustainable seafood.
