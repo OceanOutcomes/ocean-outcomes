@@ -561,6 +561,9 @@ body {
     font-size: 2.25em; }
   .content-page .content-page-content article h2 {
     font-size: 1.75em; }
+  .content-page .content-page-content article ul li {
+    display: list-item;
+    list-style-type: disc; }
 
 .site-footer {
   background-image: url("../images/footer-bg.png");
