@@ -132,8 +132,16 @@
 
   h2 { font-size: em(28); }
 
+  ul { margin-left: 1em; }
   ul li {
     display: list-item;
     list-style-type: disc;
+  }
+
+  // not og-grid
+  ul { margin-left: inherit; }
+  ul li {
+    display: inline-block;
+    list-style-type: none;
   }
 }
