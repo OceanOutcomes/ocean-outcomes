@@ -5,17 +5,12 @@ banner-image: http://placehold.it/740x490
 subtitle: Some subtitle text
 hero-image: landing-sections/vision-and-mission-hover.jpg
 weight: 2
-teaser-text: This will show up on the landing page list
+teaser-text: An enormous player in the global seafood market, Russia is one of the world’s top ten countries in commercial fisheries production. In their entirety Russian commercial fisheries target over 170 species of finfish, more than 100 species of invertebrates, and consistently catch over four million metric tons of seafood annually.
 ---
+An enormous player in the global seafood market, Russia is one of the world’s top ten countries in commercial fisheries production. Spanning the length of an entire continent, Russian fisheries take many forms. In their entirety Russian commercial fisheries target over 170 species of finfish and more than 100 species of invertebrates. Recent total wild catch in Russia has consistently exceeded four million metric tons, over half of which is harvested in the Russian Far East (RFE), a target region for our fishery improvement work. Sparsely populated with under seven million inhabitants, the human footprint in the RFE is minimal, and the untouched wilderness is home to some of the most productive marine and freshwater ecosystems on earth.
 
-# The city's most abused creek was showing signs of healing itself this fall.
+Primary species caught in the RFE are Russian pollock, Pacific herring, Pacific cod and Pacific salmon (pink, chum, sockeye, Chinook, and coho). While pollock and herring are caught in larger volumes, salmon is arguably more integral to Russia in both economic and cultural contexts. Salmon has long been a traditional food source, and subsistence use remains high. Much like for native societies in Alaska, salmon is a key food and livelihood for those living in the RFE. As a commodity, salmon is more valuable than other species caught in Russia, and as an anadromous species, salmon provide unmatched ecological benefits to the watersheds in which they spawn. Other species of importance caught in the RFE include Pacific mackerel, Pacific saury, Pacific halibut, haddock, and king crab.  
 
-In the greenbelt behind the Providence Alaska Medical Center, where Chester Creek was left
-intact and undisturbed within its natural channel, coho salmon seemed to be everywhere. By
-threes and fours or half-dozens, spawning fish worked the gravels in the riffles at the ends of
-the many deep pools where the clear water meandered through the cottonwood and spruce forest.
+Of the roughly seven hundred fishing companies in Russia, over half are located in the RFE. However, with only a handful of significant cities, the processing infrastructure in the RFE is limited. As a result, Russian fisheries are often at a competitive disadvantage relative to other fisheries around the Pacific that are catching the same species. Partially due to the lack of sufficient infrastructure, Russia is a net exporter of seafood (both processed and unprocessed), and situations where seafood is exported for processing only to be imported for Russian consumption aren’t uncommon. Along with the need for improving capacity, Russian fisheries also face improvement needs surrounding Illegal, Unreported, and Unregulated Fishing (IUU). While more information on IUU and our work combatting illegal practices can be seen in our IUU section, it’s important to note that Russian IUU correlates with the lack of processing infrastructure and the sparsely populated remoteness of the RFE.   
 
-Blown-down trees reminiscent of wilderness Alaska creeks hung across the swirling water in many
-places and woody debris filled a creek between banks untrampled by human feet. But the volume of
-litter in the woods and the human flotsam on the water made it clear this was not your normal
-Cook Inlet tributary.
+The concentration of Russian fisheries and processing capacity in the RFE gives the sustainable seafood movement a single viable target to advance the agenda for improving sustainability. Productive marine fisheries in the RFE are ripe for improvement efforts that close loopholes allowing for illegal activity and bolster fishery infrastructure. These improvement efforts require increased engagement with both international supply chains and Russian fisheries, traceability systems to better track and monitor catches, and a localized and coordinated on the ground effort to combat IUU. 
