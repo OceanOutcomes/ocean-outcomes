@@ -566,9 +566,9 @@ body {
   .content-page .content-page-content article ul li {
     display: list-item;
     list-style-type: disc; }
-  .content-page .content-page-content article ul {
+  .content-page .content-page-content article ul.og-grid {
     margin-left: inherit; }
-  .content-page .content-page-content article ul li {
+  .content-page .content-page-content article ul.og-grid li {
     display: inline-block;
     list-style-type: none; }
 

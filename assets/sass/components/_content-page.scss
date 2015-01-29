@@ -139,8 +139,8 @@
   }
 
   // not og-grid
-  ul { margin-left: inherit; }
-  ul li {
+  ul.og-grid { margin-left: inherit; }
+  ul.og-grid li {
     display: inline-block;
     list-style-type: none;
   }
