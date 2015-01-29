@@ -10,7 +10,7 @@ weight: 3
 
 ## Locally led, industry supported fishery improvements
 
-At O2, we’re dedicated to improving high risk fisheries globally. Founded in 2014, O2 was incubated and launched by Wild Salmon Center, building on a decade of work promoting sustainable wild salmon fisheries. In our new independent form we’re a fisheries improvement organization, concentrating our entire mission focus on sustainable fisheries while expanding our geographic and species engagements to regions and fisheries where our unique assets can add value and deliver significant impact.
+At O2, we’re dedicated to improving high risk fisheries globally. Founded in 2014, O2 was incubated and launched by Wild Salmon Center, building on a decade of work promoting sustainable wild salmon fisheries. In our new independent form we’re a fishery improvement organization, concentrating our entire mission focus on sustainable fisheries while expanding our geographic and species engagements to regions and fisheries where our unique assets can add value and deliver significant impact.
 
 **We envision** a future with healthy aquatic ecosystems, a plentiful wild seafood supply, and thriving fishing communities.
 
