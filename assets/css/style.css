@@ -1090,9 +1090,7 @@ body {
 
 .news .content-header {
   background: #2B3A46 url(../images/post-header-bg.png) no-repeat;
-  height: 25em; }
-  .news .content-header section.title {
-    top: 50%; }
+  background-size: cover; }
 
 .news .newest {
   border-bottom: 0.0625em solid #E9E9E9; }
