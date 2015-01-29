@@ -5,7 +5,7 @@ banner-image: http://placehold.it/740x490
 subtitle: Some subtitle text
 hero-image: landing-sections/vision-and-mission-hover.jpg
 weight: 5
-teaser-text: Teaser on Let's Talk Fish
+teaser-text: DRAFT This global supply chain event brought seafood businesses, managers, scientists and civil society together to identify solutions to pressing issues, strengthen business relations, and share best practices from Russia and internationally. 
 ---
 ## DRAFT
 
