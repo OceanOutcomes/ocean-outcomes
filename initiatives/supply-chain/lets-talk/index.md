@@ -5,16 +5,12 @@ banner-image: http://placehold.it/740x490
 subtitle: Some subtitle text
 hero-image: landing-sections/vision-and-mission-hover.jpg
 weight: 5
-teaser-text: DRAFT This global supply chain event brought seafood businesses, managers, scientists and civil society together to identify solutions to pressing issues, strengthen business relations, and share best practices from Russia and internationally. 
+teaser-text: At O2, we connect all the pieces of a complex international seafood supply chain through Let’s Talk Fish, where we facilitate business relationships and exchange best practices and identify solutions to pressing issues. 
 ---
-## DRAFT
+At O2, we connect all the pieces of a complex international seafood supply chain through Let’s Talk Fish. This annual global supply chain event brings together seafood businesses, managers, scientists, fishers, and civil society in the producing regions. Together we exchange best practices and identify solutions to pressing issues, strengthen business relationships, investigate opportunities in the global seafood market, and enjoy sustainable seafood.
 
-This global supply chain event brought seafood businesses, managers, scientists and civil society together to identify solutions to pressing issues, strengthen business relations, and share best practices from Russia and internationally. 					
-						
-Participating in “Let’s Talk Salmon,” making new business connections, and understanding the origins of the salmon we buy, is one of the benefits of the Salmon FIP Partnership 
+Connect: Establish new business partnerships and international relations
+Collaborate: Work with industry experts to identify solutions to pressing issues
+Taste: Try some of the best sustainable seafood products from the region
 
-The discussion continued with presentation from the western guests about FIPs, what buyers want in terms of quality and product packaging, and encouragement to continue to “do great work, and work collaboratively with governmental agencies, NGOs and other stakeholders to achieve great results.” 
-					
-The Goal: to hold a Russian industry and international seafood buyer focused event to share best practices and examples of Russian salmon.
-
-## DRAFT
+To participate or learn more about Let’s Talk Fish, get in touch with us! 
