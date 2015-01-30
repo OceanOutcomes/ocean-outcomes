@@ -847,8 +847,8 @@ body {
   background: #2B3A46 url(../images/what-we-do.png) no-repeat center center;
   background-size: cover; }
 
-.home-about__item.sustainable-fisheries {
-  background: #2B3A46 url(../images/sustainable-fisheries.png) no-repeat center center;
+.home-about__item.initiatives {
+  background: #2B3A46 url(../images/initiatives.png) no-repeat center center;
   background-size: cover; }
 
 .home-about__item:hover {
