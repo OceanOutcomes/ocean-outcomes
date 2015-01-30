@@ -579,8 +579,12 @@ body {
     margin-bottom: 1em; }
     .site-footer ul li {
       display: list-item; }
+      @media screen and (min-width: 40em) {
+        .site-footer ul li {
+          display: inline; } }
     .site-footer ul li.last {
       display: inline-block;
+      line-height: 3;
       overflow: hidden;
       text-align: center; }
       @media screen and (min-width: 40em) {
