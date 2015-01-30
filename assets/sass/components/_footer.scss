@@ -15,10 +15,17 @@
   ul {
     margin-bottom: 1em;
     
-    li { display: list-item; }
+    li { 
+      display: list-item; 
+
+      @include media($medium-screen) {
+        display: inline;
+      }
+    }
 
     li.last {
       display: inline-block;
+      line-height: 3;
       overflow: hidden;
       text-align: center;
 
