@@ -16,7 +16,7 @@ end
 
 desc 'Build and start local server'
 task :serve do
-  system 'bundle exec sass -r sass-globbing --watch assets/sass:assets/css &'
+  system 'bundle exec sass -r sass-globbing --watch --sourcemap=none assets/sass:assets/css &'
   jekyll 'serve -w --baseurl=""'
 end
 
