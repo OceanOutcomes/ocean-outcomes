@@ -588,7 +588,7 @@ body {
   .site-footer ul {
     margin-bottom: 1em; }
     .site-footer ul li {
-      display: inline; }
+      display: list-item; }
     .site-footer ul li.last {
       display: inline-block;
       overflow: hidden;
