@@ -1004,7 +1004,7 @@ body {
   text-align: center; }
   .landing-section:hover {
     color: #FFFFFF; }
-    .landing-section:hover h2 {
+    .landing-section:hover h2, .landing-section:hover h2 a {
       color: #FFFFFF; }
 
 .landing-section .excerpt {
@@ -1018,6 +1018,7 @@ body {
 .landing-section .hover-bg {
   background-position: center center;
   background-repeat: no-repeat;
+  background-size: cover;
   height: 120%;
   left: 0;
   position: absolute;
