@@ -994,7 +994,8 @@ body {
         max-width: 100%; } }
 
 .landing .content-header {
-  background: #2B3A46 url(../images/landing-header-bg.png) center center no-repeat; }
+  background: #2B3A46 url(../images/landing-header-bg.png) center center no-repeat;
+  background-size: cover; }
 
 .landing-section {
   border-bottom: 0.0625em solid #E9E9E9;

@@ -2,7 +2,7 @@
 layout: page 
 title: Services
 banner-image: http://placehold.it/740x490
-hero-image: landing-sections/vision-and-mission-hover.jpg
+hero-image: landing-sections/services-hover.jpg
 weight: 2
 teaser-text: Whether you are a fishermen, seafood buyer/supplier or NGO advising on seafood sustainability, the environmental and business case for improving fisheries has never been stronger.
 ---
