@@ -431,7 +431,10 @@ body {
     z-index: 1; }
     @media screen and (min-width: 40em) {
       .content-header section.title {
-        padding-top: 20%; } }
+        padding-top: 22%; } }
+    @media screen and (min-width: 53.75em) {
+      .content-header section.title {
+        padding-top: 18%; } }
     .content-header section.title span {
       border-bottom: 0.125em solid #FFFFFF;
       padding-bottom: 1em; }

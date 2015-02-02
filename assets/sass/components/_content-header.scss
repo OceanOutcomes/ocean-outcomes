@@ -32,7 +32,11 @@
     z-index: 1;
 
     @include media($medium-screen) {
-      padding-top: 20%;
+      padding-top: 22%;
+    }
+
+    @include media($large-screen-up) {
+      padding-top: 18%;
     }
 
     span { 
