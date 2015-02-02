@@ -17,12 +17,16 @@
   {% for parent in primary %}
     {% assign parent-info = parent | split: '|' %}
     {% include has_children.html %}
+
     {% if has_children %}
-    <li class="top-level">
+      {% assign class = "top-level" %}
     {% else %}
-    <li class="top-level small">
+      {% assign class = "top-level small" %}
     {% endif %}
+
+    <li class="{{ class }}">
       <a href="{{parent-info[0]}}">{{parent-info[1]}}</a>
+      {% if has_children %}
       <ul>
         {% for child in secondary %}
           {% assign child-info = child | split: '|' %}
@@ -31,8 +35,12 @@
           {% endif %}
         {% endfor %}
       </ul>
+      {% endif %}
     </li>
   {% endfor %}
-</ul>  {% for item in site.data.menu %}
+
+  {% for item in site.data.menu %}
     <li class="top-level small"><a href="{{item.url}}">{{item.title}}</a></li>
   {% endfor %}
+
+</ul>
