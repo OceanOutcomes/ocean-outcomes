@@ -343,11 +343,13 @@ body {
     top: 0;
     width: 100%; }
   .contact .contact-header section.title {
-    position: absolute;
+    padding-top: 25%;
     text-align: center;
-    top: 60%;
     width: 100%;
     z-index: 1; }
+    @media screen and (min-width: 40em) {
+      .contact .contact-header section.title {
+        padding-top: 16%; } }
   .contact .contact-header .section-title {
     color: #FFFFFF; }
     .contact .contact-header .section-title span {

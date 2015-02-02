@@ -22,11 +22,14 @@
   }
 
   section.title {
-    position: absolute;
+    padding-top: 25%;
     text-align: center;
-    top: 60%;
     width: 100%;
     z-index: 1;
+
+    @include media($medium-screen) {
+      padding-top: 16%; 
+    }
   }
 
   .section-title {
