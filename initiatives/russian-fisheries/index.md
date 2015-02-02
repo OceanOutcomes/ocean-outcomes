@@ -3,7 +3,7 @@ layout: page
 title: Russian Fisheries
 banner-image: http://placehold.it/740x490
 subtitle: Some subtitle text
-hero-image: landing-sections/vision-and-mission-hover.jpg
+hero-image: landing-sections/russian-fisheries-hover.jpg
 weight: 2
 teaser-text: An enormous player in the global seafood market, Russia is one of the world’s top ten countries in commercial fisheries production. In their entirety Russian commercial fisheries target over 170 species of finfish, more than 100 species of invertebrates, and consistently catch over four million metric tons of seafood annually.
 ---
