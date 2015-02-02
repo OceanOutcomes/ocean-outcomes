@@ -1,5 +1,6 @@
 <footer class="site-footer">  
   <div class="wrap">
+    {% unless page.url contains "ru" or page.url contains "jp" %}
     <ul>
       <li><a href="{{ site.baseurl}}/who-we-are/">{%t who-we-are %}</a></li>
       <li><a href="{{ site.baseurl}}/what-we-do/">{%t what-we-do %}</a></li>
@@ -13,6 +14,7 @@
         </a>
       </li>
     </ul>
+    {% endunless %}
     <div class="logo-container">
       <a href="/">{%t ocean-outcomes-home %}</a>
     </div>
