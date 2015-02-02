@@ -14,16 +14,29 @@
 .news .all-news {
   .post {
     border-bottom: em(1) solid $light-gray;
-    padding: 3em;
+    padding: 1em;
+
+    @include media($medium-screen) {
+      padding: 3em;
+    }
   }
 
   .post h2 {
-    font-size: em(24);
+    font-size: em(20);
+
+    @include media($medium-screen) {
+      font-size: em(24);
+    }
   }
 
   .post img {
-    float: left;
-    max-width: 40%;
-    margin-right: 1em;
+    min-width: 100%;
+
+    @include media($medium-screen) {
+      float: left;
+      max-width: 40%;
+      min-width: 40%;
+      margin-right: 1em;
+    }
   }
 }
