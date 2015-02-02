@@ -2,7 +2,7 @@
 layout: page 
 title: Our Work
 banner-image: http://placehold.it/740x490
-hero-image: landing-sections/our-work-hover.jpg
+hero-image: /assets/images/landing-sections/our-team-hover.jpg 
 weight: 1
 teaser-text: Our work addresses the full range of major fishery challenges contributing to the global fisheries crisis such as Illegal, Unreported and Unregulated fishing (IUU), overfishing, depletion of non-target stocks, habitat impacts, and management system issues such as inadequate monitoring.
 ---
