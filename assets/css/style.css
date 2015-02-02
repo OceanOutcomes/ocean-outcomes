@@ -1100,8 +1100,11 @@ body {
         display: inline; } }
   .language-menu-container li.top-level ul > li a,
   .main-menu-container li.top-level ul > li a {
-    color: #00A6AE;
-    padding: 0.5em 1em; }
+    color: #00A6AE; }
+    @media screen and (min-width: 40em) {
+      .language-menu-container li.top-level ul > li a,
+      .main-menu-container li.top-level ul > li a {
+        padding: 0.5em; } }
     .language-menu-container li.top-level ul > li a:hover,
     .main-menu-container li.top-level ul > li a:hover {
       color: #FFFFFF; }
