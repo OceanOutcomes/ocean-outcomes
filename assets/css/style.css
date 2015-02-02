@@ -490,9 +490,7 @@ body {
   .content-page .content-header section {
     max-width: none; }
   .content-page .content-header section.title {
-    position: absolute;
     text-align: center;
-    top: 30%;
     width: 100%;
     z-index: 1; }
   .content-page .content-header .section-title {
@@ -671,6 +669,7 @@ body {
       background-image: url("../images/logo.png");
       overflow: hidden;
       background-repeat: no-repeat;
+      background-size: 100%;
       display: block;
       height: 1.84375em;
       margin-top: 1em;
@@ -1023,14 +1022,17 @@ body {
       color: #FFFFFF; }
 
 .landing-section .excerpt {
-  max-width: 50%;
   margin: 1em auto; }
+  @media screen and (min-width: 40em) {
+    .landing-section .excerpt {
+      max-width: 50%; } }
 
 .landing-section .details {
   position: relative;
   z-index: 1; }
 
 .landing-section .hover-bg {
+  display: none;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1040,6 +1042,9 @@ body {
   top: 0;
   width: 100%;
   z-index: 0; }
+  @media screen and (min-width: 40em) {
+    .landing-section .hover-bg {
+      display: block; } }
   .landing-section .hover-bg.active {
     display: block;
     background-position: center -10em;

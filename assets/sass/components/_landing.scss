@@ -30,8 +30,11 @@
 }
 
 .landing-section .excerpt {
-  max-width: 50%;
   margin: 1em auto;
+
+  @include media($medium-screen) {
+    max-width: 50%;
+  }
 }
 
 .landing-section .details {
@@ -40,7 +43,7 @@
 }
 
 .landing-section .hover-bg {
-  //display: none;
+  display: none;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -51,8 +54,11 @@
   width: 100%;
   z-index: 0;
 
+  @include media($medium-screen) {
+    display: block;
+  }
+
   &.active {
-    //transform: translate(0px, -20px); 
     display: block;
     background-position: center -10em;
     @include transition(all 1s);

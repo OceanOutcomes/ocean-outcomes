@@ -20,6 +20,7 @@
       @include retina-image('../images/logo', 100% 100%); 
       @include hide-text;
       background-repeat: no-repeat;
+      background-size: 100%;
       display: block;
       height: em(29.5);
       margin-top: 1em;
