@@ -2,7 +2,7 @@
 layout: page 
 title: IUU 
 banner-image: http://placehold.it/740x490
-hero-image: /landing-sections/iuu-hover.jpg
+hero-image: landing-sections/iuu-hover.jpg
 weight: 3
 teaser-text: IUU is a paramount threat to conservation and in many ways is one of the most difficult problems facing global fisheries sustainability. To eliminate commercial misreporting of catches and the mixing of illegally-fished products we’re working to build a network of key suppliers and traceability protocols in areas often prone to to IUU.
 ---
