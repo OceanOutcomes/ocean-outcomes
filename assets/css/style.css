@@ -425,11 +425,13 @@ body {
     width: 100%; }
   .content-header section.title {
     color: #FFFFFF;
-    position: absolute;
     text-align: center;
-    top: 25%;
+    padding-top: 25%;
     width: 100%;
     z-index: 1; }
+    @media screen and (min-width: 40em) {
+      .content-header section.title {
+        padding-top: 20%; } }
     .content-header section.title span {
       border-bottom: 0.125em solid #FFFFFF;
       padding-bottom: 1em; }

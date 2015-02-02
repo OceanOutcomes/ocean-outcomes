@@ -26,11 +26,14 @@
 
   section.title {
     color: $white;
-    position: absolute;
     text-align: center;
-    top: 25%;
+    padding-top: 25%;
     width: 100%;
     z-index: 1;
+
+    @include media($medium-screen) {
+      padding-top: 20%;
+    }
 
     span { 
       border-bottom: em(2) solid $white; 
