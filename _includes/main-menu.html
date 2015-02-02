@@ -33,4 +33,6 @@
       </ul>
     </li>
   {% endfor %}
-</ul>
+</ul>  {% for item in site.data.menu %}
+    <li class="top-level small"><a href="{{item.url}}">{{item.title}}</a></li>
+  {% endfor %}
