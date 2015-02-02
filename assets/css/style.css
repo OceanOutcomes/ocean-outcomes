@@ -454,6 +454,18 @@ body {
       .content-header section.title p {
         width: 40%; } }
 
+.landing .content-header.who-we-are {
+  background: url(../images/who-we-are-header-bg.jpg) center center no-repeat;
+  background-size: cover; }
+
+.landing .content-header.what-we-do {
+  background: url(../images/what-we-do-header-bg.jpg) center center no-repeat;
+  background-size: cover; }
+
+.landing .content-header.initiatives {
+  background: url(../images/initiatives-header-bg.jpg) center center no-repeat;
+  background-size: cover; }
+
 .content-page .content-header {
   background: #2B3A46 url(../images/content-header-bg.png) no-repeat;
   background-size: cover;

@@ -1,6 +1,6 @@
 {% include parent_url.html %}
 
-<header class="content-header">
+<header class="content-header {{page.title | replace: " ", "-" | downcase}}">
   <section class="title">
     {% for node in site.pages %}
       {% include node_depth.html %}
