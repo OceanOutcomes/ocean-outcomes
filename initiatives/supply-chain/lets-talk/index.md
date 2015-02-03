@@ -13,4 +13,4 @@ Connect: Establish new business partnerships and international relations
 Collaborate: Work with industry experts to identify solutions to pressing issues
 Taste: Try some of the best sustainable seafood products from the region
 
-To participate or learn more about Let’s Talk Fish, get in touch with us! 
+To participate or learn more about Let’s Talk Fish, [get in touch] (/contact/) with us! 
