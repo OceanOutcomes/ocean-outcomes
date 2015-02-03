@@ -4,3 +4,6 @@ und:
 ru:
   - title: "Русский меню"
     url: "http://example.com"
+jp:
+  - title: "Japanese Tracker Link"
+    url: "http://example.com"
