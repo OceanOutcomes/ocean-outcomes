@@ -472,20 +472,27 @@ body {
       .content-header section.title p {
         width: 40%; } }
 
-.landing .content-header.who-we-are {
+.news .content-header {
+  background: #2B3A46 url(../images/post-header-bg.png) no-repeat;
+  background-size: cover; }
+
+.landing .content-header.who-we-are,
+.content-page .content-header.who-we-are {
   background: url(../images/who-we-are-header-bg.jpg) center center no-repeat;
   background-size: cover; }
 
-.landing .content-header.what-we-do {
+.landing .content-header.what-we-do,
+[class^="content-header what-we-do"], [class*="content-header what-we-do"] {
   background: url(../images/what-we-do-header-bg.jpg) center center no-repeat;
   background-size: cover; }
 
-.landing .content-header.initiatives {
+.landing .content-header.initiatives,
+.content-page .content-header.initiatives,
+.content-page .content-header.initiativessupply-chain {
   background: url(../images/initiatives-header-bg.jpg) center center no-repeat;
   background-size: cover; }
 
 .content-page .content-header {
-  background: #2B3A46 url(../images/content-header-bg.png) no-repeat;
   background-size: cover;
   height: 30em;
   position: relative;
@@ -1131,10 +1138,6 @@ body {
     .language-menu-container li.top-level ul > li a:hover,
     .main-menu-container li.top-level ul > li a:hover {
       color: #FFFFFF; }
-
-.news .content-header {
-  background: #2B3A46 url(../images/post-header-bg.png) no-repeat;
-  background-size: cover; }
 
 .news .newest {
   border-bottom: 0.0625em solid #E9E9E9; }
