@@ -16,4 +16,4 @@ weight: 3
 
 Our mission is to work with communities and seafood industry to improve the sustainability of high risk  fisheries. We cultivate deep relationships with fishermen, seafood buyers, government agencies, and non-governmental organizations to uncover and implement local solutions to systems level problems in globally significant fisheries.
 
-See how we’re implementing our mission in the [Success Stories section] (what-we-do/success-stories/) of our site and view examples of our work in the [Initiatives section] (initiatives/).
+See how we’re implementing our mission in the [Success Stories section] (/what-we-do/success-stories/) of our site and view examples of our work in the [Initiatives section] (/initiatives/).
