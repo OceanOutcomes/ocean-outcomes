@@ -20,4 +20,4 @@ A few examples of improvements that we are catalyzing include:
 
 * Supply chain policy improvements—such as working with Japanese stakeholders to develop a draft Wild Salmon Policy for Japan that would set escapement goals and harvest rules for wild fish for the first time.
 
-Further information on our work can be found in the Initiatives section of our website.
+Further information on our work can be found in the [Initiatives section] (initiatives/) of our website.
