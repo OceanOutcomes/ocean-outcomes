@@ -74,17 +74,26 @@
   }
 }
 
-.landing .content-header.who-we-are {
+.news .content-header {
+  background: $abyss url(../images/post-header-bg.png) no-repeat;
+  background-size: cover;
+}
+
+.landing .content-header.who-we-are,
+.content-page .content-header.who-we-are {
   background: url(../images/who-we-are-header-bg.jpg) center center no-repeat;
   background-size: cover;
 }
 
-.landing .content-header.what-we-do {
+.landing .content-header.what-we-do,
+[class^="content-header what-we-do"], [class*="content-header what-we-do"] {
   background: url(../images/what-we-do-header-bg.jpg) center center no-repeat;
   background-size: cover;
 }
 
-.landing .content-header.initiatives {
+.landing .content-header.initiatives,
+.content-page .content-header.initiatives,
+.content-page .content-header.initiativessupply-chain {
   background: url(../images/initiatives-header-bg.jpg) center center no-repeat;
   background-size: cover;
 }
