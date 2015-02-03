@@ -12,5 +12,5 @@ The Salmon FIP Tracker was launched with the goal of providing stakeholders with
 
 This tool allows buyers and conservation advocates to verify fisheries’ improvement claims and track the progress of individual fisheries online and will help ensure that only the fisheries living up to their sustainability commitments reap rewards in the sustainable seafood marketplace.
 
-Visit the Tracker to verify and track improvement claims of salmon fisheries across the Pacific. 
+[Visit the Tracker to verify and track improvement claims of salmon fisheries across the Pacific.] (salmonfippartnership.org/fip) 
 		
