@@ -106,15 +106,16 @@
       }
     }
 
-    .actions {
+    #navigation-buttons {
       text-align: center;
-      margin-top: 2em;
-      button {
-        font-family: $sans-serif;
-        font-weight: normal;
-        padding: 0.75em 3em;
-        text-transform: uppercase; 
-      }
+    }
+    
+    input[type=submit].button-white {
+      @extend %button-white;
+      font-family: $sans-serif;
+      font-weight: normal;
+      padding: 0.75em 3em;
+      text-transform: uppercase; 
     }
   }
 }

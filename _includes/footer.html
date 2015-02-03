@@ -36,7 +36,7 @@
 
     $.ajax({
       url:
-      "https://docs.google.com/forms/d/12eJZzd40rVr7X0V5ce6seIpnmHCUNkaPlUCVPrUuKU8/formResponse",
+      "https://cors.5apps.com/?uri=https://docs.google.com/forms/d/12eJZzd40rVr7X0V5ce6seIpnmHCUNkaPlUCVPrUuKU8/formResponse",
       data: {
         "entry.504272795": name, 
         "entry.102590496": email, 
@@ -58,7 +58,7 @@
   }
 
   $('form#googleForm').submit(function(e){
-    e.preventDefault();
-    postForm();
+    //e.preventDefault();
+    //postForm();
   });
 </script>

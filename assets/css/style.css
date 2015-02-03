@@ -309,6 +309,7 @@ body {
     transition: all 0.4s; }
 
 .button-white,
+.contact .contact-form form input[type=submit].button-white,
 .hero-home .button-large,
 .home-success-stories .button-large,
 .landing-section:hover .button-large {
@@ -317,6 +318,7 @@ body {
   border-radius: 0;
   color: #FFFFFF; }
   .button-white:hover,
+  .contact .contact-form form input[type=submit].button-white:hover,
   .hero-home .button-large:hover,
   .home-success-stories .button-large:hover,
   .landing-section:hover .button-large:hover {
@@ -409,14 +411,13 @@ body {
       @media screen and (min-width: 40em) {
         .contact .contact-form form input[type=text], .contact .contact-form form textarea {
           padding: 1em 2em; } }
-    .contact .contact-form form .actions {
-      text-align: center;
-      margin-top: 2em; }
-      .contact .contact-form form .actions button {
-        font-family: "proxima-nova", Helvetica, Arial, sans-serif;
-        font-weight: normal;
-        padding: 0.75em 3em;
-        text-transform: uppercase; }
+    .contact .contact-form form #navigation-buttons {
+      text-align: center; }
+    .contact .contact-form form input[type=submit].button-white {
+      font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+      font-weight: normal;
+      padding: 0.75em 3em;
+      text-transform: uppercase; }
 
 .content-header {
   background-size: cover;
