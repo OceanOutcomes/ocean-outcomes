@@ -39,7 +39,7 @@
     </li>
   {% endfor %}
 
-  {% for item in site.data.menu %}
+  {% for item in site.data.menu[page.lang] %}
     <li class="top-level small"><a href="{{item.url}}">{{item.title}}</a></li>
   {% endfor %}
 
