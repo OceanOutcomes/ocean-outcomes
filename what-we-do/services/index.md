@@ -24,7 +24,7 @@ Benefits derived from our work include:
 * Healthy and robust fisheries that deliver long-term business value from responsible environmental stewardship
 * Based on buyer demands, our projects achieve heightened market recognition, particularly in the North American and European markets where demand for sustainability is high
 * Increased potential to attract investment based on the implementation of sustainable practices
-* Risk mitigation for businesses and communities
+Risk mitigation for businesses and communities
 
-Whether you are a fishermen, seafood buyer/supplier or NGO advising on seafood sustainability, get in touch with us today to learn how we can help you improve the world’s supply of sustainable seafood.
+Whether you are a fishermen, seafood buyer/supplier or NGO advising on seafood sustainability, [get in touch] (/contact/) with us today to learn how we can help you improve the world’s supply of sustainable seafood.
 
