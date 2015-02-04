@@ -5,7 +5,9 @@ hero-image: /assets/images/posts/news-item-1.jpg
 teaser-text: |
   Need teaser text about Hokkaido success story.
 ---
-The Hokkaido chum fishery is the largest chum salmon fishery in the world. The fishery relies almost entirely on hatchery production, one of the consequences of the destruction of riparian habitat across most of Japan. According to Japanese scientific reports, 27% of natural spawning habitat on Hokkaido Island has been made inaccessible to wild salmon due to dams and other river works. Until very recently, little if any effort was made to monitor, protect, and manage for the few remnant wild salmon populations and other aquatic wildlife.
+## The Hokkaido chum fishery is the largest chum salmon fishery in the world. 
+
+The fishery relies almost entirely on hatchery production, one of the consequences of the destruction of riparian habitat across most of Japan. According to Japanese scientific reports, 27% of natural spawning habitat on Hokkaido Island has been made inaccessible to wild salmon due to dams and other river works. Until very recently, little if any effort was made to monitor, protect, and manage for the few remnant wild salmon populations and other aquatic wildlife.
 
 As the conversation surrounding sustainable seafood has grown, the Hokkaido fishery, which exports about to half of its salmon products overseas in some years, became interested in promote its sustainability in international markets. The fishery launched an assessment, improvement, and certification process several years ago. While MSC certification was ultimately not to be, the fishery made important strides to protect wild stocks and align its management practices with internationally recognized best practices. 
 
