@@ -1,10 +1,8 @@
 ---
 layout: page 
 title: Let's Talk Fish
-banner-image: http://placehold.it/740x490
-subtitle: Some subtitle text
 landing-image: landing-sections/lets-talk-fish-hover.jpg
-hero-image:
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/letstalkfishhero.jpg
 weight: 5
 teaser-text: At O2, we connect all the pieces of a complex international seafood supply chain through Let’s Talk Fish, where we facilitate business relationships and exchange best practices and identify solutions to pressing issues. 
 ---
