@@ -1,7 +1,6 @@
 ---
 layout: page 
 title: Salmon FIP Tracker
-subtitle: Some subtitle text
 landing-image: landing-sections/tracker-hover.jpg
 hero-image:
 weight: 5
