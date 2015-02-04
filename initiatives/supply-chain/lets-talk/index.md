@@ -11,7 +11,9 @@ teaser-text: At O2, we connect all the pieces of a complex international seafood
 This annual global supply chain event brings together seafood businesses, managers, scientists, fishers, and civil society in the producing regions. Together we exchange best practices and identify solutions to pressing issues, strengthen business relationships, investigate opportunities in the global seafood market, and enjoy sustainable seafood.
 
 Connect: Establish new business partnerships and international relations
+
 Collaborate: Work with industry experts to identify solutions to pressing issues
+
 Taste: Try some of the best sustainable seafood products from the region
 
 To participate or learn more about Let’s Talk Fish, [get in touch] (/contact/) with us! 
