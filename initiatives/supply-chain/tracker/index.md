@@ -13,5 +13,5 @@ While it contains information on all the major Pacific salmon fisheries, the foc
 
 This tool allows buyers and conservation advocates to verify fisheries’ improvement claims and track the progress of individual fisheries online and will help ensure that only the fisheries living up to their sustainability commitments reap rewards in the sustainable seafood marketplace.
 
-[Visit the Tracker to verify and track improvement claims of salmon fisheries across the Pacific.] (salmonfippartnership.org/fip) 
+[Visit the Tracker to verify and track improvement claims of salmon fisheries across the Pacific.] (http://www.salmonfippartnership.org/fip) 
 		
