@@ -12,4 +12,4 @@ A collaborative industry-based initiative of Ocean Outcomes and leading seafood 
 
 The Partnership drives fishery improvement targets and outcomes, and continues to serve as a sector wide roundtable, stimulating demand for and incentivizing on the ground improvements of Russian and Japanese salmon fisheries. Additionally this pan-Pacific partnership stewards a number of regional improvement projects to address sustainability challenges such as overfishing, poaching, bycatch and hatchery impacts.
 
-To learn more about the Partnership’s guiding principles, goals and progress, and fisheries it stewards visit the [Salmon FIP Partnership website] (www.salmonfippartnership.org).
+To learn more about the Partnership’s guiding principles, goals and progress, and fisheries it stewards visit the [Salmon FIP Partnership website] (www.salmonfippartnership.org/).
