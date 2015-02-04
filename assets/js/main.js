@@ -152,6 +152,7 @@ $(document).ready(function() {
         }
       });
 
+      // Scroll action on home page
       $('.hero-home .scroll-arrow').click(function(e){
         e.preventDefault(); 
         $('html, body').animate({
@@ -159,9 +160,13 @@ $(document).ready(function() {
         }, 1000);
       });
 
+      // Share Button on news pages
       new Share('.share-button', {
         title: 'Share' 
       });
+      // Make share button active always
+      $('.social.load').addClass('active');
+      
     }
   } // end o2
 
