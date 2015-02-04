@@ -5,7 +5,7 @@
     {% for node in site.pages %}
       {% include node_depth.html %}
       {% if node_url == parent_url and node_depth > 1 %}
-        <p class="section-title"><span>{{ node.title }}</span></p>
+      <p class="section-title"><a href="{{parent_url}}"><span>{{ node.title }}</span></a></p>
       {% endif %}
     {% endfor %}
     <h1>{{ page.title }}</h1>

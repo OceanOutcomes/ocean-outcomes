@@ -53,8 +53,9 @@ jp:
   get-in-touch: "Get In Touch"
 
   # Form
+  optional: "Optional"
   your-name: "Your Name"
   your-email: "Your Email Address"
-  your-email: "Your Phone Number"
+  your-phone: "Your Phone Number"
   your-message: "Your Message"
   submit: "Submit"

@@ -131,7 +131,10 @@
 
   h2 { font-size: em(28); }
 
-  ul { margin-left: 1em; }
+  ul { 
+    margin-left: 1em; 
+    margin-bottom: 1em;
+  }
   ul li {
     display: list-item;
     list-style-type: disc;

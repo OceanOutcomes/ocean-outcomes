@@ -400,7 +400,9 @@ body {
     .contact .contact-form form label {
       color: #FFFFFF;
       font-weight: normal; }
-    .contact .contact-form form input[type=text], .contact .contact-form form textarea {
+    .contact .contact-form form input[type=text],
+    .contact .contact-form form input[type=email],
+    .contact .contact-form form textarea {
       font-family: "adriane", Georgia, Times, serif;
       font-weight: normal;
       margin-bottom: 1em;
@@ -409,8 +411,12 @@ body {
       box-shadow: none;
       padding: 0.5em 1em; }
       @media screen and (min-width: 40em) {
-        .contact .contact-form form input[type=text], .contact .contact-form form textarea {
+        .contact .contact-form form input[type=text],
+        .contact .contact-form form input[type=email],
+        .contact .contact-form form textarea {
           padding: 1em 2em; } }
+    .contact .contact-form form #navigation-table td {
+      border-bottom: none; }
     .contact .contact-form form #navigation-buttons {
       text-align: center; }
     .contact .contact-form form input[type=submit].button-white {
@@ -449,14 +455,15 @@ body {
     @media screen and (min-width: 53.75em) {
       .content-header section.title {
         padding-top: 18%; } }
-    .content-header section.title span {
+    .content-header section.title a span {
       border-bottom: 0.125em solid #FFFFFF;
+      color: #FFFFFF;
       padding-bottom: 1em; }
   .content-header section.title h1 {
     color: #FFFFFF;
     font-size: 1.75em;
     position: relative;
-    margin: 1em 0 0;
+    margin: 0.5em 0 0;
     z-index: 1; }
     @media screen and (min-width: 40em) {
       .content-header section.title h1 {
@@ -599,7 +606,8 @@ body {
   .content-page .content-page-content article h2 {
     font-size: 1.75em; }
   .content-page .content-page-content article ul {
-    margin-left: 1em; }
+    margin-left: 1em;
+    margin-bottom: 1em; }
   .content-page .content-page-content article ul li {
     display: list-item;
     list-style-type: disc; }
@@ -1379,6 +1387,7 @@ body {
 
 .page-content .share-button.sharer-0 {
   margin-bottom: 2em;
+  margin-top: 4em;
   text-align: center;
   width: auto; }
 

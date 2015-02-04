@@ -92,7 +92,9 @@
       font-weight: normal;
     }
 
-    input[type=text], textarea {
+    input[type=text],
+    input[type=email],
+    textarea {
       font-family: $serif;
       font-weight: normal;
       margin-bottom: 1em; 
@@ -104,6 +106,10 @@
       @include media($medium-screen) {
         padding: 1em 2em;
       }
+    }
+
+    #navigation-table td {
+      border-bottom: none;
     }
 
     #navigation-buttons {
