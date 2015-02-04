@@ -400,7 +400,9 @@ body {
     .contact .contact-form form label {
       color: #FFFFFF;
       font-weight: normal; }
-    .contact .contact-form form input[type=text], .contact .contact-form form textarea {
+    .contact .contact-form form input[type=text],
+    .contact .contact-form form input[type=email],
+    .contact .contact-form form textarea {
       font-family: "adriane", Georgia, Times, serif;
       font-weight: normal;
       margin-bottom: 1em;
@@ -409,7 +411,9 @@ body {
       box-shadow: none;
       padding: 0.5em 1em; }
       @media screen and (min-width: 40em) {
-        .contact .contact-form form input[type=text], .contact .contact-form form textarea {
+        .contact .contact-form form input[type=text],
+        .contact .contact-form form input[type=email],
+        .contact .contact-form form textarea {
           padding: 1em 2em; } }
     .contact .contact-form form #navigation-table td {
       border-bottom: none; }
