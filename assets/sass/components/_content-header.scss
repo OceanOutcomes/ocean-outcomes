@@ -39,8 +39,9 @@
       padding-top: 18%;
     }
 
-    span { 
+    a span { 
       border-bottom: em(2) solid $white; 
+      color: $white;
       padding-bottom: 1em;
     }    
   }
