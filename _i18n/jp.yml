@@ -43,3 +43,18 @@ jp:
   language: "言語"
   close: "クローズ"
   menu: "メニュー"
+
+
+  ##########################
+  # Contact Page
+  ##########################
+  contact-us: "Contact Us"
+  our-location: "Our Location"
+  get-in-touch: "Get In Touch"
+
+  # Form
+  your-name: "Your Name"
+  your-email: "Your Email Address"
+  your-email: "Your Phone Number"
+  your-message: "Your Message"
+  submit: "Submit"
