@@ -7,7 +7,9 @@ weight: 2
 teaser-text: Whether you are a fishermen, seafood buyer/supplier or NGO advising on seafood sustainability, the environmental and business case for improving fisheries has never been stronger.
 ---
 
-With three-quarters of global fisheries fully or overexploited, and demand for sustainable seafood at an all-time high. Fishermen and businesses depend on healthy, abundant fish populations, and consumers rely on them to deliver consistent supplies of sustainable seafood. 
+## With three-quarters of global fisheries fully or overexploited, and demand for sustainable seafood at an all-time high. 
+
+Fishermen and businesses depend on healthy, abundant fish populations, and consumers rely on them to deliver consistent supplies of sustainable seafood. 
 
 At Ocean Outcomes, we work hand in hand with fisheries, seafood businesses, seafood ranking/certification programs and NGOs to: 
 
