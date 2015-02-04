@@ -6,14 +6,14 @@ headerimage: assets/images/news-header-bg.jpg
 
   <header class="contact-header">
     <section class="title">
-      <h1>{{ page.title }}</h1>
+    <h1>{%t contact-us %}</h1>
     </section>
   </header>
 
   <section class="contact-location">
     <div class="grid-container">
       <img class="map-icon" src="{{site.baseurl}}/assets/images/map-location-icon.png" alt="Map Icon">
-      <h1>Our Location</h1> 
+      <h1>{%t our-location %}</h1> 
       <p>
         <span class="street">{{page.address.street}}</span><br>
         <span class="city-state-zip">{{page.address.citystatezip}}</span><br>
@@ -24,14 +24,14 @@ headerimage: assets/images/news-header-bg.jpg
 
   <section class="contact-form">
     <div class="grid-container">
-      <h1><i class="fa fa-send"></i> Get In Touch</h1>
+      <h1><i class="fa fa-send"></i> {%t get-in-touch %}</h1>
       <form id="googleForm" action="https://docs.google.com/forms/d/12eJZzd40rVr7X0V5ce6seIpnmHCUNkaPlUCVPrUuKU8/formResponse"
         method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list"
           class="ss-question-list" style="padding-left: 0">
           <div class="ss-form-question errorbox-good" role="listitem">
             <div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry">
-                <label class="ss-q-item-label" for="entry_504272795"><div class="ss-q-title">Your
-                    Name
+                <label class="ss-q-item-label" for="entry_504272795"><div class="ss-q-title">
+                    {%t your-name %}
                   </div>
                   <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
                 <input type="text" name="entry.504272795" value="" class="ss-q-short"
@@ -40,7 +40,7 @@ headerimage: assets/images/news-header-bg.jpg
             </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
             <div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
                 <label class="ss-q-item-label" for="entry_102590496"><div class="ss-q-title">Your
-                    Email Address
+                    {%t your-email %}
                     <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
                   <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
                 <input type="text" name="entry.102590496" value="" class="ss-q-short"
@@ -49,8 +49,8 @@ headerimage: assets/images/news-header-bg.jpg
                 <div class="error-message" id="1337791795_errorMessage"></div>
             </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
             <div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
-                <label class="ss-q-item-label" for="entry_1221877242"><div class="ss-q-title">Your
-                    Phone Number
+                <label class="ss-q-item-label" for="entry_1221877242"><div class="ss-q-title">
+                    {%t your-phone %} 
                     <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
                   <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
                 <input type="text" name="entry.1221877242" value="" class="ss-q-short"
@@ -60,8 +60,8 @@ headerimage: assets/images/news-header-bg.jpg
             </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
             <div dir="ltr" class="ss-item ss-item-required ss-paragraph-text"><div
                 class="ss-form-entry">
-                <label class="ss-q-item-label" for="entry_1665503619"><div class="ss-q-title">Your
-                    Message
+                <label class="ss-q-item-label" for="entry_1665503619"><div class="ss-q-title">
+                    {%t your-message %}
                     <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
                   <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
                 <textarea name="entry.1665503619" rows="8" cols="0" class="ss-q-long"
@@ -78,7 +78,7 @@ headerimage: assets/images/news-header-bg.jpg
           
           <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td
                     class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
-                    <input type="submit" name="submit" value="Submit" id="ss-submit"
+                    <input type="submit" name="submit" value="{%t submit %}" id="ss-submit"
                     class="button-white">
                     </td>
       </tr></tbody></table></div></ol></form>
