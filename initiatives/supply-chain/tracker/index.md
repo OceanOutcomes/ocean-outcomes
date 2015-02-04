@@ -3,7 +3,8 @@ layout: page
 title: Salmon FIP Tracker
 banner-image: http://placehold.it/740x490
 subtitle: Some subtitle text
-hero-image: landing-sections/tracker-hover.jpg
+landing-image: landing-sections/tracker-hover.jpg
+hero-image:
 weight: 5
 teaser-text: The Salmon FIP Tracker is an online tool which provides stakeholders with easily accessible information on the sustainability status of a fishery and any progress being made toward fishery improvement goals.
 ---

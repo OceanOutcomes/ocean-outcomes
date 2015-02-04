@@ -2,7 +2,8 @@
 layout: page 
 title: Salmon FIP Partnership
 banner-image: http://placehold.it/740x490
-hero-image: landing-sections/supply-chain-partnership-hover.jpg
+landing-image: landing-sections/supply-chain-partnership-hover.jpg
+hero-image:
 weight: 1
 teaser-text: Central to our model of locally led, industry supported improvement projects is the Salmon FIP Partnership, a group of international buyers which includes Nestlé, Gorton’s, The Fishin’ Company, Albion Fisheries, and High Liner Foods. The Partnership stewards a number of improvement efforts and aims to significantly increase the number of fisheries around the globe that supply sustainable salmon.  
 ---
