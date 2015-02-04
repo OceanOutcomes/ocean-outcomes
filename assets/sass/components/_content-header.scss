@@ -49,7 +49,7 @@
     color: $white;
     font-size: em(28);
     position: relative;
-    margin: 1em 0 0;
+    margin: 0.5em 0 0;
     z-index: 1;
 
     @include media($medium-screen) {
