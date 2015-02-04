@@ -2,11 +2,11 @@
 layout: page 
 title: Our Work
 landing-image: /landing-sections/our-work-hover.jpg
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/brianstaffphoto.jpg
 weight: 1
 teaser-text: Our work addresses the full range of major fishery challenges contributing to the global fisheries crisis such as Illegal, Unreported and Unregulated fishing (IUU), overfishing, depletion of non-target stocks, habitat impacts, and management system issues such as inadequate monitoring.
 ---
-At O2, we work hand-in-hand with commercial fishers to improve high risk fisheries. Our work addresses the full range of major fishery challenges contributing to the global fisheries crisis such as Illegal, Unreported and Unregulated fishing (IUU), overfishing, depletion of non-target stocks, habitat impacts, and management system issues such as inadequate monitoring. These challenges represent serious risks to the sustainability and security of fisheries, food supplies, and human livelihoods.  
+## At O2, we work hand-in-hand with commercial fishers to improve high risk fisheries.
+Our work addresses the full range of major fishery challenges contributing to the global fisheries crisis such as Illegal, Unreported and Unregulated fishing (IUU), overfishing, depletion of non-target stocks, habitat impacts, and management system issues such as inadequate monitoring. These challenges represent serious risks to the sustainability and security of fisheries, food supplies, and human livelihoods.  
 
 Many commercial fisheries work at the margins of profitability and have limited capacity on their own to improve the sustainability of their fishery-- that’s where we come in. Our hands-on partnership approach has proven effective in helping fisheries achieve meaningful improvements and reap the tangible benefits of sustainability.
 
