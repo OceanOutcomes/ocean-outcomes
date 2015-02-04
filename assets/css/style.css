@@ -483,7 +483,8 @@ body {
   background-size: cover; }
 
 .landing .content-header.what-we-do,
-[class^="content-header what-we-do"], [class*="content-header what-we-do"] {
+.page-content .content-header.what-we-do,
+.page-content .content-header.what-we-dosuccess-stories {
   background: url(../images/what-we-do-header-bg.jpg) center center no-repeat;
   background-size: cover; }
 
