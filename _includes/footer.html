@@ -1,4 +1,4 @@
-<footer class="site-footer">  
+<footer class="site-footer">
   <div class="wrap">
     {% unless page.url contains "ru" or page.url contains "jp" %}
     <ul>
@@ -6,8 +6,8 @@
       <li><a href="{{ site.baseurl}}/what-we-do/">{%t what-we-do %}</a></li>
       <li><a href="{{ site.baseurl}}/initiatives/">{%t initiatives %}</a></li>
       <li><a href="{{ site.baseurl}}/news/">{%t news-section-heading %}</a></li>
-      <li><a href="{{ site.baseurl}}/contact.html">{%t contact-us %}</a></li>
-      <li><a href="{{ site.baseurl}}/initiatives/supply-chain/tracker">{%t tracker %}</a></li>
+      <li><a href="{{ site.baseurl}}/contact/">{%t contact-us %}</a></li>
+      <li><a href="{{ site.baseurl}}/initiatives/supply-chain/tracker/">{%t tracker %}</a></li>
       <li class="last">
         <a class="toggle language" href="">
           {%t language %} <i class="fa fa-chevron-down"></i>
@@ -38,11 +38,11 @@
       url:
       "https://cors.5apps.com/?uri=https://docs.google.com/forms/d/12eJZzd40rVr7X0V5ce6seIpnmHCUNkaPlUCVPrUuKU8/formResponse",
       data: {
-        "entry.504272795": name, 
-        "entry.102590496": email, 
-        "entry.1221877242": phone, 
+        "entry.504272795": name,
+        "entry.102590496": email,
+        "entry.1221877242": phone,
         "entry.1665503619": message
-      }, 
+      },
 
       type: "POST",
       dataType: "xml",
