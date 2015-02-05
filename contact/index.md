@@ -1,7 +1,6 @@
 ---
 layout: contact 
 title: Contact Us
-weight: 6
 bodyclass: contact
 address:
   street: 421 SW 6th Ave Ste 1400
