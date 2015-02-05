@@ -5,7 +5,7 @@ title: お問い合わせ
 weight: 6
 bodyclass: contact
 address:
-  street: 所在地 -
+  street:
    〒97204
    サウスウェスト6番通り 421番地 1400号
   citystatezip: アメリカ合衆国 オレゴン州 ポートランド市、
