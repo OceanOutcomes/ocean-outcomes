@@ -4,20 +4,20 @@ ru:
   # Home page translatables
   ##########################
   ## Home page banner
-  home-page-hero-text: "Локально LED, независимо поддержку проектам по улучшению рыболовства"
-  contact-us: "связаться с нами"
+  home-page-hero-text: "Усовершенствование промысла, проводимое по местной инициативе, и при поддержке рыбной индустрии"
+  contact-us: "Как с нами связаться"
 
   ## About section
-  about-section-heading: "относительно Ocean Outcomes"
-  about-section-content: "Мы видим будущее со здоровыми водных экосистем, в изобилии диких морепродуктов и процветающих рыбацких общин."
+  about-section-heading: "Про Ocean Outcomes:"
+  about-section-content: "Мы видим будущее со здоровыми водными экосистемами, с обильным и прибыльным запасом диких морепродуктов и с процветающими рыболовецкими общинами."
   ### Top level menu item
-  who-we-are: "Кто мы"
+  who-we-are: "Who We Are"
   #### Sub-menu items
   our-story: "Our Story"
   vision-mission: "Vision & Mission"
   our-team: "Our Team"
   ### Top level menu item
-  what-we-do: "Что мы делаем"
+  what-we-do: "What We Do"
   #### Sub-menu items
   our-work: "Our Work"
   services: "Services"
@@ -28,31 +28,31 @@ ru:
   russian-fisheries: "Russian Fisheries"
   japanese-fisheries: "Japanese Fisheries"
   iuu: "IUU"
-  supply-chain: "Supply Chain"
+  supply-chain: "Marketplace Connections"
 
   ## News section
-  news-section-heading: "новости & анализ"
-  news-section-link-text: "Смотреть все новости & анализ"
+  news-section-heading: "News & Analysis"
+  news-section-link-text: "See All News & Analysis"
 
   ##########################
   # Header & Footer translatables
   ##########################
-  ocean-outcomes-home: "Ocean Outcomes Home"
-  language: "Lanugage"
-  close: "Close"
-  menu: "Menu"
+  ocean-outcomes-home: "Главная страница"
+  language: "Язык"
+  close: "Закрыть"
+  menu: "Меню сайта"
 
   ##########################
   # Contact Page
   ##########################
-  contact-us: "Contact Us"
-  our-location: "Our Location"
-  get-in-touch: "Get In Touch"
+  contact-us: "Контакты"
+  our-location: "Наш адрес"
+  get-in-touch: "Как с нами связаться"
 
   # Form
-  optional: "Optional"
-  your-name: "Your Name"
-  your-email: "Your Email Address"
-  your-phone: "Your Phone Number"
-  your-message: "Your Message"
-  submit: "Submit"
+  optional: "Hеобязательный"
+  your-name: "Ваше имя (Ф.И.О.)"
+  your-email: "Ваш E-mail"
+  your-phone: "Ваш телефон"
+  your-message: "Ваше сообщение"
+  submit: "Отправить"
