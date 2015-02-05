@@ -3,23 +3,31 @@ class Video < Liquid::Tag
   def initialize(tagName, markup, tokens)
     super
 
-    if markup =~ Syntax then
-      @id = $1
+    @attributes = {}
 
-      if $2.nil? then
-        @width = 560
-        @height = 420
-      else
-        @width = $2.to_i
-        @height = $2.to_i
-      end
+    markup.scan(Liquid::TagAttributes) do |key, value|
+      @attributes[key] = value.gsub(/^'|"/, '').gsub(/'|"$/, '')
+    end
+    
+    if markup =~ Syntax then
+      @id = @attributes['id']
+      @service = @attributes['channel']
+      @width = 560
+      @height = 420
     else
       raise "No YouTube ID provided in the tag"
     end
   end
 
   def render(context)
-    "<iframe frameborder=\"0\" width=\"#{@width}\" height=\"#{@height}\" src=\"http://www.youtube.com/embed/#{@id}?color=white&theme=light\"></iframe>"
+    case @service 
+      when "youtube"
+        "<iframe frameborder=\"0\" width=\"#{@width}\" height=\"#{@height}\" src=\"http://www.youtube.com/embed/#{@id}?color=white&theme=light\"></iframe>"
+      when "facebook" 
+        "<iframe src=\"http://www.facebook.com/video/embed?video_id=#{@id}\" width=\"#{@width}\" height=\"#{@height}\" frameborder=\"0\"></iframe>"
+      when "vimeo"
+        "<iframe src=\"//player.vimeo.com/video/#{@id}?badge=0\" width=\"#{@width}\" height=\"#{@height}\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+    end
   end
 
    Liquid::Template.register_tag "video", self

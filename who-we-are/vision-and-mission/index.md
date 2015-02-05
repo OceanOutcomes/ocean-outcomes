@@ -1,42 +1,20 @@
 ---
 layout: page 
-title: Vision &amp; Mission
+title: Vision & Mission
 banner-image: http://placehold.it/740x490
-subtitle: Some subtitle text
-hero-image: landing-sections/vision-and-mission-hover.jpg
-teaser-text: This will show up on the landing page list
+subtitle: 
+landing-image: landing-sections/vision-and-mission-hover.jpg
+hero-image:
+teaser-text: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+weight: 3
 ---
 
-# The city's most abused creek was showing signs of healing itself this fall.
+## Locally led, industry supported fishery improvements
 
-In the greenbelt behind the Providence Alaska Medical Center, where Chester Creek was left
-intact and undisturbed within its natural channel, coho salmon seemed to be everywhere. By
-threes and fours or half-dozens, spawning fish worked the gravels in the riffles at the ends of
-the many deep pools where the clear water meandered through the cottonwood and spruce forest.
+ At O2, **we’re dedicated** to improving high risk fisheries globally. Founded in 2014, O2 was incubated and launched by Wild Salmon Center, building on a decade of work promoting sustainable wild salmon fisheries. In our new independent form we’re a fishery improvement organization, concentrating our entire mission on helping fisheries become sustainable so that they continue to produce healthy seafood and income for fishing communities well into the future. 
 
-Blown-down trees reminiscent of wilderness Alaska creeks hung across the swirling water in many
-places and woody debris filled a creek between banks untrampled by human feet. But the volume of
-litter in the woods and the human flotsam on the water made it clear this was not your normal
-Cook Inlet tributary.
+  **We envision** a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
 
-![alt text](http://placehold.it/740x490)
+Our mission is to work with communities and seafood industry to improve the sustainability of high risk  fisheries. We cultivate deep relationships with fishermen, seafood buyers, government agencies, and non-governmental organizations to uncover and implement local solutions to systems level problems in globally significant fisheries.
 
-## This year there were lots of them.
-
-"We saw a pair spawning basically in the mouth of a culvert across from East High School,'' said
-Doug O'Harra, a one-time newspaper reporter turned aspiring novelist who has lived in the Chester
-Creek drainage for two decades. "I've lived here 21 years, and in all that time, I've seen only
-one salmon in the Middle Fork.''
-
-Curious, O'Harra and his wife, Helen, a school teacher whose students raise salmon in class as
-part of a state education project, hiked much of the Middle Fork. They were shocked at the
-number of fish.
-
-"They had to go up a friggin' ditch that in places you can jump across,'' Doug said. "Several
-times, I said, 'Look at all this crap in the creek. Salmon couldn't go beyond this. And then
-we'd go a little father and there would be more salmon.
-
-In the greenbelt behind the Providence Alaska Medical Center, where Chester Creek was left
-intact and undisturbed within its natural channel, coho salmon seemed to be everywhere. By
-threes and fours or half-dozens, spawning fish worked the gravels in the riffles at the ends of
-the many deep pools where the clear water meandered through the cottonwood and spruce forest.
+See how we’re implementing our mission in the [Success Stories section] (/what-we-do/success-stories/) of our site and view examples of our work in the [Initiatives section] (/initiatives/).

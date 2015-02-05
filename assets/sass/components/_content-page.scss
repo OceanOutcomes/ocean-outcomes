@@ -1,7 +1,7 @@
 .content-page .content-header {
-  background: $abyss url(../images/content-header-bg.png) no-repeat;
+  //background: $abyss url(../images/content-header-bg.png) no-repeat;
   background-size: cover;
-  height: em(380);
+  height: em(480);
   position: relative;
   text-align: center;
 
@@ -23,12 +23,12 @@
 
   section {
     @extend %grid-container;
+    max-width: none;
   }
 
   section.title {
-    position: absolute;
+    //position: absolute;
     text-align: center;
-    top: 60%;
     width: 100%;
     z-index: 1;
   }
@@ -45,9 +45,9 @@
 
   h1 {
     color: $white;
-    font-size: em(32);
+    font-size: em(28);
     position: relative;
-    margin: 1em 0;
+    margin: 1em 0 0;
     z-index: 1;
 
     @include media($medium-screen) {
@@ -130,4 +130,20 @@
   h1 { font-size: em(36); }
 
   h2 { font-size: em(28); }
+
+  ul { 
+    margin-left: 1em; 
+    margin-bottom: 1em;
+  }
+  ul li {
+    display: list-item;
+    list-style-type: disc;
+  }
+
+  // not og-grid
+  ul.og-grid { margin-left: inherit; }
+  ul.og-grid li {
+    display: inline-block;
+    list-style-type: none;
+  }
 }

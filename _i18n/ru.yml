@@ -6,7 +6,6 @@ ru:
   ## Home page banner
   home-page-hero-text: "Локально LED, независимо поддержку проектам по улучшению рыболовства"
   contact-us: "связаться с нами"
-  testing: "тестирование"
 
   ## About section
   about-section-heading: "относительно Ocean Outcomes"
@@ -20,15 +19,40 @@ ru:
   ### Top level menu item
   what-we-do: "Что мы делаем"
   #### Sub-menu items
-  our-services: "Our Services"
+  our-work: "Our Work"
+  services: "Services"
   success-stories: "Success Stories"
   ### Top level menu item
-  sustainable-fisheries: "Обеспечение устойчивого рыболовства"
-  #### Sub-menu items
-  our-fisheries: "Our Fisheries"
   initiatives: "Initiatives"
-  resources: "Resources"
+  #### Sub-menu items
+  russian-fisheries: "Russian Fisheries"
+  japanese-fisheries: "Japanese Fisheries"
+  iuu: "IUU"
+  supply-chain: "Supply Chain"
 
   ## News section
   news-section-heading: "новости & анализ"
   news-section-link-text: "Смотреть все новости & анализ"
+
+  ##########################
+  # Header & Footer translatables
+  ##########################
+  ocean-outcomes-home: "Ocean Outcomes Home"
+  language: "Lanugage"
+  close: "Close"
+  menu: "Menu"
+
+  ##########################
+  # Contact Page
+  ##########################
+  contact-us: "Contact Us"
+  our-location: "Our Location"
+  get-in-touch: "Get In Touch"
+
+  # Form
+  optional: "Optional"
+  your-name: "Your Name"
+  your-email: "Your Email Address"
+  your-phone: "Your Phone Number"
+  your-message: "Your Message"
+  submit: "Submit"

@@ -1,0 +1,60 @@
+---
+layout: default
+bodyclass: news
+---
+<div class="post">
+
+  {% include content-header.html %}
+
+  <section class="meta">
+    <p class="meta-data">
+    {% include parent_title.html %}
+    <a href="{{parent_url}}"> &laquo Back to {{parent_title}}</a> | Published 
+      {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+    </p>
+  </section>
+  <article class="post-content">
+    {% if page.video %}
+    <section class="post-video">
+      <div class="outer-container">
+      </div>
+    </section>
+    {% endif %}
+    {% if page.hero-image %}
+    <section class="post-image">
+      <img src="{{page.hero-image}}" alt="{{page.imagealt}}">
+    </section>
+    {% endif %}
+    <section class="article-content"> 
+      <div class="share-button"></div>
+      {{ content }}
+    </section>
+  </article>
+
+  <section class="prev-next">
+    <h1><span>More News &amp; Analysis</span></h1> 
+    <div class="nav-buttons">
+      <div class="left-container">
+        {% if page.previous %}
+        <a href="{{ page.previous.url }}" class="prev">
+          <span class="link-text">
+            <i class="fa fa-chevron-left"></i> Previous Article
+          </span>
+          <span class="post-title">{{ page.previous.title }}</span>
+        </a>
+        {% endif %}
+      </div>
+      <div class="right-container">
+        {% if page.next %}
+        <a href="{{ page.next.url }}" class="next">
+          <span class="link-text">
+            Next Article <i class="fa fa-chevron-right"></i>
+          </span>
+          <span class="post-title">{{ page.next.title }}</span>
+        </a>
+        {% endif %}
+      </div>
+    </div>
+  </section>
+
+</div>

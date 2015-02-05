@@ -1,0 +1,101 @@
+.content-header {
+  background-size: cover;
+  height: em(480);
+  position: relative;
+  text-align: center;
+
+  @include media($medium-screen) {
+    height: em(580);
+  }
+
+  &:after {
+    background: rgba($abyss, 0.5);
+    content: "";
+    display: block;
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  section {
+    @extend %grid-container;
+  }
+
+  section.title {
+    color: $white;
+    text-align: center;
+    padding-top: 25%;
+    width: 100%;
+    z-index: 1;
+
+    @include media($medium-screen) {
+      padding-top: 22%;
+    }
+
+    @include media($large-screen-up) {
+      padding-top: 18%;
+    }
+
+    a span { 
+      border-bottom: em(2) solid $white; 
+      color: $white;
+      padding-bottom: 1em;
+    }    
+  }
+
+  section.title h1 {
+    color: $white;
+    font-size: em(28);
+    position: relative;
+    margin: 0.5em 0 0;
+    z-index: 1;
+
+    @include media($medium-screen) {
+      font-size: em(48);
+    }
+
+    &:after {
+      content: "";
+      display: block;
+      margin: 0.5em auto;
+      width: 15%;
+    }
+  }
+
+  section.title p {
+    margin : 0 auto;
+    text-align: center;
+
+    @include media($medium-screen) {
+      width: 40%;
+    }
+  }
+}
+
+.news .content-header {
+  background: $abyss url(../images/post-header-bg.png) no-repeat;
+  background-size: cover;
+}
+
+.landing .content-header.who-we-are,
+.content-page .content-header.who-we-are {
+  background: url(../images/who-we-are-header-bg.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.landing .content-header.what-we-do,
+.page-content .content-header.what-we-do,
+.page-content .content-header.what-we-dosuccess-stories {
+  background: url(../images/what-we-do-header-bg.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.landing .content-header.initiatives,
+.content-page .content-header.initiatives,
+.content-page .content-header.initiativessupply-chain {
+  background: url(../images/initiatives-header-bg.jpg) center center no-repeat;
+  background-size: cover;
+}

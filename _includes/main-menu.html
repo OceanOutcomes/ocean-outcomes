@@ -1,0 +1,51 @@
+{% assign primary = '' %}
+{% assign secondary = '' %}
+{% assign sorted_pages = site.pages | sort: 'weight' %}
+{% for node in sorted_pages %}
+  {% include node_depth.html %}
+  {% if node_depth == 2 and node.lang == page.lang %}
+    {% capture primary %}{{primary | append: node_url | append: '|' | append: node.title | append: ','}}{% endcapture %}
+  {% elsif node_depth == 3 node.lang == page.lang %}
+    {% capture secondary %}{{secondary | append: node_url | append: '|' | append: node.title | append: ','}}{% endcapture %}
+  {% endif %}
+{% endfor %}
+
+
+{% assign primary = primary | split: ',' %}
+{% assign secondary = secondary | split: ',' %}
+<ul class="main-menu">
+  {% for parent in primary %}
+    {% assign parent-info = parent | split: '|' %}
+    {% include has_children.html %}
+
+    {% if has_children %}
+      {% assign class = "top-level" %}
+    {% else %}
+      {% assign class = "top-level small" %}
+    {% endif %}
+
+    <li class="{{ class }}">
+      {% case page.lang %}
+      {% when 'ru' or 'jp' %}
+        <a href="">{{parent-info[1]}}</a>
+      {% else %}
+      <a href="{{parent-info[0]}}">{{parent-info[1]}}</a>
+      {% endcase %}
+      {% if has_children %}
+      <ul>
+        {% for child in secondary %}
+          {% assign child-info = child | split: '|' %}
+          {% if child-info[0] contains parent-info[0] %}
+            <li><a href="{{child-info[0]}}">{{child-info[1]}}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+  {% endfor %}
+
+  {% for item in site.data.menu[page.lang] %}
+    <li class="top-level small"><a href="{{item.url}}">{{item.title}}</a></li>
+  {% endfor %}
+
+</ul>

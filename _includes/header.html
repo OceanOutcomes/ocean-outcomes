@@ -1,69 +1,48 @@
 <header class="site-header">
   <div class="wrap">
-    <div class="logo-container">
-      <a href="/">Ocean Outcomes Home</a>
-    </div>
-    <a class="mobile-nav-toggle" href="">
-      <i class="fa fa-bars"></i>
-    </a>
-    <div class="site-actions" role="navigation">
-      <a class="toggle language" href="">
-        Lanugage <i class="fa fa-chevron-down"></i>
-      </a>
-      <a class="toggle close lang animated" href="">
-        Close <i class="fa fa-close"></i>
-      </a>
-      <a class="toggle navigation animated" href="">
-        <span>Menu</span> <i class="fa fa-bars"></i>
-      </a>
-      <a class="toggle close nav animated" href="">
-        Close <i class="fa fa-close"></i>
-      </a>
 
-      <!-- MOBILE TOGGLES -->
+    <div class="large-screen-menu">
+      <div class="logo-container">
+        <a href="/">{%t ocean-outcomes-home %}</a>
+      </div>
+
+      <div class="site-actions" role="navigation">
+        <a class="toggle language" href="">
+          {%t language %} <i class="fa fa-chevron-down"></i>
+        </a>
+        <a class="toggle close lang animated" href="">
+          {%t close %} <i class="fa fa-close"></i>
+        </a>
+        <a class="toggle navigation animated" href="">
+          <span>{%t menu %}</span> <i class="fa fa-bars"></i>
+        </a>
+        <a class="toggle close nav animated" href="">
+          {%t close %} <i class="fa fa-close"></i>
+        </a>
+      </div>
+    </div>
+    
+    <div class="small-screen-menu">
+      <div class="logo-container">
+        <a href="/">{%t ocean-outcomes-home %}</a>
+      </div>
+      <a class="mobile-nav-toggle animated" href="">
+        <i class="fa fa-bars"></i>
+      </a>
+      <a class="toggle language animated" href="">
+        {%t language %} <i class="fa fa-chevron-down"></i>
+      </a>
       <a class="toggle close mobile-nav animated" href="">
-        Close <i class="fa fa-close"></i>
+        {%t close %} <i class="fa fa-close"></i>
       </a>
     </div>
   </div>
 </header>
 
 <div class="language-menu-container">
-  <ul class="language-menu">
-    <li class="top-level"><a href="{{site.baseurl}}/ru">русский</a></li>
-    <li class="top-level"><a href="">日本語</a></li>
-  </ul>
+  {% include language-menu.html %}
 </div>
 
 <div class="main-menu-container animated">
-  <ul class="main-menu">
-    <li class="top-level">
-    <a href="{{site.baseurl}}/who-we-are">Who We Are</a>
-      <ul>
-        <li><a href="">Our Story</a></li>
-        <li><a href="">Our Vision & Mission</a></li>
-        <li><a href="">Our Team</a></li>
-      </ul>
-    </li>
-    <li class="top-level">
-      <a href="">What We Do</a>
-      <ul>
-        <li><a href="">Our Work</a></li>
-        <li><a href="">Services</a></li>
-        <li><a href="">Success Stories</a></li>
-      </ul>
-    </li>
-    <li class="top-level">
-      <a href="">Sustainable Fisheries</a>
-      <ul>
-        <li><a href="">Russia</a></li>
-        <li><a href="">Japan</a></li>
-        <li><a href="">Initiatives/Resources</a></li>
-      </ul>
-    </li>
-    <li class="top-level small">
-      <a href="">News & Analysis</a>
-    </li>
-    <li class="top-level small"><a href="">Contact Us</a></li>
-  </ul>
+  {% include main-menu.html %}
 </div>

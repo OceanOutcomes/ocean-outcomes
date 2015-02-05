@@ -4,7 +4,8 @@ bodyclass: content-page
 ---
 <div class="content-page-content {{page.title | downcase | replace: ' ', '-' }}">
   
-  {% include content-header-subnav.html %}
+  {% include content-header.html %}
+  {% include content-subnav.html %}
 
   <article>
     <div class="grid-container">
@@ -12,10 +13,10 @@ bodyclass: content-page
         {% for person in site.data.staff %}
           <li>
              <a href="/"
-               data-largesrc="{{site.baseurl}}/assets/images/staff-image-large.jpg"
-               data-title="{{person.name}}" data-description="{{person.bio}}"
+               data-largesrc="{{person.image}}"
+               data-title="{{person.name}}" data-description="{{person.bio | markdownify}}"
                data-position="{{person.title}}">
-              <img src="{{site.baseurl}}/assets/images/staff-image.jpg" alt="img01"/>
+              <img src="{{person.image}}" alt="staff image"/>
               <span class="initial-details">
                 <span class="og-name">{{person.name}}</span>
                 <span class="og-title">{{person.title}}</span>

@@ -20,6 +20,7 @@
       @include retina-image('../images/logo', 100% 100%); 
       @include hide-text;
       background-repeat: no-repeat;
+      background-size: 100%;
       display: block;
       height: em(29.5);
       margin-top: 1em;
@@ -41,5 +42,20 @@
     @include media($medium-screen) {
       @include span-columns(8);
     }
+  }
+
+  // LARGE SCREEN MENU 
+  .large-screen-menu {
+    display: none;
+
+    @include media($medium-screen) {
+      display: block;
+    }
+  }
+
+  .small-screen-menu {
+    @include media($medium-screen) {
+      display: none;
+    } 
   }
 }

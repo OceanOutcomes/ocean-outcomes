@@ -4,13 +4,12 @@ und:
   # Home page translatables
   ##########################
   ## Home page banner
-  home-page-hero-text: "Locally led, independently supported fishery improvement projects"
-  contact-us: "Contact us"
-  testing: "testing"
+  home-page-hero-text: "Locally led, industry supported fishery improvement"
+  contact-us: "Get in Touch"
 
   ## About section
   about-section-heading: "About Ocean Outcomes"
-  about-section-content: "We envision a future with healthy aquatic ecosystems, a plentiful wild seafood supply, and thriving fishing communities."
+  about-section-content: "We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities."
   ### Top level menu item
   who-we-are: "Who We Are"
   #### Sub-menu items
@@ -24,12 +23,44 @@ und:
   services: "Services"
   success-stories: "Success Stories"
   ### Top level menu item
-  sustainable-fisheries: "Sustainable Fisheries"
+  initiatives: "Initiatives"
   #### Sub-menu items
-  russia: "Russia"
-  japan: "Japan"
-  initiatives-resources: "Initiatives/Resources"
+  russian-fisheries: "Russian Fisheries"
+  japanese-fisheries: "Japanese Fisheries"
+  iuu: "IUU"
+  supply-chain: "Marketplace Connections"
 
   ## News section
   news-section-heading: "News & Analysis"
   news-section-link-text: "See all News & Analysis"
+
+  ##########################
+  # Header & Footer translatables
+  ##########################
+  ocean-outcomes-home: "Ocean Outcomes Home"
+  language: "Language"
+  close: "Close"
+  menu: "Menu"
+  tracker: "FIP Tracker"
+
+
+  ##########################
+  # 404 page
+  ##########################
+  page-not-found: 404 Page Not Found
+  return-text: "Home"
+
+  ##########################
+  # Contact Page
+  ##########################
+  contact-us: "Contact Us"
+  our-location: "Our Location"
+  get-in-touch: "Get In Touch"
+
+  # Form
+  optional: "Optional"
+  your-name: "Your Name"
+  your-email: "Your Email Address"
+  your-phone: "Your Phone Number"
+  your-message: "Your Message"
+  submit: "Submit"

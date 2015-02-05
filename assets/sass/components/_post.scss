@@ -88,7 +88,7 @@
 }
 
 .post h2 { 
-  font-size: em(28); 
+  font-size: em(22); 
 
   @include media($medium-screen) {
     font-size: em(36); 
@@ -138,11 +138,33 @@
   } 
 
   // Prev/Next Buttons
+  .left-container,
+  .right-container {
+    @include span-columns(12);
+
+    @include media($medium-screen) {
+      @include span-columns(4);
+    }
+  }
+  
+  .left-container {
+    min-height: 1px;
+
+    @include media($medium-screen) {
+      @include shift(2);
+    }
+  }
+
   a { 
-    @include span-columns(4);
+    @include span-columns(12 of 12);
     border: em(5) solid $light-gray;
     font-family: $serif;
-    padding: 1em 1em 2em;
+    padding: 0.5em 0.5em 1em;
+
+    @include media($medium-screen) {
+      @include span-columns(4 of 4);
+      padding: 1em 1em 2em;
+    }
 
     span.link-text {
       font-size: em(24);
@@ -164,7 +186,10 @@
     
     // First button
     &:nth-child(1) {
-      @include shift(2);
+      margin-bottom: 1em;
+      @include media($medium-screen) {
+        //@include shift(2);
+      }
     }
 
     // Second button

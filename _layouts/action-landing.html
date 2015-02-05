@@ -1,0 +1,28 @@
+---
+layout: default
+bodyclass: news
+---
+
+{% include content-header.html %}
+
+{% include child_depth.html %}
+
+<section class="all-news">
+  {% assign sorted_pages = site.pages | sort: 'weight' %}
+  {% for node in sorted_pages %}
+    {% include node_depth.html %}
+    {% if node_url contains page_url and node_depth == child_depth %}
+      <div class="post">
+        <div class="grid-container">
+          <img src="{{ node.hero-image }}">
+          <h2>
+            <a class="post-link" href="{{ node_url }}">
+              {{ node.title }}
+            </a>
+          </h2>
+          <p class="post-teaser-text">{{ node.teaser-text }}</p>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</section>

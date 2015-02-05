@@ -59,7 +59,10 @@
 
   li.top-level ul > li a {
     color: $aqua;
-    padding: 0.5em 1em;
+
+    @include media($medium-screen) {
+      padding: 0.5em;
+    }
 
     &:hover {
       color: $white; 
