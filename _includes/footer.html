@@ -16,7 +16,14 @@
     </ul>
     {% endunless %}
     <div class="logo-container">
+      {% case page.lang %}
+      {% when 'ru' %}
+      <a href="/ru">{%t ocean-outcomes-home %}</a>
+      {% when 'jp' %}
+      <a href="/jp">{%t ocean-outcomes-home %}</a>
+      {% else %}
       <a href="/">{%t ocean-outcomes-home %}</a>
+      {% endcase %}
     </div>
   </div>
 </footer>
