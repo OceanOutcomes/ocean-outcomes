@@ -16,7 +16,14 @@
     </ul>
     {% endunless %}
     <div class="logo-container">
+      {% case page.lang %}
+      {% when 'ru' %}
+      <a href="/ru">{%t ocean-outcomes-home %}</a>
+      {% when 'jp' %}
+      <a href="/jp">{%t ocean-outcomes-home %}</a>
+      {% else %}
       <a href="/">{%t ocean-outcomes-home %}</a>
+      {% endcase %}
     </div>
   </div>
 </footer>
@@ -27,38 +34,3 @@
 <script src="{{site.baseurl}}/assets/js/staff-grid.js"></script>
 <script>$(function(){ Grid.init(); });</script>
 <script src="{{site.baseurl}}/assets/js/main.js"></script>
-<script type="text/javascript">
-  function postForm() {
-    var name  = $('input[name="entry.504272795"]').val();
-    var email = $('input[name="entry.102590496"]').val();
-    var phone = $('input[name="entry.1221877242"]').val();
-    var message = $('input[name="entry.1665503619"]').val();
-
-    $.ajax({
-      url:
-      "https://cors.5apps.com/?uri=https://docs.google.com/forms/d/12eJZzd40rVr7X0V5ce6seIpnmHCUNkaPlUCVPrUuKU8/formResponse",
-      data: {
-        "entry.504272795": name,
-        "entry.102590496": email,
-        "entry.1221877242": phone,
-        "entry.1665503619": message
-      },
-
-      type: "POST",
-      dataType: "xml",
-      statusCode: {
-        0: function() {
-          console.log('submitted');
-        },
-        200: function() {
-          console.log('submitted 2');
-        }
-      }
-    });
-  }
-
-  $('form#googleForm').submit(function(e){
-    //e.preventDefault();
-    //postForm();
-  });
-</script>

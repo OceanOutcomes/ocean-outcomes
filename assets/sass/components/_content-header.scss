@@ -26,18 +26,12 @@
 
   section.title {
     color: $white;
+    max-width: none;
     text-align: center;
-    padding-top: 25%;
+    position: absolute;
+    top: 25%;
     width: 100%;
     z-index: 1;
-
-    @include media($medium-screen) {
-      padding-top: 22%;
-    }
-
-    @include media($large-screen-up) {
-      padding-top: 18%;
-    }
 
     a span { 
       border-bottom: em(2) solid $white; 
