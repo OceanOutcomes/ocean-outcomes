@@ -4,56 +4,55 @@ jp:
   # Home page translatables
   ##########################
   ## Home page banner
-  home-page-hero-text: "ローカルにつながった、独立して漁業改善プロジェクトを支援"
+  home-page-hero-text: "水産業界が支える、地元漁業者による、漁業の改善"
   contact-us: "お問い合わせ"
 
   ## About section
-  about-section-heading: "オーシャンアウトカムについて"
-  about-section-content: "私たちは健康的な水界生態系、豊富な野生の魚介類の供給、及び繁栄漁村との未来を思い描く。"
+  about-section-heading: "オーシャンアウトカムズについて"
+  about-section-content: "私たちは健全な水生動物の生態系、有益で豊富な天然魚介類の供給、そして漁業者コミュニティの繁栄を想い、未来を描きます"
   ### Top level menu item
-  who-we-are: "私たちは誰でしょう"
+  who-we-are: "Who We Are"
   #### Sub-menu items
-  our-story: "私たちの物語"
-  vision-mission: "ビジョン＆ミッション"
-  our-team: "私達のチーム"
+  vision-mission: "Vision and Mission"
+  our-team: "Our Team"
   ### Top level menu item
-  what-we-do: "当社のサービス"
+  what-we-do: "What We Do"
   #### Sub-menu items
-  our-work: "私たちの仕事"
-  services: "サービス"
-  success-stories: "サクセスストーリー"
+  our-work: "Our Work"
+  services: "Services"
+  success-stories: "Success Stories"
   ### Top level menu item
   initiatives: "Initiatives"
   #### Sub-menu items
   russian-fisheries: "Russian Fisheries"
   japanese-fisheries: "Japanese Fisheries"
   iuu: "IUU"
-  supply-chain: "Supply Chain"
+  supply-chain: "Marketplace Connections"
 
   ## News section
-  news-section-heading: "ニュース＆分析"
-  news-section-link-text: "すべてのニュース＆分析を見る"
+  news-section-heading: "News & Analysis"
+  news-section-link-text: "See all News & Analysis"
 
   ##########################
   # Header & Footer translatables
   ##########################
-  ocean-outcomes-home: "オーシャンアウトカムホーム"
+  ocean-outcomes-home: "ホーム"
   language: "言語"
-  close: "クローズ"
+  close: "閉じる"
   menu: "メニュー"
 
 
   ##########################
   # Contact Page
   ##########################
-  contact-us: "Contact Us"
-  our-location: "Our Location"
-  get-in-touch: "Get In Touch"
+  contact-us: "お問い合わせ"
+  our-location: "所在地"
+  get-in-touch:
 
   # Form
-  optional: "Optional"
-  your-name: "Your Name"
-  your-email: "Your Email Address"
-  your-phone: "Your Phone Number"
-  your-message: "Your Message"
-  submit: "Submit"
+  optional: "任意"
+  your-name: "お名前"
+  your-email: "メールアドレス"
+  your-phone: "電話番号"
+  your-message: "お問い合わせ内容"
+  submit: "送信"
