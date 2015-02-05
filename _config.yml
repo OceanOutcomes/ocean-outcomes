@@ -1,4 +1,4 @@
-name: Ocean Outcomes 
+name: Ocean Outcomes
 description:
 
 markdown: redcarpet
@@ -8,13 +8,10 @@ redcarpet:
 
 baseurl: ''
 port: 4000
-# url:
-
-twitter_handle: 
 
 # Permalink Configuration - need to add 'index.html' to posts to get them to
 # behave like pages, which we're doing some clever automated menu generation with.
-permalink: /news/:title/index.html
+permalink: /news/:title/
 
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'config.rb', 'assets/sass',  'node_modules', 'Procfile']
 
@@ -27,4 +24,3 @@ gems: [jekyll-i18n]
 # Assets config
 sass:
   sass_dir: assets/sass
-
