@@ -1,12 +1,14 @@
 ---
 permalink: /contact/
 layout: contact
-title: Contact Us
+title: お問い合わせ
 weight: 6
 bodyclass: contact
 address:
-  street: 421 SW 6th Ave Ste 1400
-  citystatezip: Portland, OR 97204
-  phone:
+  street: 所在地 -
+   〒97204
+   サウスウェスト6番通り 421番地 1400号
+  citystatezip: アメリカ合衆国 オレゴン州 ポートランド市、
+  phone: +1 (503) 395-4064
   tollfree:
 ---
