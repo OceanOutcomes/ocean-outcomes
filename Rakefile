@@ -5,6 +5,7 @@ require 'date'
 require 'yaml'
 require 'tmpdir'
 require 'jekyll'
+require 'html/proofer'
 
 task :default => :server
 
@@ -34,4 +35,9 @@ end
 desc "Generate and publish site to stage.oceanoutcomes.org on Amazon S3."
 task :stage => [:build] do
   system 'bundle exec s3_website push --config-dir=_stage_config'
+end
+
+task :test do
+  sh "bundle exec jekyll build"
+  HTML::Proofer.new("./_site").run
 end
