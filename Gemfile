@@ -11,6 +11,7 @@ gem "sass-globbing"
 gem "i18n"
 gem "s3_website", "~> 2.7.3"
 gem "rake", "~> 10"
+gem 'html-proofer'
 
 group :jekyll_plugins do
   gem "jekyll-i18n"

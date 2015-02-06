@@ -1,12 +1,11 @@
 ---
 layout: contact 
-title: Contact Us
+title: Контакты
 weight: 6
 bodyclass: contact
 address:
   street: 421 SW 6th Ave Ste 1400
   citystatezip: Portland, OR 97204
-  phone:  
-  tollfree:  
+  phone:  +1 503-395-40-64 
 ---
 

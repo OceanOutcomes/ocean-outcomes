@@ -4,12 +4,10 @@ title: Salmon FIP Partnership
 landing-image: landing-sections/supply-chain-partnership-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/partnershiphero.jpg
 weight: 1
-teaser-text: Central to our model of locally led, industry supported improvement projects is the Salmon FIP Partnership, a group of international buyers which includes Nestlé, Gorton’s, The Fishin’ Company, Albion Fisheries, and High Liner Foods. The Partnership stewards a number of improvement efforts and aims to significantly increase the number of fisheries around the globe that supply sustainable salmon.  
+teaser-text: Central to our model of locally led, industry supported improvement projects is the Salmon FIP Partnership, an initiative of leading companies and conservationists committed to sustainable salmon. The group includes Nestlé, Gorton’s, The Fishin’ Company, Albion Fisheries, and High Liner Foods.  
 ---
-## Central to our model of locally led, industry supported improvement projects is the Salmon FIP Partnership. 
+## Central to our model of locally led, industry supported improvement projects is the Salmon FIP Partnership.  
 
-A collaborative industry-based initiative of Ocean Outcomes and leading seafood companies across the Pacific Rim, the goal of the Partnership is to increase the volume of sustainable or improving wild capture salmon to 75% of global production.
+A collaborative, industry-based initiative of Ocean Outcomes and leading seafood companies, the goal of the Partnership is to significantly increase the volume of sustainable or improving wild capture salmon. The Partnership supports a number of fishery improvement projects currently underway for wild salmon.
 
-The Partnership drives fishery improvement targets and outcomes, and continues to serve as a sector wide roundtable, stimulating demand for and incentivizing on the ground improvements of Russian and Japanese salmon fisheries. Additionally this pan-Pacific partnership stewards a number of regional improvement projects to address sustainability challenges such as overfishing, poaching, bycatch and hatchery impacts.
-
-To learn more about the Partnership’s guiding principles, goals and progress, and fisheries it stewards visit the [Salmon FIP Partnership website] (http://www.salmonfippartnership.org/).
+To learn more about the Partnership’s activities visit the [Salmon FIP Partnership website] (http://www.salmonfippartnership.org/).

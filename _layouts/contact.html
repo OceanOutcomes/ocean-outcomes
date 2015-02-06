@@ -17,7 +17,13 @@ headerimage: assets/images/news-header-bg.jpg
       <p>
         <span class="street">{{page.address.street}}</span><br>
         <span class="city-state-zip">{{page.address.citystatezip}}</span><br>
-        <span class="phone">{% if page.address.phone %}{{page.address.phone}} • {{page.address.tollfree}}{% endif %}</span>
+        {% if page.address.phone or page.address.tollfree %}
+        <span class="phone">
+          {% if page.address.phone %}{{page.address.phone}}{% endif %}
+          {% if page.address.phone and page.address.tollfree %} • {% endif %}
+          {%if page.address.tollfree %}{{page.address.tollfree}}{% endif %}
+        </span>
+        {% endif %}
       </p>
     </div>
   </section>
