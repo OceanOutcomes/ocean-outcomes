@@ -114,7 +114,11 @@
 }
 
 .og-details {
-	padding: 0 40px 0 20px;
+	padding: 0;
+
+        @include media($medium-screen) {
+	  padding: 0 40px 0 20px;
+        }
 }
 
 .og-fullimg {
@@ -124,8 +128,9 @@
 .og-fullimg img {
 	display: inline-block;
 	max-height: 100%;
-	max-width: 100%;
+	max-width: 70%;
         height: 100;
+
 }
 
 .og-details h3 {
