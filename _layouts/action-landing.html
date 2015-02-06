@@ -14,7 +14,7 @@ bodyclass: news
     {% if node_url contains page_url and node_depth == child_depth %}
       <div class="post">
         <div class="grid-container">
-          <img src="{{ node.hero-image }}">
+          <img src="{{ node.hero-image }}" alt="{{node.title}}">
           <h2>
             <a class="post-link" href="{{ node_url }}">
               {{ node.title }}

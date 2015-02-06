@@ -69,7 +69,7 @@ title: Home | Ocean Outcomes
           <h1>{{block.heading}}</h1>
           <h2>{{block.title}}</h2>
           <p>{{block.content}}</p>
-          <img class="support-image" src="{{block.hero-image}}">
+          <img class="support-image" src="{{block.hero-image}}" alt="{{block.title}}>
           {% if block.link %}
             <a class="button-large" href="{{block.link.link-url}}">{{block.link.link-text}}</a>
           {% endif %}
@@ -85,7 +85,7 @@ title: Home | Ocean Outcomes
         {% for post in site.tags.und %}
           {% if post.featured %}
             <div class="post">
-              <img src="{{ post.hero-image }}">
+              <img src="{{ post.hero-image }}" alt="{{post.title}}">
               <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
               <h2>
                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
