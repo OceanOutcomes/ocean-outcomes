@@ -21,8 +21,8 @@ We work with fisheries, seafood businesses, seafood ranking/certification progra
 * Assist fisheries in making connections in the marketplace
 * Facilitate independent observers and IUU audits
 
-#### “We’ve been working with the O2 team for over six years. They understand our problems. They know all of our businesses, the entire essence of the obstacles that we face in Russia. They help us analyze the problems, address them, and relay this information to others." 
-#### - Dmitry Matveev of Taranai LLC, a fishing company based in Sakhalin, Russia.
+> “We’ve been working with the O2 team for over six years. They understand our problems. They know all of our businesses, the entire essence of the obstacles that we face in Russia. They help us analyze the problems, address them, and relay this information to others." 
+- Dmitry Matveev of Taranai LLC, a fishing company based in Sakhalin, Russia.
 
 Benefits derived from our work include:
 
