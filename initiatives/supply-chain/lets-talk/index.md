@@ -8,7 +8,7 @@ teaser-text: At O2, we connect the sustainable seafood supply chain through Letâ
 ---
 ## At O2, we connect the sustainable seafood supply chain through Letâ€™s Talk Fish. 
 
-This annual global supply chain event brings together seafood businesses, managers, scientists, fishers, and civil society in the fish producing regions. Together we exchange best practices and identify solutions to pressing issues, strengthen business relationships, and enjoy sustainable seafood.
+This annual global supply chain event brings together seafood businesses, managers, scientists, fishermen, and civil society in the fish producing regions. Together we exchange best practices and identify solutions to pressing issues, strengthen business relationships, and enjoy sustainable seafood.
 
 * **Connect:** *Strengthen new business partnerships and international relations*
 
