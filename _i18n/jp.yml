@@ -36,7 +36,7 @@ jp:
   ##########################
   # Header & Footer translatables
   ##########################
-  ocean-outcomes-home: " "
+  ocean-outcomes-home: "ホーム"
   language: "言語"
   close: "閉じる"
   menu: "メニュー"
