@@ -1,6 +1,6 @@
 <footer class="site-footer">
   <div class="wrap">
-    {% unless page.url contains "ru" or page.url contains "jp" %}
+    {% unless page.lang contains "ru" or page.lang contains "jp" %}
     <ul>
       <li><a href="{{ site.baseurl}}/who-we-are/">{%t who-we-are %}</a></li>
       <li><a href="{{ site.baseurl}}/what-we-do/">{%t what-we-do %}</a></li>
