@@ -48,7 +48,7 @@ und:
   # 404 page
   ##########################
   page-not-found: 404 Page Not Found
-  return-text: "TEST LOCATION"
+  return-text: "Home"
 
   ##########################
   # Contact Page
