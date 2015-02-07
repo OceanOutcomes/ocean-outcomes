@@ -3,6 +3,7 @@ layout: page
 title: Services
 landing-image: landing-sections/services-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/serviceshero.jpg
+subtitle: “We’ve been working with the O2 team for over six years. They understand our problems. They know all of our businesses, the entire essence of the obstacles that we face in Russia. They help us analyze the problems, address them, and relay this information to others." Dmitry Matveev of Taranai LLC, a fishing company based in Sakhalin, Russia.
 weight: 2
 teaser-text: Whether you are a fishermen, seafood buyer/supplier or NGO advising on seafood sustainability, the environmental and business case for improving fisheries has never been stronger.
 ---
@@ -27,9 +28,6 @@ Benefits derived from our work include:
 * Healthy and robust fisheries that deliver long-term business value from responsible environmental stewardship
 * Market recognition for improving fisheries, particularly in the North American and European markets where demand for sustainability is high
 * Increased potential to attract investment based on the implementation of sustainable practices
-
-> “We’ve been working with the O2 team for over six years. They understand our problems. They know all of our businesses, the entire essence of the obstacles that we face in Russia. They help us analyze the problems, address them, and relay this information to others." 
-- Dmitry Matveev of Taranai LLC, a fishing company based in Sakhalin, Russia.
 
 Whether you are a fishermen, seafood buyer/supplier or NGO advising on seafood sustainability, [get in touch] (/contact/) today to explore how we can work with you to increase the supply of sustainable seafood.
 
