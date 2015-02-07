@@ -13,7 +13,8 @@
   heading: Stories of Success
   title: Reenvisioning the World’s Largest Chum Salmon Fishery
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chumsalmonstoryhero.png 
-  content: Not many people know that one of the planet’s biggest salmon runs can be found in northern Japan.
+  content: |
+    Not many people know that one of the planet’s biggest salmon runs can be found in northern Japan.
   link:
     link-text: Learn more
     link-url: what-we-do/success-stories/success-story-1
