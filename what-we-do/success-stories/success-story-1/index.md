@@ -20,6 +20,8 @@ While wild salmon conservation is a concept that is gaining ground in Japan, the
 
 While the fishery is unwilling to risk its commercial fishery by reducing their overall hatchery production, it has been willing to remove individual defunct hatcheries (as the image below shows) and also by designating hatchery vs hatchery-free rivers. This was a highly significant event for the precedent it set, and because the fishermen were the primary advocates for the hatchery removals. 
 
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/damremoval.jpg)
+
 Connected to these efforts to improve the Hokkaido chum fishery, the [Shiretoko] (http://whc.unesco.org/en/list/1193) region achieved World Heritage status in and national local authorities committed to a number of improvements for wild salmon fisheries and rivers. With the growing understanding of the need to protect wild salmon (due to the certification efforts), the fishermen of the regions supported a comprehensive dam removal program for the World Heritage site. Ultimately more than 30 dams were removed or modified to improve fish passage and spawning. Examples of these improvements can be clearly seen in the before and after sequence of images below. 
 
 While the progress to date should be applauded, more work remains to improve the situation for wild fish in Japan.  While the Hokkaido Fishery Cooperative ultimately left the MSC program, it is currently considering launching a formal, public Fishery Improvement Project (FIP), which would lay out the next steps in improving this globally important fishery.
