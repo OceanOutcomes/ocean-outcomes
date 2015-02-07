@@ -10,7 +10,7 @@ Sakhalin Island sits astride two of the greatest water bodies on the planet: the
 
 Like many places in the Russian Far East, poaching is a big problem in Sakhalin. Teams of professional poachers work the upper streams of rivers during the short summer fishing season. Poachers use illegal gill nets to target female fish for red caviar. Often they stretch those nets across the entire streams, in the process destroying entire fish runs.
 
-*Urgent changes were needed in the fishery.* 
+**Urgent changes were needed in the fishery.** 
 
 Recognizing the situation was unsustainable, a group of fishermen, scientists, conservationists, and local community leaders came together to form a loose alliance of reformers dedicated to the health of wild salmon fisheries. A systems level strategy was drawn up to fight illegal fishing.
  
