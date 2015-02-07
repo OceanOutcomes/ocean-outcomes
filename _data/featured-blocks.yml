@@ -1,18 +1,16 @@
-- featured: FALSE
-  language: en
-  heading: Stories of Success
-  title: Combating Illegal Fishing on Northeast Sakhalin Island
-  hero-image: fisherman-bg.png
-  link:
-    link-text: Learn more
-    link-url: what-we-do/success-stories/success-story-2
-  content: |
-    Need teaser text for NE Sakhalin success story.
 - featured: TRUE
   language: en
   heading: Stories of Success
   title: Reenvisioning the World’s Largest Chum Salmon Fishery
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chumsalmonstoryhero.png 
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chumsalmonstoryhero.png
+  link:
+    link-text: Learn more
+    link-url: what-we-do/success-stories/success-story-1
+- featured: FALSE
+  language: en
+  heading: Stories of Success
+  title: Reenvisioning the World’s Largest Chum Salmon Fishery
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chumsalmonstoryhero.png
   link:
     link-text: Learn more
     link-url: what-we-do/success-stories/success-story-1
