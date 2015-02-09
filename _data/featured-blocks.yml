@@ -5,15 +5,17 @@
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chumsalmonstoryhero.png
   link:
     link-text: Learn more
-    link-url: what-we-do/success-stories/success-story-1
-- featured: FALSE
+    link-url: what-we-do/success-stories/success-story-2/
+  content: |
+    Need teaser text for NE Sakhalin success story.
+- featured: TRUE
   language: en
   heading: Stories of Success
   title: Reenvisioning the World’s Largest Chum Salmon Fishery
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chumsalmonstoryhero.png
   link:
     link-text: Learn more
-    link-url: what-we-do/success-stories/success-story-1
+    link-url: what-we-do/success-stories/success-story-1/
 - featured: FALSE
   language: ru
   heading: Истории успеха
