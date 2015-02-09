@@ -32,17 +32,18 @@
   color: white;
   position: relative;
   padding: 0 1em;
-  top: 30%;
+  top: 25%;
   z-index: 1;
 
   @include media($medium-screen) {
-    top: 50%;
+    top: 40%;
   }
 }
 
 .hero-home .hero-text h1 {
   color: white;
   font-weight: normal;
+  font-size: 1.25em;
   line-height: 1.5em;
   text-transform: initial;
   margin-bottom: 1em;
