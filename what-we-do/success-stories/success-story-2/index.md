@@ -2,9 +2,9 @@
 layout: action
 title:  "Fighting Poaching in the Russian Far East"
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/nesakhalinsuccesshero.jpg
-teaser-text: Who would have guessed that Northeast Sakhalin would be ground zero in the fight to protect wild salmon in Russia?
+teaser-text: Who would have guessed that Northeast Sakhalin would be ground zero in the fight to protect wild fish in Russia?
 ---
-## Who would have guessed that Northeast Sakhalin would be ground zero in the fight to protect wild salmon in Russia? 
+## Who would have guessed that Northeast Sakhalin would be ground zero in the fight to protect wild fish in Russia? 
 
 Sakhalin Island sits astride two of the greatest water bodies on the planet: the Pacific Ocean and the Sea of Okhotsk. Cold, clear water and nutrient rich upwellings seed some of the most productive coastal salmon fisheries on the planet. Salmon are caught here primarily using coastal trap nets, in-river fishing weirs (RUZs), and beach seines. Fishing typically occurs from mid summer to early fall, and most of the harvest is sold in Russia, although there is increasing interest from U.S. and European markets. 
 
