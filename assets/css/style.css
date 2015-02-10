@@ -329,7 +329,7 @@ body {
     transition: all 0.4s; }
 
 .contact .contact-header {
-  background: #2B3A46 url(../images/contact-header-bg.png) no-repeat;
+  background: #2B3A46 url(../images/contact-header-bg.jpg) no-repeat;
   background-size: cover;
   height: 25em;
   position: relative;
