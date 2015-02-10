@@ -85,7 +85,7 @@ title: Home | Ocean Outcomes
         {% for post in site.tags.und %}
           {% if post.featured %}
             <div class="post">
-              <img src="{{ post.hero-image }}" alt="{{post.title}}">
+              <a href="{{ post.url }}"><img src="{{ post.hero-image }}" alt="{{post.title}}"></a>
               <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
               <h2>
                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
