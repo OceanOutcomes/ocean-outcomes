@@ -1,4 +1,7 @@
 language: ruby
+# use container-based infrastructure
+# see http://docs.travis-ci.com/user/workers/container-based-infrastructure/
+sudo: false
 rvm:
 - 2.2.0
 before_script:
