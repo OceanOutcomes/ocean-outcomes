@@ -4,7 +4,7 @@ language: ruby
 sudo: false
 # cache bundle to speed up build
 # see http://docs.travis-ci.com/user/caching/#Bundler
-cache: bundler
+#cache: bundler
 rvm:
 - 2.2.0
 before_script:
