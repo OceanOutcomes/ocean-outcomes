@@ -7,7 +7,10 @@ s3_secret: <%= ENV['S3_SECRET'] %>
 
 # Amazon s3 bucket name.
 s3_bucket: www.oceanoutcomes.org
+
+# Cloudfront settings
 cloudfront_distribution_id: E3UJB2788K13F1
+cloudfront_invalidate_root: true
 
 # Concurrency level for uploads. Decrease if errors are occurring.
 concurrency_level: 5
