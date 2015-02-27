@@ -9,7 +9,7 @@ gem "bitters"
 gem "sass","3.4.9"
 gem "sass-globbing"
 gem "i18n"
-gem "s3_website", "~> 2.7.3"
+gem "s3_website", "~> 2.8.3"
 gem "rake", "~> 10"
 gem 'html-proofer'
 
