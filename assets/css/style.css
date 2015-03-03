@@ -538,8 +538,12 @@ body {
         font-size: 3em; } }
 
 .content-page .subnav {
+  display: none;
   margin-bottom: 2em;
   text-align: center; }
+  @media screen and (min-width: 40em) {
+    .content-page .subnav {
+      display: inherit; } }
   .content-page .subnav ul {
     border-bottom: 0.0625em solid #E9E9E9; }
     @media screen and (min-width: 40em) {
