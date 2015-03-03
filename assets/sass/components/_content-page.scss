@@ -57,8 +57,13 @@
 }
 
 .content-page .subnav {
+  display: none;
   margin-bottom: 2em;
   text-align: center;
+
+  @include media($medium-screen) {
+    display: inherit;
+  }
 
   ul {
     border-bottom: em(1) solid $light-gray;
