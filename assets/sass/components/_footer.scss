@@ -41,8 +41,13 @@
     }
 
     @include media($medium-screen) {
-      margin-bottom: 3em;
+      margin-bottom: 2em;
     }
+  }
+
+  ul.social-links {
+    margin: 0;
+    font-size: 1.2em;
   }
 
   .logo-container {

@@ -651,7 +651,10 @@ body {
       text-transform: uppercase; }
     @media screen and (min-width: 40em) {
       .site-footer ul {
-        margin-bottom: 3em; } }
+        margin-bottom: 2em; } }
+  .site-footer ul.social-links {
+    margin: 0;
+    font-size: 1.2em; }
   .site-footer .logo-container {
     clear: left;
     text-align: center; }
