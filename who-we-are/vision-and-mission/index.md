@@ -9,7 +9,7 @@ teaser-text: We envision a future with healthy aquatic ecosystems, a plentiful a
 weight: 3
 ---
 
-## Locally led, industry supported fishery improvements
+## Locally led, industry-supported fishery improvement
 
 At O2, we’re dedicated to improving high risk fisheries globally-- the fisheries that face the toughest sustainability issues and have the most to gain from improvements. We work hand-in-hand with commercial fisheries to design plans for improvement, and we stick around to help them achieve these goals. 
 
