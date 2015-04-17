@@ -13,9 +13,10 @@ und:
   ### Top level menu item
   who-we-are: "Who We Are"
   #### Sub-menu items
-  our-story: "Our Story"
-  vision-mission: "Vision & Mission"
   our-team: "Our Team"
+  vision-mission: "Vision & Mission"
+  join-our-team: "Join Our Team"
+
   ### Top level menu item
   what-we-do: "What We Do"
   #### Sub-menu items
