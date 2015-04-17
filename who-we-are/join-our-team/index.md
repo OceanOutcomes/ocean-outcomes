@@ -11,6 +11,6 @@ weight: 2
 
 At O2, we are always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. **Have Russian, Japanese, or East Asian fishery experience?** That’s always a bonus.
 
-If you are interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact-us) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share. 
+If you are interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share. 
 
 We always post announcements about current job opportunities, contract work, and internships to our website and Twitter pages, so be sure to [follow us] (http://www.twitter.com/oceanoutcomes) and check back for any updates regarding our hiring status.
