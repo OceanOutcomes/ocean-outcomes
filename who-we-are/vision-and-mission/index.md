@@ -6,7 +6,7 @@ subtitle:
 landing-image: landing-sections/vision-and-mission-hover.jpg
 hero-image:
 teaser-text: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
-weight: 3
+weight: 2
 ---
 
 ## Locally led, industry-supported fishery improvement
