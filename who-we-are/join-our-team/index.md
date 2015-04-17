@@ -2,7 +2,7 @@
 layout: page 
 title: Join Our Team
 subtitle: 
-landing-image: landing-sections/our-team-hover.jpg
+landing-image: landing-sections/join-our-team-hover.jpg
 hero-image:
 teaser-text: At O2, we are always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health.
 weight: 3
