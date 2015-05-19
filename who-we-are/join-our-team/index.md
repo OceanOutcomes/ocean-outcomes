@@ -11,7 +11,7 @@ weight: 3
 
 At O2, we are always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. **Have Russian, Japanese, or East Asian fishery experience?** That’s always a bonus.
 
-###Current Positions: 
+##Current Positions: 
 **ASSOCIATE FISHERIES SCIENTIST - OCEAN OUTCOMES**
 
 **Position Overview:**
