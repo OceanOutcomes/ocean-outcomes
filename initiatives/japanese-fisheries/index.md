@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Japanese Fisheries
-landing-image: landing-sections/japanese-fisheries-hover.jpg
+landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/japanese-fisheries-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanesefisherieshero.jpg
 weight: 1
 teaser-text: Japan has an incomparable influence on international seafood issues. Be it tuna, salmon, or sharks, Japan is a major player. Bottom line, sustainable fisheries will not be possible without Japan playing a constructive role.

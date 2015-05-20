@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Let's Talk Fish
-landing-image: landing-sections/lets-talk-fish-hover.jpg
+landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/lets-talk-fish-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/letstalkfishhero.jpg
 weight: 5
 teaser-text: At O2, we connect the sustainable seafood supply chain through Let’s Talk Fish.
