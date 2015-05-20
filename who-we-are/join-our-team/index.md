@@ -2,7 +2,7 @@
 layout: page 
 title: We're Hiring!
 subtitle: 
-landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
+landing-image: landing-sections/join-our-team-hover.jpg
 hero-image:
 teaser-text: At O2, we are always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health.
 weight: 3
