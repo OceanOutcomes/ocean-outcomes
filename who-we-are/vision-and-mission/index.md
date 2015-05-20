@@ -1,7 +1,6 @@
 ---
 layout: page 
 title: Vision & Mission
-banner-image: http://placehold.it/740x490
 subtitle: 
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
 hero-image:

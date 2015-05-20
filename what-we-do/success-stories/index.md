@@ -1,6 +1,5 @@
 ---
 layout: action-landing
-banner-image: http://placehold.it/740x490
 title: Success Stories
 weight: 3
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/success-stories-hover.jpg

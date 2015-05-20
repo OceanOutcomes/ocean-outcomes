@@ -41,7 +41,7 @@ You can use the Amazon S3 management console to create new folders, upload files
 ```
 ---
 title: Some Text Post
-banner-image-field: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/images/200x200.gif
+landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/images/200x200.gif
 ---
 This is some sample body content. It might be the body
 of a news article. And now and image after this paragraph.
