@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Services
-landing-image: landing-sections/services-hover.jpg
+landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/serviceshero.jpg
 subtitle: “We’ve been working with the O2 team for over six years. They understand our problems. They know all of our businesses, the entire essence of the obstacles that we face in Russia. They help us analyze the problems, address them, and relay this information to others." Dmitry Matveev of Taranai LLC, a fishing company based in Sakhalin, Russia.
 weight: 2
