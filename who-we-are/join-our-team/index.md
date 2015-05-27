@@ -51,6 +51,10 @@ Please send a cover letter describing why you are interested and uniquely qualif
 
 We provide equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, genetic information, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state and local laws.
 
+**Timeline:** 
+
+Recruitment will continue until an ideal candidate is found, but immediate application is encouraged as screening and selection process will begin on June 3, 2015.
+
 [View job description in PDF format.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/O2ScienceRecruitmentAnnouncementMay2015.pdf)
 ______
 
