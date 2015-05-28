@@ -4,7 +4,7 @@ title:  "West Kamchatka Salmon Fisheries Continue on Path to Sustainability"
 subtitle: With recent addition, half of Kamchatka’s wild salmon fisheries now in MSC or a FIP
 date:   2015-03-30
 teaser-text: With recent addition, half of Kamchatka’s wild salmon fisheries now in MSC or a FIP.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/news4ahero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/kamchatka-continues-improvement-hero.jpg
 featured: FALSE
 ---
 
