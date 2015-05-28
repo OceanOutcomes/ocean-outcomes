@@ -4,7 +4,7 @@ title:  "New Organization Improves Sustainability of Global Fisheries"
 subtitle: Ocean Outcomes Looks to Russia and Asia to Increase Supply of Sustainable Seafood
 date:   2015-02-10
 teaser-text: Ocean Outcomes looks to Russia and Asia to increase supply of sustainable seafood.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/news3hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/ocean-outcomes-launches-hero.jpg
 featured: FALSE
 ---
 
