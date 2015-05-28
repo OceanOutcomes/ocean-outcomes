@@ -4,7 +4,7 @@ title:  "Fishery Improvement Projects (FIPs) Needed to Meet Sustainable Seafood 
 subtitle: The need for effective buyer engagement to drive change, and on-the ground verification to ensure it, are key principles underpinning effective FIPs.
 date:   2015-05-01
 teaser-text: The need for effective buyer engagement to drive change, and on-the ground verification to ensure it, are key principles underpinning effective FIPs.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/news6hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/fishery-improvement-needed-hero.jpg
 featured: TRUE
 ---
 ###The demand for sustainable seafood is burgeoning and supply, in the form of sustainability certifications and Fishery Improvement Projects (FIPs), is racing to keep pace. 

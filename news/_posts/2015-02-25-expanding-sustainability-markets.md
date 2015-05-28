@@ -3,7 +3,7 @@ layout: news
 title:  "Growing Potential for Sustainable Fishery Production in the Far East"
 date:   2015-02-25
 teaser-text: The future of global fisheries will not be determined by the United States or Europe alone.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/news4hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/expanding-sustainability-markets-hero.jpg
 featured:
 ---
 ## The future of global fisheries will not be determined by the United States or Europe alone. East Asia, in particular, looms as the arbiter of many ocean fisheries. 

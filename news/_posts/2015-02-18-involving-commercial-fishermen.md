@@ -3,7 +3,7 @@ layout: news
 title:  "A Letter From Our Executive Director"
 date:   2015-02-18
 teaser-text: If fishermen aren’t involved in creating change, it really isn’t sustainable.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/news2hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/involving-commercial-fishermen-hero.jpg
 ---
 ## If fishermen aren’t involved in creating change, it really isn’t sustainable.
 
