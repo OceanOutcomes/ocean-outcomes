@@ -4,6 +4,7 @@ title: Salmon FIP Partnership
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/supply-chain-partnership-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/partnershiphero.jpg
 weight: 1
+subtitle: Central to our model of locally led, industry supported improvement projects is the Salmon FIP Partnership, an initiative of leading companies and conservationists committed to sustainable salmon. The group includes Nestlé, Gorton’s, The Fishin’ Company, Albion Fisheries, and High Liner Foods.  
 teaser-text: Central to our model of locally led, industry supported improvement projects is the Salmon FIP Partnership, an initiative of leading companies and conservationists committed to sustainable salmon. The group includes Nestlé, Gorton’s, The Fishin’ Company, Albion Fisheries, and High Liner Foods.  
 ---
 ## Central to our model of locally led, industry supported improvement projects is the Salmon FIP Partnership.  
