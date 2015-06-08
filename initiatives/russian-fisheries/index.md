@@ -4,8 +4,8 @@ title: Russian Fisheries
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/russian-fisheries-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/russianfisherieshero.jpg
 weight: 2
-subtitle: An enormous player in the global seafood market, Russia is one of the world’s top ten producer of wild fish. It is also a vitally important region for the future of sustainable seafood.
-teaser-text: An enormous player in the global seafood market, Russia is one of the world’s top ten producer of wild fish. It is also a vitally important region for the future of sustainable seafood.
+subtitle: An enormous player in the global seafood market, Russia is one of the world’s top ten producers of wild fish. It is also a vitally important region for the future of sustainable seafood.
+teaser-text: An enormous player in the global seafood market, Russia is one of the world’s top ten producers of wild fish. It is also a vitally important region for the future of sustainable seafood.
 ---
 ## Spanning the length of an entire continent, Russian fisheries take many forms. 
 
