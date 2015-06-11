@@ -9,9 +9,11 @@ featured: TRUE
 ---
 #####Can you describe the fishery improvement landscape, current trends, and implications for fishery improvement work?
 
+
 The sustainable seafood movement is still young, most of the successes in the US and Canada have come only in the past ten years, while on the ground success in key regions is even more nascent, coming just in the past 5 years. The issues we might face are not so much current trends as practical, real world issues. As an example, political issues such as boycotts, sanctions and trade barriers, government aversion to foreign NGOs, or even war in regions such as Ukraine can seriously impact improvement work in many key fishery regions. The implications of these issues require improvement organizations to be flexible, fluid, and adaptable to allow for these inevitable shifts in landscape. 
 
-####What’s driving demand for fishery improvement work and how is that likely to change over time?
+######What’s driving demand for fishery improvement work and how is that likely to change over time?
+
 
 The demand for fishery improvement is largely coming from Western seafood buyers (United States, Canada, Northern European Union) that use assessments and the resulting ratings to make procurement decisions. Nearly all major seafood retailers in North America and Western Europe have made public commitments to sustainable seafood. The ratings setter organizations are historically understaffed, and have a compounding problem; not only do they need to do new assessments on fisheries that are important to the seafood supply chain, but the fisheries that have been assessed already need updating every 1-4 years depending upon the stock assessment schedule. This demand from the buyer side will continue or will increase in the short and mid term. In parallel there is also increasing interest from fisheries to be better stewards of their resource, and as the buyer demand stabilizes the fishermen interest will increase.
 
