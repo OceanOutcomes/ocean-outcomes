@@ -5,7 +5,7 @@ subtitle:
 date:   2015-04-17
 teaser-text: Wild seafood catch in Russia has increased roughly 25% over the last decade, with further increases projected.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/russia-record-catches-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 
 ### Wild seafood catch in Russia has increased roughly 25% over the last decade, leveled off in the past few years, and is expected to increase significantly in the coming decade. 
