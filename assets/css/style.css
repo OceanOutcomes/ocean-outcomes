@@ -271,7 +271,6 @@ body {
 .grid-container, .site-footer .wrap, .site-header .wrap,
 .contact .contact-header section,
 .content-header section,
-.content-page .content-header section,
 .post .post-content,
 .post .post-header section,
 .post .prev-next .nav-buttons {
@@ -282,7 +281,6 @@ body {
   .grid-container:after, .site-footer .wrap:after, .site-header .wrap:after,
   .contact .contact-header section:after,
   .content-header section:after,
-  .content-page .content-header section:after,
   .post .post-content:after,
   .post .post-header section:after,
   .post .prev-next .nav-buttons:after {
@@ -427,12 +425,13 @@ body {
 
 .content-header {
   background-size: cover;
-  height: 30em;
+  padding: 4em 0 2em 0;
   position: relative;
   text-align: center; }
   @media screen and (min-width: 40em) {
     .content-header {
-      height: 36.25em; } }
+      padding: 8em 0 2em 0;
+      min-height: 23.75em; } }
   .content-header:after {
     background: rgba(43, 58, 70, 0.5);
     content: "";
@@ -447,14 +446,13 @@ body {
     color: #FFFFFF;
     max-width: none;
     text-align: center;
-    position: absolute;
-    top: 25%;
+    position: relative;
     width: 100%;
     z-index: 1; }
     .content-header section.title a span {
       border-bottom: 0.125em solid #FFFFFF;
       color: #FFFFFF;
-      padding-bottom: 1em; }
+      padding-bottom: 0.5em; }
   .content-header section.title h1 {
     color: #FFFFFF;
     font-size: 1.75em;
@@ -464,17 +462,12 @@ body {
     @media screen and (min-width: 40em) {
       .content-header section.title h1 {
         font-size: 3em; } }
-    .content-header section.title h1:after {
-      content: "";
-      display: block;
-      margin: 0.5em auto;
-      width: 15%; }
   .content-header section.title p {
     margin: 0 auto;
     text-align: center; }
     @media screen and (min-width: 40em) {
       .content-header section.title p {
-        width: 40%; } }
+        width: 70%; } }
 
 .news .content-header {
   background: #2B3A46 url(../images/post-header-bg.jpg) no-repeat;
@@ -496,46 +489,6 @@ body {
 .content-page .content-header.initiativessupply-chain {
   background: url(../images/initiatives-header-bg.jpg) center center no-repeat;
   background-size: cover; }
-
-.content-page .content-header {
-  background-size: cover;
-  height: 30em;
-  position: relative;
-  text-align: center; }
-  @media screen and (min-width: 40em) {
-    .content-page .content-header {
-      height: 36.25em; } }
-  .content-page .content-header:after {
-    background: rgba(43, 58, 70, 0.5);
-    content: "";
-    display: block;
-    display: none;
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%; }
-  .content-page .content-header section {
-    max-width: none; }
-  .content-page .content-header section.title {
-    text-align: center;
-    width: 100%;
-    z-index: 1; }
-  .content-page .content-header .section-title {
-    color: #FFFFFF;
-    text-transform: uppercase; }
-    .content-page .content-header .section-title span {
-      border-bottom: 0.125em solid #FFFFFF;
-      padding-bottom: 1em; }
-  .content-page .content-header h1 {
-    color: #FFFFFF;
-    font-size: 1.75em;
-    position: relative;
-    margin: 1em 0 0;
-    z-index: 1; }
-    @media screen and (min-width: 40em) {
-      .content-page .content-header h1 {
-        font-size: 3em; } }
 
 .content-page .subnav {
   display: none;
