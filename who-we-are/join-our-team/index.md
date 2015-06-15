@@ -5,7 +5,7 @@ subtitle: At O2, we are always interested in connecting with folks who are creat
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
 teaser-text: At O2, we are always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health.
-weight: 3
+weight: 4
 ---
 ##Do you care as much about sustainable fisheries as we do?
 
