@@ -1388,6 +1388,7 @@ body {
   position: relative; }
 
 .og-grid li a span.initial-details {
+  background: rgba(48, 48, 48, 0.8);
   color: #FFFFFF;
   display: block;
   position: relative;
@@ -1397,10 +1398,11 @@ body {
     display: block; }
   .og-grid li a span.initial-details span.og-name {
     font-size: 18px;
+    font-weight: bold;
     font-family: "adriane", Georgia, Times, serif; }
   .og-grid li a span.initial-details span.og-title {
-    font-size: 16px;
-    text-tranform: uppercase; }
+    font-size: 12px;
+    text-transform: uppercase; }
 
 .og-grid li.og-expanded > a::after {
   top: auto;
