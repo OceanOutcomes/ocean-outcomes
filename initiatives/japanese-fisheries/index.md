@@ -4,7 +4,6 @@ title: Japanese Fisheries
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/japanese-fisheries-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanesefisherieshero.jpg
 weight: 1
-subtitle: Japan has an incomparable influence on international seafood issues. Be it tuna, salmon, or sharks, Japan is a major player. Bottom line, sustainable fisheries will not be possible without Japan playing a constructive role.
 teaser-text: Japan has an incomparable influence on international seafood issues. Be it tuna, salmon, or sharks, Japan is a major player. Bottom line, sustainable fisheries will not be possible without Japan playing a constructive role.
 ---
 ## The fishmonger of the seven seas. The largest seafood market in the world. Tsukiji, Japan.  
