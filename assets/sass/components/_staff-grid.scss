@@ -24,6 +24,7 @@
 }
 
 .og-grid li a span.initial-details {
+  background: rgba($black, 0.8);
   color: $white;
   display: block;
   position: relative;
@@ -32,6 +33,7 @@
   span { display: block; }
   span.og-name {
     font-size: 18px; 
+    font-weight: bold;
     font-family: $serif;
   }
   span.og-title {
