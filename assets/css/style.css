@@ -1402,7 +1402,8 @@ body {
     font-family: "adriane", Georgia, Times, serif; }
   .og-grid li a span.initial-details span.og-title {
     font-size: 12px;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    line-height: 1.5; }
 
 .og-grid li.og-expanded > a::after {
   top: auto;
