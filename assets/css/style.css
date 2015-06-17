@@ -1391,9 +1391,10 @@ body {
   background: rgba(48, 48, 48, 0.8);
   color: #FFFFFF;
   display: block;
-  position: relative;
+  position: absolute;
   z-index: 3;
-  margin-top: -5em; }
+  width: 100%;
+  bottom: 0; }
   .og-grid li a span.initial-details span {
     display: block; }
   .og-grid li a span.initial-details span.og-name {
