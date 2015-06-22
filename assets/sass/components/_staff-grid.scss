@@ -27,9 +27,10 @@
   background: rgba($black, 0.8);
   color: $white;
   display: block;
-  position: relative;
+  position: absolute;
   z-index: 3;
-  margin-top: -5em;
+  width: 100%;
+  bottom: 0;
   span { display: block; }
   span.og-name {
     font-size: 18px; 
@@ -39,6 +40,7 @@
   span.og-title {
     font-size: 12px;
     text-transform: uppercase;
+    line-height: 1.5;
   }
 }
 
