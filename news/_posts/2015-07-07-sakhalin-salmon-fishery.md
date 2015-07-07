@@ -32,6 +32,4 @@ While we are disappointed that these fisheries have (at least temporarily) left 
 
 The good news is that the fishery has made -- and continues to make -- really big strides in conservation that were by supported and validated by the MSC certification process. As for O2, we intend to continue to engage with these companies, support their ongoing efforts to improve their sustainability, and encourage them to reactivate the certification when the time is right.
 
-Brian Caouette
-Founder and Director of Programs
-Ocean Outcomes
+Brian Caouette, Founder and Director of Programs
