@@ -10,11 +10,11 @@ featured: FALSE
 
 **Portland, OR** -- Earlier this week MRAG Americas suspended the MSC certificate for the [Northeast Sakhalin Island Pink Salmon Fishery] (https://www.msc.org/track-a-fishery/fisheries-in-the-program/certified/pacific/sakhalin_island_northheast_trap_net_pink_salmon/assessment-downloads). We want to give you the backstory because we think it illustrates a lot about the challenges and opportunities in nurturing sustainable fisheries outside the US and Western Europe.
 
-Our team has been working with this fishery for more than a decade. When we first started, poachers had infiltrated all parts of the Northeast Sakhalin watershed, holding up for weeks in hidden camps near spawning grounds while they methodically worked to strip female salmon of their eggs. A team of concerned and passionate citizens-- both home-grown and from abroad-- came together in a shared sense of duty to stop the destruction. Vladimir Smirnov, a local fishermen and community leader, made a personal commitment to protect the region’s wild nature and fisheries, knowing that it was not just the right decision for nature, but the right decision for his business.
+Our team has been working with this fishery for more than a decade. When we first started, poachers had infiltrated all parts of the Northeast Sakhalin watershed, holing up for weeks in hidden camps near spawning grounds while they methodically worked to strip female salmon of their eggs. A team of concerned and passionate citizens-- both home-grown and from abroad-- came together in a shared sense of duty to stop the destruction. Vladimir Smirnov, a local fishermen and community leader, made a personal commitment to protect the region’s wild nature and fisheries, knowing that it was not just the right decision for nature, but the right decision for his business.
 
-![Image of anti-poaching brigade]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/sakhalen-salmon-fishery-2.jpg)
-*Anti-poaching brigades patrol the streams during the salmon spawning season. (credit: Sakhalin Environment Watch)*
+![Image of fish]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/sakhalen-salmon-fishery-1.jpg)
+*The after effect of poachers in Sakhalin’s wild salmon watersheds (credit: Sakhalin Environment Watch)*
 
 A robust anti-poaching effort was put in place. Private security brigades were hired to work together with local police to shut down the poaching camps. Fishermen and conservationists came together to support the re-creation of the Vostochnii Nature Reserve, a strict protected area which held much of the critical spawning habitat for the region’s wild salmon fisheries. The local fishermen started working with scientists from around the globe to measure, monitor, and reduce impacts of bycatch especially on endangered species such as the Sakhalin taimen. All these successes were supported and validated by the MSC process as well as by groups like Sakhalin Environment Watch, Ocean Outcomes, and the Wild Salmon Center.
 
