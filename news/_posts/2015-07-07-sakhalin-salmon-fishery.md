@@ -22,7 +22,8 @@ As a result, Vladimir Smirnov’s fishery has a lot more fish these days. When h
 
 ![Image of chart]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/ne_sakhalin_catch.png)
-*Ten year catch trends for NE Sakhalin salmon fishery*
+
+*Ten year catch trends for NE Sakhalin salmon fishery.*
 
 From our conversations with Vladimir and many other fishermen in the region, we understand that the fishery's decision to let its MSC certification lapse was purely a business decision. It was not based on an inability to meet the MSC sustainability requirements, rather from a lack of recognition and value of MSC products in the Russian domestic market.
 
