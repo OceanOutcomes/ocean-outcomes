@@ -28,10 +28,10 @@ From our conversations with Vladimir and many other fishermen in the region, we 
 
 This decision highlights a market conundrum. How can we motivate fisheries to make positive change if they are not selling into markets that prioritize sustainability?  As the sustainable seafood movement goes global, more and more we are dealing with fisheries in remote parts of the world that do not have the networks or know-how to sell seafood to the markets (for example in the U.S. and Europe) that demand sustainable seafood. These are fisheries that need help and have a really important resource to protect and sustain, but are facing local markets and consumers that have a low awareness of and appetite for sustainability.
 
-While we are disappointed that these fisheries have (at least temporarily) left the MSC process, their decision confirms O2’s strategy of working with our partners to connect the dots between good fishermen and industry leaders who care about sustainability. It also points to the need for campaigns targeted at raising consumer demand and major retail interest in places like Russia and Japan. We continue to wrestle with these issues and work with many partners to find creative solutions that align conservation, business, and cultural interests in these fisheries.
-
 ![Image of O2 and partners]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/sakhalin-salmon-fishery-2.jpg)
 *O2’s Julie Kuchepatov, Brian Caouette and partners in the Vostochnii Nature Reserve*
+
+While we are disappointed that these fisheries have (at least temporarily) left the MSC process, their decision confirms O2’s strategy of working with our partners to connect the dots between good fishermen and industry leaders who care about sustainability. It also points to the need for campaigns targeted at raising consumer demand and major retail interest in places like Russia and Japan. We continue to wrestle with these issues and work with many partners to find creative solutions that align conservation, business, and cultural interests in these fisheries.
 
 The good news is that the fishery has made -- and continues to make -- really big strides in conservation that were by supported and validated by the MSC certification process. As for O2, we intend to continue to engage with these companies, support their ongoing efforts to improve their sustainability, and encourage them to reactivate the certification when the time is right.
