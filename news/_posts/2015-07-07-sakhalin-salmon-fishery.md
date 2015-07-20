@@ -36,3 +36,5 @@ This decision highlights a market conundrum. How can we motivate fisheries to ma
 While we are disappointed these fisheries have (at least temporarily) left the MSC process, their improvements to date confirm O2’s strategy of working with our partners to connect the dots between good fishermen and industry leaders who care about sustainability. It also points to the need for campaigns targeted at raising consumer demand and major retail interest in places like Russia and Japan.
 
 The good news is the fishery has made-- and continues to make-- really big strides in conservation, which were by supported and validated by the MSC certification process. As for O2, we'll continue our work with these companies and local partners, supporting their ongoing efforts to improve the sustainability of their fisheries, encouraging them to reactivate the certification when the time is right.
+
+[Learn more about our efforts to combat poaching in NE Sakhalin.] (/what-we-do/success-stories/sakhalin-anti-iuu/)
