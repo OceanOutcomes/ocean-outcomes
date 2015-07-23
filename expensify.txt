@@ -1,5 +1,5 @@
 ---
-
+layout: page 
 ---
 
 [Expensify.txt] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/Expensify.txt)
