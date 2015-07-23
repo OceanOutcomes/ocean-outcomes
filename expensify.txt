@@ -1,9 +1,9 @@
 ---
 layout: page 
+title: Join Our Team
+landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
+hero-image:
+teaser-text: At O2, we are always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health.
+weight: 4
 ---
-
-[Expensify.txt] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/Expensify.txt)
-
-[Expensify.txt] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chumsalmonstoryhero.png)
-
-066D2B88A8BA781590CA0514CF7B3B3509B97D2D10DD8C41BBF658600E8E625F9DDF552CB5D39FC53250320D1448EE54C2171A4CCDBD5584B21246DF620230EBBCDC7BF4262D3901E40C4F1CC706E39EAD02D612AB5F2622B27662DC4E553C3C30B0AE8911B007D182B78DE5EFCDC0979130A5B4417CA98CED5CFAA93D17E243
+##Do you care as much about sustainable fisheries as we do?
