@@ -1,7 +1,7 @@
 ---
 layout: page-landing
 title: Marketplace Connections
-subtitle: Our goal is to build value for fisheries that are committed to fishery improvement. 
+subtitle: Our goal is to build value for fisheries that are committed to fishery improvement 
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/supply-chain-hover.jpg
 hero-image:
 weight: 4
