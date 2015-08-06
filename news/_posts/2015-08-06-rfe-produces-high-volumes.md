@@ -4,7 +4,7 @@ title:  "Russian Salmon Production Follows Alaska Trends"
 subtitle: Russian Far East catches up 24% over same time in 2013
 date: 2015-08-06
 teaser-text: The high catches currently taking place are a good reminder that almost half the world's wild salmon comes from Russia.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/russia-record-catches-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/russia-catch-volumes-follow-alaska.jpg
 featured: TRUE
 ---
 
