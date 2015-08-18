@@ -28,7 +28,7 @@
         </a>
       </div>
     </div>
-    
+
     <div class="small-screen-menu">
       <div class="logo-container">
         {% case page.lang %}
@@ -58,5 +58,10 @@
 </div>
 
 <div class="main-menu-container animated">
-  {% include main-menu.html %}
+  {% if page.lang == 'und' %}
+    {% include main-menu.html %}
+  {% else %}
+    {% include main-menu-i18n.html %}
+  {% endif %}
+
 </div>
