@@ -34,11 +34,11 @@
     width: 100%;
     z-index: 1;
 
-    a span { 
-      border-bottom: em(2) solid $white; 
+    a span {
+      border-bottom: em(2) solid $white;
       color: $white;
       padding-bottom: 0.5em;
-    }    
+    }
   }
 
   section.title h1 {
@@ -69,20 +69,32 @@
 }
 
 .landing .content-header.who-we-are,
+.landing .content-header.ruwho-we-are,
+.landing .content-header.jpwho-we-are,
+.content-page .content-header.ruwho-we-are,
+.content-page .content-header.jpwho-we-are,
 .content-page .content-header.who-we-are {
   background: url(../images/who-we-are-header-bg.jpg) center center no-repeat;
   background-size: cover;
 }
 
 .landing .content-header.what-we-do,
+.landing .content-header.ruwhat-we-do,
+.landing .content-header.jpwhat-we-do,
 .page-content .content-header.what-we-do,
+.page-content .content-header.ruwhat-we-do,
+.page-content .content-header.jpwhat-we-do,
 .page-content .content-header.what-we-dosuccess-stories {
   background: url(../images/what-we-do-header-bg.jpg) center center no-repeat;
   background-size: cover;
 }
 
 .landing .content-header.initiatives,
+.landing .content-header.ruinitiatives,
+.landing .content-header.jpinitiatives,
 .content-page .content-header.initiatives,
+.content-page .content-header.ruinitiatives,
+.content-page .content-header.jpinitiatives,
 .content-page .content-header.initiativessupply-chain {
   background: url(../images/initiatives-header-bg.jpg) center center no-repeat;
   background-size: cover;
