@@ -292,6 +292,7 @@ body {
   padding: 0 1em; }
 
 .button-large,
+.newsletter-block a,
 .newsletter-form input[type="submit"] {
   box-sizing: border-box;
   display: inline-block;
@@ -301,6 +302,7 @@ body {
   border: solid 3px #0071C5;
   transition: all .4s; }
   .button-large:hover,
+  .newsletter-block a:hover,
   .newsletter-form input[type="submit"]:hover {
     background-color: #0071C5;
     color: white;
@@ -1146,6 +1148,17 @@ body {
       max-width: 40%;
       min-width: 40%;
       margin-right: 1em; } }
+
+.newsletter-block hr.short {
+  margin-bottom: 0.5em;
+  width: 3.125em; }
+.newsletter-block p {
+  color: #0071C5;
+  margin-bottom: 0.5em; }
+.newsletter-block a {
+  font-size: 0.85em;
+  border: 1px solid #0071C5;
+  padding: 0.3em 1em; }
 
 .newsletter-form-container {
   background: rgba(48, 48, 48, 0.75);

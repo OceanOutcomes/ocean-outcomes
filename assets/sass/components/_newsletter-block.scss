@@ -1,0 +1,18 @@
+.newsletter-block {
+  hr.short {
+    margin-bottom: 0.5em;
+    width: em(50);
+  }
+
+  p {
+    color: $blue;
+    margin-bottom: 0.5em;
+  }
+
+  a {
+    @extend %button-large;
+    font-size: 0.85em;
+    border: 1px solid $blue;
+    padding: 0.3em 1em;
+  }
+}
