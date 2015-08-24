@@ -32,7 +32,30 @@ $(document).ready(function() {
 
   var o2 = {
     fadeToggleElement: function(el) {
-      el.fadeToggle(); 
+      el.fadeToggle();
+    },
+
+    toggleNewsletter: function() {
+      var newsletterToggle = $('.newsletter-toggle');
+      var newsletter = $('.newsletter-form-container')
+      var newsletterClose = $('.newsletter-form-container span.close')
+
+      newsletterToggle.click(function(e) {
+        e.preventDefault();
+        newsletter
+          .fadeIn()
+          .css({ 'display': 'table'});
+      });
+
+      newsletterClose.click(function(e){
+        e.preventDefault();
+        newsletter.fadeOut();
+      });
+
+      newsletterClose.click(function(e){
+        e.preventDefault();
+        newsletter.fadeOut();
+      });
     },
 
     init: function() {
@@ -101,7 +124,7 @@ $(document).ready(function() {
         $('.main-menu-container').fadeIn();
         $('.page-content').fadeOut();
       });
-      
+
       // Mobile language toggle
       $('.small-screen-menu .toggle.language').click(function(e){
         e.preventDefault();
@@ -114,13 +137,13 @@ $(document).ready(function() {
       $('.small-screen-menu .toggle.close').click(function(e){
         e.preventDefault();
         $(this).removeClass('flipInX').hide();
-        $('.small-screen-menu .toggle.language').hide(); 
+        $('.small-screen-menu .toggle.language').hide();
         $('.language-menu-container').hide();
         $('.main-menu-container, .language-menu-container').hide();
         $('.page-content, footer').fadeIn();
       });
 
-      // Footer language toggle 
+      // Footer language toggle
       $('footer .toggle.language').click(function(e){
         e.preventDefault();
         $('.language-menu-container').fadeIn();
@@ -139,34 +162,36 @@ $(document).ready(function() {
         $('.page-content, footer').hide();
 
         $('html, body').animate({
-          scrollTop: $('html, body').offset().top 
+          scrollTop: $('html, body').offset().top
         }, 0);
       });
 
       $('.landing-section').on({
         mouseenter: function(e) {
-          $(this).find('.hover-bg').stop().transition({y: -60, opacity: 1}, 1200, 'ease'); 
-        }, 
+          $(this).find('.hover-bg').stop().transition({y: -60, opacity: 1}, 1200, 'ease');
+        },
         mouseleave: function(e) {
-          $(this).find('.hover-bg').transition({y: 0, opacity: 0}, 600, 'ease'); 
+          $(this).find('.hover-bg').transition({y: 0, opacity: 0}, 600, 'ease');
         }
       });
 
       // Scroll action on home page
       $('.hero-home .scroll-arrow').click(function(e){
-        e.preventDefault(); 
+        e.preventDefault();
         $('html, body').animate({
-          scrollTop: $('.home-about').offset().top 
+          scrollTop: $('.home-about').offset().top
         }, 1000);
       });
 
       // Share Button on news pages
       new Share('.share-button', {
-        title: 'Share' 
+        title: 'Share'
       });
       // Make share button active always
       $('.social.load').addClass('active');
-      
+
+      this.toggleNewsletter();
+
     }
   } // end o2
 

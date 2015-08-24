@@ -1,11 +1,11 @@
-.button-large, 
+.button-large,
 %button-large {
   box-sizing: border-box;
   display: inline-block;
   padding: .75em 2em;
   font-size: 18px;
   text-transform: uppercase;
-  border: solid 3px $base-link-color; 
+  border: solid 3px $base-link-color;
   transition: all .4s;
 
   &:hover {
@@ -27,4 +27,9 @@
     background: white;
     @include transition(all 0.4s)
   }
+}
+
+.button-blue,
+%button-blue {
+  background: $blue;  
 }

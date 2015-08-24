@@ -1,6 +1,8 @@
 .site-footer {
   @include retina-image('../images/footer-bg', 100% 100%);
   background-color: $abyss;
+  background-repeat: no-repeat;
+  background-size: cover;
   clear: both;
 
   .wrap {
@@ -9,35 +11,34 @@
     padding-bottom: 3em;
     padding-top: 3em;
     text-align: center;
-  }  
+  }
 
   // Footer menu
   ul {
     margin-bottom: 1em;
-    
-    li { 
-      display: list-item; 
+
+    li {
+      display: list-item;
 
       @include media($medium-screen) {
         display: inline;
       }
     }
 
-    li.last {
-      display: inline-block;
-      line-height: 3;
-      overflow: hidden;
-      text-align: center;
-
-      @include media($medium-screen) {
-        display: inline;
-      }
-    }
-
-    li a { 
+    li.newsletter::before {
+      content: '| ';
       color: $white;
-      padding: 1em; 
-      text-transform: uppercase; 
+    }
+
+    li.newsletter .fa {
+      font-size: em(12);
+    }
+
+    li a {
+      color: $white;
+      font-size: 0.85em;
+      padding: 0.5em;
+      text-transform: uppercase;
     }
 
     @include media($medium-screen) {
@@ -53,9 +54,9 @@
   .logo-container {
     clear: left;
     text-align: center;
-  
+
     a {
-      @include retina-image('../images/logo', 100% 100%); 
+      @include retina-image('../images/logo', 100% 100%);
       @include hide-text;
       background-repeat: no-repeat;
       width: em(157.5);
@@ -64,7 +65,7 @@
       margin: 0 auto;
 
       @include media($medium-screen) {
-        @include retina-image('../images/logo', em(315) em(61)); 
+        @include retina-image('../images/logo', em(315) em(61));
         width: em(315);
         height: em(61);
       }
