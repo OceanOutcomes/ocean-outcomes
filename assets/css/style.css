@@ -1178,6 +1178,8 @@ body {
   vertical-align: middle; }
   .newsletter-form h1 {
     color: #0071C5; }
+  .newsletter-form h1.submitted {
+    margin-top: 4em; }
   @media screen and (min-width: 53.75em) {
     .newsletter-form form {
       padding: 0 5em;
@@ -1203,12 +1205,13 @@ body {
   background: #E9E9E9;
   margin-left: auto;
   margin-right: auto;
+  min-height: 27.125em;
   max-width: 38em;
   padding: 2em 0;
   position: relative; }
 
 .post .post-content {
-  margin-bottom: 5em; }
+  margin-bottom: 2em; }
 
 .post .post-header {
   background: #2B3A46 url(../images/news-header-bg.png) no-repeat;

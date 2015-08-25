@@ -58,6 +58,18 @@ $(document).ready(function() {
       });
     },
 
+    subscribeToNewsletter: function() {
+      $('.newsletter-form form').formchimp({
+        'onMailChimpSuccess': o2.subscribeCallback,
+        }
+      });
+    },
+
+    subscribeCallback: function() {
+      $('.newsletter-form-container form input').hide();
+      $('.newsletter-form-container h1').addClass('submitted').text('Thank you for subscribing to our newsletter.');
+    },
+
     init: function() {
 
       // Large screen language toggle
@@ -191,6 +203,7 @@ $(document).ready(function() {
       $('.social.load').addClass('active');
 
       this.toggleNewsletter();
+      this.subscribeToNewsletter();
 
     }
   } // end o2

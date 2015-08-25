@@ -20,6 +20,10 @@
     color: $blue;
   }
 
+  h1.submitted {
+    margin-top: 4em;
+  }
+
   form {
     @include breakpoint($large-screen) {
       padding: 0 5em;
@@ -56,6 +60,7 @@
   background: $light-gray;
   margin-left: auto;
   margin-right: auto;
+  min-height: em(434);
   max-width: 38em;
   padding: 2em 0;
   position: relative;
