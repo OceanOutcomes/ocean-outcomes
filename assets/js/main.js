@@ -60,8 +60,7 @@ $(document).ready(function() {
 
     subscribeToNewsletter: function() {
       $('.newsletter-form form').formchimp({
-        'onMailChimpSuccess': o2.subscribeCallback,
-        }
+        'onMailChimpSuccess': o2.subscribeCallback
       });
     },
 
