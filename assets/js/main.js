@@ -66,7 +66,7 @@ $(document).ready(function() {
 
     subscribeCallback: function() {
       $('.newsletter-form-container form input').hide();
-      $('.newsletter-form-container h1').addClass('submitted').text('Thank you for subscribing to our newsletter.');
+      $('.newsletter-form-container h1').addClass('submitted').text("Thanks! We'll be in touch.");
     },
 
     init: function() {
