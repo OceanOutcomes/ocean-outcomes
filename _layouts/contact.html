@@ -13,7 +13,7 @@ headerimage: assets/images/news-header-bg.jpg
   <section class="contact-location">
     <div class="grid-container">
       <img class="map-icon" src="{{site.baseurl}}/assets/images/map-location-icon.png" alt="Map Icon">
-      <h1>{%t our-location %}</h1> 
+      <h1>{%t our-location %}</h1>
       <p>
         <span class="street">{{page.address.street}}</span><br>
         <span class="city-state-zip">{{page.address.citystatezip}}</span><br>
@@ -56,31 +56,47 @@ headerimage: assets/images/news-header-bg.jpg
             </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
             <div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
                 <label class="ss-q-item-label" for="entry_1221877242"><div class="ss-q-title">
-                    {%t your-phone %} 
+                    {%t your-phone %}
                     <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
                   <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
                 <input type="text" name="entry.1221877242" value="" placeholder="{%t optional %}" class="ss-q-short"
                 id="entry_1221877242" dir="auto" aria-label="Your Phone Number  " title="">
                 <div class="error-message" id="397287934_errorMessage"></div>
-            </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
-            <div dir="ltr" class="ss-item ss-item-required ss-paragraph-text"><div
-                class="ss-form-entry">
-                <label class="ss-q-item-label" for="entry_1665503619"><div class="ss-q-title">
+            </div></div></div>
+            <div class="ss-form-question errorbox-good" role="listitem">
+              <div dir="ltr" class="ss-item ss-item-required ss-paragraph-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_1665503619">
+                    <div class="ss-q-title">
                     {%t your-message %}
                     <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-                  <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
-                <textarea name="entry.1665503619" rows="8" cols="0" class="ss-q-long"
+                    <div class="ss-q-help ss-secondary-text" dir="ltr"></div>
+                  </label>
+                  <textarea name="entry.1665503619" rows="8" cols="0" class="ss-q-long"
                   id="entry_1665503619" dir="auto" aria-label="Your Message  " aria-required="true"
                   required=""></textarea>
-                <div class="error-message" id="1689486828_errorMessage"></div>
-          </div></div></div>
+                  <div class="error-message" id="1689486828_errorMessage"></div>
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good" role="listitem">
+            <div dir="auto" class="ss-item  ss-checkbox"><div class="ss-form-entry">
+              <label class="ss-q-item-label" for="entry_1604214207"><div class="ss-q-title">
+            </div>
+            <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
+
+            <ul class="ss-choices" role="group" aria-label="  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1761219316" value="Subribe" id="group_1761219316_1" role="checkbox" class="ss-q-checkbox"></span>
+            <span class="ss-choice-label">{%t subscribe-for-updates %}</span>
+            </label></li></ul>
+            <div class="error-message" id="1604214207_errorMessage"></div>
+            </div></div></div>
           <input type="hidden" name="draftResponse" value="[,,&quot;7168220617363253757&quot;]
           ">
           <input type="hidden" name="pageHistory" value="0">
-          
-          
+
+
           <input type="hidden" name="fbzx" value="7168220617363253757">
-          
+
           <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td
                     class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
                     <input type="submit" name="submit" value="{%t submit %}" id="ss-submit"
