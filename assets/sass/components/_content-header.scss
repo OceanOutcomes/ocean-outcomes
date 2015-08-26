@@ -1,11 +1,12 @@
 .content-header {
   background-size: cover;
-  height: em(480);
+  padding: 4em 0 2em 0;
   position: relative;
   text-align: center;
 
   @include media($medium-screen) {
-    height: em(580);
+    padding: 8em 0 2em 0;
+    min-height: em(380);
   }
 
   &:after {
@@ -28,16 +29,16 @@
     color: $white;
     max-width: none;
     text-align: center;
-    position: absolute;
-    top: 25%;
+    position: relative;
+    //top: 34%;
     width: 100%;
     z-index: 1;
 
-    a span { 
-      border-bottom: em(2) solid $white; 
+    a span {
+      border-bottom: em(2) solid $white;
       color: $white;
-      padding-bottom: 1em;
-    }    
+      padding-bottom: 0.5em;
+    }
   }
 
   section.title h1 {
@@ -50,13 +51,6 @@
     @include media($medium-screen) {
       font-size: em(48);
     }
-
-    &:after {
-      content: "";
-      display: block;
-      margin: 0.5em auto;
-      width: 15%;
-    }
   }
 
   section.title p {
@@ -64,7 +58,7 @@
     text-align: center;
 
     @include media($medium-screen) {
-      width: 40%;
+      width: 70%;
     }
   }
 }
@@ -75,20 +69,32 @@
 }
 
 .landing .content-header.who-we-are,
+.landing .content-header.ruwho-we-are,
+.landing .content-header.jpwho-we-are,
+.content-page .content-header.ruwho-we-are,
+.content-page .content-header.jpwho-we-are,
 .content-page .content-header.who-we-are {
   background: url(../images/who-we-are-header-bg.jpg) center center no-repeat;
   background-size: cover;
 }
 
 .landing .content-header.what-we-do,
+.landing .content-header.ruwhat-we-do,
+.landing .content-header.jpwhat-we-do,
 .page-content .content-header.what-we-do,
+.page-content .content-header.ruwhat-we-do,
+.page-content .content-header.jpwhat-we-do,
 .page-content .content-header.what-we-dosuccess-stories {
   background: url(../images/what-we-do-header-bg.jpg) center center no-repeat;
   background-size: cover;
 }
 
 .landing .content-header.initiatives,
+.landing .content-header.ruinitiatives,
+.landing .content-header.jpinitiatives,
 .content-page .content-header.initiatives,
+.content-page .content-header.ruinitiatives,
+.content-page .content-header.jpinitiatives,
 .content-page .content-header.initiativessupply-chain {
   background: url(../images/initiatives-header-bg.jpg) center center no-repeat;
   background-size: cover;

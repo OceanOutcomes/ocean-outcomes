@@ -1,0 +1,21 @@
+<ul class="main-menu">
+  {% for item in site.data.menu[page.lang] %}
+    {% if item.type != 'small' %}
+    <li class="top-level">
+        <a href="{{item.link}}">{{item.title}}</a>
+      {% if item.children %}
+      <ul>
+        {% for child in item.children %}
+          <li><a href="{{child.link}}">{{child.title}}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+    {% endif %}
+  {% endfor %}
+  {% for item in site.data.menu[page.lang] %}
+    {% if item.type == 'small' %}
+      <li class="top-level small"><a href="{{item.link}}">{{item.title}}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

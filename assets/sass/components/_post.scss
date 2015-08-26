@@ -1,6 +1,6 @@
 .post .post-content {
-  @extend %grid-container; 
-  margin-bottom: 5em;
+  @extend %grid-container;
+  margin-bottom: 2em;
 }
 
 .post .post-header {
@@ -37,8 +37,8 @@
   .section-title {
     color: $white;
 
-    span { 
-      border-bottom: em(2) solid $white; 
+    span {
+      border-bottom: em(2) solid $white;
       padding-bottom: 1em;
     }
   }
@@ -58,12 +58,12 @@
 
 .post .post-image {
   margin: 0 auto;
-  width: 75%; 
+  width: 75%;
   img { width: 100%; }
 }
 .post .post-image {
   margin: 0 auto;
-  width: 100%; 
+  width: 100%;
   image { width: 100%; }
 
   @include media($medium-screen) {
@@ -87,32 +87,32 @@
   margin-bottom: 0.5em;
 }
 
-.post h2 { 
-  font-size: em(22); 
+.post h2 {
+  font-size: em(22);
 
   @include media($medium-screen) {
-    font-size: em(36); 
+    font-size: em(36);
   }
 }
 
-.post h3 { 
-  font-size: em(24); 
+.post h3 {
+  font-size: em(24);
 
   @include media($medium-screen) {
-    font-size: em(28); 
+    font-size: em(28);
   }
 }
 
 // Meta
 .post .meta {
-  background: $white;  
+  background: $white;
   border-bottom: em(1) solid $light-gray;
   text-align: center;
   padding: 1em 0;
 
-  p { 
+  p {
     font-size: 0.775em;
-    margin: 0; 
+    margin: 0;
     @include media($medium-screen) {
       font-size: 1em;
     }
@@ -127,7 +127,7 @@
     margin-bottom: 3em;
     text-align: center;
   }
-  
+
   h1 span {
     border-bottom: em(1) solid $light-gray;
     padding-bottom: 1em;
@@ -135,7 +135,7 @@
 
   .nav-buttons {
     @extend %grid-container;
-  } 
+  }
 
   // Prev/Next Buttons
   .left-container,
@@ -146,7 +146,7 @@
       @include span-columns(4);
     }
   }
-  
+
   .left-container {
     min-height: 1px;
 
@@ -155,7 +155,7 @@
     }
   }
 
-  a { 
+  a {
     @include span-columns(12 of 12);
     border: em(5) solid $light-gray;
     font-family: $serif;
@@ -170,8 +170,8 @@
       font-size: em(24);
     }
 
-    span.post-title { 
-      display: block; 
+    span.post-title {
+      display: block;
       font-family: $sans-serif;
       color: $black;
 
@@ -180,10 +180,10 @@
       &:nth-child(2) { margin-right: 1em; }
       // Quotes around post title
       &:before, &:after {
-        content: '\0022'; 
+        content: '\0022';
       }
     }
-    
+
     // First button
     &:nth-child(1) {
       margin-bottom: 1em;

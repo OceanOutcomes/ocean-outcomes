@@ -4,7 +4,6 @@ title: Japanese Fisheries
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/japanese-fisheries-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanesefisherieshero.jpg
 weight: 1
-subtitle: Japan has an incomparable influence on international seafood issues. Be it tuna, salmon, or sharks, Japan is a major player. Bottom line, sustainable fisheries will not be possible without Japan playing a constructive role.
 teaser-text: Japan has an incomparable influence on international seafood issues. Be it tuna, salmon, or sharks, Japan is a major player. Bottom line, sustainable fisheries will not be possible without Japan playing a constructive role.
 ---
 ## The fishmonger of the seven seas. The largest seafood market in the world. Tsukiji, Japan.  
@@ -17,4 +16,4 @@ It is less well known that many domestic fisheries in Japan are in deep trouble.
 
 Nevertheless, Japan has yet to fully embrace modern seafood sustainability efforts. Only 10% of domestic fishery landings participate in the Marine Stewardship Certification (MSC) program, a significant lag behind Russia, North America, and Europe. There is not a single publicly recognized Fishery Improvement Project (FIP) in Japan. 
 
-At O2, [we’re working to change this] (/what-we-do/success-stories/success-story-1/).
+At O2, [we’re working to change this] (/what-we-do/success-stories/hokkaido-chum/).

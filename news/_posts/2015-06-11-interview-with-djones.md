@@ -5,7 +5,7 @@ subtitle: As a third-generation fishmonger, O2 advisor, and founder of the seafo
 date:   2015-06-11
 teaser-text: As a third-generation fishmonger, O2 advisor, and founder of the seafood industry advisory firm Resiliensea Inc., Dick Jones knows seafood.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/interview-with-djones-hero.jpg
-featured: TRUE
+featured:
 ---
 #####Can you describe the fishery improvement landscape, current trends, and implications for fishery improvement work?
 

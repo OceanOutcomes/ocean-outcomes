@@ -4,7 +4,6 @@ title: Let's Talk Fish
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/lets-talk-fish-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/letstalkfishhero.jpg
 weight: 5
-subtitle: At O2, we connect the sustainable seafood supply chain through Let’s Talk Fish.
 teaser-text: At O2, we connect the sustainable seafood supply chain through Let’s Talk Fish.
 ---
 ## At O2, we connect the sustainable seafood supply chain through Let’s Talk Fish. 

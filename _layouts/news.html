@@ -24,14 +24,19 @@ bodyclass: news
       <img src="{{page.hero-image}}" alt="{{page.title}}">
     </section>
     {% endif %}
-    <section class="article-content"> 
+    <section class="article-content">
       <div class="share-button"></div>
       {{ content }}
+      <div class="newsletter-block">
+        <hr class="short">
+        <p>Like what you are reading?</p>
+        <a class="newsletter-toggle" href="#newsletter-form">Get notified of new posts</a>
+      </div>
     </section>
   </article>
 
   <section class="prev-next">
-    <h1><span>More News &amp; Analysis</span></h1> 
+    <h1><span>More News &amp; Analysis</span></h1>
     <div class="nav-buttons">
       <div class="left-container">
         {% if page.previous %}
