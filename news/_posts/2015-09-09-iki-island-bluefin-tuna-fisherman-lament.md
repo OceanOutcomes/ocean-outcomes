@@ -12,7 +12,7 @@ featured: TRUE
 Unfortunately, these giants of the sea are becoming increasingly scarce; the species was recently listed as “Vulnerable” to extinction on the IUCN Red List. Commercial Bluefin tuna fishermen in Japan, whose livelihoods depend on these fish, know well the fishery is in decline but are not always in the position to take action. However, one fishery, the Iki Island pole and line fishery, has taken unique measures to halt the decline of their resource. Starting this year the fishery has voluntarily banned fishing for spawning adults, at great sacrifice and expense to their own short term profits.
 
 The following lament was read aloud by one of the Iki Island commercial fishermen during an official hearing by the Japanese Fishery Agency on the situation of Bluefin tuna in Japan.
-
+_____
 *Seafood, a cultural heritage of Japan,*  
 *A blessing from the sea!*  
 *We the fishermen have been a part of this*  
