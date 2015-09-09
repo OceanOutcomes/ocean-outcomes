@@ -1,9 +1,9 @@
 ---
 layout: news
-title:  "Iki Island Fisherman Take Unique Action To Preserve Precious Bluefin Tuna"
+title:  "Iki Island Fishermen Take Unique Action To Preserve Precious Bluefin Tuna"
 subtitle: 
 date: 2015-09-09
-teaser-text: Cherished and loved by sushi connoisseurs, Bluefin tuna (“hon-maguro”) is a pillar of Japanese traditional cuisine. In fact, the Japanese consume 80% of the world’s Bluefin tuna!
+teaser-text: Cherished and loved by sushi connoisseurs, Bluefin tuna (“hon-maguro”) is a pillar of Japanese traditional cuisine.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/iki-island-bluefin-tuna-hero.jpg
 featured: TRUE
 ---
