@@ -37,7 +37,7 @@ _____
 *But, I did not let him become a fisherman*  
 *Our generation is emptying the sea of marine resources*  
 *Which we should preserve for future generations*  
-*What sorrow that is is the absolute truth*  
+*What sorrow that this is the absolute truth*  
  
 *Fishing tuna with pole and line*  
 *Allowed me to send my three children to vocational school and university*  
