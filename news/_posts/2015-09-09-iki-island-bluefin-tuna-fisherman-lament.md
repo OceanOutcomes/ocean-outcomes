@@ -24,7 +24,7 @@ _____
  
 *What is it now?*  
 *A million fishermen have been reduced to one hundred seventy thousand,*  
-*Our micro enterprise is about to be disappear*  
+*Our micro enterprise is about to disappear*  
  
 *My eldest son was away studying*  
 *He made the decision to return to our island this New Year*  
