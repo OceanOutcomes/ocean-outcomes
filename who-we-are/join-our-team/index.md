@@ -35,7 +35,7 @@ The position will be based in Sapporo, Japan and will require significant region
 
 この募集は北海道札幌市を拠点とする者を対象とし、年間合計約２ヶ月程の国内外の出張が必要とされる。従って、この職務に必要な資格として自主的な行動力、起業家に必要な能力が求められる。特に、漁業や漁業問題、水産ビジネス、そして持続可能性（サステナビリティ）への知識が充分にあり、日本社会への十分な理解があることが必要である。加えて、複数のプロジェクトを同時に管理し取り扱う能力と、高い管理能力も必要とする。
 
-[View full job description, requirements, and responsibilities.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/NorthJapanProgramCoordinator.pdf)
+[職務概要、求人資格、業務概要をご覧下さい。] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/NorthJapanProgramCoordinator.pdf)
 _____
 
 #####South Japan Program Coordinator
@@ -55,6 +55,6 @@ The position will be based in Fukuoka or Nagasaki, Japan and will require signif
  
 この募集は九州地方、特に福岡市や長崎市を拠点とする者を対象とし、年間合計約２ヶ月程の国内外の出張を必要となる。従って、この職務に必要な資格として自主的な行動力、起業家に必要な能力が求められる。特に、漁業や漁業問題、水産ビジネス、そして持続可能性（サステナビリティ）への知識が充分にあり、日本社会への十分な理解があることが必要である。加えて、複数のプロジェクトを同時に管理し取り扱う能力と、高い管理能力も必要とする。
 
-[View full job description, requirements, and responsibilities.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/SouthJapanProgramCoordinator.pdf)
+[職務概要、求人資格、業務概要をご覧下さい。] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/SouthJapanProgramCoordinator.pdf)
 _____
 We always post announcements about current job opportunities, contract work, and internships to our website, [LinkedIn page] (https://www.linkedin.com/company/ocean-outcomes), and [Twitter page] (http://www.twitter.com/oceanoutcomes), so be sure to follow us and check back for any updates regarding our hiring status.
