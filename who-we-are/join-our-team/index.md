@@ -16,7 +16,7 @@ At O2, we are always interested in connecting with folks who are creative, motiv
 
 O2のミッションは漁業者、その地域コミュニティや水産関連企業と協力し様々な問題に直面する漁業の持続可能性に対する改善に取組みます。そして漁業関係者、水産物買付企業、行政機関やその他NGOと深い関係を構築し、世界的に重要な漁業の地域に根付く解決策から管理システムまで幅広く共に問題を理解し解決に向けて実行します。
 _____
-####Current Job Openings:
+###Current Job Openings:
 _____
 #####North Japan Program Coordinator
 *Reports to: Japan Program Coordinator*  
