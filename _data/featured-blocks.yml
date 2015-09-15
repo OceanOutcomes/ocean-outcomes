@@ -15,6 +15,15 @@
   link:
     link-text: Learn more
     link-url: who-we-are/join-our-team/
+    
+ - featured: TRUE 
+  language: jp
+  heading: We're Hiring!
+  title: Do you care as much about sustainable fisheries as we do?
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japan-coordinator-hires-featured.jpg
+  link:
+    link-text: Learn more
+    link-url: who-we-are/join-our-team/
 
 - featured: FALSE
   language: ru
