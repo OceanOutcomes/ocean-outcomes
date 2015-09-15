@@ -30,6 +30,7 @@ The position will be based in Sapporo, Japan and will require significant region
 [View full job description, requirements, and responsibilities.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/NorthJapanProgramCoordinator.pdf)
 
 ####職務概要  
+
 この職位に就く者は北海道と東北地方を含む北日本においてオーシャンアウトカムズ（別名：02）が計画する漁業改善プログラムの事業戦略を実行する責任者となる。特に北海道の冷水性魚種（スケトウダラ、サケ、スケトウダラ、スルメイカ等）等を対象とする漁業との関係を積極的に構築する。加えて、天然魚を対象とする漁業の持続的発展と、それら漁業より漁獲された水産物の持続的な供給を促進するために、重要な利害関係者（漁業者、水産買付企業、加工業者、行政機関、地域漁業協同組合、漁業協同組合連合会など）との関係構築と連携を強める。主な業務目標は認証エコラベル取得に向けた取り組みと信頼性の高いFIP（漁業改善計画／Fishery Improvement Project）を支援するために利害関係者間での合意形成やO2との契約を推進することである。
 
 この募集は北海道札幌市を拠点とする者を対象とし、年間合計約２ヶ月程の国内外の出張が必要とされる。従って、この職務に必要な資格として自主的な行動力、起業家に必要な能力が求められる。特に、漁業や漁業問題、水産ビジネス、そして持続可能性（サステナビリティ）への知識が充分にあり、日本社会への十分な理解があることが必要である。加えて、複数のプロジェクトを同時に管理し取り扱う能力と、高い管理能力も必要とする。
@@ -48,6 +49,7 @@ The position will be based in Fukuoka or Nagasaki, Japan and will require signif
 [View full job description, requirements, and responsibilities.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/SouthJapanProgramCoordinator.pdf)
 
 ####職位／業務内容  
+
 この職位に就く者は九州、四国を含む西日本においてオーシャンアウトカムズ（別名：02）が計画する漁業改善プログラムの事業戦略を実行する責任者となある。特に九州、西日本地方にみられる暖水生魚種（マグロ類等）を対象とする漁業との関係を積極的に構築する。加えて、天然魚を対象とする漁業の持続的発展と、それら漁業より漁獲された水産物の持続的な供給を促進するために、重要な利害関係者（漁業者、水産買付企業、加工業者、行政機関、地域漁業協同組合、漁業協同組合連合会など）との関係構築と連携を強める。主な業務目標は認証エコラベル取得に向けた取り組みと信頼性の高いFIP（漁業改善計画／Fishery Improvement Project）を支援するために利害関係者間での合意形成やO2との契約を推進することである。
  
 この募集は九州地方、特に福岡市や長崎市を拠点とする者を対象とし、年間合計約２ヶ月程の国内外の出張を必要となる。従って、この職務に必要な資格として自主的な行動力、起業家に必要な能力が求められる。特に、漁業や漁業問題、水産ビジネス、そして持続可能性（サステナビリティ）への知識が充分にあり、日本社会への十分な理解があることが必要である。加えて、複数のプロジェクトを同時に管理し取り扱う能力と、高い管理能力も必要とする。
