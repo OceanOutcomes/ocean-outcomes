@@ -18,8 +18,6 @@ O2のミッションは漁業者、その地域コミュニティや水産関連
 _____
 
 ####Current Job Openings:  
-
-
 #####North Japan Program Coordinator
 *Reports to: Japan Program Coordinator*  
 *Location: Sapporo, Japan*
