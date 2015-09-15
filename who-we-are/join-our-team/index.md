@@ -48,7 +48,7 @@ The position will be based in Fukuoka or Nagasaki, Japan and will require signif
 
 [View full job description, requirements, and responsibilities.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/SouthJapanProgramCoordinator.pdf)
 
-####職位／業務内容  
+####職務概要  
 
 
 この職位に就く者は九州、四国を含む西日本においてオーシャンアウトカムズ（別名：02）が計画する漁業改善プログラムの事業戦略を実行する責任者となある。特に九州、西日本地方にみられる暖水生魚種（マグロ類等）を対象とする漁業との関係を積極的に構築する。加えて、天然魚を対象とする漁業の持続的発展と、それら漁業より漁獲された水産物の持続的な供給を促進するために、重要な利害関係者（漁業者、水産買付企業、加工業者、行政機関、地域漁業協同組合、漁業協同組合連合会など）との関係構築と連携を強める。主な業務目標は認証エコラベル取得に向けた取り組みと信頼性の高いFIP（漁業改善計画／Fishery Improvement Project）を支援するために利害関係者間での合意形成やO2との契約を推進することである。
