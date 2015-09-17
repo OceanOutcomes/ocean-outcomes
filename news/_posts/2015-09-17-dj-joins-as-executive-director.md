@@ -29,10 +29,8 @@ _______
 
 [For a PDF version of the story, click here.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/O2LeadershipTransitionPressReleaseFall2015.pdf)
 
-Media Contact:
+**Media Contact:**
 
 Perry Broderick  
-IT/Communications Coordinator  
-Ocean Outcomes  
 <a href="mailto:perry@oceanoutcomes.org">perry@oceanoutcomes.org</a>  
 +1-503.758.6893
