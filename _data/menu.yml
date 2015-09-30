@@ -6,9 +6,9 @@ ru:
     url: "http://www.oceanoutcomes.org"
   - title: "Трекер FIP"
     url: "http://salmonfippartnership.org/ru/fip"
-#     children:
-#       - title: "Child link"
-#         url: "http://www.oceanoutcomes.org"
+     children:
+      - title: "Child link"
+      url: "http://www.oceanoutcomes.org"
 #       - title: "Child link"
 #         url: "http://www.oceanoutcomes.org"
 #       - title: "Child link"
@@ -41,8 +41,5 @@ jp:
     url: "http://www.oceanoutcomes.org"
   - title: "JP - What is a FIP"
     url: "http://www.oceanoutcomes.org"
-     children:
-       - title: "JP - FIP FAQs"
-         url: "http://www.oceanoutcomes.org"
   - title: "JP - About O2"
     url: "http://www.oceanoutcomes.org"
