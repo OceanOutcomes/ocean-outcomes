@@ -6,14 +6,16 @@ ru:
     url: "http://www.oceanoutcomes.org"
   - title: "Трекер FIP"
     url: "http://salmonfippartnership.org/ru/fip"
-     children:
-      - title: "Child link"
-      url: "http://www.oceanoutcomes.org"
-#       - title: "Child link"
-#         url: "http://www.oceanoutcomes.org"
-#       - title: "Child link"
-#         url: "http://www.oceanoutcomes.org"
 
+  #  - title: What We Do
+  #    children:
+  #      - title: "Child link"
+  #        url: "http://www.oceanoutcomes.com"
+  #      - title: "Child link"
+  #        url: "http://www.oceanoutcomes.com"
+  #      - title: "Child link"
+  #        url: "http://www.oceanoutcomes.com"
+  
   #  - title: What We Do
   #    children:
   #      - title: "Child link"
