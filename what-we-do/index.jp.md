@@ -1,7 +1,7 @@
 ---
-layout: page 
-title: JP - What is a FIP
+layout: page-landing
+title:  JP - What is a FIP
+subtitle: 
 weight: 1
-teaser-text:
 ---
 TEST JAPANESE TEXT HERE 
