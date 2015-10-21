@@ -16,7 +16,7 @@ und:
   our-team: "Our Team"
   advisors: "Our Advisors"
   vision-mission: "Vision & Mission"
-  join-our-team: "Join Our Team"
+  join-our-team: "We're Hiring!"
 
   ### Top level menu item
   what-we-do: "What We Do"
@@ -40,7 +40,7 @@ und:
   # Header & Footer translatables
   ##########################
   ocean-outcomes-home: "Ocean Outcomes Home"
-  language: "Language"
+  language: "Язык / 言語"
   close: "Close"
   menu: "Menu"
   tracker: "FIP Tracker"

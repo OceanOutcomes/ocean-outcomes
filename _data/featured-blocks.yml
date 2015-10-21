@@ -1,4 +1,4 @@
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Stories of Success
   title: Reenvisioning the World’s Largest Chum Salmon Fishery
@@ -6,15 +6,25 @@
   link:
     link-text: Learn more
     link-url: /what-we-do/success-stories/hokkaido-chum/
-- featured: FALSE 
+  
+- featured: TRUE 
   language: en
-  heading: Stories of Success
-  title: Reenvisioning the World’s Largest Chum Salmon Fishery
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chumsalmonstoryhero.png
+  heading: We're Hiring!
+  title: Do you care as much about sustainable fisheries as we do?
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japan-coordinator-hires-featured.jpg
   link:
     link-text: Learn more
-    link-url: what-we-do/success-stories/success-story-1/
-    
+    link-url: who-we-are/join-our-team/
+  
+- featured: FALSE
+  language: ru
+  heading: We're Hiring!
+  title: Do you care as much about sustainable fisheries as we do?
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japan-coordinator-hires-featured.jpg
+  link:
+    link-text: Learn more
+    link-url: who-we-are/join-our-team/
+
 - featured: FALSE
   language: ru
   heading: Истории успеха

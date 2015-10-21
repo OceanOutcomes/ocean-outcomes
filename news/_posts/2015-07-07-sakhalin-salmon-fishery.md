@@ -5,7 +5,7 @@ subtitle:
 date:   2015-07-07
 teaser-text: We want to give you the backstory, it illustrates a lot about the challenges and opportunities in nurturing sustainable fisheries outside the US and Western Europe.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/sakhalin-salmon-fishery-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 
 Earlier this week MRAG Americas suspended the Marine Stewardship Council (MSC) certificate for the [Northeast Sakhalin Island Pink Salmon Fishery] (https://www.msc.org/track-a-fishery/fisheries-in-the-program/certified/pacific/sakhalin_island_northheast_trap_net_pink_salmon/assessment-downloads). We want to give you the backstory, it illustrates a lot about the challenges and opportunities in nurturing sustainable fisheries outside the US and Western Europe.

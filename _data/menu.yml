@@ -2,16 +2,20 @@ und:
   - title: FIP Tracker
     url: /initiatives/supply-chain/tracker/
 ru:
+  - title: "Главная страница"
+    url: "http://www.oceanoutcomes.org"
   - title: "Трекер FIP"
     url: "http://salmonfippartnership.org/ru/fip"
-#     children:
-#       - title: "Child link"
-#         url: "http://www.oceanoutcomes.org"
-#       - title: "Child link"
-#         url: "http://www.oceanoutcomes.org"
-#       - title: "Child link"
-#         url: "http://www.oceanoutcomes.org"
 
+  #  - title: What We Do
+  #    children:
+  #      - title: "Child link"
+  #        url: "http://www.oceanoutcomes.com"
+  #      - title: "Child link"
+  #        url: "http://www.oceanoutcomes.com"
+  #      - title: "Child link"
+  #        url: "http://www.oceanoutcomes.com"
+  
   #  - title: What We Do
   #    children:
   #      - title: "Child link"
@@ -37,3 +41,10 @@ ru:
 jp:
   - title: "ホーム"
     url: "http://www.oceanoutcomes.org"
+  - title: "JP - What is a FIP"
+    url: "http://www.google.com"
+    children:
+    - title: "JAPANESE Child link"
+      url: "http://www.thinkshout.com"
+  - title: "JP - What We Do"
+    url: "jp/what-we-do/our-work"

@@ -37,7 +37,7 @@ jp:
   # Header & Footer translatables
   ##########################
   ocean-outcomes-home: "ホーム"
-  language: "言語"
+  language: "Language / Язык"
   close: "閉じる"
   menu: "メニュー"
 
@@ -55,4 +55,5 @@ jp:
   your-email: "メールアドレス"
   your-phone: "電話番号"
   your-message: "お問い合わせ内容"
+  subscribe-for-updates: "最新版のご登録"
   submit: "送信"
