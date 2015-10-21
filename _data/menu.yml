@@ -15,7 +15,7 @@ ru:
   #        url: "http://www.oceanoutcomes.com"
   #      - title: "Child link"
   #        url: "http://www.oceanoutcomes.com"
-  
+
   #  - title: What We Do
   #    children:
   #      - title: "Child link"
@@ -47,4 +47,4 @@ jp:
     - title: "JAPANESE Child link"
       url: "http://www.thinkshout.com"
   - title: "JP - What We Do"
-    url: "jp/what-we-do/our-work"
+    url: "/what-we-do/our-work"
