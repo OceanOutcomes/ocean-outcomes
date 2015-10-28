@@ -3,7 +3,7 @@ layout: page
 weight: 2
 title: FIP について
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/serviceshero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanese-whatisafip.jpg
 subtitle: FIPとは漁業者と利害関係者が協力的に持続可能な漁業を目指し一歩ずつ解決に向けて取組むプロセスです。そして水産市場と連携し、この取り組みを着実に前進できるようサポートします。
 teaser-text:
 ---
