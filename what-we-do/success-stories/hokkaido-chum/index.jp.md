@@ -26,3 +26,5 @@ teaser-text:
 ![Dam Removal Comparisons] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/damremoval.jpg)
 
 これまでの進歩は称えられるべきですが、日本の野生魚の状況を改善するにはさらに多くの課題が残っています。北海道ぎょれんは最終的にMSCプログラムから撤退することになりましたが、現在は信頼のおける正式な漁業改善計画（FIP）の実施を検討しています。FIPはこの世界的に重要な漁業を改善する次の段階への道筋を示すものになるはずです。
+
+##[お問い合わせ] (/jp/contact/)
