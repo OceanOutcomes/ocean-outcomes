@@ -1,32 +1,38 @@
 ---
 layout: page 
-title: Japanese What is a FIP
+title: Japanese FIP について
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/serviceshero.jpg
-subtitle: 
+subtitle: FIPとは漁業者と利害関係者が協力的に持続可能な漁業を目指し一歩ずつ解決に向けて取組むプロセスです。そして水産市場と連携し、この取り組みを着実に前進できるようサポートします。
 teaser-text:
 ---
 
-## Demand for sustainable seafood is at an all-time high. 
+##FIPにおける利害関係者
 
-As a result, fisheries, seafood buyers, and conservation groups are looking for ways to increase the supply of sustainably caught fish by eliminating overfishing and IUU, minimizing bycatch of depleted non-target species, and reducing negative habitat impact. At O2, we create opportunities to increase sustainable seafood supply by improving fisheries and reducing these risks.
+全ての漁業関係者、水産関連企業、そして地域コミュニティは健全な漁業に対し責任があり、この全ての利害関係者はFIPに取り組むことができます。世界的に認められている漁業の持続性に関する科学的基準と独立的審査に基づき、利害関係者は漁業をより良くするための事業計画を協同で作成します。尚、FIPの規模や構成は地域の社会経済的な実情を反映させるため、どれも一様なものではありません。しかし、FIPの必要要件には参加者の取り組み意欲に対する投資、改善内容を特定する漁業審査、事業計画、そして進捗管理措置が含まれます。
 
-We work with fisheries, seafood businesses, seafood ranking/certification programs and conservation organizations to:  
+##市場の需要
+米国、そして西欧州における大多数の大手主要水産物販売店は持続可能な水産物に対し公約を示しており、それらの企業は環境に配慮し、社会的な責任を果たしている漁業から水産物を積極的に調達する姿勢を示しています。例えば、ウォールマート（世界最大の販売店）は調達する全ての水産物は「MSC認証か同等認証制度、もしくは公的なFIP」の生産者より調達すると公約しています。このようなFIPを含む持続可能な水産物に関する取り組みは北米や欧州市場において一般的な基準となっています。
 
-* Design, launch, and/or implement fishery improvement projects
-* Conduct fishery assessments 
-* Develop fishery assessment criteria
-* Develop comprehensive risk analysis reports on fisheries
-* Convene stakeholders and companies throughout the seafood supply chain 
-* Assist fisheries in making connections in the marketplace
-* Facilitate independent observers and IUU audits
+##FIPの構成
 
-Benefits derived from our work include:
+* 事前審査：世界的な持続性を評価する基準に対し漁業の現状を審査し、取り組む必要のある具体的な問題を特定する。
+* 事業計画：事前審査において特定された具体的な問題への取り組みに対する期限と事業計画を概説する。
+* 進捗監視措置：事業計画に対した進展を評価し、公的に利用可能な媒体に定期的な報告を提示する。
 
-* Risk mitigation for businesses and communities
-* Healthy and robust fisheries that deliver long-term business value from responsible environmental stewardship
-* Market recognition for improving fisheries, particularly in the North American and European markets where demand for sustainability is high
-* Increased potential to attract investment based on the implementation of sustainable practices
+##よくあるご質問
 
-Whether you are a fishermen, seafood buyer/supplier or NGO advising on seafood sustainability, [get in touch] (/contact/) today to explore how we can work with you to increase the supply of sustainable seafood.
+Q: FIPには誰でも取り組み可能でしょうか？小規模漁業でもFIPに取り組むことは可能でしょうか？
+A: より良い漁業に向けて問題解決する意思のある全ての流通業者、漁業者、漁協/ 漁連や水産関連企業はもちろんFIPに取り組む事が可能です。漁獲量、漁業種類、そして漁場などにより制限を受けることはありません。
 
+Q: FIPに取り組むには費用はどのぐらいかかるのですか？
+A: FIP取り組み費用は漁業や流通の形態によって大きく異なります。ただし、FIPは多数の利害関係者を含めた取り組みの為、資金調達は利害関係者内での分割や助成金なども可能と考えられます。
+
+Q: MSC認証とFIPの違いは何？
+A: MSC認証はビジネスから消費者に対して水産物製品の持続性を証明する為のエコラベルとなりますが、FIPはエコラベルとは異なります。FIPは持続可能な漁業を目指し改善に取り組む事を主張することにより、ビジネスとビジネスを繋ぐ役割を果たします。 
+
+Q: FIPはエコラベル取得に繋がりますか？
+A: 多くの漁業にとって、持続性の認証に向けた準備行程としての役割を果たすことも可能であり、多くの場合FIPの必要条件は認証必要条件と同様になります。しかし、認証取得するかどうかは当事者の判断となります。
+
+Q: FIPの取り組み期間は？
+A: FIP取り組み必要内容は漁業によって異なりますので、FIPには予め決まった制限期間はありません。しかし、FIPには事業計画に記述されている目標に対し達成期限が必要であり、それらの期限は記述通り満たされる必要があります。O2が携わった平均的なFIP継続期間は約３年から５年です。
