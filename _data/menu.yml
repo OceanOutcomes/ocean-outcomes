@@ -41,10 +41,9 @@ ru:
 jp:
   - title: "ホーム"
     url: "http://www.oceanoutcomes.org"
-  - title: "JP - What is a FIP"
-    url: "http://www.google.com"
-    children:
-    - title: "JAPANESE Child link"
-      url: "http://www.thinkshout.com"
-  - title: "JP - What We Do"
-    url: "/what-we-do/our-work"
+  - title: "What We Do"
+    url: "what-we-do/our-work"
+  - title: "What is a FIP"
+    url: "/what-we-do/services/"
+  - title: "Fishery Improvment in Japan"
+    url: "/what-we-do/success-stories/hokkaido-chum/"
