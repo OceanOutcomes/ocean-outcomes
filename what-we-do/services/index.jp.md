@@ -1,11 +1,10 @@
 ---
 layout: page 
-title: Services
+title: Japanese What is a FIP
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/serviceshero.jpg
-subtitle: “We’ve been working with the O2 team for over six years. They understand our problems. They know all of our businesses, the entire essence of the obstacles that we face in Russia. They help us analyze the problems, address them, and relay this information to others." Dmitry Matveev of Taranai LLC, a fishing company based in Sakhalin, Russia.
-weight: 2
-teaser-text: Whether you are a fishermen, seafood buyer/supplier or NGO advising on seafood sustainability, the environmental and business case for improving fisheries has never been stronger.
+subtitle: 
+teaser-text:
 ---
 
 ## Demand for sustainable seafood is at an all-time high. 
