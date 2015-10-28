@@ -1,27 +1,28 @@
 ---
 layout: action
-title:  "Reenvisioning the World’s Largest Chum Salmon Fishery"
+title:  Fishery Improvement Success
+subtitle: 世界最大のシロサケ漁業を再展望する
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/hokkaidosuccesshero.jpg
-teaser-text: Not many people know that one of the planet’s biggest salmon runs can be found in northern Japan.
+teaser-text:
 ---
-##Not many people know that one of the planet’s biggest salmon runs can be found in northern Japan.
+##地球上で最大規模のサケの遡上が北日本で見られることは、あまり知られていません。
 
-The Hokkaido Island chum salmon fishery is the highest volume chum fishery in the world, annually producing up to and over 100,000 tonnes of salmon, shipped to domestic and export markets (such as the US) alike. These days, the Hokkaido chum salmon fishery relies almost exclusively on hatchery production to meet their catch targets. Due to the destruction of old growth riparian forests and wetland habitat across most of Japan, and loss of access to natural spawning habitat--nearly 27% of the total spawning area of Hokkaido Island is inaccessible from the sea because of dams-- many of the native wild salmon populations have been extirpated. The list of lost salmon runs includes a beautiful and rare subspecies of cherry salmon (*o. masou*) and white spotted char (*s. leucomaenis*). 
+北海道には世界最大規模のシロサケ漁業がありますが、その年間生産量は10万トン以上に上り国内市場や輸出市場（米国など）へ出荷されています。しかし近年は目標の漁獲量を確保するため、ほぼ全面的に孵化場魚の生産に依存しています。全国的に原生河畔林や湿地の生息地が破壊され、自然の産卵床へのアクセスも失われる中、多くの野生サケ個体群が姿を消しました。道内では、産卵床全体の27％がダムによりアクセス不能な状態に陥っています。サクラマス(学名：o. masou)やイワナ(学名：s. leucomaenis)のような他のサケ科魚類の遡上も見られなくなりました。
 
-To keep commercial fisheries and local businesses running, Japan invested heavily in the development of one of the most extensive hatchery systems in the world, which now churns out billions of salmon juveniles annually. But, until recently, very little attention was given to monitor and protect the few remnant wild salmon populations.
+日本では商業漁業や地場産業を守るために、世界最大規模の孵化場システムの開発に多額の投資が行われ、現在では何十億というサケの稚魚が量産されています。しかし、ごく最近までわずかに残る野生サケ個体群のモニタリングや保護への関心はほとんどありませんでした。
 
-As the conversation surrounding sustainable seafood grew, the Hokkaido Federation of Fishermen’s Cooperatives, which is the main producer organization for Japanese chum, became interested in promoting the sustainability of its exported products. Due to the fact that up to half of Hokkaido chum products are exported in a given year, it made smart business sense for the fishery to take a close look at an issue that was trending in the west. Through the grapevine, the Coop became acquainted with O2 staff, and ultimately a project was born in 2008 to conduct a multi-year assessment and monitoring program of wild salmon with the goal of laying the scientific groundwork for MSC certification.
+持続可能な水産物に関する話題が盛り上がる中、日本シロザケの主要生産者組織である北海道漁業協同組合連合会（北海道ぎょれん）は、輸出水産物の持続可能性に関心を持つようになりました。北海道シロザケ商品の約半分が年間で輸出されているため、西洋で話題になっている問題に着目するのは、漁業者としてごく自然な流れでした。その後北海道ぎょれんとO2スタッフの縁がつながり、ついに2008年、MSC認証への科学的な基盤づくりを目的とした野生サケの多年評価およびモニタリングプロジェクトが生まれました。
 
-The first step in the improvement process was to conduct a wild chum stock assessment ([the first assessment in over 50 years in Japan] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Miyakoshietal2012_EnvBioFish.pdf). A team of Japanese field researchers in hip waders, trudging through miles of river bottom and soggy fields, did the hard work of counting the redds and spawners in order to estimate run sizes. A year or so later, the first of what ultimately became a series of research papers started coming out, reporting that naturally spawning populations of salmonids had been found in numerous rivers, and in some cases, were locally abundant. At the same time wild fish faced an incredible array of obstacles including nets, dams, roads, river works, etc. somehow, someway, they were still finding a way to spawn and survive in Japan’s rivers. If we could only give them a little help.
+[まず改善の取り組みの第1段階として、日本では50年以上実施されなかった野生シロザケ資源の評価を行いました。] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Miyakoshietal2012_EnvBioFish.pdf).遡上量を予測するため、ウェーダーを着込んだ日本の現地調査グループが、川底や湿地帯の中を長距離にわたって歩き回り、苦労して産卵床や産卵親魚数を数えました。そしてついに約1年後、その後も続く研究論文の第1弾が発表されました。その報告によると、サケ科魚類の自然産卵個体群が多くの河川で見つかり、中には個体数が豊富な地域もありました。同時に野生サケは、網やダム、道路、河川工事などおびただしい数の障害に直面していますが、それでも日本の川で何とか産卵し生き延びる術を見つけていました。私達はこのような魚たちを少しでも助けることができればと願っています。
 
-For the first time, the Hokkaido Coop and local managers and scientists worked together to start developing a national wild salmon policy to [guide management strategies in salmon producing regions] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Nagataetal2012EnvBioFish.pdf). This draft policy established the existence and importance of unique, distinct wild salmon populations, and made their conservation a higher priority. 
+[そして北海道ぎょれん、現地の漁業管理者および科学者が初めて協力し、サケの生産地域における管理戦略の指針となる、国の野生サケに関する方針の策定に取り掛かりました。] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Nagataetal2012EnvBioFish.pdf). この方針案により独特で特徴のある野生サケ個体群の存在と重要性が認識され、その保全の優先順位が高まりました。
 
-While wild salmon conservation is a concept that is gaining ground in Japan, there is still a strong debate about the need to address the potential interactions between wild and hatchery-produced salmon. Most of the research that has been conducted on potential hatchery impacts on wild salmon fitness has focused on steelhead, coho, and Chinook. Research on potential chum salmon impacts has been limited and/or inconclusive. 
+野生サケを保全するという考え方が日本でも根付き始めている一方で、野生サケと孵化場サケが相互に与えうる影響の問題に取り組む必要性に関しては、まだ激しい議論が続いています。孵化場サケが野生サケに与えうる影響に関する研究のほとんどは、ギンザケやスチールヘッドおよびマスノスケが対象になっていますが、シロザケに関する研究はまだ限定的で結論が出ていません。
 
-While the fishery is unwilling to risk its commercial fishery by reducing their overall hatchery production, it has been willing to remove individual defunct hatcheries and designat hatchery vs hatchery-free rivers. This was a highly significant event for the precedent it set, and because the fishermen were the primary advocates for the hatchery removals. 
+漁業者は、商業漁業に対するリスクを冒してまで孵化場生産を全体的に減らすことには後ろ向きな一方で、運営していない個々の孵化場の撤去や、孵化場のある河川（増殖河川・放流河川）と孵化場のない河川（非増殖河川・非放流河川）の指定には前向きです。漁業者が孵化場撤去の主要な賛同者であるため、このことは前例を作る上で非常に重要な意味があります。
 
-Connected to these efforts to improve the Hokkaido chum fishery, the [Shiretoko] (http://whc.unesco.org/en/list/1193) region achieved World Heritage status and national local authorities committed to a number of improvements for wild salmon fisheries and rivers. With the growing understanding of the need to protect wild salmon (due to the certification efforts), the fishermen of the regions supported a comprehensive dam removal program for the World Heritage site. Ultimately more than 30 dams were removed or modified to improve fish passage and spawning. Examples of these improvements can be clearly seen in the before and after sequence of images below. 
+[北海道シロサケ漁業の改善への取り組みに関連して、知床地方が世界遺産へ登録されたことを受け、国や自治体は野生サケ漁業および河川にかかわる様々な改善にも真摯に取り組みました。] (http://whc.unesco.org/en/list/1193) 認証に向けた活動を通じて野生サケ保全の必要性に対する理解が深まる中、現地の漁業者は、世界遺産登録地における包括的なダム撤去計画を支持しました。最終的に魚道および産卵状況の改善のために30基以上のダムが撤去されました。このような改善の例として、下の改善前と改善後の写真をご参照ください。
 
 ![Dam Removal Comparisons] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/damremoval.jpg)
 
-While the progress to date should be applauded, more work remains to improve the situation for wild fish in Japan.  While the Hokkaido Fishery Cooperative ultimately left the MSC program, it is currently considering launching a formal, public Fishery Improvement Project (FIP), which would lay out the next steps in improving this globally important fishery.
+これまでの進歩は称えられるべきですが、日本の野生魚の状況を改善するにはさらに多くの課題が残っています。北海道ぎょれんは最終的にMSCプログラムから撤退することになりましたが、現在は信頼のおける正式な漁業改善計画（FIP）の実施を検討しています。FIPはこの世界的に重要な漁業を改善する次の段階への道筋を示すものになるはずです。
