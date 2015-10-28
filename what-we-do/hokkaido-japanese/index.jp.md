@@ -2,6 +2,7 @@
 layout: page
 title:  Fishery Improvement Success
 subtitle: 世界最大のシロサケ漁業を再展望する
+landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/hokkaidosuccesshero.jpg
 teaser-text:
 ---
