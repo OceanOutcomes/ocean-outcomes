@@ -2,10 +2,9 @@ und:
   - title: FIP Tracker
     url: /initiatives/supply-chain/tracker/
 ru:
-  - title: "Главная страница"
-    url: "http://www.oceanoutcomes.org"
   - title: "Трекер FIP"
     url: "http://salmonfippartnership.org/ru/fip"
+    external: 'true'
 
   #  - title: What We Do
   #    children:
@@ -39,8 +38,6 @@ ru:
   #   url: small link url
 
 jp:
-  - title: "ホーム"
-    url: "http://www.oceanoutcomes.org"
   - title: "取り組み内容"
     url: "japanese-content/what-we-do/"
   - title: "FIP について"
