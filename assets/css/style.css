@@ -510,6 +510,16 @@ body {
   background: url(../images/initiatives-header-bg.jpg) center center no-repeat;
   background-size: cover; }
 
+[class*="content-header jp"] {
+  background: url(../images/japanese-header.jpg) center center no-repeat;
+  background-size: cover; }
+  [class*="content-header jp"]::after {
+    content: '';
+    background: rgba(43, 58, 70, 0.8);
+    display: block;
+    height: 100%;
+    width: 100%; }
+
 .content-page .subnav {
   display: none;
   margin-bottom: 2em;
