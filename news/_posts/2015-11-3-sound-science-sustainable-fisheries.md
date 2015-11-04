@@ -14,8 +14,8 @@ Despire efforts to increase the supply of sustainable seafood through the implem
 
 Our science team serves two primary roles:
 
-* We provide the backbone of O2’s fishery improvement work, ensuring our fishery projects are anchored by credible science.
-* We support other organizations and businesses involved in fisheries sustainability by developing white papers, assessing fisheries, convening stakeholders, and developing sustainability criteria.
+1. We provide the backbone of O2’s fishery improvement work, ensuring our fishery projects are anchored by credible science.
+2. We support other organizations and businesses involved in fisheries sustainability by developing white papers, assessing fisheries, convening stakeholders, and developing sustainability criteria.
 
 Our science team's background and professional experience is diverse--we have worked with a Gulf of California rock scallop fishery to establish a co-management scheme for this protected species; designed and implemented stock assessment programs for Alaska salmon fisheries; helped improve fisheries assessment criteria for seafood certification and recommendation programs; developed criteria to benchmark fisheries certification programs; studied tuna fishery production in Japan; and, advised the Food and Agriculture Organization of the United Nations on the development of international fisheries eco-labeling guidelines.
 
