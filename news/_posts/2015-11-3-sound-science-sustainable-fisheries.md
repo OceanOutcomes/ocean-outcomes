@@ -4,7 +4,7 @@ title:  "Sound Science and Sustainable Fisheries"
 subtitle:
 date: 2015-11-3
 teaser-text: Ocean resources, and those who depend on them, are under pressure to meet an ever-growing demand for sustainable seafood. At O2, we believe responsibly managed and sustainable fisheries can be achieved through the use of good science and stakeholder collaboration.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/dj-joins-O2-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/science-credibility-success-hero.jpg
 featured: TRUE
 ---
 
