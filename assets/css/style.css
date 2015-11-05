@@ -1386,6 +1386,21 @@ body {
     .post .prev-next a:nth-child(2) {
       text-align: right; }
 
+.post .post-content ul {
+  display: list-item;
+  margin-left: 2em;
+  margin-bottom: 1em; }
+.post .post-content ul li {
+  display: list-item;
+  list-style-type: disc; }
+.post .post-content ol {
+  display: list-item;
+  margin-left: 2em;
+  margin-bottom: 1em; }
+.post .post-content ol li {
+  display: list-item;
+  list-style-type: decimal; }
+
 .resources .content-header {
   background: #2B3A46 url(../images/post-header-bg.png) no-repeat;
   height: 25em; }
@@ -1759,5 +1774,3 @@ iframe {
   width: 100%; }
 
 /* No files to import found in vendor/* */
-
-/*# sourceMappingURL=style.css.map */
