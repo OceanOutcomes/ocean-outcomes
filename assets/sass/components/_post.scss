@@ -199,3 +199,26 @@
   }
 
 }
+
+.post .post-content {
+  ul {
+    display: list-item;
+    margin-left: 2em; 
+    margin-bottom: 1em;
+  }
+
+  ul li {
+    display: list-item;
+    list-style-type: disc;
+  }
+
+  ol {
+    display: list-item;
+    margin-left: 2em; 
+    margin-bottom: 1em;
+  }
+  ol li {
+    display: list-item;
+    list-style-type: decimal;
+  }
+}
