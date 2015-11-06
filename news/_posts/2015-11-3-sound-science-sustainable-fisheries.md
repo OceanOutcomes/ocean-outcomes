@@ -10,7 +10,7 @@ featured: TRUE
 
 ###Ocean resources, and those who depend on them, are under pressure to meet an ever-growing demand for sustainable seafood. 
 
-Despire efforts to increase the supply of sustainable seafood through the implementation of science based fishery improvement projects and third party sustainable seafood certifications, many of the world’s fisheries remain at risk of overfishing, poaching, and other problems. At O2, we believe responsibly managed and sustainable fisheries can be achieved through the use of good science and stakeholder collaboration. That’s why we work on the ground with commercial fisheries and other organizations to improve fishery management practices, reduce illegal fishing, better the monitoring of catches and fish population abundances, and ultimately increase the supply of sustainable seafood.
+Despite efforts to increase the supply of sustainable seafood through the implementation of science based fishery improvement projects and third party sustainable seafood certifications, many of the world’s fisheries remain at risk of overfishing, poaching, and other problems. At O2, we believe responsibly managed and sustainable fisheries can be achieved through the use of good science and stakeholder collaboration. That’s why we work on the ground with commercial fisheries and other organizations to improve fishery management practices, reduce illegal fishing, better the monitoring of catches and fish population abundances, and ultimately increase the supply of sustainable seafood.
 
 Our science team serves two primary roles:
 
