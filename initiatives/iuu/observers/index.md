@@ -9,11 +9,12 @@ teaser-text: Create a cost-effective, private sector model for independent obser
 ---
 ##This section is an in-depth look at O2’s Independent Observer work
 
-Independent Observers - pull from past independent observer reports + field resources from this summer
+Independent Observers, pull from past independent observer reports with field resources from this summer
+
 * What’s the goal/objective 
 * What’s the problem 
 * What’s being done, by whom, and how 
 * What are the results, is it effective 
-* What’s next, what’s the opportunity/call to action (incentives, market demand for this, key audiences, etc. - basically a theory of change
+* What’s next, what’s the opportunity/call to action incentives, market demand for this, key audiences, etc. - basically a theory of change
 
 Link to full independent oberser reports here.
