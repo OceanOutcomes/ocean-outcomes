@@ -1,8 +1,8 @@
 ---
 layout: page 
 title: IUU In East Asia
-landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/lets-talk-fish-hover.jpg
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/letstalkfishhero.jpg
+landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/iuu-hover.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/iuuhero.jpg
 weight: 1
 teaser-text: On a global scale, IUU fishing threatens the sustainability of fish stocks and ecosystems and accounts for USD23 billion in global economic loss annually. Currently, one in four fish is caught and traded illegally. Major seafood importers and retailers in key markets such are liable for the business risks of importing poached wildlife products but can not easily see where the risks occur or pathways to avoid them. 
 ---
