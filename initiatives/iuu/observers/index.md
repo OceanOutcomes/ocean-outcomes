@@ -14,6 +14,6 @@ Independent Observers - pull from past independent observer reports + field reso
 * What’s the problem 
 * What’s being done, by whom, and how 
 * What are the results, is it effective 
-* What’s next, what’s the opportunity/call to action (incentives, market demand for this, key audiences, etc. ((basically a theory of change)) 
+* What’s next, what’s the opportunity/call to action (incentives, market demand for this, key audiences, etc. - basically a theory of change
 
 Link to full independent oberser reports here.
