@@ -2,8 +2,8 @@
 layout: page 
 title: Catch Tracking System
 sub-title: 
-landing-image: 	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/observersrollover.jpg
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/observershero.jpg
+landing-image: 	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/catchtrackinghover.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/catchtrackinghero.jpg
 weight: 2
 teaser-text: By following the CTS protocol, companies will capture information to assure customers that they are receiving product they can track back to the fishery from where it was sourced. 
 ---
