@@ -1,11 +1,11 @@
 ---
 layout: page 
 title: Catch Tracking System
-sub-title: Securing the chain of custody from point of harvest to primary processor
+sub-title: 
 landing-image: 	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/observersrollover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/observershero.jpg
-weight: 3
-teaser-text: Through our efforts to improve traceability of legal, sustainable product, we learned how Russian fisheries report on catches and volumes flowing through their supply chains and realized something was missing: controls at the front end, between harvest and the first point of processing. Welcome, Catch Tracking System. 
+weight: 2
+teaser-text: By following the CTS protocol, companies will capture information to assure customers that they are receiving product they can track back to the fishery from where it was sourced. 
 ---
 
 ## The Catch Tracking System (CTS) is an initiative to track product from “net to plate,” to provide a higher level of assurance that fish is not mixed with product that is from illegal, unreported or unregulated sources.
