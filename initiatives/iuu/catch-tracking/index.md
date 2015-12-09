@@ -1,17 +1,18 @@
 ---
 layout: page 
 title: Catch Tracking System
-landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/lets-talk-fish-hover.jpg
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/letstalkfishhero.jpg
-weight: 2
 sub-title: Securing the chain of custody from point of harvest to primary processor
-teaser-text: Through our efforts to improve traceability of legal, sustainable product, we learned how Russian fisheries report on catches and volumes flowing through their supply chains and realized something was missing: controls at the front end, between harvest and the first point of processing. Welcome, Catch Tracking System.
+landing-image: 	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/observersrollover.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/observershero.jpg
+weight: 3
+teaser-text: Through our efforts to improve traceability of legal, sustainable product, we learned how Russian fisheries report on catches and volumes flowing through their supply chains and realized something was missing: controls at the front end, between harvest and the first point of processing. Welcome, Catch Tracking System. 
 ---
+
 ## The Catch Tracking System (CTS) is an initiative to track product from “net to plate,” to provide a higher level of assurance that fish is not mixed with product that is from illegal, unreported or unregulated sources.
 
 Currently, chain of custody schemes operate on the honor system in terms of initial data input for the first point of entry at the processor level, creating a loophole for illegal fisheries, because there is no verification back to the origin of harvest. Russia is a very important country for seafood supply, but well-known for issues of IUU and corruption and in such high risk fisheries, additional precautions are needed to ensure compliance. By following the CTS protocol, companies will capture information to assure customers that they are receiving product they can track back to the fishery from where it was sourced.
 
-*Catch Tracking System steps include:*
+Catch Tracking System steps include:
 
 * The fishing company will confirm the legality of catch at landing - the company will upload (to either a cloud or a dropbox, tbd) the harvest permit for each brigadier responsible for each net
 * For each harvest, the brigadier will assign an origin ID at the point of harvest. This number will contain: 
