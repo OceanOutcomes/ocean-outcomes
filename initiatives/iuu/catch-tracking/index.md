@@ -14,10 +14,10 @@ Currently, chain of custody schemes operate on the honor system in terms of init
 
 Catch Tracking System steps include:
 
-The fishing company will confirm the legality of catch at landing - the company will upload (to either a cloud or a dropbox, tbd) the harvest permit for each brigadier responsible for each net 
-For each harvest, the brigadier will assign an origin ID at the point of harvest. This number will contain:  
-O2’s commodity code (see Appendix A), AND the parcel number, AND a four digit sequence number (beginning with 0001, to denote the order in which a catch tracking master document is issued), which will be on all documentation and product packaging accompanying shipments leaving the processing facility to ensure traceability of its final product form and sale.  
-The processor will create a Catch Tracking Master document containing the following information, to be entered into an excel sheet and the hard copy stored at the first point of processing. 
+* The fishing company will confirm the legality of catch at landing - the company will upload (to either a cloud or a dropbox, tbd) the harvest permit for each brigadier responsible for each net 
+* For each harvest, the brigadier will assign an origin ID at the point of harvest. This number will contain:  
+* O2’s commodity code (see Appendix A), AND the parcel number, AND a four digit sequence number (beginning with 0001, to denote the order in which a catch tracking master document is issued), which will be on all documentation and product packaging accompanying shipments leaving the processing facility to ensure traceability of its final product form and sale.  
+* The processor will create a Catch Tracking Master document containing the following information, to be entered into an excel sheet and the hard copy stored at the first point of processing. 
  
 ###The Future
 
