@@ -14,13 +14,13 @@ Currently, chain of custody schemes operate on the honor system in terms of init
 
 Catch Tracking System steps include:
 
-* The fishing company will confirm the legality of catch at landing - the company will upload (to either a cloud or a dropbox, tbd) the harvest permit for each brigadier responsible for each net
-* For each harvest, the brigadier will assign an origin ID at the point of harvest. This number will contain: 
-* O2’s commodity code (see Appendix A), AND the parcel number, AND a four digit sequence number (beginning with 0001, to denote the order in which a catch tracking master document is issued), which will be on all documentation and product packaging accompanying shipments leaving the processing facility to ensure traceability of its final product form and sale. 
-* The processor will create a Catch Tracking Master document containing the following information, to be entered into an excel sheet and the hard copy stored at the first point of processing.
-
+The fishing company will confirm the legality of catch at landing - the company will upload (to either a cloud or a dropbox, tbd) the harvest permit for each brigadier responsible for each net 
+For each harvest, the brigadier will assign an origin ID at the point of harvest. This number will contain:  
+O2’s commodity code (see Appendix A), AND the parcel number, AND a four digit sequence number (beginning with 0001, to denote the order in which a catch tracking master document is issued), which will be on all documentation and product packaging accompanying shipments leaving the processing facility to ensure traceability of its final product form and sale.  
+The processor will create a Catch Tracking Master document containing the following information, to be entered into an excel sheet and the hard copy stored at the first point of processing. 
+ 
 ###The Future
 
 Governments around the globe are concluding multilateral agreements to combat IUU and Russia is no exception, having signed agreements with China, Japan, the E.U., and most recently, with the U.S. Additionally, the increasing scrutiny of the global supply chain and the strengthening of import requirements for seafood, specifically in the U.S. and E.U., highlight a need for third-party, independent assessments and verification of anti-IUU claims. To ensure our current and future FIPs are operating at a high level and to offer private sector approaches to complement legislative efforts towards the foundation of legal and sustainable fisheries globally, O2 will require the implementation of a CTS and verification of catch at origin in all of our FIPs. We will continue to explore alternate approaches for supply chain improvements for FIPs outside of the MSC process, as well as better methods for linking catch-to-processor traceability to existing traceability systems linking the processor to the final consumer. We will use this experience and apply it wherever we will work.
 
-Download the whole Catch Tracking System report and protocol here. (link to download) 
+Download the whole Catch Tracking System report and protocol here.
