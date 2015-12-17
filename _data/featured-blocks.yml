@@ -6,8 +6,17 @@
   link:
     link-text: Learn more
     link-url: /what-we-do/success-stories/hokkaido-chum/
-  
-- featured: TRUE 
+
+- featured: TRUE
+  language: en
+  heading: Happy Holidays!
+  title: It's been a great first year for us.
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/O2staff-featured.jpg
+  link:
+    link-text: Highlights
+    link-url: /news/posts/2015-12-22-happy-holidays/
+
+- featured: FALSE 
   language: en
   heading: We're Hiring!
   title: Do you care as much about sustainable fisheries as we do?
