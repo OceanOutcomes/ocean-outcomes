@@ -4,7 +4,7 @@ title:  "Happy Holidays - What a Year!"
 subtitle: A look a back at our first year
 date: 2015-12-22
 teaser-text: Take the opportunity to wish everyone a happy and safe holiday, etc. etc. Theme, we’re expanding and we’ve grown drastically, and a lot has happened since we officially launched O2 in New Orleans last February. That’s less than a year ago! Here are some of the highlights from our first year
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/science-credibility-success-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/O2staff-featured.jpg
 featured: FALSE
 ---
 Take the opportunity to wish everyone a happy and safe holiday, etc. etc. Theme: we’re expanding and we’ve grown drastically, and a lot has happened since we officially launched O2 in New Orleans last February. That’s less than a year ago! Here are some of the highlights from our first year:
