@@ -16,5 +16,5 @@ As 2015 comes to an end, we thought we’d take a moment to wish everyone a happ
 
 So what’s next for us? We’re taking a short well-deserved holiday break, but when we come back after the New Year, we’re hitting the ground running! We’ll be hosting a panel on Japanese fishery improvement efforts at the Seafood Summit in Malta in January, bringing on staff in Japan to keep pace with developments in that region, unveiling our recent IUU initiatives, and braving the winter weather to visit fisheries in Northeast Sakhalin. 
 
-##It’s shaping up to be another busy and promising year for us. Until 2016, and happy holidays!
+###It’s shaping up to be another busy and promising year for us. Until 2016, and happy holidays!
 
