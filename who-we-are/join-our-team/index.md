@@ -18,26 +18,6 @@ O2のミッションは漁業者、その地域コミュニティや水産関連
 _____
 ###Current Job Openings:
 _____
-#####North Japan Program Coordinator
-*Reports to: Japan Program Coordinator*  
-*Location: Sapporo, Japan*
-
-The North Japan Program Coordinator is responsible for implementing fishery improvement program strategies for O2 in northern Japan (Hokkaido and Tohoku). This position will lead O2’s outreach efforts with commercial fisheries in the region, with a particular emphasis on cold water fisheries in Hokkaido Island (salmon, squid, pollock, etc). This position will lead outreach and directly engage key stakeholders (e.g. commercial fishermen, seafood buyers, government officials and local cooperatives) in Hokkaido to support the sustainability of wild fisheries and help them become a significant source of sustainable seafood. Key objectives will be to engage and conclude agreements with Japanese fisheries to support certification efforts and/or credible FIPs.
-
-The position will be based in Sapporo, Japan and will require significant regional, national, and international travel up to two months a year. The person in this position should therefore possess independent and entrepreneurial qualities; have a strong background in fishery issues, seafood businesses, and/or sustainability; and understand the intricacies of working in Japan. S/he should also possess the ability to handle multiple tasks simultaneously and strong project management skills.
-
-[View full job description, requirements, and responsibilities.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/NorthJapanProgramCoordinator.pdf)
-
-####職務概要  
-
-
-この職位に就く者は北海道と東北地方を含む北日本においてオーシャンアウトカムズ（別名：02）が計画する漁業改善プログラムの事業戦略を実行する責任者となる。特に北海道の冷水性魚種（スケトウダラ、サケ、スケトウダラ、スルメイカ等）等を対象とする漁業との関係を積極的に構築する。加えて、天然魚を対象とする漁業の持続的発展と、それら漁業より漁獲された水産物の持続的な供給を促進するために、重要な利害関係者（漁業者、水産買付企業、加工業者、行政機関、地域漁業協同組合、漁業協同組合連合会など）との関係構築と連携を強める。主な業務目標は認証エコラベル取得に向けた取り組みと信頼性の高いFIP（漁業改善計画／Fishery Improvement Project）を支援するために利害関係者間での合意形成やO2との契約を推進することである。
-
-この募集は北海道札幌市を拠点とする者を対象とし、年間合計約２ヶ月程の国内外の出張が必要とされる。従って、この職務に必要な資格として自主的な行動力、起業家に必要な能力が求められる。特に、漁業や漁業問題、水産ビジネス、そして持続可能性（サステナビリティ）への知識が充分にあり、日本社会への十分な理解があることが必要である。加えて、複数のプロジェクトを同時に管理し取り扱う能力と、高い管理能力も必要とする。
-
-[職務概要、求人資格、業務概要をご覧下さい。] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/NorthJapanProgramCoordinator.pdf)
-_____
-
 #####South Japan Program Coordinator
 *Reports to: Japan Program Coordinator*  
 *Location: Fukuoka or Nagasaki, Japan*
