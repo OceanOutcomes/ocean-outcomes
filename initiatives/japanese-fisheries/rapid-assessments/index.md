@@ -12,5 +12,5 @@ teaser-text: We conducted rapid assessments based on...
 
 Text break
 
-![Placeholder rapid assessment]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmenplaceholder.png)
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmenplaceholder.png)] (https://www.google.com)
