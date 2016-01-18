@@ -503,20 +503,14 @@ body {
 .landing .content-header.initiatives,
 .landing .content-header.ruinitiatives,
 .landing .content-header.jpinitiatives,
-.content-page .content-header.initiatives,
-.content-page .content-header.ruinitiatives,
-.content-page .content-header.jpinitiatives,
-.content-page .content-header.initiativessupply-chain,
-.content-page .content-header.initiativesiuu {
+.content-page .content-header.initiatives {
   background: url(../images/initiatives-header-bg.jpg) center center no-repeat;
   background-size: cover; }
 
-[class*="content-header ru"],
-[class*="content-header jp"] {
+.content-header.japanese-content {
   background: url(../images/japanese-header.jpg) center center no-repeat;
   background-size: cover; }
-  [class*="content-header ru"]::after,
-  [class*="content-header jp"]::after {
+  .content-header.japanese-content::after {
     content: '';
     background: rgba(43, 58, 70, 0.8);
     display: block;
