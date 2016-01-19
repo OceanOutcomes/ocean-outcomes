@@ -14,3 +14,9 @@ We chose ten Japanese fishery species to evaluate from an initial list of the to
 
 [![Placeholder rapid assessment]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
+
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
+
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
