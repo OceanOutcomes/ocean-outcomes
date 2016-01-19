@@ -5,9 +5,9 @@ landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/rapidassessmentshero.jpg
 weight: 1
 teaser-text:
-subtitle: These assessments will help inform policy, management, funding, and the direction of sustainable seafood work in Japan.
+subtitle: We conducted eleven rapid assessments of strategically important Japanese fishery species to better articulate the Japanese fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species.
 ---
-We conducted eleven rapid assessments of strategically important Japanese fishery species to better articulate the Japanese fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species.
+##These assessments will help inform policy, management, funding, and the direction of sustainable seafood work in Japan.
 
 We chose ten Japanese fishery species to evaluate from an initial list of the top 20 species by production volume, selecting those that are important to the global market or that appeared to have good potential for implementing improvements. We also assessed a specific Pacific bluefin tuna fishery for FIP scoping purposes given the importance of this species in Japan. First, we developed a rapid assessment protocol based on a select group of 19 performance indicators within the three Marine Stewardship Council (MSC) principles.
 
