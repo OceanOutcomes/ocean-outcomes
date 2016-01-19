@@ -2,7 +2,7 @@
 layout: page 
 title: Rapid Assessments
 landing-image:
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/placeholderhero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/rapidassessmentshero.jpg
 weight: 1
 teaser-text:
 subtitle: These assessments will help inform policy, management, funding, and the direction of sustainable seafood work in Japan.
