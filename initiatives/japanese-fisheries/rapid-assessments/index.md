@@ -5,7 +5,7 @@ landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/placeholderhero.jpg
 weight: 1
 teaser-text:
-sub title: These assessments will help inform policy, management, funding, and the direction of sustainable seafood work in Japan.
+subtitle: These assessments will help inform policy, management, funding, and the direction of sustainable seafood work in Japan.
 ---
 We conducted eleven rapid assessments of strategically important Japanese fishery species to better articulate the Japanese fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species.
 
