@@ -2,12 +2,19 @@
 layout: page 
 title: Rapid Assessments
 landing-image:
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/rapidassessmentshero.jpg
+hero-image:
 weight: 1
 teaser-text:
 subtitle: We conducted eleven rapid assessments of strategically important Japanese fishery species to better articulate the Japanese fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species.
 ---
 ##These assessments will help inform policy, management, funding, and the direction of sustainable seafood work in Japan.
+
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
 
 We chose ten Japanese fishery species to evaluate from an initial list of the top 20 species by production volume, selecting those that are important to the global market or that appeared to have good potential for implementing improvements. We also assessed a specific Pacific bluefin tuna fishery for FIP scoping purposes given the importance of this species in Japan. First, we developed a rapid assessment protocol based on a select group of 19 performance indicators within the three Marine Stewardship Council (MSC) principles.
 
@@ -26,12 +33,3 @@ To conduct the assessments we used information from stock assessments conducted 
 
 Across all of the eleven species assessed, scoring ranges for performance indicators were lowest for MSC Principle 1 (Fig. 1). The lowest scores were for species that appear to have low population abundances based on stock assessments. For Principle 2, most performance indicators scored in the 60-80 range, largely due to uncertainty about the identity and status of non-target species as well as fishery impacts on these species. Scores were highest within Principle 3, but a substantial proportion of performance indicators did score below the 80 level. Any score below 60, that is orange or red, would cause the fishery to automatically fail the MSC assessment process.
 
-#####View the rapid assessments for the following species below:
-____
-
-[![Placeholder rapid assessment]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
-[![Placeholder rapid assessment]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
-[![Placeholder rapid assessment]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
