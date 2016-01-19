@@ -13,11 +13,11 @@ We chose ten Japanese fishery species to evaluate from an initial list of the to
 
 MSC previously determined that these specific indicators are especially predictive of scores at the principle level. We gathered fishery information and conducted the assessments, in which we summarized information within each MSC principle and assigned a scoring range (0-40, 40-60, 60-80, 80-100) to each performance indicator. Many of these species are harvested by multiple gear types, so we conducted the assessments at a more general level rather than focusing on specific gear types. Based on the information summaries, we identified key sustainability issues for each species as well as those shared across species. We also made an initial determination as to whether the fisheries for each species appeared suitable for MSC certification within the near term (roughly the next 5 years).
 
-| **MSC Fisheries Standard**  |  [View the entire MSC standard here.] (https://www.google.com) |
-|:--------------|:---|
-| Principle 1:  | Sustainable fish stocks - The fishing activity must be at a level which ensures it can continue indefinitely  |
-| Principle 2:  | Minimizing environmental impact - Fishing operations must be managed to maintain the structure, productivity, function, and diversity of the ecosystem  |
-| Principle 3: | Effective management - The fishery must comply with relevant laws and have a management system that is responsive to changing circumstances |
+|**MSC Fisheries Standard**|[View the entire MSC standard here.] (https://www.google.com)|
+|:---|:---|
+|Principle 1:|Sustainable fish stocks - The fishing activity must be at a level which ensures it can continue indefinitely|
+|Principle 2:|Minimizing environmental impact - Fishing operations must be managed to maintain the structure, productivity, function, and diversity of the ecosystem|
+|Principle 3:| Effective management - The fishery must comply with relevant laws and have a management system that is responsive to changing circumstances|
 
 [![Placeholder rapid assessment]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
