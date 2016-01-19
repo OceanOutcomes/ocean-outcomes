@@ -33,4 +33,4 @@ subtitle: We conducted eleven rapid assessments of strategically important Japan
 [![Yellowfin tuna]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-011.jpg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summary+-+Yellowfin+tuna.pdf)
 
-[Download overview and all the rapid assessments as one complete PDF.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Japan+Rapid+Assessment+Summaries+January+2016.pdf)
+[Download methodology/overview and all 11 rapid assessments as one complete PDF.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Japan+Rapid+Assessment+Summaries+January+2016.pdf)
