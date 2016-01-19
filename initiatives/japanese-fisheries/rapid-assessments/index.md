@@ -8,7 +8,6 @@ teaser-text:
 subtitle: We conducted eleven rapid assessments of strategically important Japanese fishery species to better articulate the Japanese fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species.
 ---
 ##These assessments will help inform policy, management, funding, and the direction of sustainable seafood work in Japan.
-*Click the banner for respective assessment*
 [![Japanese amberjack]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-001.jpg)] (	
 https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summary+-+Amberjacks.pdf)
@@ -50,4 +49,4 @@ To conduct the assessments we used information from stock assessments conducted 
 
 Across all of the eleven species assessed, scoring ranges for performance indicators were lowest for MSC Principle 1 (Fig. 1). The lowest scores were for species that appear to have low population abundances based on stock assessments. For Principle 2, most performance indicators scored in the 60-80 range, largely due to uncertainty about the identity and status of non-target species as well as fishery impacts on these species. Scores were highest within Principle 3, but a substantial proportion of performance indicators did score below the 80 level. Any score below 60, that is orange or red, would cause the fishery to automatically fail the MSC assessment process.
 
-[To download this overview and all the rapid assessments as one complete PDF, click here.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Japan+Rapid+Assessment+Summaries+January+2016.pdf)
+[Download this overview and all the rapid assessments as one complete PDF.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Japan+Rapid+Assessment+Summaries+January+2016.pdf)
