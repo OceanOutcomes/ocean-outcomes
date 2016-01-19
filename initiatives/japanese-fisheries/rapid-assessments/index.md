@@ -10,11 +10,27 @@ subtitle: We conducted eleven rapid assessments of strategically important Japan
 ##These assessments will help inform policy, management, funding, and the direction of sustainable seafood work in Japan.
 
 [![Placeholder rapid assessment]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-001.jpg)] (https://www.google.com)
 [![Placeholder rapid assessment]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-002.jpg)] (https://www.google.com)
 [![Placeholder rapid assessment]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/rapidassessmentplaceholder.png)] (https://www.google.com)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-003.jpg)] (https://www.google.com)
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-004.jpg)] (https://www.google.com)
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-005.jpg)] (https://www.google.com)
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-006.jpg)] (https://www.google.com)
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-007.jpg)] (https://www.google.com)
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-008.jpg)] (https://www.google.com)
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-009.jpg)] (https://www.google.com)
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-010.jpg)] (https://www.google.com)
+[![Placeholder rapid assessment]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-011.jpg)] (https://www.google.com)
 
 We chose ten Japanese fishery species to evaluate from an initial list of the top 20 species by production volume, selecting those that are important to the global market or that appeared to have good potential for implementing improvements. We also assessed a specific Pacific bluefin tuna fishery for FIP scoping purposes given the importance of this species in Japan. First, we developed a rapid assessment protocol based on a select group of 19 performance indicators within the three Marine Stewardship Council (MSC) principles.
 
