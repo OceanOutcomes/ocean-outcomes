@@ -9,12 +9,12 @@
 
 - featured: TRUE
   language: en
-  heading: Happy Holidays!
-  title: It's been a great first year.
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/O2staff-featured.jpg
+  heading: Illegal, Unreported, and Unregulated Fishing (IUU)
+  title: Market based sustainable seafood solutions to IUU.
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-iuu.jpg
   link:
-    link-text: Highlights
-    link-url: /news/happy-holidays-2015/
+    link-text: See how
+    link-url: /initiatives/iuu/
 
 - featured: FALSE 
   language: en
