@@ -18,4 +18,4 @@ Nevertheless, Japan has yet to fully embrace modern seafood sustainability effor
 
 At O2, [we’re working to change this] (/what-we-do/success-stories/hokkaido-chum/).
 
-Add link to [Rapid Assessments here]. (/initiatives/japanese-fisheries/rapid-assessments/)
+Add link to [Rapid Assessments here] (/initiatives/japanese-fisheries/rapid-assessments/).
