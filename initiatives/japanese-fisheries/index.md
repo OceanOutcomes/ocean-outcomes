@@ -17,3 +17,5 @@ It is less well known that many domestic fisheries in Japan are in deep trouble.
 Nevertheless, Japan has yet to fully embrace modern seafood sustainability efforts. Only 10% of domestic fishery landings participate in the Marine Stewardship Certification (MSC) program, a significant lag behind Russia, North America, and Europe. There is not a single publicly recognized Fishery Improvement Project (FIP) in Japan. 
 
 At O2, [we’re working to change this] (/what-we-do/success-stories/hokkaido-chum/).
+
+Add link to [Rapid Assessments here]. (/initiatives/japanese-fisheries/rapid-assessments/)
