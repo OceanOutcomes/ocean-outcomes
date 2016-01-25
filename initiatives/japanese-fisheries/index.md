@@ -23,5 +23,5 @@ To learn more about the complex issues facing Japanese fisheries see our report 
 We conducted eleven rapid assessments ([see the summaries here] (/initiatives/japanese-fisheries/rapid-assessments/)) of strategically important Japanese fishery species to better articulate the Japanese fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species. These assessments will help inform policy, management, funding, and the direction of sustainable seafood work in Japan.
 
 ---
-Hungry for more Japanese seafood? [See the fishery improvement success story] (/what-we-do/success-stories/hokkaido-chum/) of the largest chum salmon fishery in the world.
+Hungry for more Japanese seafood? [See the fishery improvement success story of the largest chum salmon fishery in the world] (/what-we-do/success-stories/hokkaido-chum/).
 
