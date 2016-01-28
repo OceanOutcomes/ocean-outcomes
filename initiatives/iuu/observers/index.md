@@ -18,6 +18,8 @@ In collaboration with World Wildlife Fund (WWF) Russia and other partners, we ha
 
 * [Read what a month working as an independent observer in Kamchatka entails] (http://wildsalmoncenter.org/press/wsc_news_winter_2012.php#nftf).
 
+* <a href="http://wildsalmoncenter.org/press/wsc_news_winter_2012.php#nftf" target="_blank">Read what a month working as an independent observer in Kamchatka entails</a>.
+
 * [View the most recent independent observers report from Kamchatka Fish Fund] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/KamchatkaFishFundObserverReport.pdf), our partner on the ground facilitating the program.
 
 ---
