@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: IUU In East Asia
-subtitle: One in four fish is caught and traded illegally, posing significant problems for seafood buyers, coastal communities, fisheries, and marine life.
+sub-title: One in four fish is caught and traded illegally, posing significant problems for seafood buyers, coastal communities, fisheries, and marine life.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/iuu-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/iuuhero.jpg
 weight: 1
