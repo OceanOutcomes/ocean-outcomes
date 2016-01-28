@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Catch Tracking System (CTS)
-subtitle: "Retailers, importers, distributors and multi-unit chains all need to be aware of the risk implications of where they source their product from and insure they aren't sourcing from IUU fisheries or fisheries and aquaculture projects that have affiliations with slave labor. This risk mitigation will not only lead to a successful business model but help in the positive promotion and consumption of seafood." - *Guy Dean, Vice President, CSO Albion Fisheries Ltd.*
+subtitle: Retailers, importers, distributors and multi-unit chains all need to be aware of the risk implications of where they source their product from and insure they aren't sourcing from IUU fisheries or fisheries and aquaculture projects that have affiliations with slave labor. This risk mitigation will not only lead to a successful business model but help in the positive promotion and consumption of seafood. - Guy Dean, Vice President, CSO Albion Fisheries Ltd.
 landing-image: 	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/catchtrackinghover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/catchtrackinghero.jpg
 weight: 2
