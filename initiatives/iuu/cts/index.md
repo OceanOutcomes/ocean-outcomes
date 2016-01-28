@@ -1,28 +1,26 @@
 ---
 layout: page 
-title: Catch Tracking System
-sub-title: 
+title: Catch Tracking System (CTS)
+sub-title: Securing the chain of custody from point of harvest to primary processor
 landing-image: 	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/catchtrackinghover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/catchtrackinghero.jpg
 weight: 2
-teaser-text: By following the CTS protocol, companies will capture information to assure customers that they are receiving product they can track back to the fishery from where it was sourced. 
+teaser-text: Current traceability and certification programs don’t require proof of legality from point of harvest to processor, creating a loophole at the point of harvest and processing where IUU product can enter seafood supply chains. That’s where the CTS comes in.
 ---
+> "Retailers, importers, distributors and multi-unit chains all need to be aware of the risk implications of where they source their product from and insure they aren't sourcing from IUU fisheries or fisheries and aquaculture projects that have affiliations with slave labor. This risk mitigation will not only lead to a successful business model but help in the positive promotion and consumption of seafood." - *Guy Dean, Vice President, CSO Albion Fisheries Ltd.*
 
-## The Catch Tracking System (CTS) is an initiative to track product from “net to plate,” to provide a higher level of assurance that fish is not mixed with product that is from illegal, unreported or unregulated sources.
+IUU fisheries are a well-documented problem in many Asian fisheries, however current traceability and certification programs don’t require proof of legality from point of harvest to processor, creating a loophole at the point of harvest and processing where IUU product can enter seafood supply chains.
 
-Currently, chain of custody schemes operate on the honor system in terms of initial data input for the first point of entry at the processor level, creating a loophole for illegal fisheries, because there is no verification back to the origin of harvest. Russia is a very important country for seafood supply, but well-known for issues of IUU and corruption and in such high risk fisheries, additional precautions are needed to ensure compliance. By following the CTS protocol, companies will capture information to assure customers that they are receiving product they can track back to the fishery from where it was sourced.
+###We’ve been working with fisheries in Russia for many years, and we realized controls and data verification at the front end, between harvest and first point of processing, were missing. 
 
-Catch Tracking System steps include:
+The Catch Tracking System (CTS), is an initiative to track and verify product from harvest to primary processing to close loopholes between harvest and primary processing where IUU product might enter seafood supply chains. This new on-the-water verification reconciles inputs and outputs and assures integrity of the data entering any supply chain at the source and helps fisheries meet the MSC Chain of Custody standard, a requirement to sell seafood as MSC certified or in a FIP.
 
-* The fishing company will confirm the legality of catch at landing - the company will upload (to either a cloud or a dropbox, tbd) the harvest permit for each brigadier responsible for each net 
-* For each harvest, the brigadier will assign an origin ID at the point of harvest. This number will contain:  
-* O2’s commodity code (see Appendix A), AND the parcel number, AND a four digit sequence number (beginning with 0001, to denote the order in which a catch tracking master document is issued), which will be on all documentation and product packaging accompanying shipments leaving the processing facility to ensure traceability of its final product form and sale.  
-* The processor will create a Catch Tracking Master document containing the following information, to be entered into an excel sheet and the hard copy stored at the first point of processing. 
- 
-###The Future
+The CTS is an efficient combination of self-reporting and verification conducted on the ground by independent observers trained to monitor the implementation of the system and verify the paper and the “people” trail. An observer tracks catch data and ensures these figures align with what’s subsequently processed and shipped. By following the CTS protocol, companies capture and upload information to assure customers that they are receiving product traceable back to the source fishery.
 
-Governments around the globe are concluding multilateral agreements to combat IUU and Russia is no exception, having signed agreements with China, Japan, the E.U., and most recently, with the U.S. Additionally, the increasing scrutiny of the global supply chain and the strengthening of import requirements for seafood, specifically in the U.S. and E.U., highlight a need for third-party, independent assessments and verification of anti-IUU claims. To ensure our current and future FIPs are operating at a high level and to offer private sector approaches to complement legislative efforts towards the foundation of legal and sustainable fisheries globally, O2 will require the implementation of a CTS and verification of catch at origin in all of our FIPs. We will continue to explore alternate approaches for supply chain improvements for FIPs outside of the MSC process, as well as better methods for linking catch-to-processor traceability to existing traceability systems linking the processor to the final consumer. We will use this experience and apply it wherever we will work.
+We piloted the CTS in Kamchatka, Russia in 2015 and our goal is to implement the CTS in all of our FIPs and MSC projects. As traceability becomes a requisite in the sustainable seafood movement and seafood certifications, we see the CTS as an approach that could be expanded and customized for other regions and fisheries by both O2 and other organizations looking to secure the first segment of a seafood supply chain. 
 
-Download the whole Catch Tracking System report and protocol here.
+Download the full CTS protocols [in English] (	
+https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/CTSProtocolEnglish.pdf) or [in Russian] (	
+https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/CTSProtocolRussian.pdf).
 
-
+Interested in learning more about the CTS and how it can help you secure your supply chain? [Get in touch!] (/contact/)
