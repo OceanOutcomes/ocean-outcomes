@@ -17,8 +17,6 @@ The CTS is an efficient combination of self-reporting and verification conducted
 
 We piloted the CTS in Kamchatka, Russia in 2015 and our goal is to implement the CTS in all of our FIPs and MSC projects. As traceability becomes a requisite in the sustainable seafood movement and seafood certifications, we see the CTS as an approach that could be expanded and customized for other regions and fisheries by both O2 and other organizations looking to secure the first segment of a seafood supply chain. 
 
-  * **Download the full CTS protocols [in English] (	
-https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/CTSProtocolEnglish.pdf) or [in Russian] (	
-https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/CTSProtocolRussian.pdf).**
+  * **Download the full CTS protocols <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/CTSProtocolEnglish.pdf" target="_blank">in English</a> or <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/CTSProtocolRussian.pdf" target="_blank">in Russian</a>.**
 
 Interested in learning more about the CTS and how it can help you secure your supply chain? [Get in touch!] (/contact/)
