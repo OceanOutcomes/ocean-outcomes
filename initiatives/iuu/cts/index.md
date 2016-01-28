@@ -19,4 +19,4 @@ We piloted the CTS in Kamchatka, Russia in 2015 and our goal is to implement the
 
  * **Download the full CTS protocols <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/CTSProtocolEnglish.pdf" target="_blank">in English</a> or <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/CTSProtocolRussian.pdf" target="_blank">in Russian</a>.**
 
-Interested in learning more about the CTS and how it can help you secure your supply chain? [Get in touch!] (/contact/)
+Interested in learning more about the CTS and how it can help you secure your supply chain? [**Get in touch!**] (/contact/)
