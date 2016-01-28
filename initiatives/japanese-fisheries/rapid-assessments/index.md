@@ -11,7 +11,7 @@ subtitle: We conducted eleven rapid assessments of strategically important Japan
 
 We developed a rapid assessment protocol based on a select group of 19 performance indicators within the three Marine Stewardship Council (MSC) principles. Using this new protocol we conducted the assessments with information from stock assessments conducted by scientists at the Fisheries Research Agency of Japan (FRA) and from policy documents posted by the Japan Fisheries Agency (JFA).
 
-This methodology is the first of it’s kind and is designed to be faster and cheaper than other assessment processes, and provides a comprehensive baseline to inform the direction of sustainable seafood work in Japan. A complete explanation of this methodology and the results of the rapid assessments can be found below.
+This methodology is the first of it’s kind and is designed to be faster and cheaper than other assessment processes, and it provides a comprehensive baseline to inform the direction of sustainable seafood work in Japan. A complete explanation of this methodology and the results of the rapid assessments can be found below.
 
 [![Methodology and Overview]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-000.jpeg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summaries+Page.pdf)
