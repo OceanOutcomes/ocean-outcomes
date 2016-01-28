@@ -9,7 +9,7 @@ teaser-text: Current traceability and certification programs don’t require pro
 ---
 > "Retailers, importers, distributors and multi-unit chains all need to be aware of the risk implications of where they source their product from and insure they aren't sourcing from IUU fisheries or fisheries and aquaculture projects that have affiliations with slave labor. This risk mitigation will not only lead to a successful business model but help in the positive promotion and consumption of seafood." - *Guy Dean, Vice President, CSO Albion Fisheries Ltd.*
 
-IUU fisheries are a well-documented problem in many Asian fisheries, however current traceability and certification programs don’t require proof of legality from point of harvest to processor, creating a loophole at the point of harvest and processing where IUU product can enter seafood supply chains.
+IUU fisheries are a well-documented problem in many Asian fisheries, however current traceability and certification programs don’t require proof of legality from point of harvest to processor, creating a loophole at the point of harvest and processing where IUU product can enter seafood supply chains. 
 
 ###We’ve been working with fisheries in Russia for many years, and we realized controls and data verification at the front end, between harvest and first point of processing, were missing. 
 
