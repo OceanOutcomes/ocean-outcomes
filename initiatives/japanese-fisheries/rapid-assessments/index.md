@@ -8,7 +8,6 @@ teaser-text:
 subtitle: We conducted eleven rapid assessments of strategically important Japanese fishery species to better articulate the Japanese fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species.
 ---
 ##These assessments will help inform policy, management, funding, and the direction of sustainable seafood work in Japan.
-
 We developed a rapid assessment protocol based on a select group of 19 performance indicators within the three Marine Stewardship Council (MSC) principles. Using this new protocol we conducted the assessments with information from stock assessments conducted by scientists at the Fisheries Research Agency of Japan (FRA) and from policy documents posted by the Japan Fisheries Agency (JFA).
 
 This methodology is the first of it’s kind and is designed to be faster and cheaper than other assessment processes, and it provides a comprehensive baseline to inform the direction of sustainable seafood work in Japan. A complete explanation of this methodology and the results of the rapid assessments can be found below.
