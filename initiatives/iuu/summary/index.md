@@ -11,7 +11,7 @@ teaser-text: East Asian countries like Japan, China, Korea, and Russia’s Far E
 
 IUU depletes fish stocks and negatively impacts both ecosystems and economies, weakens coastal communities and puts legal fisheries at an unfair disadvantage. One in four fish is caught and traded illegally, posing significant problems for seafood buyers, coastal communities, fisheries, and marine life. On a global scale, IUU fishing accounts for USD23 billion in global economic loss annually.
 
-> ###China, Japan, and Russia combined represent nearly a quarter of global fish landings, and Asia as a whole accounts for more than 50% of global fish landings.
+> ####China, Japan, and Russia combined represent nearly a quarter of global fish landings, and Asia as a whole accounts for more than 50% of global fish landings.
 
 East Asian countries like Japan, China, Korea, and Russia’s Far East are major hubs of seafood production, trade, and consumption. Loopholes and IUU hotspots in dominant Asian supply chains allow illegal product to enter the global marketplace, putting legal seafood companies and fisheries in both Asia and the West at risk. Our work addresses the urgent need to implement cost-effective and replicable approaches to combat illegal fishing that build value for the private sector by increasing oversight and traceability, while also complementing legislative efforts towards a foundation of legal and sustainable fisheries globally. 
 
