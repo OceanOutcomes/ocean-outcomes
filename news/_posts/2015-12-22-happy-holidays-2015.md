@@ -5,7 +5,7 @@ subtitle: It’s been a great year.
 date: 2015-12-22
 teaser-text: As 2015 comes to an end, we thought we’d take a moment to wish everyone a happy and safe holidays, and reflect on our great first year. Less than a year ago we launched O2 in New Orleans at the Seafood Summit and a lot has happened since then!
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/happy-holidays-2015-hero.jpg
-featured: FALSE
+featured: TRUE
 ---
 As 2015 comes to an end, we thought we’d take a moment to wish everyone a happy and safe holiday and reflect on our great first year. Less than a year ago we launched O2 in New Orleans at the Seafood Summit and a lot has happened since then! Here are a few highlights from 2015.
 

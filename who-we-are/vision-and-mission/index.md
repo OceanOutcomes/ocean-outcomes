@@ -18,4 +18,4 @@ At O2, we’re dedicated to improving high risk fisheries globally-- the fisheri
 
 **Our experience** on the water is strong. Incubated and launched by [Wild Salmon Center] (http://www.wildsalmoncenter.org), O2 builds on a decade of work promoting sustainable wild salmon fisheries. In our new, independent form we are a global fishery improvement organization, concentrating our entire mission on helping fisheries become sustainable so that they continue to produce healthy seafood and income for fishing communities well into the future.
 
-See how we’re implementing our mission in the [Success Stories section] (/what-we-do/success-stories/) of our site and view examples of our work in the [Initiatives section] (/initiatives/).
+See how we’re implementing our mission in the [Success Stories section] (/what-we-do/success-stories/) of our site and view our work in the [Initiatives section] (/initiatives/).
