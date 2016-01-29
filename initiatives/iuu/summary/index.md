@@ -19,6 +19,6 @@ We’re working at the nexus of market-based, sustainable seafood solutions to I
 
 * Learn more about our on the water initiatives including our [Catch Tracking System (CTS)] (/initiatives/iuu/cts/) and our [Independent Observer] (/initiatives/iuu/observers/) programs.
 
-* Learn more about our fishery improvement efforts and track fisheries working to eliminate IUU product on our [Salmon FIP Tracker] (/initiatives/supply-chain/tracker/).
+* Learn more about our fishery improvement efforts on our [Salmon FIP Tracker] (/initiatives/supply-chain/tracker/).
 
 
