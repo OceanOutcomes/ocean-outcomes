@@ -8,7 +8,7 @@
     link-url: /what-we-do/success-stories/hokkaido-chum/
 
 - featured: TRUE
-  language: en
+  language: jp
   heading: Illegal, Unreported, and Unregulated Fishing (IUU)
   title: Working at the nexus of market-based solutions to IUU in Asia
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-iuu.jpg
@@ -34,7 +34,7 @@
     link-text: Learn more
     link-url: who-we-are/join-our-team/
 
-- featured: TRUE
+- featured: FALSE
   language: ru
   heading: Истории успеха
   title: Sergi Rigov - Лосось Рыбак, Kiev Russia
