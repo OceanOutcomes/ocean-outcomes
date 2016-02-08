@@ -13,6 +13,9 @@ ru:
   - title: "Трекер FIP"
     url: "http://salmonfippartnership.org/ru/fip"
     external: 'true'
+  - title: "RUSSIAN About O2"
+    type: small
+    url: "russian-content/what-we-do/"
 
   #  - title: What We Do
   #    children:
