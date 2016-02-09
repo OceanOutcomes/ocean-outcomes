@@ -109,7 +109,14 @@
   }
 }
 
-[class*="content-header ru"] {
+.content-header.russian-content {
   background: url(../images/russian-header.jpg) center center no-repeat;
   background-size: cover;
+  &::after {
+    content: '';
+    background: rgba($abyss, 0.80);
+    display: block;
+    height: 100%;
+    width: 100%;
+  }
 }
