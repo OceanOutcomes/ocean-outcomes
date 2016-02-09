@@ -517,9 +517,15 @@ body {
     height: 100%;
     width: 100%; }
 
-[class*="content-header ru"] {
+.content-header.russian-content {
   background: url(../images/russian-header.jpg) center center no-repeat;
   background-size: cover; }
+  .content-header.russian-content::after {
+    content: '';
+    background: rgba(43, 58, 70, 0.8);
+    display: block;
+    height: 100%;
+    width: 100%; }
 
 .content-page .subnav {
   display: none;
