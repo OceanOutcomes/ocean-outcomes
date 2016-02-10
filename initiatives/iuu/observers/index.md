@@ -16,7 +16,7 @@ Our independent observer programs put eyes and ears on the ground to ensure fish
 
 In collaboration with World Wildlife Fund (WWF) Russia and other partners, we have trained and imbedded independent observers in Kamchatka salmon fisheries since 2011 (at which time we were still a program of Wild Salmon Center). The independent observers spend several weeks on rivers and coastlines in each fishery collecting biological data and information on bycatch, monitoring legal compliance, and recently, tracking the catch from the point of harvest to the processing plant.
 
-  * <a href="http://wildsalmoncenter.org/press/wsc_news_winter_2012.php#nftf" target="_blank">Read what a month working as an independent observer in Kamchatka entails</a>.
+  * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/IndependentObserversKamchatka2012.pdf" target="_blank">Read what a month working as an independent observer in Kamchatka entails</a>.
 
   * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/KamchatkaFishFundObserverReport.pdf" target="_blank">View the most recent independent observers report from Kamchatka Fish Fund</a>.
 
