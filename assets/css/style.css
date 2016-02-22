@@ -300,7 +300,9 @@ body {
   font-size: 18px;
   text-transform: uppercase;
   border: solid 3px #0071C5;
-  transition: all .4s; }
+  transition: all .4s;
+  position: relative;
+  z-index: 1; }
   .button-large:hover,
   .newsletter-block a:hover,
   .newsletter-form input[type="submit"]:hover {
