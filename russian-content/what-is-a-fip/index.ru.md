@@ -4,7 +4,7 @@ weight: 2
 title: Что такое ФИП?
 subtitle: ФИП - проект с участием нескольких заинтересованных сторон, направленный на улучшение благосостояния рыбного промысла. ФИП использует рыночный спрос на морепродукты, полученные в результате устойчивого промысла, как один из рычагов деятельности ФИПа, что в свою очередь дает полномочия рыбодобытчикам и заинтересованным сторонам, которые поддерживают положительные изменения в промыслах.
 landing-image: 
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/russianfisherieshero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/serviceshero.jpg
 teaser-text:
 ---
 ##Заинтересованные стороны ФИП
