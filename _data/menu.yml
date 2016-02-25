@@ -2,13 +2,11 @@ und:
   - title: FIP Tracker
     url: /initiatives/supply-chain/tracker/
 ru:
-  - title: "RUSSIAN About O2"
+  - title: "Кто мы такие?"
     url: "russian-content/what-we-do/"
-  - title: "RUSSIAN What is FIP"
+  - title: "Что такое ФИП?"
     url: "russian-content/what-is-a-fip/"
-  - title: "RUSSIAN the Partnership"
-    url: "russian-content/fip-partnership/"
-  - title: "RUSSIAN Contact Us"
+  - title: "Как с нами связаться"
     url: "contact/"
   - title: "Трекер FIP"
     url: "http://salmonfippartnership.org/ru/fip"
