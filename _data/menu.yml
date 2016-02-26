@@ -2,7 +2,13 @@ und:
   - title: FIP Tracker
     url: /initiatives/supply-chain/tracker/
 ru:
-  - title: "Трекер FIP"
+  - title: "Кто мы такие?"
+    url: "russian-content/what-we-do/"
+  - title: "Что такое ФИП?"
+    url: "russian-content/what-is-a-fip/"
+  - title: "Как с нами связаться"
+    url: "contact/"
+  - title: "Трекер ФИП"
     url: "http://salmonfippartnership.org/ru/fip"
     external: 'true'
 
@@ -40,9 +46,11 @@ ru:
 jp:
   - title: "取り組み内容"
     url: "japanese-content/what-we-do/"
-  - title: "FIP について"
+  - title: "漁業改善プロジェクト（FIP）"
     url: "japanese-content/what-is-a-fip/"
-  - title: "成功事例"
+  - title: "成功事例ー北海道"
     url: "japanese-content/hokkaido-success/"
+  - title: "成功事例ー北東サハリン"
+    url: "japanese-content/ne-sakhalin-success/"
   - title: "お問い合わせ"
     url: "contact/"

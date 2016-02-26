@@ -16,7 +16,16 @@
     link-text: Learn More
     link-url: /initiatives/iuu/
 
-- featured: FALSE 
+- featured: FALSE
+  language: jp
+  heading: Japan Content Illegal, Unreported, and Unregulated Fishing (IUU)
+  title: Working at the nexus of market-based solutions to IUU in Asia
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-iuu.jpg
+  link:
+    link-text: Learn More
+    link-url: /jp/japanese-content/hokkaido-success/
+
+- featured: FALSE
   language: en
   heading: We're Hiring!
   title: Do you care as much about sustainable fisheries as we do?
