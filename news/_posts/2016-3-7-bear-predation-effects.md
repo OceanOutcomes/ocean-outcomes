@@ -13,7 +13,7 @@ featured: TRUE
 
 Pacific salmon fuel a $3 billion a year industry, support tens of thousands of jobs, and are the staple to many local industries and communities. Salmon are also a significant food source for 137 species, including the Alaskan brown bear. A full understanding of salmon life cycles, reproduction traits, and interactions between human and non-human organisms is required if comprehensive and sustainable salmon management plans are to be effective.
 
-One of our fishery scientists,Jocelyn Drugan, recently published an article on the evolutionary and ecological pressures wild salmon populations face in natural ecosystems, looking specifically at effects of brown bear predation on spawning sockeye salmon in the Wood River Lakes system that connects to Bristol Bay, Alaska. The study focused on two brood years (parent generations), one where bear predation on sockeye salmon was high and the other when predation was low. In this study we have, for the first time, directly quantified evolutionary effects of bear predation on wild salmon populations.
+One of our fishery scientists, Jocelyn Drugan, recently published an article on the evolutionary and ecological pressures wild salmon populations face in natural ecosystems, looking specifically at effects of brown bear predation on spawning sockeye salmon in the Wood River Lakes system that connects to Bristol Bay, Alaska. The study focused on two brood years (parent generations), one where bear predation on sockeye salmon was high and the other when predation was low. In this study we have, for the first time, directly quantified evolutionary effects of bear predation on wild salmon populations.
 
 ##So, what’d we learn?
 
