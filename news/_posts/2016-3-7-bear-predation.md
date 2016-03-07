@@ -7,7 +7,6 @@ teaser-text: We have, for the first time, directly quantified evolutionary effec
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/bear-predation-hero.jpg
 featured: TRUE
 ---
-
 ##Sound fisheries science and a complete understanding of seafood ecosystems are foundational to sustainable seafood, and a pillar of our work.
 
 > Many wild ecosystems and fisheries are complex and not yet fully understood. Research to better understand these complexities ensures our collaborative efforts with commercial fisheries, local communities, and business result in solutions that stick. 
