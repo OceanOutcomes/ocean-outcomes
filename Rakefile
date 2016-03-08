@@ -5,7 +5,7 @@ require 'date'
 require 'yaml'
 require 'tmpdir'
 require 'jekyll'
-require 'html/proofer'
+require 'html-proofer'
 
 task :default => :server
 
