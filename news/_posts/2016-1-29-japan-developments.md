@@ -5,7 +5,7 @@ subtitle: We’re at the forefront of a new, collaborative movement taking shape
 date: 2016-1-29
 teaser-text: We’re at the forefront of a new, collaborative movement taking shape in Japan between fishermen, cooperatives, seafood businesses, scientists and NGOs to develop sustainability pathways that fit the unique context of Japan.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/japan-developments-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ##Seafood is fundamental to Japanese society, economy, and cultural identity and Japan is arguably the world’s most important seafood market.
 
