@@ -17,4 +17,4 @@ Seafood supply chains are complex, opaque, and at times disenfranchising. The ri
 
 **Creating a framework which allows everyone in the seafood supply chain, including fisherman, to participate in the management and use of the resource is the only way to improve fisheries.** It’s often the people closest to the problem, those who are dealing with a situation everyday, those with the most information, and those who have a vested interest in a positive outcome, that have the solution. That’s why we’re on the ground in Russia, China, and Japan engaging commercial fisherman and local stakeholders.
 
-> *[Perry Broderick] (/team)* manages O2’s Communications and IT systems and is a regular contributor to programmatic strategy, drawing on his experience as an Alaskan commercial salmon fisherman.
+> *[Perry Broderick] (/who-we-are/our-team/) manages O2’s Communications and IT systems and is a regular contributor to programmatic strategy, drawing on his experience as an Alaskan commercial salmon fisherman.*
