@@ -212,6 +212,9 @@ input[type="submit"] {
 $error-color: $red;
 $notice-color: $dark-green;
 $success-color: $green;*/
+.center {
+  text-align: center; }
+
 @font-face {
   font-family: 'FontAwesome';
   src: url("../fonts/fontawesome-webfont.eot?v=4.2.0");
@@ -1777,3 +1780,5 @@ iframe {
   width: 100%; }
 
 /* No files to import found in vendor/* */
+
+/*# sourceMappingURL=style.css.map */

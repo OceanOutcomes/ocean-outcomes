@@ -3,7 +3,7 @@ layout: default
 bodyclass: content-page
 ---
 <div class="content-page-content {{page.title | downcase | replace: ' ', '-' }}">
-  
+
   {% include content-header.html %}
   {% include content-subnav.html %}
 
@@ -11,6 +11,7 @@ bodyclass: content-page
     <div class="grid-container">
       <ul id="og-grid" class="og-grid">
         {% for person in site.data.staff %}
+         {% if person.contractor == false %}
           <li>
              <a href="/"
                data-largesrc="{{person.image}}"
@@ -23,7 +24,27 @@ bodyclass: content-page
               </span>
             </a>
           </li>
+          {% endif %}
         {% endfor %}
+      </ul>
+      <h2 class="center">Contractors</h2>
+      <ul id="og-grid-2" class="og-grid">
+        {% for person in site.data.staff %}
+        {% if person.contractor %}
+        <li>
+           <a href="/"
+             data-largesrc="{{person.image}}"
+             data-title="{{person.name}}" data-description="{{person.bio | markdownify}}"
+             data-position="{{person.title}}">
+            <img src="{{person.image}}" alt="staff image"/>
+            <span class="initial-details">
+              <span class="og-name">{{person.name}}</span>
+              <span class="og-title">{{person.title}}</span>
+            </span>
+          </a>
+        </li>
+        {% endif %}
+        {% endfor%}
       </ul>
     </div>
   </article>
