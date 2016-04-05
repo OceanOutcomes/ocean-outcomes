@@ -17,6 +17,7 @@ bodyclass: content-page
   <article>
     <h2 class="center">Staff</h2>
     <div class="grid-container">
+      <h2 class="left">O2 Staff</h2>
       <ul id="og-grid" class="og-grid">
         {% for person in site.data.staff %}
          {% if person.contractor == false %}
@@ -35,7 +36,7 @@ bodyclass: content-page
           {% endif %}
         {% endfor %}
       </ul>
-      <h2 class="center">Contractors</h2>
+      <h2 class="left">Key Contractors</h2>
       <ul id="og-grid-2" class="og-grid">
         {% for person in site.data.staff %}
         {% if person.contractor %}
