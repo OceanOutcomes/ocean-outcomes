@@ -7,7 +7,15 @@ bodyclass: content-page
   {% include content-header.html %}
   {% include content-subnav.html %}
 
+  <article class="map-section">
+    <h2 class="center">Our Locations</h2>
+    <div class="grid-container">
+      {% embed channel: map | id: "mid=zb_2xWe6INUw.kI9hgFPQ9S_M" %}
+    </div>
+  </article>
+
   <article>
+    <h2 class="center">Staff</h2>
     <div class="grid-container">
       <ul id="og-grid" class="og-grid">
         {% for person in site.data.staff %}
@@ -46,12 +54,6 @@ bodyclass: content-page
         {% endif %}
         {% endfor%}
       </ul>
-    </div>
-  </article>
-  <article class="map-section">
-    <h2 class="center">Our Locations</h2>
-    <div class="grid-container">
-      {% embed channel: map | id: "!1m16!1m12!1m3!1d1428724.7354240394!2d-123.83643704551848!3d45.62113305655356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sfisheries!5e0!3m2!1sen!2sus!4v1459807530869" %}
     </div>
   </article>
 </div>

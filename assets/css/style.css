@@ -1148,6 +1148,10 @@ body {
     .main-menu-container li.top-level ul > li a:hover {
       color: #FFFFFF; }
 
+.map-section {
+  clear: left;
+  overflow: hidden; }
+
 .news .newest {
   border-bottom: 0.0625em solid #E9E9E9; }
 

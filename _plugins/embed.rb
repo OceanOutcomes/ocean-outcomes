@@ -28,7 +28,7 @@ class Embed < Liquid::Tag
       when "vimeo"
         "<iframe src=\"//player.vimeo.com/video/#{@id}?badge=0\" width=\"#{@width}\" height=\"#{@height}\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
       when "map"
-        "<iframe src=\"https://www.google.com\/maps\/embed?pb=#{@id} width=\"#{@width}\" height=\"#{@height}\" frameborder=\"0\" style=\"border:0\" allowfullscreen><\/iframe>"
+        "<iframe src=\"https://www.google.com\/maps\/embed?#{@id} width=\"#{@width}\" height=\"#{@height}\" frameborder=\"0\" style=\"border:0\" allowfullscreen><\/iframe>"
     end
   end
 
