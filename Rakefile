@@ -21,7 +21,7 @@ end
 
 desc 'Watch sass'
 task :sasswatch do
-  system 'bundle exec sass -r sass-globbing --watch assets/sass:assets/css'
+  system 'bundle exec sass -r sass-globbing --watch assets/sass:assets/css --trace'
 end
 
 def jekyll(opts = '')
