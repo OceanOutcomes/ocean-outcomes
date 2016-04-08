@@ -5,7 +5,7 @@ subtitle:
 date: 2015-09-17
 teaser-text: As industry demand for sustainable sources of seafood continues to skyrocket, so does the demand for our fishery improvement work. Adding Dick to our team will help ensure we can meet that demand.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/dj-joins-O2-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 
 **September 17, 2015, Portland, OR** -- Ocean Outcomes (O2), a global fishery improvement organization launched earlier this year, announced today that Dick Jones, Founder and Chief Operating Officer of Resiliensea Group, will join O2 as its new Executive Director beginning October 1, 2015. 

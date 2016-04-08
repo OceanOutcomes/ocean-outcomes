@@ -19,7 +19,7 @@ _____
 ###Current Job Openings:
 _____
 #####South Japan Program Coordinator
-*Reports to: Japan Program Coordinator*  
+*Reports to: Japan Program Director*  
 *Location: Fukuoka or Nagasaki, Japan*
 
 The South Japan Program Coordinator is responsible for implementing fishery improvement program strategies for O2 in Southern Japan (e.g. Kyushu). This position will lead O2’s outreach efforts with commercial fisheries in the region, with a particular emphasis on warm water fisheries in Kyushu Island (e.g. tuna). This position will lead outreach and directly engage key stakeholders (e.g. commercial fishermen, seafood buyers, government officials and local cooperatives) in Southern Japan to support the sustainability of wild fisheries and help them become a significant source of sustainable seafood. Key objectives will be to engage and conclude agreements with Japanese fisheries to support certification efforts and/or credible FIPs.

@@ -9,14 +9,23 @@
 
 - featured: TRUE
   language: en
-  heading: Happy Holidays!
-  title: It's been a great first year.
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/O2staff-featured.jpg
+  heading: We've got an email list!
+  title: O2 insights on fisheries, sustainable seafood, IUU, and East Asian markets.
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-enews.jpg
   link:
-    link-text: Highlights
-    link-url: /news/happy-holidays-2015/
+    link-text: Subscribe
+    link-url: http://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a
 
-- featured: FALSE 
+- featured: FALSE
+  language: jp
+  heading: Japan Content Illegal, Unreported, and Unregulated Fishing (IUU)
+  title: Working at the nexus of market-based solutions to IUU in Asia
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-iuu.jpg
+  link:
+    link-text: Learn More
+    link-url: /jp/japanese-content/hokkaido-success/
+
+- featured: FALSE
   language: en
   heading: We're Hiring!
   title: Do you care as much about sustainable fisheries as we do?
