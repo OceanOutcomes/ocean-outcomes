@@ -18,8 +18,7 @@ First, a half dozen fishing companies in the region joined forces and pooled res
 
 Meanwhile, two Russian conservation groups, Sakhalin Environment Watch (SEW) and Moscow-based Transparent World, worked together to conduct an innovative satellite monitoring program to verify the legality of commercial trap net fisheries. Every year over 400 stationary commercial trap nets are set along the Sakhalin Island coast. The significant size and stationary nature of these nets make them visible from space. Using GIS mapping technology our Russian partners overlaid the coordinates of legal lease areas over the satellite images to assess the presence or absence of violations. The results, made public, showed an alarming number of infractions; nets completed outside of fishing zones (A), nets set perpendicularly (B), nets that fished too closed to closed river mouths (C), and nets that were much too long (D). These infractions can be seen in the following images. The good news is that the effects of this project have been stunning; since being brought to light, violations have been reduced by more than 60%.
 
-![Photos of net infractions] (	
-https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/satelliteinfractions.jpg)
+![Satellite Images of IUU and Poaching in Russia] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/satelliteinfractions.jpg)
 
 With IUU curbed, and with technical support from O2 staff, the Northeast Sakhalin salmon fishery was able to achieve [Marine Stewardship Council (MSC) certification] (http://www.msc.org/track-a-fishery/fisheries-in-the-program/certified/pacific/sakhalin_island_northheast_trap_net_pink_salmon/sakhalin_island_northheast_trap_net_pink_salmon). It was an important validation of the fishery and also helped build value for the individual fishing companies; new business connections with were also made as a result.
 
