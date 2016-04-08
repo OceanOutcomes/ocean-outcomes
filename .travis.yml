@@ -7,7 +7,7 @@ sudo: false
 cache: bundler
 
 rvm:
-- 2.2.0
+- 2.2.4
 before_script:
 - bundle exec sass -r sass-globbing --update assets/sass:assets/css
 - bundle exec jekyll build
