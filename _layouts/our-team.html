@@ -3,14 +3,21 @@ layout: default
 bodyclass: content-page
 ---
 <div class="content-page-content {{page.title | downcase | replace: ' ', '-' }}">
-  
+
   {% include content-header.html %}
   {% include content-subnav.html %}
 
+  <article class="map-section">
+    <div class="grid-container">
+      {% embed channel: map | id: mid=zb_2xWe6INUw.kI9hgFPQ9S_M %}
+    </div>
+  </article>
   <article>
     <div class="grid-container">
+      <h2 class="left">Ocean Outcomes Staff</h2>
       <ul id="og-grid" class="og-grid">
         {% for person in site.data.staff %}
+         {% if person.contractor == false %}
           <li>
              <a href="/"
                data-largesrc="{{person.image}}"
@@ -23,6 +30,7 @@ bodyclass: content-page
               </span>
             </a>
           </li>
+          {% endif %}
         {% endfor %}
       </ul>
     </div>

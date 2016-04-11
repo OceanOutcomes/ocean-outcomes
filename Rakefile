@@ -5,7 +5,6 @@ require 'date'
 require 'yaml'
 require 'tmpdir'
 require 'jekyll'
-require 'html-proofer'
 
 task :default => :server
 
@@ -16,9 +15,13 @@ task :build do
 end
 
 desc 'Build and start local server'
-task :serve do
-  system 'bundle exec sass -r sass-globbing --watch --sourcemap=none assets/sass:assets/css &'
+task :jekyllserve do
   jekyll 'serve -w --baseurl=""'
+end
+
+desc 'Watch sass'
+task :sasswatch do
+  system 'bundle exec sass -r sass-globbing --watch assets/sass:assets/css --trace'
 end
 
 def jekyll(opts = '')
@@ -37,7 +40,13 @@ task :stage => [:build] do
   system 'bundle exec s3_website push --config-dir=_stage_config'
 end
 
-task :test do
-  sh "bundle exec jekyll build"
-  HTML::Proofer.new("./_site", {:href_ignore => ['']}).run
+# Run development tasks on separate threads
+task :serve do
+  threads = []
+  %w{sasswatch jekyllserve}.each do |task|
+    threads << Thread.new(task) do |devtask|
+      Rake::Task[devtask].invoke
+    end
+  end
+  threads.each {|thread| thread.join}
 end

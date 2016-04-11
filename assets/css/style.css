@@ -212,6 +212,9 @@ input[type="submit"] {
 $error-color: $red;
 $notice-color: $dark-green;
 $success-color: $green;*/
+.center {
+  text-align: center; }
+
 @font-face {
   font-family: 'FontAwesome';
   src: url("../fonts/fontawesome-webfont.eot?v=4.2.0");
@@ -1145,6 +1148,10 @@ body {
     .main-menu-container li.top-level ul > li a:hover {
       color: #FFFFFF; }
 
+.map-section {
+  clear: left;
+  overflow: hidden; }
+
 .news .newest {
   border-bottom: 0.0625em solid #E9E9E9; }
 
@@ -1695,6 +1702,9 @@ body {
   .og-details {
     float: none;
     width: 100%; } }
+.content-page .content-page-content.our-team article h2 {
+  margin-bottom: 0.2em; }
+
 .toggle.language, .toggle.navigation, .toggle.close, .mobile-nav-toggle {
   line-height: 3.8125em;
   padding: 0.75em;
@@ -1777,3 +1787,5 @@ iframe {
   width: 100%; }
 
 /* No files to import found in vendor/* */
+
+/*# sourceMappingURL=style.css.map */

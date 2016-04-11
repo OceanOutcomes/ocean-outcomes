@@ -161,10 +161,10 @@ $.fn.imagesLoaded = function( callback ) {
 	return deferred ? deferred.promise( $this ) : $this;
 };
 
-var Grid = (function() {
+var Grid = function(gridElem) {
 
 		// list of items
-	var $grid = $( '#og-grid' ),
+		var $grid = gridElem,
 		// the items
 		$items = $grid.children( 'li' ),
 		// current expanded item's index
@@ -512,4 +512,4 @@ var Grid = (function() {
 		addItems : addItems
 	};
 
-})();
+};
