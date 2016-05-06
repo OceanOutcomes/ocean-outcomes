@@ -30,6 +30,9 @@ bodyclass: content-page
               </span>
             </a>
           </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
       <h2 class="left">Ocean Outcomes Key Contractors</h2>
       <ul id="og-grid-2" class="og-grid">
         {% for person in site.data.staff %}
@@ -48,9 +51,6 @@ bodyclass: content-page
         </li>
         {% endif %}
         {% endfor%}
-      </ul>
-          {% endif %}
-        {% endfor %}
       </ul>
     </div>
   </article>
