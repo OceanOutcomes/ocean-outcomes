@@ -30,6 +30,25 @@ bodyclass: content-page
               </span>
             </a>
           </li>
+      <h2 class="left">Ocean Outcomes Key Contractors</h2>
+      <ul id="og-grid-2" class="og-grid">
+        {% for person in site.data.staff %}
+        {% if person.contractor %}
+        <li>
+           <a href="/"
+             data-largesrc="{{person.image}}"
+             data-title="{{person.name}}" data-description="{{person.bio | markdownify}}"
+             data-position="{{person.title}}">
+            <img src="{{person.image}}" alt="staff image"/>
+            <span class="initial-details">
+              <span class="og-name">{{person.name}}</span>
+              <span class="og-title">{{person.title}}</span>
+            </span>
+          </a>
+        </li>
+        {% endif %}
+        {% endfor%}
+      </ul>
           {% endif %}
         {% endfor %}
       </ul>
