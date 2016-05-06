@@ -1,14 +1,15 @@
 ---
 layout: page 
 title: Join Us
+sub-title: Do you care as much about sustainable fisheries as we do?
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japan-coordinator-hires.jpg
 teaser-text: At O2, we are always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health.
 weight: 4
 ---
-##Do you care as much about sustainable fisheries as we do?
+##At O2, we are always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. 
 
-At O2, we are always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. **Have Russian, Japanese, Chinese, or East Asian fishery experience?** That’s always a bonus.
+**Have Russian, Japanese, Chinese, or East Asian fishery experience?** That’s always a bonus.
 
 While we don't currently have any open positions, if you are interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share. 
 
