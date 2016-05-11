@@ -8,7 +8,7 @@ featured: TRUE
 ---
 ##We’re back from the Russian Far East, and with good news to report!
 
-We’re back from the Russian Far East, and with good news to report! On the ground with Vityaz-Avto Ltd. and Delta Ltd, two Russian fishing companies based in Kamchatka, we witnessed the hard won results of more than six years of collaborations with fishermen to better understand and protect these globally important salmon fisheries. Wild salmon stocks have rebounded, management actions are improving, and the fishery is being recognized as a global leader in sustainability. 
+On the ground with Vityaz-Avto Ltd. and Delta Ltd, two Russian fishing companies based in Kamchatka, we witnessed the hard won results of more than six years of collaborations with fishermen to better understand and protect these globally important salmon fisheries. Wild salmon stocks have rebounded, management actions are improving, and the fishery is being recognized as a global leader in sustainability. 
 
 As the West Kamchatka salmon fishery moves towards its final stage of MSC certification, here are a few key highlights from this past year:
  
