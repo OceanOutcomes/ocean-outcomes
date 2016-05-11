@@ -1,6 +1,6 @@
 ---
 layout: news
-title:  Seafood - The Common Denominator in Seafood
+title:  The Common Denominator in Seafood
 subtitle: Seafood supply chains are complex, opaque, and at times disenfranchising.
 date: 2016-03-24
 teaser-text:  From producers to procurers, consumers to processors, seafood supply chains are comprised of many different actors, each with a different perspective on the value and nature of seafood.
