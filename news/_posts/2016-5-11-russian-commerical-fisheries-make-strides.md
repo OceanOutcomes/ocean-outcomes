@@ -24,6 +24,6 @@ As the West Kamchatka salmon fishery moves towards its final stage of MSC certif
 
 ![Ozernaya Sockeye Salmon MSC Site Visit]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/2016-ozernaya-sockeye-site-visit.jpg)
-*The annual MSC audit takes place to verify fishermen, seen in the background, are making progress on committments.*
+*O2 staff participate in the annual MSC audit, which takes place to verify fishermen, seen in the background, are making progress on committments.*
 
 This progress towards increased supplies of sustainable seafood should be celebrated. Seafood is a rapidly evolving and complex socio-economic industry, often accompanied by negative headlines of overfishing, poaching, and human rights abuse. Successes like these are a fresh breath of air and should be highlighted so the relatively nascent sustainable seafood movement can continue to grow. Patience and perseverance are key to making progress on the long road to sustainability.
