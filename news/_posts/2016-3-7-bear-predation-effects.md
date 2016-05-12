@@ -5,7 +5,7 @@ subtitle: We have, for the first time, directly quantified evolutionary effects 
 date: 2016-03-07
 teaser-text: We have, for the first time, directly quantified evolutionary effects of bear predation on wild salmon populations.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/bear-predation-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ##Sound fisheries science and a complete understanding of seafood ecosystems are foundational to sustainable seafood, and a pillar of our work.
 
