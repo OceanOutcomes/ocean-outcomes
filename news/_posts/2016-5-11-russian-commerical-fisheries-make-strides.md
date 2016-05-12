@@ -12,7 +12,7 @@ On the ground with Vityaz-Avto Ltd. and Delta Ltd, two Russian fishing companies
 
 As the West Kamchatka salmon fishery moves towards its final stage of MSC certification, here are a few key highlights from this past year:
  
-* KamchatNIRO, a regional fisheries research agency issue a 133 page report that provides critical foundational information necessary for managing salmon runs (i.e. stock status, run timing). This research provided new information about Chinook salmon whose stocks have been very low and will help commercial salmon fishermen target more abundant species and avoid impacts on Chinook. The research also showed that Chinook salmon escapements have been increasing since a ban on commercial retention was implemented by KamchatNIRO in 2010. **Most excitingly, the report included updated spawner-recruit analyses which resulted in revised and more river-specific escapement goals for salmon species, which will be in place this fishing season.**
+* KamchatNIRO, a regional fisheries research agency issued a 133 page report that provides critical foundational information necessary for managing salmon runs (i.e. stock status, run timing). This research provided new information about Chinook salmon whose stocks have been very low and will help commercial salmon fishermen target more abundant species and avoid impacts on Chinook. The research also showed that Chinook salmon escapements have been increasing since a ban on commercial retention was implemented by KamchatNIRO in 2010. **Most excitingly, the report included updated spawner-recruit analyses which resulted in revised and more river-specific escapement goals for salmon species, which will be in place this fishing season.**
  
 * [Independent third party observer programs confirmed] (/initiatives/iuu/observers/); limited sea lion bycatch and compliance in regards to firearm prohibition; beach seines and set nets were operated within legal fishing parcels, and only during legal fishing periods; active enforcement efforts have minimized the incidence of illegal fishing on the Opala and Ozernaya rivers.
 
@@ -24,6 +24,6 @@ As the West Kamchatka salmon fishery moves towards its final stage of MSC certif
 
 ![Ozernaya Sockeye Salmon MSC Site Visit]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/2016-ozernaya-sockeye-site-visit.jpg)
-*The annual MSC audit takes place to verify fishermen, seen in the background, are making progress on committments.*
+*O2 staff participate in the annual MSC audit, which takes place to verify fishermen, seen in the background, are making progress on committments.*
 
 This progress towards increased supplies of sustainable seafood should be celebrated. Seafood is a rapidly evolving and complex socio-economic industry, often accompanied by negative headlines of overfishing, poaching, and human rights abuse. Successes like these are a fresh breath of air and should be highlighted so the relatively nascent sustainable seafood movement can continue to grow. Patience and perseverance are key to making progress on the long road to sustainability.
