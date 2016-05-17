@@ -21,7 +21,7 @@ In collaboration with World Wildlife Fund (WWF) Russia and other partners, we ha
   * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/KamchatkaFishFundObserverReport.pdf" target="_blank">View the most recent independent observers report from Kamchatka Fish Fund</a>.
 
 ![Russian Fisheries Observed]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/observed-fishing-parcels-2015.png)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/observed-fishing-parcels-2015.jpg)
 *Fishing parcels monitored by independent observers in the past year.*
 
 ---
