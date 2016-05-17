@@ -17,7 +17,7 @@ As the West Kamchatka salmon fishery moves towards its final stage of MSC certif
 * [Independent third party observer programs confirmed] (/initiatives/iuu/observers/); limited sea lion bycatch and compliance in regards to firearm prohibition; beach seines and set nets were operated within legal fishing parcels, and only during legal fishing periods; active enforcement efforts have minimized the incidence of illegal fishing on the Opala and Ozernaya rivers.
 
 ![Russian Fisheries Observed]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/observed-fishing-parcels-2015.jpg)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/observed-fishing-parcels-2015.png)
 *Fishing parcels monitored by independent observers in the past year.*
 
 **In the MSC-certified Ozernaya sockeye salmon fishery, we participated in the annual MSC audit, where independent third party auditors documented the progress the fishery has made closing 8 of 9 conditions of their certification.** To close these conditions independent observers gathered information on bycatch and retained species, and shared it with the auditors and stakeholders. The fishery clients continued support and finance of anti-poaching activities in the region; they scanned and checked some parts of the river every few days. Another year of Independent third party observer programs was planned to continue verifying the fishery is fishing only where permitted, only on permitted days, and without the presence of firearms aboard vessels. [The fishery is on track to complete the last condition on schedule] (http://salmonfippartnership.org/fip/ozernaya/annual-review/2016-annual-review-and-action-plan).
