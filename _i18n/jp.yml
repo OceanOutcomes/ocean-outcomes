@@ -50,7 +50,6 @@ jp:
   get-in-touch: "お問い合わせ"
 
   # Form
-  optional: "任意"
   your-name: "お名前"
   your-email: "メールアドレス"
   your-phone: "電話番号"
