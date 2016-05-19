@@ -54,6 +54,7 @@ und:
   get-in-touch: "Get In Touch"
 
   # Form
+  optional: "Optional"
   your-name: "Your Name"
   your-email: "Your Email Address"
   your-phone: "Your Phone Number"
