@@ -56,3 +56,7 @@ jp:
     url: "japanese-content/ne-sakhalin-success/"
   - title: "お問い合わせ"
     url: "contact/"
+
+zh:
+  - title: "联络"
+    url: "contact/"
