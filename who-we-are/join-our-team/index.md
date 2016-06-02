@@ -10,6 +10,7 @@ weight: 4
 ##Connect online and spread the word 
 
 We’re a small group with big goals working with fisheries across vast geographies and oceans. Connecting with us online helps get our message to more people, gives a voice to the issues commercial fisheries face, and ultimately contributes to an increased demand for sustainable seafood.
+
  * <a href="https://www.linkedin.com/company/ocean-outcomes" target="_blank">Connect with O2 on LinkedIn</a>
  * <a href="http://www.twitter.com/oceanoutcomes" target="_blank">Follow O2 on Twitter</a>
 
@@ -28,7 +29,7 @@ Demand seafood, both fished and farmed, from sources which have minimal impact o
 -----
 ##Stay in touch
 
-Subscribe to our sustainable seafood newsletter and get the latest insights on commercial fisheries, sustainable seafood, IUU, East Asian markets, and O2 events, all delivered right to your inbox. 
+[Subscribe to our sustainable seafood newsletter] (http://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a) and get the latest insights on commercial fisheries, sustainable seafood, IUU, East Asian markets, and O2 events, all delivered right to your inbox. 
 
 [![Sustainable Seafood News]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/subscribe-to-sustainable-seafood-news.jpg)] (http://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a)
