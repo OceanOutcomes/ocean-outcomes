@@ -5,7 +5,7 @@ subtitle: Seafood supply chains are complex, opaque, and at times disenfranchisi
 date: 2016-03-24
 teaser-text:  From producers to procurers, consumers to processors, seafood supply chains are comprised of many different actors, each with a different perspective on the value and nature of seafood.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/astoria-to-boston-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ##From fishermen to processors, from big buyers to everyday consumers, seafood supply chains are comprised of many different actors, each with a unique perspective on the value and nature of seafood.
 
