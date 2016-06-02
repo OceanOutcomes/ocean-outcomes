@@ -2,7 +2,7 @@
 layout: news
 title: Fishery Improvement Efforts Lead to New Management Strategies in Kamchatka
 date: 2016-06-2
-teaser-text: This year’s adoption of escapement goals and in-season monitoring is a huge win for fish and the seafood community.
+teaser-text: 50% of Kamchatka's pink salmon harvest is now more sustainably managed, a huge win for fish and the seafood community.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/new-fishery-management-kamchatka-hero.jpg
 featured: TRUE
 ---
