@@ -14,7 +14,7 @@ Prior to a <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcome
 
 ###So what did this new report do, and why the big deal? 
 
-> It established, for the first time, science-based salmon escapement goals and an escapement monitoring plan for Karaginsky Bay. This important step will change the fishery management strategy from a reactive ‘take action if there is a catastrophe’ approach to a proactive ‘let’s ensure enough salmon are spawning to sustain future generations’ approach.
+*It established, for the first time, science-based salmon escapement goals and an escapement monitoring plan for Karaginsky Bay. This important step will change the fishery management strategy from a reactive ‘take action if there is a catastrophe’ approach to a proactive ‘let’s ensure enough salmon are spawning to sustain future generations’ approach.*
 
 Salmon escapement goals are the pillar of sustainable salmon management and are commonly used in Alaska, Canada, and other parts of Russia. Fishery managers monitor escapement during the fishing season to manage the fishery in a way that ensures enough salmon spawn to sustain strong populations that can support commercial fishing and healthy ecosystems year after year. Depending on escapement levels, fishery managers control harvests by temporarily opening and closing areas and times to fishing to allow sufficient numbers of salmon to escape and spawn.
 
