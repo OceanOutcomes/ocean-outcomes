@@ -1,15 +1,15 @@
 # Site default language is English, which is represented as 'und' or 'Undefined'.
-jp:
+zh:
   ##########################
   # Home page translatables
   ##########################
   ## Home page banner
-  home-page-hero-text: "地元漁業者と市場が連携する、持続可能な漁業への取り組み"
-  contact-us: "お問い合わせ"
+  home-page-hero-text: "立足渔场，水产行业支持的渔业改进项目"
+  contact-us: "联系我们"
 
   ## About section
-  about-section-heading: "オーシャンアウトカムズについて"
-  about-section-content: "私たちは豊かな海洋生態系、次世代につながる豊富な天然水産物の供給、そして地元漁業者コミュニティの繁栄を目指し、共に未来を描きます"
+  about-section-heading: "关于Ocean Outcomes"
+  about-section-content: "我们的愿景一个海洋生态系统健全、水产品供应充足、渔业兴旺发达的未来。"
   ### Top level menu item
   who-we-are: "Who We Are"
   #### Sub-menu items
@@ -36,24 +36,23 @@ jp:
   ##########################
   # Header & Footer translatables
   ##########################
-  ocean-outcomes-home: "ホーム"
-  language: "Language / Язык / 语言"
-  close: "閉じる"
-  menu: "メニュー"
-
+  ocean-outcomes-home: "首页"
+  language: "Language / 中文 / Язык"
+  close: "关闭"
+  menu: " 菜单"
 
   ##########################
   # Contact Page
   ##########################
-  contact-us: "お問い合わせ"
-  our-location: "所在地"
-  get-in-touch: "お問い合わせ"
+  contact-us: "联系我们"
+  our-location: "总部地址"
+  get-in-touch: "联系我们"
 
   # Form
-  optional: “任意"
-  your-name: "お名前"
-  your-email: "メールアドレス"
-  your-phone: "電話番号"
-  your-message: "お問い合わせ内容"
-  subscribe-for-updates: "最新版のご登録"
-  submit: "送信"
+  optional: “可选的"
+  your-name: "您的姓名"
+  your-email: "电子邮箱"
+  your-phone: "联系电话"
+  your-message: "您的留言"
+  subscribe-for-updates: "订阅O2电子报"
+  submit: "提交"

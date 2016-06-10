@@ -1,0 +1,41 @@
+---
+layout: home
+bodyclass: home
+title: 首页 | Ocean Outcomes
+---
+
+  <section class="hero hero-home">
+    <div class="hero-text">
+      <h1>{%t home-page-hero-text %}</h1>
+      <a class="button-large" href="{{site.baseurl}}/zh/contact/">{%t contact-us %}</a>
+    </div>
+    <a class="scroll-arrow" href=""><img src="{{site.baseurl}}/assets/images/arrow-icon.png" alt="arrow icon"></a>
+  </section>
+
+  <section class="home-about">
+   <div class="grid-container">
+    <h1 class="aqua-heading">{%t about-section-heading %}</h1>
+    <h2>{%t about-section-content %}</h2>
+  </section>
+
+{% for block in site.data.featured-blocks %}
+{% if block.featured and block.language == 'zh' %}
+<section class="home-success-stories">
+    <div class="grid-container">
+        <h1>{{block.heading}}</h1>
+        <h2>{{block.title}}</h2>
+        <p>{{block.content}}</p>
+        {% if block.link %}
+        <a class="button-large" href="{{block.link.link-url}}">{{block.link.link-text}}</a>
+        {% endif %}
+        <img class="support-image" src="{{block.hero-image}}" alt="{{block.title}}">
+    </div>
+</section>
+{% endif %}
+{% endfor %}
+
+<section class="home-news">
+    <div class="grid-container">
+
+    </div>
+</section>
