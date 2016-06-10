@@ -2,11 +2,11 @@
   <li class="top-level">
     {% case page.lang %}
     {% when 'jp' %}
-    <a href="http://www.oceanoutcomes.org/jp/">ホーム</a>
+    <a href="/jp/">ホーム</a>
     {% when 'zh' %}
-    <a href="http://www.oceanoutcomes.org/zh/">首页</a>
+    <a href="/zh/">首页</a>
     {% when 'ru' %}
-    <a href="http://www.oceanoutcomes.org/ru/">Главная страница</a>
+    <a href="/ru/">Главная страница</a>
     {% endcase %}
   </li>
   {% for item in site.data.menu[page.lang] %}
