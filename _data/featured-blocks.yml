@@ -53,3 +53,14 @@
     link-url: /contact/
   content: |
     Совместно управлять Усиленное рынки через плагин и играть сетях. Динамически откладывать пользователей B2C После установки базовых пособий. Резко себе клиентов, направленную сходимость без революционной ROI.
+
+- featured: FALSE
+  language: zh
+  heading: Chinese Temporary Header
+  title: Chinese Temporary Title
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chumsalmonstoryhero.png
+  link:
+    link-text: Chinese link text
+    link-url: /contact/
+  content: |
+     Chinese content
