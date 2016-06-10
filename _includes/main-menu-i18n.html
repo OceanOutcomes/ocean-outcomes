@@ -1,35 +1,48 @@
 <ul class="main-menu">
   <li class="top-level">
-    {% if page.lang == 'jp' %}
+    {% case page.lang %}
+    {% when 'jp' %}
     <a href="http://www.oceanoutcomes.org/jp/">ホーム</a>
-    {% else %}
+    {% when 'zh' %}
+    <a href="http://www.oceanoutcomes.org/zh/">首页</a>
+    {% when 'ru' %}
     <a href="http://www.oceanoutcomes.org/ru/">Главная страница</a>
-    {% endif %}
+    {% endcase %}
   </li>
   {% for item in site.data.menu[page.lang] %}
     {% if item.type != 'small' %}
     <li class="top-level">
-      {% if page.lang == 'jp' %}
+      {% case page.lang %}
+      {% when 'jp' %}
         {% if item.external == 'true' %}
         <a href="{{item.url}}">{{item.title}}</a>
         {% else %}
         <a href="/jp/{{item.url}}">{{item.title}}</a>
         {% endif %}
-      {% else  %}
+      {% when 'zh' %}
+        {% if item.external == 'true' %}
+        <a href="{{item.url}}">{{item.title}}</a>
+        {% else %}
+        <a href="/zh/{{item.url}}">{{item.title}}</a>
+        {% endif %}
+      {% when 'ru' %}
         {% if item.external == 'true' %}
         <a href="{{item.url}}">{{item.title}}</a>
         {% else %}
         <a href="/ru/{{item.url}}">{{item.title}}</a>
         {% endif %}
-      {% endif %}
+      {% endcase %}
       {% if item.children %}
       <ul>
         {% for child in item.children %}
-          {% if page.lang == 'jp' %}
+          {% case page.lang %}
+          {% when 'jp' %}
           <li><a href="/jp/{{child.url}}">{{child.title}}</a></li>
-          {% else  %}
+          {% when 'zh' %}
+          <li><a href="/zh/{{child.url}}">{{child.title}}</a></li>
+          {% when 'ru' %}
           <li><a href="/ru/{{child.url}}">{{child.title}}</a></li>
-          {% endif %}
+          {% endcase %}
         {% endfor %}
       </ul>
       {% endif %}
