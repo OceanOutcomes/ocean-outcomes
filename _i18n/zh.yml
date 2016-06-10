@@ -1,23 +1,20 @@
 # Site default language is English, which is represented as 'und' or 'Undefined'.
-und:
+zh:
   ##########################
   # Home page translatables
   ##########################
   ## Home page banner
-  home-page-hero-text: "Creative solutions towards more sustainable fisheries"
-  contact-us: "Get in Touch"
+  home-page-hero-text: "本地主导，行业支持渔业改进"
+  contact-us: "联系我们"
 
   ## About section
-  about-section-heading: "About Ocean Outcomes"
-  about-section-content: "We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities."
+  about-section-heading: "关于海洋结果"
+  about-section-content: "我们设想未来的健康水生态系统，一个丰富和盈利的野生海鲜供应和繁荣的渔业社区。"
   ### Top level menu item
   who-we-are: "Who We Are"
   #### Sub-menu items
+  vision-mission: "Vision and Mission"
   our-team: "Our Team"
-  advisors: "Our Advisors"
-  vision-mission: "Vision & Mission"
-  join-our-team: "Join Us"
-
   ### Top level menu item
   what-we-do: "What We Do"
   #### Sub-menu items
@@ -34,30 +31,31 @@ und:
 
   ## News section
   news-section-heading: "News & Analysis"
-  news-section-link-text: "See All News & Analysis"
+  news-section-link-text: "See all News & Analysis"
 
   ##########################
   # Header & Footer translatables
   ##########################
-  ocean-outcomes-home: "Ocean Outcomes Home"
-  language: "Язык / 言語 / 中文"
+  ocean-outcomes-home: "ホーム"
+  language: "Language / 中文"
   close: "Close"
   menu: "Menu"
   tracker: "FIP Tracker"
   newsletter: "Subscribe to O2 Sustainable Seafood News"
 
+
   ##########################
   # Contact Page
   ##########################
-  contact-us: "Contact Us"
-  our-location: "Our Location"
-  get-in-touch: "Get In Touch"
+  contact-us: "联系我们"
+  our-location: "我们的位置"
+  get-in-touch: "保持联系"
 
   # Form
-  optional: "Optional"
-  your-name: "Your Name"
-  your-email: "Your Email Address"
-  your-phone: "Your Phone Number"
-  your-message: "Your Message"
-  subscribe-for-updates: "Get the latest from O2 on fisheries, sustainable seafood, IUU, and East Asian markets"
-  submit: "Submit"
+  optional: “可选的"
+  your-name: "你的名字"
+  your-email: "您的电子邮件地址"
+  your-phone: "你的电话号码"
+  your-message: "你的信息"
+  subscribe-for-updates: "获得O2最新的渔业，可持续海鲜，IUU和东亚市场"
+  submit: "提交"
