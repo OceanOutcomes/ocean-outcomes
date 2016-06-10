@@ -4,12 +4,12 @@ zh:
   # Home page translatables
   ##########################
   ## Home page banner
-  home-page-hero-text: "本地主导，行业支持渔业改进"
+  home-page-hero-text: "立足渔场，水产行业支持的渔业改进项目"
   contact-us: "联系我们"
 
   ## About section
-  about-section-heading: "关于海洋结果"
-  about-section-content: "我们设想未来的健康水生态系统，一个丰富和盈利的野生海鲜供应和繁荣的渔业社区。"
+  about-section-heading: "关于Ocean Outcomes"
+  about-section-content: "我们的愿景一个海洋生态系统健全、水产品供应充足、渔业兴旺发达的未来。"
   ### Top level menu item
   who-we-are: "Who We Are"
   #### Sub-menu items
@@ -36,26 +36,23 @@ zh:
   ##########################
   # Header & Footer translatables
   ##########################
-  ocean-outcomes-home: "ホーム"
-  language: "Language / 中文"
-  close: "Close"
-  menu: "Menu"
-  tracker: "FIP Tracker"
-  newsletter: "Subscribe to O2 Sustainable Seafood News"
-
+  ocean-outcomes-home: "首页"
+  language: "Language / 中文 / Язык"
+  close: "关闭"
+  menu: " 菜单"
 
   ##########################
   # Contact Page
   ##########################
   contact-us: "联系我们"
-  our-location: "我们的位置"
-  get-in-touch: "保持联系"
+  our-location: "总部地址"
+  get-in-touch: "联系我们"
 
   # Form
   optional: “可选的"
-  your-name: "你的名字"
-  your-email: "您的电子邮件地址"
-  your-phone: "你的电话号码"
-  your-message: "你的信息"
-  subscribe-for-updates: "获得O2最新的渔业，可持续海鲜，IUU和东亚市场"
+  your-name: "您的姓名"
+  your-email: "电子邮箱"
+  your-phone: "联系电话"
+  your-message: "您的留言"
+  subscribe-for-updates: "订阅O2电子报"
   submit: "提交"
