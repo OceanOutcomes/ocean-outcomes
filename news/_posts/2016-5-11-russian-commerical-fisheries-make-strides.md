@@ -4,7 +4,7 @@ title:  Russian Fisheries Make Strides on Road to Sustainability
 date: 2016-05-11
 teaser-text: Independent observer programs, better data, and improved escapement management lead to increased Chinook salmon populations and more sustainable fisheries in Kamchatka.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/russian-fisheries-make-strides-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ##We’re back from the Russian Far East, and with good news to report!
 
