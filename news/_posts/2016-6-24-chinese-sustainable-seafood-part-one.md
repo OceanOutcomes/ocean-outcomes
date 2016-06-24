@@ -21,4 +21,4 @@ Without appropriate management reforms to meet the challenges of the day, Chines
 
 While there are common elements and goals to any sustainable fishery or aquaculture project (e.g. access regulations and the maintenance of biological productivity), standardized solutions to these complex problems will simply not work. Fishery and aquaculture improvement efforts that are creative and culturally relevant will be paramount to revitalize Chinese fisheries and ensure sustainable aquaculture.
 
-** *Songlin Wang, who lives in Qingdao, China, is China Program Director for Ocean Outcomes, leading O2's sustainable fisheries and aquaculture initiatives in the region.* **
+*Songlin Wang, who lives in Qingdao, China, is China Program Director for Ocean Outcomes, leading O2's sustainable fisheries and aquaculture initiatives in the region.*
