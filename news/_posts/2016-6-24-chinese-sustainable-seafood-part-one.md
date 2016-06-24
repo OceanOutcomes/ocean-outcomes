@@ -17,8 +17,8 @@ However, ensuring sustainable fisheries in China will be no easy task. By 2030 t
 
 Without appropriate management reforms to meet the challenges of the day, Chinese commercial fisheries, which contain ¼ of the world’s fishing fleet, have been suffering from overfishing for four decades. China’s aquaculture sector presents different challenges and opportunities. Traditional fish farms in China have been producing carps, bivalves, seaweeds, and algae for millennia. However, the scale and impacts of industrial aquaculture have expanded exponentially and natural wetlands and coastal areas have been transformed for industrial production. Roughly five million square miles, an area the size of Switzerland and Netherlands combined, are now used for aquaculture production. In addition, an increasing amount of carnivorous species such as bass, snakeheads, groupers, flatfish, perch and crabs are farmed, leading to a growing pressure to small pelagic fish (harvested as feed) in natural ecosystems.
 
-###Tools appropriate to achieve sustainable seafood vary greatly across fisheries, fish farms, and countries. 
+###Tools to achieve sustainable seafood vary greatly across fisheries, fish farms, and countries. 
 
 While there are common elements and goals to any sustainable fishery or aquaculture project (e.g. access regulations and the maintenance of biological productivity), standardized solutions to these complex problems will simply not work. Fishery and aquaculture improvement efforts that are creative and culturally relevant will be paramount to revitalize Chinese fisheries and ensure sustainable aquaculture.
 
-*Songlin Wang, who lives in Qingdao, China, is China Program Director for Ocean Outcomes, leading O2's sustainable fisheries and aquaculture initiatives in the region.* 
+** *Songlin Wang, who lives in Qingdao, China, is China Program Director for Ocean Outcomes, leading O2's sustainable fisheries and aquaculture initiatives in the region.* **
