@@ -1,6 +1,6 @@
 ---
 layout: news
-title:  West Kamchatka Salmon Fisheries Near MSC Sustainability Certification
+title:  West Kamchatka Salmon Fisheries Near MSC Sustainability Certification Draft Certification Report Available for Public Comment
 date: 2016-07-06
 teaser-text: Several West Kamchatka salmon fisheries moved one step closer to full Marine Stewardship Council (MSC) certification this week, as the independent scientific consultancy, MRAG Americas, released their draft certification report for public comment.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/west-kam-comment-period-hero.jpg
@@ -10,7 +10,7 @@ Several West Kamchatka salmon fisheries moved one step closer to full Marine Ste
 
 The Ocean Outcome team started working on the ground with these fisheries in West Kamchatka in 2008. We’ve seen fishermen in these areas do the hard work it takes to improve the fisheries, and we’re excited to see them enter this next step toward certification.
 
-As a result of extensive improvement efforts by Russian fishery companies, Vityaz-Avto Ltd. and Delta Ltd., the fisheries now meet all of the core sustainability requirements of the MSC. The assessment team recommended full MSC certification with seven conditions for continued improvement in fisheries management. Stakeholders have until August 5 th to provide public comment on the report, and we expect to see a final decision by MRAG and the MSC in September.
+The assessment team recommended full MSC certification with seven conditions for continued improvement in fisheries management. Stakeholders have until August 5 th to provide public comment on the report, and we expect to see a final decision by MRAG and the MSC in September.
 
 The certification report evaluates pink, chum, and coho salmon fisheries in the Russian peninsula of Kamchatka, home to some of the world’s most prolific wild salmon runs. The region’s fishermen produce the world’s second largest haul of wild salmon after Alaska, and fisheries studied in this assessment can bring in 28,000 MT of salmon in a season.
 
