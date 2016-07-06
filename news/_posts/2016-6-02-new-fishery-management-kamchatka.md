@@ -1,10 +1,10 @@
 ---
 layout: news
 title: Fishery Improvement Efforts Lead to New Management Strategies in Kamchatka
-date: 2016-06-2
+date: 2016-06-02
 teaser-text: 50% of Kamchatka's pink salmon harvest is now more sustainably managed, a huge win for fish and the seafood community.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/new-fishery-management-kamchatka-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ##Imagine you’re an owner of a restaurant trying to run a successful business, but you don’t know how much inventory you have, or when distributors will arrive to replenish your resources. 
 
