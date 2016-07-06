@@ -1,11 +1,11 @@
 ---
 layout: news
 title: Fishery Improvement Efforts Lead to New Management Strategies in Kamchatka
-date: 2016-06-2
+date: 2016-06-02
 teaser-text: 50% of Kamchatka's pink salmon harvest is now more sustainably managed, a huge win for fish and the seafood community.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/new-fishery-management-kamchatka-hero.jpg
 featured: FALSE
----------------
+---
 ##Imagine you’re an owner of a restaurant trying to run a successful business, but you don’t know how much inventory you have, or when distributors will arrive to replenish your resources. 
 
 Or imagine that you own a grocery store, but there isn’t any rhyme or reason to the times you’re allowed to have your store open. Or a factory, but your production fluctuates wildly from day to day. Now, imagine trying to manage a wild fishery under similar circumstance - with no understanding of how many fish should be allowed to survive and spawn and no idea how many fish have made it up river to do as much - sounds like quite a challenge, right?
