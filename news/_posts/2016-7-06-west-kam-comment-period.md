@@ -8,7 +8,7 @@ featured: TRUE
 ---
 Several West Kamchatka salmon fisheries moved one step closer to full Marine Stewardship Council (MSC) certification this week, as the independent scientific consultancy, MRAG Americas, released their draft certification report for public comment.
 
-The Ocean Outcome team started working on the ground with these fisheries in West Kamchatka in 2008. We’ve seen fishermen in these areas do the hard work it takes to improve the fisheries, and we’re excited to see them enter this next step toward certification.
+The Ocean Outcomes team started working on the ground with these fisheries in West Kamchatka in 2008. We’ve seen fishermen in these areas do the hard work it takes to improve the fisheries, and we’re excited to see them enter this next step toward certification.
 
 As a result of extensive improvement efforts by Russian fishery companies, Vityaz-Avto Ltd. and Delta Ltd., the fisheries now meet the core sustainability requirements of the MSC. The assessment team recommended full MSC certification with seven conditions for continued improvement in fisheries management. Stakeholders have until August 5th to provide public comment on the report, and we expect to see a final decision by MRAG and the MSC in September.
 
