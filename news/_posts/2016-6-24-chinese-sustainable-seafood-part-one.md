@@ -5,7 +5,7 @@ date: 2016-6-24
 teaser-text: In addition to accounting for 35% of the entire world’s seafood production, China as a country consumes more seafood than the next 10 countries combined.
 subtitle: China as a country consumes more seafood than the next 10 countries combined.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/opportunities-seafood-china-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Last summer China’s stock market plummeted more than 30%. 
 
