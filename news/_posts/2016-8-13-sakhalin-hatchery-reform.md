@@ -26,4 +26,4 @@ Scientists found that almost 20% of fish in the main rivers of Southeast Sakhali
 
 Fast forward to 2016. After eight years of work in the region, government hatcheries now mark an impressive 65% of all pink salmon and 61% of all chum salmon released into the wild. Moreover, Russian hatchery releases appear to have plateaued (the United States and Japan continue to release more hatchery fish into the ocean than Russia does). While just one piece of the puzzle, good hatchery practices are vital to ensuring sustainable fisheries. With better practices in place, we’re hopeful Sakhalin runs and commercial fisheries have started the long path to recovery.
 
-*A special thanks for writing and research contributions by Anna Klevtcova and Sophie Wilson*
+*A special thanks to Anna Klevtcova and Sophie Wilson fpr research and writing contributions*
