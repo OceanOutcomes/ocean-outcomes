@@ -37,9 +37,7 @@ Demand seafood, both fished and farmed, from sources which have minimal impact o
 -----
 ##Careers and volunteer opportunities
 
-**Current job openings:**
-
-> *Director, Policy Initiatives and Technical Services*
+> **Current job openings:** *Director, Policy Initiatives and Technical Services*
 
 > Lead O2’s global policy initiatives and technical services development to empower and scale O2’s fisheries improvement efforts, while also actively supporting our NGO, seafood industry, and government partners’ pursuit towards our aligned sustainable seafood missions. Sound interesting? [View full job description, requirements, and responsibilities] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/JobPosting-DirectorPolicyandTechServices.pdf).
 
