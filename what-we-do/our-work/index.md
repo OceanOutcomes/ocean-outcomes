@@ -7,11 +7,11 @@ weight: 1
 teaser-text: Our hands-on partnership approach helps fisheries achieve meaningful improvements and allows all stakeholders to reap the tangible benefits of sustainability.
 ---
 
-  <article class="map-section">
-    <div class="grid-container">
-      {% embed channel: map | id: mid=zb_2xWe6INUw.kI9hgFPQ9S_M %}
-    </div>
-  </article>
+<article class="map-section">
+  <div class="grid-container">
+    {% embed channel: map | id: mid=zb_2xWe6INUw.kI9hgFPQ9S_M %}
+  </div>
+</article>
   
 ##At Ocean Outcomes, we work hand in hand with commercial fisheries to help them become more sustainable.
 
