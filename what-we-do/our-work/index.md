@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Fishery Projects
-sub-title: More sustainable fisheries
+subtitle: More sustainable fisheries
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
 weight: 1
 teaser-text: Our hands-on partnership approach helps fisheries achieve meaningful improvements and allows all stakeholders to reap the tangible benefits of sustainability.
@@ -9,7 +9,7 @@ teaser-text: Our hands-on partnership approach helps fisheries achieve meaningfu
 
 <article class="map-section">
   <div class="grid-container">
-    {% embed channel: map | id: mid=zb_2xWe6INUw.kI9hgFPQ9S_M %}
+    {% embed channel: map | id: mid=1CW7En43JnOl827Td56uNIln8r1I %}
   </div>
 </article>
   
