@@ -51,12 +51,24 @@ of a news article. And now and image after this paragraph.
 ##Markdown notes
 * Use a pipe followed by a newline to get markdown working from variables. Variables always looks like ```key: value```. Some examples are what you see in the header of [a page](who-we-are/index.md) or entire data files like what you see in [featured-blocks.yml](_data/featured-blocks.yml).
 
-Example: 
+Example:
 ```
 title-text: This text does not support markdown
-teaser-text: | 
+teaser-text: |
 	Some text containing markdown
 ```
+
+##Steps for swapping the header image via Github Desktop
+
+* Go to the hero-bg.png file on [Github](https://github.com/thinkshout/ocean-outcomes/blob/master/assets/images/hero-bg.png)
+* Click on the little screen icon to the right of the “History” button - this will prompt you to Launch the Github Desktop application, and maybe even clone the project if it’s your first time doing this.
+* Github Desktop will automatically open your project in the Finder (if you are on a Mac).
+* Swap images here, being sure to name the new header image the same file name as the old one (`hero-bg.png`).
+* Click on the “Uncommitted Change” button at the top of Github Desktop, enter a commit message in the “Description” (towards the bottom left), and press “Commit to master”.
+* Press the “Sync” button on the top right of Github Desktop to sync the changes with the Master branch up on Github.
+* Once the change is on the Master branch, head back to the Github Desktop app, click on “Pull Request”, change the left option to “origin/live”, and click on “Send Pull Request”.
+* Hop back onto Github and merge the pull request from there, if all looks well. That should do the trick!
+
 
 # Getting started for Development
 To get up and running:
