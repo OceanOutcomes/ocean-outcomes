@@ -21,7 +21,7 @@ Fisheries in Kamchatka bring in 15% of the world’s wild salmon, second only to
 
 In contrast, fisheries now come together to hire and train their own, armed security guards to patrol the rivers and protect spawning salmon. Commercial fishermen have secured 20-year leases for fishing sites, providing a long-term incentive to properly monitor and manage a valuable resource. Fishing companies have also invested huge sums in state of the art processing and cold storage facilities, these value-added improvements have benefited local economies.
 
-####“The key is that commercial fishermen are leading these efforts,” says Caouette. “They are doing the hard work to meet sustainability requirements, and they’re seeing a return on their investment.”
+> “The key is that commercial fishermen are leading these efforts,” says Caouette. “They are doing the hard work to meet sustainability requirements, and they’re seeing a return on their investment.”
 
 A growing alignment of environmental and business interests has helped drive this change. Hundreds of grocery and food-service companies in North America and Europe – from Walmart to Whole Foods to IKEA – have made commitments to sell sustainable seafood and are looking for certified, sustainable products. Several companies, including Nestle, High Liner Foods, Gorton’s Seafood, Albion, and Fishin’ Co., have also invested in <a href="http://salmonfippartnership.org/" target="_blank">partnerships</a> with conservation groups and fisheries to increase the global supply of sustainable wild salmon.
 
