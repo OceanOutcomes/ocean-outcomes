@@ -1,7 +1,7 @@
 ---
 layout: news
 title:  Russian Fisheries Corner a Piece of the Growing Sustainable Seafood Market
-sub-title: Demand for sustainable seafood from North America and Europe drives environmental change on remote Kamchatka Peninsula
+subtitle: Demand for sustainable seafood from North America and Europe drives environmental change on remote Kamchatka Peninsula
 date: 2016-09-13
 teaser-text: Demand for sustainable seafood from North America and Europe drives environmental change on remote Kamchatka Peninsula.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/west-kam-certification-hero.jpg
@@ -17,7 +17,7 @@ Fisheries in Kamchatka bring in 15% of the world’s wild salmon, second only to
 
 ![Anti IUU Programs In Russia]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/anti-poaching-fence-teardown.jpg)
-*Anti-poaching brigades teardown chain fences put in place across rivers*
+*Anti-poaching brigades teardown chain fences put in place by poachers*
 
 In contrast, fisheries now come together to hire and train their own, armed security guards to patrol the rivers and protect spawning salmon. Commercial fishermen have secured 20-year leases for fishing sites, providing a long-term incentive to properly monitor and manage a valuable resource. Fishing companies have also invested huge sums in state of the art processing and cold storage facilities, these value-added improvements have benefited local economies.
 
@@ -31,7 +31,7 @@ With wild sustainable salmon selling for as much as $15/pound retail in Western 
 
 ![Russian MSC Certified Salmon]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/russian-salmon-msc-logo.jpg)
-*Russian salmon from fishing companies Vityaz-Avto and Delta*
+*Russian MSC certified salmon from fishing companies Vityaz-Avto and Delta*
 
 After several years of improvement efforts – including better enforcement of fishing regulations and the development of new systems to track and verify product from harvest to primary processor – these fisheries now meet all of the core sustainability principles of the MSC certification. Due in part to these efforts, Kamchatka’s salmon fisheries saw historic runs this year.
 
