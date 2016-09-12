@@ -23,11 +23,11 @@ In contrast, fisheries now come together to hire and train their own, armed secu
 
 ### “The key is that commercial fishermen are leading these efforts,” says Caouette. “They are doing the hard work to meet sustainability requirements, and they’re seeing a return on their investment.”
 
-A growing alignment of environmental and business interests has helped drive this change. Hundreds of grocery and food-service companies in North America and Europe – from Walmart to Whole Foods to IKEA – have made commitments to sell sustainable seafood and are looking for certified, sustainable products. Several companies, including Nestle, High Liner Foods, Gorton’s Seafood, Albion, and Fishin’ Co., have also invested in partnerships with conservation groups and fisheries to increase the global supply of sustainable wild salmon.
+A growing alignment of environmental and business interests has helped drive this change. Hundreds of grocery and food-service companies in North America and Europe – from Walmart to Whole Foods to IKEA – have made commitments to sell sustainable seafood and are looking for certified, sustainable products. Several companies, including Nestle, High Liner Foods, Gorton’s Seafood, Albion, and Fishin’ Co., have also invested in <a href="www.salmonfippartnership.org" target="_blank">partnerships</a> with conservation groups and fisheries to increase the global supply of sustainable wild salmon.
 
 "Sustainability is a growing worldwide phenomenon,” says Andrei Bokov, Chief Technologist for Vityaz-Avto and Delta. “More and more seafood companies are looking for new sources of sustainable seafood, and Russia can meet this demand.”
 
-With wild sustainable salmon selling for as much as $15/pound retail in Western grocery stores; the market for sustainable fish bringing in $11.5 billion in last year; and favorable exchange rates on the ruble, the potential profits for Russian fishing companies are high – and so are the environmental benefits.
+With wild sustainable salmon selling for as much as $15/pound retail in Western grocery stores; <a href="http://www.iisd.org/sites/default/files/publications/ssi-blue-economy-2016.pdf" target="_blank">the market for sustainable fish</a> bringing in $11.5 billion in last year; and favorable exchange rates on the ruble, the potential profits for Russian fishing companies are high – and so are the environmental benefits.
 
 ![Russian MSC Certified Salmon]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/russian-salmon-msc-logo.jpg)
