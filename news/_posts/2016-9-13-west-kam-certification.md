@@ -38,6 +38,7 @@ After several years of improvement efforts – including better enforcement of f
 However, these fisheries are not perfect. The MSC certification identified six conditions that the fisheries must address within five years to keep the new eco-label. These include improving methods to track the number of salmon that return to spawn each year and continued monitoring, controls on fishing, and surveillance activities.
 
 > **“This is a story of creating change in difficult places, not instant success,” says Caouette. “The global fishery crisis took decades to develop, and we’re not going to solve everything overnight. It takes persistence – you have to roll up your sleeves and get in the trenches with people. It’s not always pretty, but real progress is possible – it’s happening.”**
+
 _____
 
 Additional resources:
