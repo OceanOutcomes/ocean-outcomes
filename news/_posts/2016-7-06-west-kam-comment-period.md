@@ -4,7 +4,7 @@ title:  West Kamchatka Salmon Fisheries Near MSC Sustainability Certification
 date: 2016-07-06
 teaser-text: Several West Kamchatka salmon fisheries moved one step closer to full Marine Stewardship Council (MSC) certification this week, as the independent scientific consultancy, MRAG Americas, released their draft certification report for public comment.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/west-kam-comment-period-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 Several West Kamchatka salmon fisheries moved one step closer to full Marine Stewardship Council (MSC) certification this week, as the independent scientific consultancy, MRAG Americas, released their draft certification report for public comment.
 
