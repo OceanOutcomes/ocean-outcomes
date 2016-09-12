@@ -42,7 +42,7 @@ _____
 
 Additional resources:
 
-<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/O2LaunchPressReleaseFeb2015.pdf" target="_blank">View a PDF version of this story</a> 
+<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/WesternKamchatkaCertificationAnnouncementPressReleaseSeptember2016.pdf" target="_blank">View a PDF version of this story</a> 
 
 <a href="https://drive.google.com/drive/folders/0B4Gx7d8EWmmJTExvQnpwYkxYbjQ" target="_blank">View media photos</a> 
 
