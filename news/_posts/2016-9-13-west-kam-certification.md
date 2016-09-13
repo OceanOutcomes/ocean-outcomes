@@ -19,7 +19,7 @@ Fisheries in Kamchatka bring in 15% of the world’s wild salmon, second only to
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/anti-poaching-fence-teardown.jpg)
 *Anti-poaching brigades teardown chain fences put in place by poachers*
 
-In contrast, fisheries now come together to hire and train their own, armed security guards to patrol the rivers and protect spawning salmon. Commercial fishermen have secured 20-year leases for fishing sites, providing a long-term incentive to properly monitor and manage a valuable resource. Fishing companies have also invested huge sums in state of the art processing and cold storage facilities, these value-added improvements have benefited local economies.
+In contrast, fisheries now come together to hire and train their own security guards to patrol the rivers and protect spawning salmon. Commercial fishermen have secured 20-year leases for fishing sites, providing a long-term incentive to properly monitor and manage a valuable resource. Fishing companies have also invested huge sums in state of the art processing and cold storage facilities, these value-added improvements have benefited local economies.
 
 > **“The key is that commercial fishermen are leading these efforts,” says Caouette. “They are doing the hard work to meet sustainability requirements, and they’re seeing a return on their investment.”**
 
