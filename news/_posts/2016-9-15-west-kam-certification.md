@@ -2,7 +2,7 @@
 layout: news
 title:  Russian Fisheries Corner a Piece of the Growing Sustainable Seafood Market
 subtitle: Demand for sustainable seafood from North America and Europe drives environmental change on remote Kamchatka Peninsula
-date: 2016-09-13
+date: 2016-09-15
 teaser-text: Demand for sustainable seafood from North America and Europe drives environmental change on remote Kamchatka Peninsula.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/west-kam-certification-hero.jpg
 featured: TRUE
