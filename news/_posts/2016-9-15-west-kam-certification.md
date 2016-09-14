@@ -1,6 +1,6 @@
 ---
 layout: news
-title:  Russian Fisheries Corner a Piece of the Growing Sustainable Seafood Market
+title:  Russian Fisheries Look to Corner a Piece of the Growing Sustainable Seafood Market
 subtitle: Demand for sustainable seafood from North America and Europe drives environmental change on remote Kamchatka Peninsula
 date: 2016-09-15
 teaser-text: Demand for sustainable seafood from North America and Europe drives environmental change on remote Kamchatka Peninsula.
@@ -19,7 +19,9 @@ Fisheries in Kamchatka bring in 15% of the world’s wild salmon, second only to
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/anti-poaching-fence-teardown.jpg)
 *Anti-poaching brigades teardown chain fences put in place by poachers*
 
-In contrast, fisheries now come together to hire and train their own security guards to patrol the rivers and protect spawning salmon. Commercial fishermen have secured 20-year leases for fishing sites, providing a long-term incentive to properly monitor and manage the fish and habitat in the region. Fishing companies have invested thousands in state of the art processing and cold storage facilities and these value-added improvements have benefited local economies.
+In contrast, fisheries now come together to hire and train their own security guards to patrol the rivers and protect spawning salmon. Commercial fishermen have secured 20-year leases for fishing sites, providing a long-term incentive to properly monitor and manage the fish and habitat in the region. Fishing companies have invested millions in state of the art processing and cold storage facilities and these value-added improvements have benefited local economies.
+
+Since 2008, four Russian salmon fisheries and Sea of Okhotsk pollock have received MSC certification and both Russian crab and cod have entered into formal fishery improvement projects with the goal of becoming more sustainable.
 
 > **“The key is that commercial fishermen are leading these efforts,” says Caouette. “They are doing the hard work to meet sustainability requirements, and they’re seeing a return on their investment.”**
 
