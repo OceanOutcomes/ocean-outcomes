@@ -4,7 +4,7 @@ title:  Hatchery Best Practices Finding Traction in Russia
 date: 2016-08-13
 teaser-text: Accounting for 40% of global wild salmon production, the Russian Far East is home to some of the most prolific salmon runs on the planet. While salmon runs and fisheries are flourishing on the Kamchatka Peninsula, sadly the same cannot be said for Sakhalin Island.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/russia-salmon-hatchery-success-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ##Accounting for 40% of global wild salmon production, the Russian Far East is home to some of the most prolific salmon runs on the planet. 
 
