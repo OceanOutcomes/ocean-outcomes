@@ -37,10 +37,4 @@ Demand seafood, both fished and farmed, from sources which have minimal impact o
 -----
 ##Careers and volunteer opportunities
 
-> **Current job openings:**
-
-> *Board of Directors Liaison (ex-officio Secretary)*
-
-> Reporting directly to the Executive Director (ED), the Board Liaison serves as a liaison to the board of directors and senior management team; and oversees special projects as needed. The position will serve as ex-officio (non-voting) Secretary on the Board of Directors. Sound interesting? [View full job description, requirements, and responsibilities] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/JobPosting-Board-Liaison.pdf).
-
-Not your cup of tea? We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share.
+While there are no positions currently available, we’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share.
