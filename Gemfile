@@ -12,6 +12,7 @@ gem "i18n"
 gem "s3_website", "~> 2.8.3"
 gem "rake", "~> 10"
 gem 'html-proofer'
+gem "jekyll-email-protect", "~> 1.0.3"
 
 group :jekyll_plugins do
   gem "jekyll-i18n"

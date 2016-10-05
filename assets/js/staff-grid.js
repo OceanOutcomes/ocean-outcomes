@@ -343,9 +343,10 @@ var Grid = function(gridElem) {
 		create : function() {
 			// create Preview structure:
 			this.$title = $( '<h3></h3>' );
-      this.$position = $('<p class="position"></p>');
+			this.$position = $('<p class="position"></p>');
+			this.$email = $( '<a class="email" href="mailto:">Email</a>' );
 			this.$description = $( '<p></p>' );
-			this.$details = $( '<div class="og-details"></div>' ).append( this.$title, this.$position, this.$description );
+			this.$details = $( '<div class="og-details"></div>' ).append( this.$title, this.$position, this.$email, this.$description );
 			this.$loading = $( '<div class="og-loading"></div>' );
 			this.$fullimage = $( '<div class="og-fullimg"></div>' ).append( this.$loading );
 			this.$closePreview = $( '<span class="og-close"></span>' );
@@ -381,13 +382,15 @@ var Grid = function(gridElem) {
 				eldata = {
 					largesrc : $itemEl.data( 'largesrc' ),
 					title : $itemEl.data( 'title' ),
-          position: $itemEl.data( 'position' ),
+					position: $itemEl.data( 'position' ),
+					email : $itemEl.data( 'email' ),
 					description : $itemEl.data( 'description' )
 				};
 
 			this.$title.html( eldata.title );
+			this.$position.html( eldata.position );
+			this.$email.attr( 'href', function() { return $(this).attr("href") + eldata.email } );
 			this.$description.html( eldata.description );
-      this.$position.html( eldata.position );
 
 			var self = this;
 

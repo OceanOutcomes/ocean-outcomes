@@ -1645,6 +1645,27 @@ body {
   border-color: #999;
   color: #999; }
 
+.og-details a.email {
+  border: 2px solid #333;
+  color: #333;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin: 0px 0 15px;
+  outline: none;
+  padding: 4px 10px;
+  text-transform: uppercase; }
+
+.og-details a.email::before {
+  content: '\2192';
+  display: inline-block;
+  margin-right: 10px; }
+
+.og-details a.email:hover {
+  border-color: #999;
+  color: #999; }
+
 .og-loading {
   width: 20px;
   height: 20px;
