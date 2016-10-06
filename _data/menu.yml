@@ -54,6 +54,8 @@ jp:
     url: "hokkaido-success/"
   - title: "成功事例ー北東サハリン"
     url: "ne-sakhalin-success/"
+  - title: "ニュース"
+    url: "news/"
   - title: "お問い合わせ"
     url: "contact/"
 
