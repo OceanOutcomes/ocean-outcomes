@@ -512,10 +512,10 @@ body {
   background: url(../images/initiatives-header-bg.jpg) center center no-repeat;
   background-size: cover; }
 
-.content-header.japanese-content {
+.content-header.jp {
   background: url(../images/japanese-header.jpg) center center no-repeat;
   background-size: cover; }
-  .content-header.japanese-content::after {
+  .content-header.jp::after {
     content: '';
     background: rgba(43, 58, 70, 0.8);
     display: block;

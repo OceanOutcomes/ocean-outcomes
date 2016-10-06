@@ -5,6 +5,7 @@ title:  成功事例ー北海道
 subtitle: 世界最大のシロサケ漁業を再展望する
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/hokkaidosuccesshero.jpg
 teaser-text:
+permalink: /hokkaido-success/
 ---
 ##地球上で最大規模のサケの遡上が北日本で見られることは、あまり知られていません。
 

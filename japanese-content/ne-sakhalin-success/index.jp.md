@@ -4,6 +4,7 @@ weight: 4
 title: 成功事例ー北東サハリン
 subtitle: 極東ロシアにおける密漁撲滅に向けて
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/nesakhalinsuccesshero.jpg
+permalink: /ne-sakhalin-success/
 ---
 ##北東サハリン島カラフトマス漁業　～ロシアにおける持続可能な漁業の推進に向けた戦い～
 
