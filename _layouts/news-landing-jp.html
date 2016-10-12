@@ -1,0 +1,43 @@
+---
+layout: default 
+bodyclass: news
+---
+
+{% include content-header.html %}
+
+{% assign sorted_posts = site.tags.jp | reversed %}
+<section class="newest">
+  <div class="grid-container">
+    <h1>最新ストーリー</h1>
+    <div class="posts">
+      {% for post in sorted_posts limit:2 %}
+        <div class="post">
+          <a href="{{ post.url }}"><img src="{{ post.hero-image }}" alt="{{post.title}}"></a>
+          <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title }}
+            </a>
+          </h2>
+          <p class="post-teaser-text">{{ post.teaser-text }}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<section class="all-news">
+  {% for post in sorted_posts offset:2 %}
+    <div class="post">
+      <div class="grid-container">
+        <a href="{{ post.url }}"><img src="{{ post.hero-image }}" alt="{{post.title}}"></a>
+        <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <h2>
+          <a class="post-link" href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h2>
+        <p class="post-teaser-text">{{ post.teaser-text }}</p>
+      </div>
+    </div>
+  {% endfor %}
+</section>

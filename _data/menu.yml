@@ -47,13 +47,15 @@ ru:
 
 jp:
   - title: "取り組み内容"
-    url: "japanese-content/what-we-do/"
+    url: "what-we-do/"
   - title: "漁業改善プロジェクト（FIP）"
-    url: "japanese-content/what-is-a-fip/"
+    url: "what-is-a-fip/"
   - title: "成功事例ー北海道"
-    url: "japanese-content/hokkaido-success/"
+    url: "hokkaido-success/"
   - title: "成功事例ー北東サハリン"
-    url: "japanese-content/ne-sakhalin-success/"
+    url: "ne-sakhalin-success/"
+  - title: "ニュース"
+    url: "news/"
   - title: "お問い合わせ"
     url: "contact/"
 
