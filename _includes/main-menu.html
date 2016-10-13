@@ -7,7 +7,7 @@
   {% if node.title != '404 Not Found' %}
     {% capture primary %}{{primary | append: node_url | append: '|' | append: node.title | append: ','}}{% endcapture %}
   {% endif %}
-  {% elsif node_depth == 3 node.lang == page.lang %}
+  {% elsif node_depth == 3 and node.lang == page.lang %}
     {% capture secondary %}{{secondary | append: node_url | append: '|' | append: node.title | append: ','}}{% endcapture %}
   {% endif %}
 {% endfor %}
@@ -27,12 +27,7 @@
     {% endif %}
 
     <li class="{{ class }}">
-      {% case page.lang %}
-      {% when 'ru' or 'jp' or 'zh' %}
-        <a href="">{{parent-info[1]}}</a>
-      {% else %}
       <a href="{{parent-info[0]}}">{{parent-info[1]}}</a>
-      {% endcase %}
       {% if has_children %}
       <ul>
         {% for child in secondary %}

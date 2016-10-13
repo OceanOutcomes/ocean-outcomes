@@ -1,3 +1,19 @@
+{% assign primary = '' %}
+{% assign secondary = '' %}
+{% assign sorted_pages = site.pages | sort: 'weight' %}
+{% for node in sorted_pages %}
+  {% include node_depth.html %}
+  {% if node_depth == 3 and node.lang == page.lang %}
+  {% if node.title != '404 Not Found' %}
+    {% capture primary %}{{primary | append: node_url | append: '|' | append: node.title | append: ','}}{% endcapture %}
+  {% endif %}
+  {% elsif node_depth == 4 and node.lang == page.lang %}
+    {% capture secondary %}{{secondary | append: node_url | append: '|' | append: node.title | append: ','}}{% endcapture %}
+  {% endif %}
+{% endfor %}
+
+{% assign primary = primary | split: ',' %}
+{% assign secondary = secondary | split: ',' %}
 <ul class="main-menu">
   <li class="top-level">
     {% case page.lang %}
@@ -9,49 +25,28 @@
     <a href="/ru/">Главная страница</a>
     {% endcase %}
   </li>
-  {% for item in site.data.menu[page.lang] %}
-    {% if item.type != 'small' %}
-    <li class="top-level">
-      {% case page.lang %}
-      {% when 'jp' %}
-        {% if item.external == 'true' %}
-        <a href="{{item.url}}">{{item.title}}</a>
-        {% else %}
-        <a href="/jp/{{item.url}}">{{item.title}}</a>
-        {% endif %}
-      {% when 'zh' %}
-        {% if item.external == 'true' %}
-        <a href="{{item.url}}">{{item.title}}</a>
-        {% else %}
-        <a href="/zh/{{item.url}}">{{item.title}}</a>
-        {% endif %}
-      {% when 'ru' %}
-        {% if item.external == 'true' %}
-        <a href="{{item.url}}">{{item.title}}</a>
-        {% else %}
-        <a href="/ru/{{item.url}}">{{item.title}}</a>
-        {% endif %}
-      {% endcase %}
-      {% if item.children %}
+  {% for parent in primary %}
+    {% assign parent-info = parent | split: '|' %}
+    {% include has_children.html %}
+
+    {% if has_children %}
+      {% assign class = "top-level" %}
+    {% else %}
+      {% assign class = "top-level small" %}
+    {% endif %}
+
+    <li class="{{ class }}">
+      <a href="{{parent-info[0]}}">{{parent-info[1]}}</a>
+      {% if has_children %}
       <ul>
-        {% for child in item.children %}
-          {% case page.lang %}
-          {% when 'jp' %}
-          <li><a href="/jp/{{child.url}}">{{child.title}}</a></li>
-          {% when 'zh' %}
-          <li><a href="/zh/{{child.url}}">{{child.title}}</a></li>
-          {% when 'ru' %}
-          <li><a href="/ru/{{child.url}}">{{child.title}}</a></li>
-          {% endcase %}
+        {% for child in secondary %}
+          {% assign child-info = child | split: '|' %}
+          {% if child-info[0] contains parent-info[0] %}
+            <li><a href="{{child-info[0]}}">{{child-info[1]}}</a></li>
+          {% endif %}
         {% endfor %}
       </ul>
       {% endif %}
     </li>
-    {% endif %}
-  {% endfor %}
-  {% for item in site.data.menu[page.lang] %}
-    {% if item.type == 'small' %}
-      <li class="top-level small"><a href="{{item.link}}">{{item.title}}</a></li>
-    {% endif %}
   {% endfor %}
 </ul>

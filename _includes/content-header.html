@@ -1,10 +1,16 @@
 {% include parent_url.html %}
+{% case page.lang %}
+  {% when 'ru' or 'jp' or 'zh' %}
+    {% assign header_target_depth = 2 %}
+  {% else %}
+    {% assign header_target_depth = 1 %}
+  {% endcase %}
 
-<header class="content-header {{parent_url | replace: "/", " "}} {{page.title | replace: " ", "-" | downcase}}">
+<header class="content-header {{parent_url | replace: '/', ' '}} {{page.title | replace: ' ', '-' | downcase}}">
   <section class="title">
     {% for node in site.pages %}
       {% include node_depth.html %}
-      {% if node_url == parent_url and node_depth > 1 and page_url != parent_url %}
+      {% if node_url == parent_url and node_depth > header_target_depth %}
       <p class="section-title"><a href="{{parent_url | replace: '//', '/'}}"><span>{{ node.title }}</span></a></p>
       {% endif %}
     {% endfor %}
