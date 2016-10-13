@@ -9,10 +9,6 @@
 
   ul {
     border-bottom: em(1) solid $light-gray;
-
-    @include media($medium-screen) {
-      padding: 0.75em 0.75em 0.7em;
-    }
   }
 
   ul li {
@@ -26,28 +22,27 @@
 
   ul li a {
     color: $black;
-    padding: 1em;
+    padding: 0.7em 1em;
     text-transform: uppercase;
     display: block;
 
     @include media($medium-screen) {
-      display: initial;
+      display: inline-block;
     }
 
     &:hover,
     &.active {
       color: $white;
-      background: $aqua; 
-      
+      background: $aqua;
       @include media($medium-screen) {
         &.active:after {
           content: "";
           position: absolute;
-          bottom: -1.1em;
+          bottom: -0.5em;
           left: calc(50% - 5px);
           display: block;
-          width: 0; 
-          height: 0; 
+          width: 0;
+          height: 0;
           border-left: 10px solid transparent;
           border-right: 10px solid transparent;
           border-top: 10px solid $aqua;

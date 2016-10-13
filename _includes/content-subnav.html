@@ -7,7 +7,7 @@
     {% assign sorted_pages = site.pages | sort: 'weight' %}
     {% for node in sorted_pages %}
       {% include node_depth.html %}
-      {% if node.url contains parent_url and page_depth == node_depth %}
+      {% if node.url contains parent_url and page_depth == node_depth and page_url != parent_url%}
         {% assign node_url = node.url | remove: 'index.html' %}
         {% if node_url == page_url %}
           <li><a class="active" href="{{node_url | replace: '//', '/'}}">{{node.title}}</a></li>

@@ -32,6 +32,14 @@ jp:
   ## News section
   news-section-heading: "ニュース＆分析"
   news-section-link-text: "すべてのニュース＆分析を参照してください。"
+  news-base-url: "/jp/news/"
+  news-back: "戻るニュース＆分析へ"
+  news-published: "公開"
+  news-like: "あなたが読んでいるものを、気に入りましたか？"
+  news-notified: "新しい投稿の通知を受け取ります"
+  news-more: "その他のニュース＆分析"
+  news-previous: "前の記事"
+  news-next: "次の記事"
 
   ##########################
   # Header & Footer translatables

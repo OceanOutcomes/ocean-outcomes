@@ -33,6 +33,14 @@ ru:
   ## News section
   news-section-heading: "News & Analysis"
   news-section-link-text: "See All News & Analysis"
+  news-base-url: "/ru/news/"
+  news-back: "Back to News &amp; Analysis"
+  news-published: "Published"
+  news-like: "Like what you are reading?"
+  news-notified: "Get notified of new posts"
+  news-more: "More News &amp; Analysis"
+  news-previous: "Previous Article"
+  news-next: "Next Article"
 
   ##########################
   # Header & Footer translatables

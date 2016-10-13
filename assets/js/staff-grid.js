@@ -389,7 +389,11 @@ var Grid = function(gridElem) {
 
 			this.$title.html( eldata.title );
 			this.$position.html( eldata.position );
-			this.$email.attr( 'href', function() { return $(this).attr("href") + eldata.email } );
+			if (!eldata.email) {
+				this.$email.remove();
+				} else {
+				this.$email.attr( 'href', function() { return $(this).attr("href") + eldata.email } );
+			}
 			this.$description.html( eldata.description );
 
 			var self = this;
