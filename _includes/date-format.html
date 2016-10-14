@@ -1,9 +1,13 @@
 {% if page.lang == 'ru' %}
   {% assign date-format = "%d.%m.%Y" %}
+  {% assign date-format-long = "%d.%m.%Y" %}
 {% elsif page.lang == 'jp' %}
   {% assign date-format = "%Y年%m月%d日" %}
+  {% assign date-format-long = "%Y年%m月%d日" %}
 {% elsif page.lang == 'zh' %}
   {% assign date-format = "%y年%-m月%-d日" %}
+  {% assign date-format-long = "%y年%-m月%-d日" %}
 {% else %}
   {% assign date-format = "%b %-d, %Y" %}
+  {% assign date-format-long = "%B %-d, %Y" %}
 {% endif %}

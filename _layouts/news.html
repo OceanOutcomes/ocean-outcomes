@@ -10,7 +10,7 @@ bodyclass: news
   <section class="meta">
     <p class="meta-data">
     <a href="{%t news-base-url %}"> &laquo {%t news-back %}</a> | {%t news-published %}
-      {{ page.date | date: date-format }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+      {{ page.date | date: date-format-long }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
     </p>
   </section>
   <article class="post-content">
