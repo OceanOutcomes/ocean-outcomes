@@ -3,7 +3,7 @@ layout: default
 bodyclass: content-page
 ---
 <div class="content-page-content {{page.title | downcase | replace: ' ', '-' }}">
-  
+
   {% include content-header.html %}
   {% include content-subnav.html %}
 
@@ -12,7 +12,7 @@ bodyclass: content-page
       {% if page.hero-image %}
       <img src="{{page.hero-image}}" alt="page.title" />
       {% endif %}
-      {{content}} 
+      {{content}}
     </div>
   </article>
 </div>

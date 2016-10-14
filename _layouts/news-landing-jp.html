@@ -6,10 +6,10 @@ bodyclass: news
 {% include content-header.html %}
 {% include date-format.html %}
 
-{% assign sorted_posts = site.tags.und | reversed %}
+{% assign sorted_posts = site.tags.jp | reversed %}
 <section class="newest">
   <div class="grid-container">
-    <h1>Newest Stories</h1>
+    <h1>最新ストーリー</h1>
     <div class="posts">
       {% for post in sorted_posts limit:2 %}
         <div class="post">

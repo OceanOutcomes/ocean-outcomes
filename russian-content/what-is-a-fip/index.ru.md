@@ -6,6 +6,7 @@ subtitle: ФИП - проект с участием нескольких заи�
 landing-image: 
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/serviceshero.jpg
 teaser-text:
+permalink: /what-is-a-fip/
 ---
 ##Заинтересованные стороны ФИП
 

@@ -5,11 +5,12 @@ bodyclass: news
 <div class="post">
 
   {% include content-header.html %}
+  {% include date-format.html %}
 
   <section class="meta">
     <p class="meta-data">
-    <a href="/news/"> &laquo Back to News &amp; Analysis</a> | Published
-      {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+    <a href="{%t news-base-url %}"> &laquo {%t news-back %}</a> | {%t news-published %}
+      {{ page.date | date: date-format-long }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
     </p>
   </section>
   <article class="post-content">
@@ -29,20 +30,20 @@ bodyclass: news
       {{ content }}
       <div class="newsletter-block">
         <hr class="short">
-        <p>Like what you are reading?</p>
-        <a class="newsletter-toggle" href="#newsletter-form">Get notified of new posts</a>
+        <p>{%t news-like %}</p>
+        <a class="newsletter-toggle" href="#newsletter-form">{%t news-notified %}</a>
       </div>
     </section>
   </article>
 
   <section class="prev-next">
-    <h1><span>More News &amp; Analysis</span></h1>
+    <h1><span>{%t news-more %}</span></h1>
     <div class="nav-buttons">
       <div class="left-container">
         {% if page.previous %}
         <a href="{{ page.previous.url }}" class="prev">
           <span class="link-text">
-            <i class="fa fa-chevron-left"></i> Previous Article
+            <i class="fa fa-chevron-left"></i> {%t news-previous %}
           </span>
           <span class="post-title">{{ page.previous.title }}</span>
         </a>
@@ -51,8 +52,7 @@ bodyclass: news
       <div class="right-container">
         {% if page.next %}
         <a href="{{ page.next.url }}" class="next">
-          <span class="link-text">
-            Next Article <i class="fa fa-chevron-right"></i>
+          <span class="link-text"> {%t news-next %} <i class="fa fa-chevron-right"></i>
           </span>
           <span class="post-title">{{ page.next.title }}</span>
         </a>

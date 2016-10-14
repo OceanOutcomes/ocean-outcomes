@@ -19,7 +19,7 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'config.rb', 'asse
 relative_permalinks: false
 
 # Plugin config
-gems: [jekyll-i18n]
+gems: [jekyll-i18n, jekyll-email-protect]
 
 # Assets config
 sass:

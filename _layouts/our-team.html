@@ -21,7 +21,7 @@ bodyclass: content-page
           <li>
              <a href="/"
                data-largesrc="{{person.image}}"
-               data-title="{{person.name}}" data-description="{{person.bio | markdownify}}"
+               data-title="{{person.name}}" data-email="{{person.email | encode_email}}" data-description="{{person.bio | markdownify}}"
                data-position="{{person.title}}">
               <img src="{{person.image}}" alt="staff image"/>
               <span class="initial-details">

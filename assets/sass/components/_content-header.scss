@@ -97,7 +97,7 @@
   background-size: cover;
 }
 
-.content-header.japanese-content {
+.content-header.jp {
   background: url(../images/japanese-header.jpg) center center no-repeat;
   background-size: cover;
   &::after {
@@ -109,7 +109,7 @@
   }
 }
 
-.content-header.russian-content {
+.content-header.ru {
   background: url(../images/russian-header.jpg) center center no-repeat;
   background-size: cover;
   &::after {

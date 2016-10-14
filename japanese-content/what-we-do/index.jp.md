@@ -6,6 +6,7 @@ subtitle: 「日本の漁業には長い歴史があります。この歴史は�
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanese-what-we-do.jpg
 teaser-text:
+permalink: /what-we-do/
 ---
 ##O2は漁業者や地域コミュニティと協力し、持続可能な漁業にむけてサポートします。  
 

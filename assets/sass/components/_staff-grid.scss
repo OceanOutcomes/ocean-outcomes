@@ -11,7 +11,7 @@
 	margin: 10px 5px 1em 5px;
 	vertical-align: top;
 	height: 266px;
-        width: 266px;
+		width: 266px;
 
 }
 
@@ -33,14 +33,14 @@
   bottom: 0;
   span { display: block; }
   span.og-name {
-    font-size: 18px;
-    font-weight: bold;
-    font-family: $serif;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: $serif;
   }
   span.og-title {
-    font-size: 12px;
-    text-transform: uppercase;
-    line-height: 1.5;
+	font-size: 12px;
+	text-transform: uppercase;
+	line-height: 1.5;
   }
 }
 
@@ -120,9 +120,9 @@
 .og-details {
 	padding: 0;
 
-        @include media($medium-screen) {
+		@include media($medium-screen) {
 	  padding: 0 40px 0 20px;
-        }
+		}
 }
 
 .og-fullimg {
@@ -133,7 +133,7 @@
 	display: inline-block;
 	max-height: 100%;
 	max-width: 70%;
-        height: 100;
+		height: 100;
 
 }
 
@@ -141,8 +141,8 @@
 	font-weight: 300;
 	font-size: 36px;
 	padding: 0px 0 10px;
-        margin: 0;
-        color: $white;
+		margin: 0;
+		color: $white;
 }
 
 .og-details p.position {
@@ -181,6 +181,29 @@
 	color: #999;
 }
 
+.og-details a.email {
+	border: 2px solid #FFF;
+	color: #FFF;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	margin: 0px 0 15px;
+	outline: none;
+	padding: 4px 10px;
+	text-transform: uppercase;
+}
+
+.og-details a.email::before {
+	content: '\2192';
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.og-details a.email:hover {
+	border-color: #999;
+	color: #999;
+}
 .og-loading {
 	width: 20px;
 	height: 20px;

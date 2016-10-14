@@ -6,6 +6,7 @@ subtitle: Партнерство по проектам по усовершенс
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/russian-salmon-fip-partnership-hero.jpg
 teaser-text:
+permalink: /salmon-fip-partnership/
 ---
 Основанное на рыбной отрасли Партнерство по проектам по усовершенствованию управления лососевыми промыслами (Salmon FIP Partnership) - это совместная инициатива, начало которой было положено в 2013 году, технического консультанта Ocean Outcomes (О2) и ведущих компаний по переработке рыбы и морепродуктов, включая <a href="http://www.highlinerfoods.com/en/home/default.aspx" target="_blank">Хай Лайнер Фудс</a> (High Liner Foods), Гортонс (Gorton’s), Албион (Albion Fisheries), Нестле (Nestlé) и Фишинг Ко (The Fishin’ Company), а также  производителей лососевой продукции по всей территории Азиатско-тихоокеанского региона.
 
