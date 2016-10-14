@@ -1,6 +1,6 @@
 ---
 layout: contact 
-title: Контакты
+title: Как с нами связаться
 weight: 6
 bodyclass: contact
 address:

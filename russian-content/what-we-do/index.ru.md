@@ -6,6 +6,7 @@ subtitle: “С командой О2 мы уже работаем больше �
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/partnershiphero.jpg
 teaser-text:
+permalink: /what-we-do/
 ---
 ##В Ocean Outcomes мы работаем совместно с промысловыми компаниями, помогая им организовать устойчивый промысел. 
 

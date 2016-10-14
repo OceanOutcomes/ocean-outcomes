@@ -1,6 +1,6 @@
 ---
 layout: contact 
-title: 联络
+title: 联系我们
 weight: 6
 bodyclass: contact
 address:

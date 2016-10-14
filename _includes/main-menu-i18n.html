@@ -32,7 +32,7 @@
     {% if has_children %}
       {% assign class = "top-level" %}
     {% else %}
-      {% assign class = "top-level small" %}
+      {% assign class = "top-level" %}
     {% endif %}
 
     <li class="{{ class }}">
@@ -48,5 +48,9 @@
       </ul>
       {% endif %}
     </li>
+  {% endfor %}
+
+  {% for item in site.data.menu[page.lang] %}
+    <li class="top-level small"><a href="{{item.url}}">{{item.title}}</a></li>
   {% endfor %}
 </ul>
