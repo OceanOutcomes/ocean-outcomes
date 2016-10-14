@@ -522,10 +522,10 @@ body {
     height: 100%;
     width: 100%; }
 
-.content-header.russian-content {
+.content-header.ru {
   background: url(../images/russian-header.jpg) center center no-repeat;
   background-size: cover; }
-  .content-header.russian-content::after {
+  .content-header.ru::after {
     content: '';
     background: rgba(43, 58, 70, 0.8);
     display: block;
