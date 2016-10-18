@@ -1,49 +1,50 @@
 ---
 layout: news
-title:  Russian Fisheries Look to Corner a Piece of the Growing Sustainable Seafood Market
-subtitle: Demand for sustainable seafood from North America and Europe drives environmental change on remote Kamchatka Peninsula
+title:  新たなエコ認証で成長する持続可能な水産物市場確保を視野に入れるロシア漁業
+subtitle: 北米や欧州の持続可能な水産物に対する需要により、辺境のカムチャッカ半島に環境的な変化
 date: 2016-09-15
-teaser-text: Demand for sustainable seafood from North America and Europe drives environmental change on remote Kamchatka Peninsula.
+teaser-text: 北米や欧州の持続可能な水産物に対する需要により、辺境のカムチャッカ半島に環境的な変化.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/west-kam-certification-hero.jpg
 featured: TRUE
 ---
-**Petropavlovsk-Kamchatsky, Russian Federation** -- The Marine Stewardship Council (MSC) announced this week that three wild salmon fisheries in the Russian Far East (RFE) will be awarded MSC certification, the highest bar eco-label for fish. The certification comes as a result of extensive improvements in fishing practices led by Russian fishing companies, Vityaz-Avto Ltd. and Delta Ltd. It marks the first time that Kamchatka fisheries have sought MSC certification for salmon species typically sold in commodity markets and the certification will add as much as 28,000 metric tons of pink, chum, and coho salmon to the sustainable seafood supply.
+**2016年9月15日、ペトロパブロフスク・カムチャツキー、ロシア連邦** ― 海洋管理協議会(MSC)は今週、ロシア極東地域(RFE)の3つの野生サケ漁業が魚に関する最高峰のエコラベルであるMSC認証を取得したと発表しました。今回の認証は、ロシアの漁業会社Vityaz-Avto Ltd.およびDelta Ltdを中心に漁業慣行を大幅に改善した結果であり、カムチャッカ半島の漁業が、通常一次産品市場で販売されるサケ種を対象にしたMSC認証取得を目指した最初の事例です。また、これにより持続可能な水産物市場へ新たに28,000メートルトンものカラフトマス、シロザケおよびギンザケが加わることになります。
 
-> **“The demand for sustainable seafood has reached even the most remote corners of Russia. Improvements in these fisheries demonstrate the impact that environmentally-savvy shoppers and forward-looking companies are having on global fishing practices,” says O2's Brian Caouette.** 
+> **カムチャッカで漁業改善に取り組むオーシャン・アウトカムズのブライアン・カウエット氏は次のように述べています。「持続可能な水産物の需要はロシアの最も辺境の地域まで広がっています。今回カムチャッカの漁業が改善に取り組んだことは、環境に敏感な消費者や時代を先取りした企業が世界の漁業慣行に与えている影響の大きさを示しています。」** 
 
-Fisheries in Kamchatka bring in 15% of the world’s wild salmon, second only to Alaska, and fish from the region are exported to the U.S., Europe, and Asia. However, unlike their Alaskan counterparts, Russian fisheries have not always been known for sustainable fishing.
+カムチャッカの漁業は世界の野生サケの15％を供給しており、アラスカに次ぐ第2位で、同地域でとれた魚はアメリカやヨーロッパおよびアジアへ輸出されています。しかしアラスカの漁業と違い、ロシアの漁業は必ずしも持続可能と認識されてきませんでした。
 
-> **“A decade ago, illegal fishing was rampant,” explains Caouette. “Poachers were scooping up tens of thousands of fish on a regular basis. We would see mountains of fish carcasses rotting in the sun along the rivers – fish left to rot after poachers slashed female fish and scraped out their eggs for black market caviar. No one was monitoring how many salmon were returning to spawn each year. There were no private property rights associated with fishing. It was a free for all.”**
+> **「10年前は違法漁業がはびこっていました。」とカウエット氏。「密漁者が日常的に何万匹もの魚を取っており、川に沿って大量の腐った魚の死体が山のように積まれていました。密漁者がメスのサケの腹を切り裂き、闇市場でキャビアとして売るために卵だけをかきだして放置したためです。また、サケの産卵遡上数のモニタリングも実施されず、漁業に関する民間の私有財産権も存在しなかったので誰もがやりたい放題だったのです。」**
 
 ![Anti IUU Programs In Russia]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/anti-poaching-fence-teardown.jpg)
 *Anti-poaching brigades teardown chain fences put in place by poachers*
 
-In contrast, fisheries now come together to hire and train their own security guards to patrol the rivers and protect spawning salmon. Commercial fishermen have secured 20-year leases for fishing sites, providing a long-term incentive to properly monitor and manage the fish and habitat in the region. Fishing companies have invested millions in state of the art processing and cold storage facilities, and these value-added improvements have benefited local economies.
+しかし現在では、漁業者が自ら警備員を雇い訓練し、河川のパトロールや産卵親魚の保護に協力して取り組んでいます。また、商業漁業者が漁場を20年リースで確保したことにより、地域内で魚や生息地の適切なモニタリングおよび管理を実施する長期的な動機が生まれています。さらに漁業会社は最新式の加工および冷蔵冷凍施設に何百万ドルも投資しました。このような付加価値を高める改善により、地域経済も恩恵を受けています。
 
-Since 2008, four Russian salmon fisheries and Sea of Okhotsk pollock have received MSC certification, and both Russian crab and cod have entered into formal fishery improvement projects with the goal of becoming more sustainable.
+2008年以降、4つのロシアのサケ漁業およびオホーツク海のスケトウダラ漁がMSC認証を取得するとともに、ロシアのカニおよびタラ漁もより持続可能な漁業を目指し、正式に漁業改善プロジェクトを立ち上げました。
 
-> **“The key is that commercial fishermen are leading these efforts,” says Caouette. “They are doing the hard work to meet sustainability requirements, and they’re seeing a return on their investment.”**
+> **カウエット氏は、「重要なのは商業漁業者がこのような取り組みを行っていることです。彼らは持続可能性の要件を満たすために大変な努力をしており、その投資の成果が見えてきています。」と語っています。**
 
-A growing alignment of environmental and business interests has helped drive this change. Hundreds of grocery and food-service companies in North America and Europe – from Walmart to Whole Foods to IKEA – have made commitments to sell sustainable seafood and are looking for certified, sustainable products. Several companies, including Nestle, High Liner Foods, Gorton’s Seafood, Albion, and Fishin’ Co., have also invested in <a href="http://salmonfippartnership.org/" target="_blank">partnerships</a> with conservation groups and fisheries to increase the global supply of sustainable wild salmon.
+このような変化は、環境とビジネスの利害がますます一致してきていることの表れです。ウォールマートからホールフーズ・マーケット、イケアなどの北米や欧州の100を超える食料品店および食品サービス会社が持続可能な水産物の販売に真摯に取り組むとともに、認証を受けた持続可能な水産物を求めています。<a href="http://salmonfippartnership.org/" target="_blank">一方ネスレやハイライナーフーズ、ゴートンズ・シーフード、アルビオン、フィッシンカンパニーなども、持続可能な野生サケの供給量を世界的に増やすために、保全グループおよび漁業とのパートナーシップに投資をしています。
+</a>
 
-> **"Sustainability is a growing worldwide phenomenon,” says Andrei Bokov, Chief Technologist for Vityaz-Avto and Delta. “More and more seafood companies are looking for new sources of sustainable seafood, and Russia can meet this demand.”**
+> **Vityaz-Avto およびDeltaの主任技術者アンドレイ・ボコブ氏は、「持続可能性は世界的に広がる現象になっています。より多くの水産会社が持続可能な食品の新たな調達先を求めており、ロシアはこのような需要に対応することができます。」と語っています。**
 
-With wild sustainable salmon selling for as much as $15/pound retail in Western grocery stores; <a href="http://www.iisd.org/sites/default/files/publications/ssi-blue-economy-2016.pdf" target="_blank">the market for sustainable fish</a> bringing in $11.5 billion in last year; and favorable exchange rates on the ruble, the potential profits for Russian fishing companies are high – and so are the environmental benefits.
+持続可能なサケの小売価格は、 <a href="http://www.iisd.org/sites/default/files/publications/ssi-blue-economy-2016.pdf" target="_blank">西洋の食料品店で1ポンド当たり15ドルの高値で売られており</a> 持続可能な魚の市場は昨年115億ドルの規模に達しました。ルーブルの為替レートが有利なこともあり、ロシアの漁業会社の潜在的な利益は環境面への恩恵と同様に高くなっています。
 
 ![Russian MSC Certified Salmon]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/russian-salmon-msc-logo.jpg)
 *Russian MSC certified salmon from fishing companies Vityaz-Avto and Delta*
 
-After several years of improvement efforts – including better enforcement of fishing regulations and the development of new systems to track and verify product from harvest to primary processor – these fisheries now meet all of the core sustainability principles of the MSC certification. Due in part to these efforts, Kamchatka’s salmon fisheries saw historic runs this year.
+数年にわたる改善への努力―漁業規則のさらなる強化、商品を漁獲から1次加工まで追跡および検証できる新たな制度の策定など―のおかげで、これらの漁業は、MSC認証の主要な持続可能性の原則をすべて満たすまでになっており、カムチャッカのサケ漁業は今年歴史的な遡上量を記録しています。
 
-However, these fisheries are not perfect. The MSC certification identified six conditions that the fisheries must address within five years to keep the new eco-label. These include improving methods to track the number of salmon that return to spawn each year and continued monitoring, controls on fishing, and surveillance activities.
+しかし、それでもまだ完璧ではありません。MSC認証では、次回認証を更新するために5年以内に取り組まなければならない6つの条件―毎年のサケの産卵遡上数を追跡するシステムの改善、モニタリングの継続、漁業管理および監視活動など―が特定されています。
 
-> **“This is a story of creating change in difficult places, not instant success,” says Caouette. “The global fishery crisis took decades to develop, and we’re not going to solve everything overnight. It takes persistence – you have to roll up your sleeves and get in the trenches with people. It’s not always pretty, but real progress is possible – it’s happening.”**
+> **「この事例は困難な環境で変化を生み出したサクセスストーリーですが、手っ取り早い成功はありません。」とカウエット氏は言います。「世界の漁業は何十年という歳月を得て現在のような危機的な状況を迎えています。全てを一気に解決するのではなく、粘り強い取り組みが必要です。共に現場の最前線で困難に立ち向かう気概を持つことです。良い事ばかりではありませんが、確実に前に進むことはできます。今まさにそのような変化が起きているのです。」**
 
 _____
 
-Additional resources:
+追加資料:
 
 <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/WesternKamchatkaCertificationAnnouncementPressReleaseSeptember2016.pdf" target="_blank">View a PDF version of this story</a> 
 
