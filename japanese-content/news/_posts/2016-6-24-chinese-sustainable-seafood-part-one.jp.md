@@ -1,24 +1,24 @@
 ---
 layout: news
-title:  Opportunities for Sustainable Seafood in China
+title:  中国における持続可能な水産物の機会
 date: 2016-6-24
-teaser-text: In addition to accounting for 35% of the entire world’s seafood production, China as a country consumes more seafood than the next 10 countries combined.
-subtitle: China as a country consumes more seafood than the next 10 countries combined.
+teaser-text: 中国は全世界の水産物生産の35％を占める一方で、2位以下の10国の合計よりも多い水産物を消費。
+subtitle: 中国1国で2位以下の10国の合計よりも多い水産物を消費　
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/opportunities-seafood-china-hero.jpg
 featured: TRUE
 ---
-###Last summer China’s stock market plummeted more than 30%. 
+###昨夏、中国の株式市場は30％以上も下落しました。
 
-These are the growing pains of the Chinese economy’s slow but unstoppable transition from being “the world’s factory,” from the old ‘scale and speed’ industrial model with huge environmental cost, to a new model focused on more moderate growth with a higher value placed on an improved quality of life.
+“世界の工場”と呼ばれた中国の経済は緩やかな、しかし止められない転換の中でこのような痛みを経験しています。大きな環境的代償を払ったかつての“規模とスピード”の産業モデルから、生活の質の向上を重視するより安定した成長を目指す新たなモデルへの移行です。
  
-Seafood has a unique status in the Chinese diet. In addition to accounting for 35% of the entire world’s seafood production (wild and farmed combined), China as a country consumes more seafood than the next 10 countries combined. No proper Chinese feast or celebratory meal is complete without a classic seafood dish of sea bream, large yellow croaker or grouper. But as the economy transitions and the Chinese market grows, consumer preferences are also shifting. The health, quality, and origin of seafood (and other products) is becoming an increasing concern. Sustainable seafood, for the first time, is starting to step into the limelight in China.
+水産物は中国の食の中で独自の地位を得ています。全世界の水産物生産(野生魚と養殖魚の合計)の35％を占める一方で、2位以下の10国の合計よりも多い水産物を消費しています。中国の祝宴のごちそうにはタイ、キグチまたはハタを使った伝統的な海鮮料理がつきものです。しかし、経済の転換および中国市場の成長に伴い、消費者の好みも変わってきています。また、水産物（および他の食品）の衛生、品質および原産地に対する懸念が高まる中、持続可能な水産物は中国において初めて脚光を浴びるようになりました。
 
-However, ensuring sustainable fisheries in China will be no easy task. By 2030 the Chinese population is projected to reach 1.4 billion and will consume 100 million metric tons of fish and shellfish each year. 
+しかし中国において持続可能性を担保することは簡単なことではありません。2030年までに中国の人口は14億人に達し、毎年1億メートルトンもの魚介類が消費されると予測されています。
 
-###To understand how we can meet this challenge it’s important to fully comprehend the Chinese seafood industry.
+###これらの課題にどう対処すべきかを知るためには、中国の水産業界に関する十分な理解が必要です。
 
-Without appropriate management reforms to meet the challenges of the day, Chinese commercial fisheries, which contain ¼ of the world’s fishing fleet, have been suffering from overfishing for four decades. China’s aquaculture sector presents different challenges and opportunities. Traditional fish farms in China have been producing carps, bivalves, seaweeds, and algae for millennia. However, the scale and impacts of industrial aquaculture have expanded exponentially and natural wetlands and coastal areas have been transformed for industrial production. Roughly five million square miles, an area the size of Switzerland and Netherlands combined, are now used for aquaculture production. In addition, an increasing amount of carnivorous species such as bass, snakeheads, groupers, flatfish, perch and crabs are farmed, leading to a growing pressure to small pelagic fish (harvested as feed) in natural ecosystems.
+中国の商業漁業は世界全体の漁船団の4分の1を占めていますが、今日の課題に取り組むための適切な管理改革が実施されていないため、過去40年の間乱獲に悩まされてきました。中国の水産養殖部門にはまた異なる課題や機会があります。中国の伝統的な養殖場は鯉や二枚貝、海藻類および藻類を数千年もの間生産してきました。しかし、産業用養殖の規模や影響は急激に拡大し、自然の湿地や沿岸部は産業用生産のために大きく変容しました。およそスイスとオランダの国土面積に匹敵する500平方マイルもの土地が、今や水産養殖生産に利用されています。さらにバスやスネークヘッド、ハタ、ヒラメ、スズキおよびカニなどの肉食種の養殖量も増加し、小規模遠洋漁業(飼料向け漁獲)にますます圧力がかかっています。
 
-Tools to achieve sustainable seafood vary greatly across fisheries, fish farms, and countries. While there are common elements and goals to any sustainable fishery or aquaculture project (e.g. access regulations and the maintenance of biological productivity), standardized solutions to these complex problems will simply not work. Fishery and aquaculture improvement efforts that are creative and culturally relevant will be paramount to revitalize Chinese fisheries and ensure sustainable aquaculture.
+持続可能な水産物を実現するためのツールは漁業や養殖場、国によっても大きく異なります。いかなる持続可能な漁業または水産養殖プロジェクトにも共通の要素や目標はありますが（アクセスに関する規制および生物学的生産性の維持など）、これらの複雑な問題に対しては、標準化された解決策では単純にうまくいきません。中国の漁業の再活性化および持続可能な水産養殖の達成のためには、漁業および水産養殖に対する創造的で文化に根差した改善努力が最も重要です。
 
-*Songlin Wang, who lives in Qingdao, China, is China Program Director for Ocean Outcomes, leading O2's sustainable fisheries and aquaculture initiatives in the region.*
+*王松林：中国青島在住、オーシャン・アウトカムズ中国プログラムディレクターとして中国地域で持続可能な漁業および水産養殖に関する活動を主導*
