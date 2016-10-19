@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: page
 title: Russia Rapid Assessments
 landing-image:
 hero-image:
