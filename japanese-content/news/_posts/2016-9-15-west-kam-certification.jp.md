@@ -15,9 +15,9 @@ featured: TRUE
 
 > **「10年前は違法漁業がはびこっていました。」とカウエット氏。「密漁者が日常的に何万匹もの魚を取っており、川に沿って大量の腐った魚の死体が山のように積まれていました。密漁者がメスのサケの腹を切り裂き、闇市場でキャビアとして売るために卵だけをかきだして放置したためです。また、サケの産卵遡上数のモニタリングも実施されず、漁業に関する民間の私有財産権も存在しなかったので誰もがやりたい放題だったのです。」**
 
-![Anti IUU Programs In Russia]
+![密漁者たちが設置した鎖柵を取り壊す密漁防止団]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/anti-poaching-fence-teardown.jpg)
-*Anti-poaching brigades teardown chain fences put in place by poachers*
+*密漁者たちが設置した鎖柵を取り壊す密漁防止団*
 
 しかし現在では、漁業者が自ら警備員を雇い訓練し、河川のパトロールや産卵親魚の保護に協力して取り組んでいます。また、商業漁業者が漁場を20年リースで確保したことにより、地域内で魚や生息地の適切なモニタリングおよび管理を実施する長期的な動機が生まれています。さらに漁業会社は最新式の加工および冷蔵冷凍施設に何百万ドルも投資しました。このような付加価値を高める改善により、地域経済も恩恵を受けています。
 
@@ -32,9 +32,9 @@ featured: TRUE
 
 持続可能なサケの小売価格は、 <a href="http://www.iisd.org/sites/default/files/publications/ssi-blue-economy-2016.pdf" target="_blank">西洋の食料品店で1ポンド当たり15ドルの高値で売られており</a> 持続可能な魚の市場は昨年115億ドルの規模に達しました。ルーブルの為替レートが有利なこともあり、ロシアの漁業会社の潜在的な利益は環境面への恩恵と同様に高くなっています。
 
-![Russian MSC Certified Salmon]
+![漁業会社Vityaz-Avto およびDeltaが生産したロシアのMSC認証を受けたサケ]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/russian-salmon-msc-logo.jpg)
-*Russian MSC certified salmon from fishing companies Vityaz-Avto and Delta*
+*漁業会社Vityaz-Avto およびDeltaが生産したロシアのMSC認証を受けたサケ*
 
 数年にわたる改善への努力―漁業規則のさらなる強化、商品を漁獲から1次加工まで追跡および検証できる新たな制度の策定など―のおかげで、これらの漁業は、MSC認証の主要な持続可能性の原則をすべて満たすまでになっており、カムチャッカのサケ漁業は今年歴史的な遡上量を記録しています。
 
