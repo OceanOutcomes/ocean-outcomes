@@ -16,10 +16,4 @@ Of the roughly seven hundred fishing companies in Russia, over half are located 
 
 Along with the need for improving capacity, Russian fisheries also face significant fishery improvement needs. The big issue is [Illegal, Unreported, and Unregulated Fishing (IUU)] (/initiatives/iuu/). Its a complex socio-economic problem that manifests itself in many unfortunate ways. All seafood companies that want to source from this region need to understand the risks and be diligent with its supply chain. 
 
----
-##Russia Rapid Assessment Summaries  
-We conduct rapid assessments ([see the Russia fishery summaries here] (/initiatives/russian-fisheries/rapid-assessments/)) of strategically important Russian fishery species to better articulate the Russian fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species. These assessments will help inform policy, management, funding, and the direction of sustainable seafood work in Russia.
-
----
-
 The concentration of Russian fisheries and processing capacity in the RFE put it in the top tier of globally important fishing regions and progress in this region is vitally important to the success of the global sustainable seafood movement. Productive marine fisheries in the RFE are ripe for improvement efforts that help close loopholes for illegal activity, bolster fishery infrastructure, and build value for fishermen.
