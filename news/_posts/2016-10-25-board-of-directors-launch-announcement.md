@@ -25,7 +25,7 @@ In addition to East Asian fisheries and business expertise, O2 Board members hav
 
 ----
 
-“In the sustainability movement, seafood has taken center stage. Now we need groups like O2 to ensure best practices and sustainable commitments translate into real improvements on the ground in fisheries across the globe,” says Stephan Hall, Board Chair and Principal at Avalerion Capital. “We’re ready to jump in and support O2 in any way we can.”
+“In the sustainability movement, seafood has taken center stage. Now we need groups like O2 to ensure best practices and sustainable commitments translate into real improvements on the ground in fisheries across the globe,” says Stephen Hall, Board Chair and Principal at Avalerion Capital. “We’re ready to jump in and support O2 in any way we can.”
 
 From an ambitious idea, to a blossoming startup, to a global organization with operations in Russia, Japan, China, and elsewhere, it’s been a busy and exciting first few years for all of us at Ocean Outcomes. We’re grateful for everyone who has been instrumental in our success and we look forward to advancing sustainable fisheries in the regions which need it most.
 
