@@ -2,11 +2,11 @@
 layout: news
 title:  O2 Establishes Diverse and Experienced Board of Directors
 date: 2016-10-26
-teaser-text: We’re excited to announce that earlier this month we gained independent 501(c)(3) status, expanded staff capacity, and established a talented Board of Directors to help us scale up and increase our impact.
+teaser-text: Earlier this month we gained independent 501(c)(3) status, expanded staff capacity, and established a talented Board of Directors to help us scale up and increase our impact.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/board-launch-hero.jpg
 featured: TRUE
 ---
-###We’re excited to announce that earlier this month we gained independent 501(c)(3) status, expanded staff capacity, and established a talented Board of Directors to help us scale up and increase our impact.
+###Earlier this month we gained independent 501(c)(3) status, expanded staff capacity, and established a talented Board of Directors to help us scale up and increase our impact.
 
 “Roots have taken hold and we’re growing. What an exciting time for Ocean Outcomes and our mission for healthy oceans,” says O2 President and CEO Dick Jones. “Our Board, with established expertise in East Asian seafood markets and economics, international business, and organizational effectiveness, provides the competitive edge as we lead the sustainable seafood movement in countries like Japan and China.”
 
@@ -14,6 +14,7 @@ In addition to East Asian fisheries and business expertise, O2 Board members hav
 
 ----
 ####[O2 Board of Directors] (/who-we-are/board/) 
+
  
 * Stephen Hall, PhD, Principal, Avalerion Capital (Board Chair) 
 * Charlie Brown, CEO & Founder, Context Partners 
