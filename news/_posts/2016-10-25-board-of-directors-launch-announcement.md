@@ -13,7 +13,6 @@ featured: TRUE
 In addition to East Asian fisheries and business expertise, O2 Board members have leadership backgrounds in finance, development, legal systems, fisheries management, and social entrepreneurship.
 
 ####[O2 Board of Directors] (/who-we-are/board/) 
-----
 
 * Stephen Hall, PhD, Principal, Avalerion Capital (Board Chair) 
 * Charlie Brown, CEO & Founder, Context Partners 
@@ -21,8 +20,6 @@ In addition to East Asian fisheries and business expertise, O2 Board members hav
 * Steve Pollock, CEO & Founder, Turnstone Ventures 
 * Susan Ruffo, Former Program Officer, Bloomberg Philanthropies
 * L. Mark Weeks, J.D., Managing Partner, Tokyo Office of Orrick, Herrington, & Sutcliffe LLP
-
-----
 
 “In the sustainability movement, seafood has taken center stage. Now we need groups like O2 to ensure best practices and sustainable commitments translate into real improvements on the ground in fisheries across the globe,” says Stephan Hall, Board Chair and Principal at Avalerion Capital. “We’re ready to jump in and support O2 in any way we can.”
 
