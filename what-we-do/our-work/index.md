@@ -19,21 +19,10 @@ Our fishery improvement work addresses the full range of major fishery challenge
 
 ----
 
-###[O2 Board of Directors] (/who-we-are/board/) 
-
-* Stephen Hall, PhD, Principal, Avalerion Capital (Board Chair) 
-* Charlie Brown, CEO & Founder, Context Partners 
-* Valerie Craig, Senior Director, National Geographic Society 
-* Steve Pollock, CEO & Founder, Turnstone Ventures 
-* Susan Ruffo, Former Program Officer, Bloomberg Philanthropies
-* L. Mark Weeks, J.D., Managing Partner, Tokyo Office of Orrick, Herrington, & Sutcliffe LLP
-
-----
-
-----
-
 #####Our Fishery Improvement Work Includes:  
-  
+
+----
+
   * The design, launch, and implementation of fishery improvement projects 
   * Supply chain analysis and mapping
   * Traceability and independent observer programs
