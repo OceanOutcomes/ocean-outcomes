@@ -19,16 +19,17 @@ Our fishery improvement work addresses the full range of major fishery challenge
 
 ----
 
-####Our Fishery Improvement Work Includes: 
+#####Our Fishery Improvement Work Includes: 
 
- * The deesign, launch, and implementation of fishery improvement projects 
- * Supply chain analysis and mapping
- * Traceability and independent observer programs
- * Buyer partnership facilitation
- * Fishery marketplace engagement strategy development
- * Bycatch reduction programs
- * Fishermen and seafood buyer exchanges
- * Seafood supply chain stakeholder convenings
+
+   * The deesign, launch, and implementation of fishery improvement projects 
+   * Supply chain analysis and mapping
+   * Traceability and independent observer programs
+   * Buyer partnership facilitation
+   * Fishery marketplace engagement strategy development
+   * Bycatch reduction programs
+   * Fishermen and seafood buyer exchanges
+   * Seafood supply chain stakeholder convenings
 
 ----
 
