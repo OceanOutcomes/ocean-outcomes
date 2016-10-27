@@ -3,6 +3,7 @@ layout: action
 title:  "Reenvisioning the World’s Largest Chum Salmon Fishery"
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/hokkaidosuccesshero.jpg
 teaser-text: Not many people know that one of the planet’s biggest salmon runs can be found in northern Japan.
+permalink: /what-we-do/success-stories/hokkaido-success/
 ---
 
 <h2>地球上で最大規模のサケの遡上が北日本で見られることは、あまり知られていません。</h2>
