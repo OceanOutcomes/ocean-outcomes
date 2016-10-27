@@ -168,7 +168,7 @@ table {
   border-collapse: collapse;
   margin: 0.875em 0;
   table-layout: fixed;
-  width: 100%; }
+  width: auto; }
 
 th {
   border-bottom: 1px solid #b7b7b7;
@@ -177,11 +177,12 @@ th {
   text-align: left; }
 
 td {
-  border-bottom: 1px solid #DDD;
-  padding: 0.875em 0; }
+  border: 1px solid #DDD;
+  padding: 0.58333em; }
 
 tr, td, th {
-  vertical-align: middle; }
+  vertical-align: middle;
+  margin: 0px; }
 
 ul, ol {
   margin: 0;

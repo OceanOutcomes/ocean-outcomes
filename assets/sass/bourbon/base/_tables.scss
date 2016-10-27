@@ -2,7 +2,7 @@ table {
   border-collapse: collapse;
   margin: ($base-line-height / 2) 0;
   table-layout: fixed;
-  width: 100%;
+  width: auto;
 }
 
 th {
@@ -13,10 +13,11 @@ th {
 }
 
 td {
-  border-bottom: 1px solid $base-border-color;
-  padding: ($base-line-height / 2) 0;
+  border: 1px solid $base-border-color;
+  padding: ($base-line-height / 3);
 }
 
 tr, td, th {
   vertical-align: middle;
+  margin: 0px;
 }
