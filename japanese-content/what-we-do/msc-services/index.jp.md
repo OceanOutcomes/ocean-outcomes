@@ -3,7 +3,7 @@ layout: page
 weight: 3
 title: JP MSC Services
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanese-whatisafip.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanesefisherieshero.jpg
 subtitle: Subtitle text here
 teaser-text: Teaser text here
 permalink: /what-we-do/msc-services
