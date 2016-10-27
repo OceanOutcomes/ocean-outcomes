@@ -1,9 +1,9 @@
 ---
 layout: news
 title:  "An Interview With Sustainable Seafood Guru Dick Jones"
-subtitle: As a third-generation fishmonger, O2's Executive Director, and founder of the seafood industry advisory firm Resiliensea Group, Inc., Dick Jones knows seafood. We sat down with him to get his thoughts on the burgeoning fishery improvement landscape.
+subtitle: As a third-generation fishmonger, O2's President and CEO, and founder of the seafood industry advisory firm Resiliensea Group, Inc., Dick Jones knows seafood. We sat down with him to get his thoughts on the burgeoning fishery improvement landscape.
 date:   2015-06-11
-teaser-text: As a third-generation fishmonger, O2's Executive Director, and founder of the seafood industry advisory firm Resiliensea Inc., Dick Jones knows seafood.
+teaser-text: As a third-generation fishmonger, O2’s President and CEO, and founder of the seafood industry advisory firm Resiliensea Inc., Dick Jones knows seafood.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/interview-with-djones-hero.jpg
 featured:
 ---
@@ -34,4 +34,4 @@ The demand for fishery improvement services is in its infancy and growing quickl
  
 If we don’t continue to evolve in our approach, and learn from our work and from the work of others, we will be challenged to maintain our position into the future. Fishery improvement work needs to celebrate small wins, and not view any effort to improve a fishery as less than substantial. Much of this work is in really difficult regions of the world where the understanding of sustainable resources is low, so patience and manage expectations are key. Success in 2-3 years will be the acknowledgement from the environmental community that the engagement model works. My best advice is move forward proactively but cautiously. We need to be smart and strategic about how we engage new clients, but unafraid to push the envelope and be aggressive if we’ve calculated the risk and returns.
 
-*Dick Jones is O2’s Executive Director and the Founder and of [Resiliensea Group, Inc.] (http://www.resiliensea.com/home.html), a seafood industry advisory firm.*
+*Dick Jones is O2’s President and CEO and the Founder and of [Resiliensea Group, Inc.] (http://www.resiliensea.com/home.html), a seafood industry advisory firm.*
