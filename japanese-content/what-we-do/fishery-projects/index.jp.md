@@ -4,8 +4,8 @@ weight: 1
 title: JP Fishery Projects
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-team-hover.jpg
 hero-image:
-subtitle: Subtitle text here.
-teaser-text: Teaser text here.
+subtitle: 
+teaser-text: JP Our hands-on partnership approach helps fisheries achieve meaningful improvements and allows all stakeholders to reap the tangible benefits of sustainability.
 permalink: /what-we-do/fishery-projects
 ---
 <div class="map-section">
