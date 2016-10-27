@@ -1,5 +1,5 @@
 ---
-layout: action
+layout: page
 title:  成功事例ー北海道
 subtitle: 世界最大のシロサケ漁業を再展望する
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/hokkaidosuccesshero.jpg
