@@ -4,8 +4,8 @@ weight: 2
 title: 漁業改善プロジェクト（FIP）
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/lets-talk-fish-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanese-whatisafip.jpg
-subtitle: 漁業改善計画（FIP）とは漁業者と利害関係者が水産市場と連携し、持続可能な漁業を目指すプロジェクトです。
-teaser-text:
+subtitle:
+teaser-text: 漁業改善計画（FIP）とは漁業者と利害関係者が水産市場と連携し、持続可能な漁業を目指すプロジェクトです。
 permalink: /what-we-do/what-is-a-fip
 ---
 
