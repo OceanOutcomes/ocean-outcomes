@@ -2,10 +2,10 @@
 layout: page 
 weight: 1
 title: JP Fishery Projects
-landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
+landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-team-hover.jpg
 hero-image:
 subtitle: Subtitle text here.
-teaser-text:
+teaser-text: Teaser text here.
 permalink: /what-we-do/fishery-projects
 ---
 <div class="map-section">
