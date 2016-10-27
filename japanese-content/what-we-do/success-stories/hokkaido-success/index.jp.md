@@ -1,11 +1,10 @@
 ---
-layout: page
-title:  成功事例ー北海道
-subtitle: 世界最大のシロサケ漁業を再展望する
+layout: action
+title:  "Reenvisioning the World’s Largest Chum Salmon Fishery"
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/hokkaidosuccesshero.jpg
-teaser-text: JP Not many people know that one of the planet’s biggest salmon runs can be found in northern Japan.
-permalink: what-we-do/success-stories/hokkaido-success/
+teaser-text: Not many people know that one of the planet’s biggest salmon runs can be found in northern Japan.
 ---
+
 <h2>地球上で最大規模のサケの遡上が北日本で見られることは、あまり知られていません。</h2>
 
 北海道には世界最大規模のシロサケ漁業がありますが、その年間生産量は10万トン以上に上り国内市場や輸出市場（米国など）へ出荷されています。しかし近年は目標の漁獲量を確保するため、ほぼ全面的に孵化場魚の生産に依存しています。全国的に原生河畔林や湿地の生息地が破壊され、自然の産卵床へのアクセスも失われる中、多くの野生サケ個体群が姿を消しました。道内では、産卵床全体の27％がダムによりアクセス不能な状態に陥っています。サクラマス(学名：*o. masou*)やイワナ(学名：*s. leucomaenis*)のような他のサケ科魚類の遡上も見られなくなりました。
