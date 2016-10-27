@@ -37,4 +37,4 @@ Our fishery improvement work addresses the full range of major fishery challenge
 
 Many commercial fisheries work at the margins of profitability and have limited capacity on their own to improve the sustainability of their fisheries-- that’s where we come in. Our hands-on partnership approach helps fisheries achieve meaningful improvements and allows all stakeholders to reap the tangible benefits of sustainability.
 
-[See the latest news on how we’re teaming up with commercial fishermen, seafood businesses, fishery managers, and community leaders to co-design, implement, and monitor effective on-the-water fishery improvements] (/news/).
+[See the latest news on how we’re teaming up with commercial fishermen, seafood businesses, fishery managers, and community leaders to co-design, implement, and monitor effective on-the-water fishery improvements] (/jp/news/).
