@@ -2,8 +2,8 @@
 layout: page
 weight: 1
 title: JP Vision and Mission
-subtitle: Placeholder subtitle text
-landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
+subtitle: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanese-what-we-do.jpg
 teaser-text:
 permalink: /vision-and-mission/
