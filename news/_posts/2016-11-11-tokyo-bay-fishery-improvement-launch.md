@@ -13,4 +13,5 @@ BODY TEXT
 ----
 
 ![Salmon Poaching and IUU in Russia]
-[(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/sakhalin-salmon-fishery-1.jpg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/sakhalin-salmon-fishery-1.jpg)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/sakhalin-salmon-fishery-1.jpg)
+[Right click here and "Save Link As" to download.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/sakhalin-salmon-fishery-1.jpg)
