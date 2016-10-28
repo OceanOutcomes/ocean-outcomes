@@ -24,6 +24,7 @@ Our fishery improvement work addresses the full range of major fishery challenge
 ----
 
   * The design, launch, and implementation of fishery improvement projects 
+  * Conduct rapid assessments, pre-assessments, and full assessments
   * Supply chain analysis and mapping
   * Traceability and independent observer programs
   * Buyer partnership facilitation
