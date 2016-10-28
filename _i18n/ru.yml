@@ -42,6 +42,10 @@ ru:
   news-previous: "Previous Article"
   news-next: "Next Article"
 
+  ### Misc
+  learn-more: "Learn More"
+  back-to: "Back to"
+
   ##########################
   # Header & Footer translatables
   ##########################
