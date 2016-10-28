@@ -5,7 +5,7 @@ subtitle: Demand for sustainable seafood from North America and Europe drives en
 date: 2016-09-15
 teaser-text: Demand for sustainable seafood from North America and Europe drives environmental change on remote Kamchatka Peninsula.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/west-kam-certification-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 **Petropavlovsk-Kamchatsky, Russian Federation** -- The Marine Stewardship Council (MSC) announced this week that three wild salmon fisheries in the Russian Far East (RFE) will be awarded MSC certification, the highest bar eco-label for fish. The certification comes as a result of extensive improvements in fishing practices led by Russian fishing companies, Vityaz-Avto Ltd. and Delta Ltd. It marks the first time that Kamchatka fisheries have sought MSC certification for salmon species typically sold in commodity markets and the certification will add as much as 28,000 metric tons of pink, chum, and coho salmon to the sustainable seafood supply.
 
