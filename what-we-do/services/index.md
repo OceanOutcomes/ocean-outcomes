@@ -1,9 +1,9 @@
 ---
 layout: page 
-title: Services
+title: Client Services
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
 hero-image:
-subtitle: 
+subtitle: Insights and solutions to help you deliver on your sustainable seafood objectives
 weight: 2
 teaser-text: Whether you are a fishermen, seafood buyer/supplier or NGO advising on seafood sustainability, the environmental and business case for improving fisheries has never been stronger.
 ---
