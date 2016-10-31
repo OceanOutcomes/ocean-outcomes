@@ -18,7 +18,10 @@ teaser-text: Whether you are a fishermen, seafood buyer/supplier or NGO advising
 
 As a result, fisheries, seafood buyers, and conservation groups are looking for ways to increase the supply of sustainably caught fish by eliminating overfishing and IUU, minimizing bycatch of depleted non-target species, and reducing negative habitat impact. At O2, we create opportunities to increase sustainable seafood supply by improving fisheries and reducing these risks.
 
-<marquee behavior="scroll" direction="left">Our clients include: NAME</marquee>
+<marquee behavior="scroll" direction="left">
+<img src="http://www.html.am/images/html-codes/marquees/fish-swimming.gif" alt="Swimming fish">
+<img src="http://contextpartners.com/wp-content/uploads/2013/09/cp_logo_full.png" alt="CP">
+</marquee>
 
 We work with fisheries, seafood businesses, seafood ranking/certification programs and conservation organizations to:  
 
