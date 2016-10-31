@@ -4,7 +4,7 @@ title:  Cheers to 35 Years in Sustainable Fisheries
 date: 2016-09-30
 teaser-text: Randy Ericksen, Fisheries Science Director and a founding member of Ocean Outcomes, is retiring at the end of this month.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/randy-retirement-hero.jpg
-featured: FALSE
+featured: TRUE
 ---
 ###After 35 years in sustainable fisheries work, Randy Ericksen is moving on.
 
