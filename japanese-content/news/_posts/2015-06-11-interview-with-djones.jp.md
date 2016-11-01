@@ -1,9 +1,9 @@
 ---
 layout: news
 title:  持続可能な水産物の第一人者ディック・ジョーンズ氏インタビュー
-subtitle: 魚屋の3代目、オーシャン・アウトカムズの事務局長、水産物産業のコンサルティング会社Resiliensea Group, Inc.の創始者として水産物を知り尽くすディック・ジョーンズ氏に急速に展開する漁業改善の情勢に関する思いを直撃。
+subtitle: 魚屋の3代目、オーシャン・アウトカムズの事務局長、水産物産業のコンサルティング会社Resiliensea Group, Inc.の創始者として水産物を知り尽くすディック・ジョーンズ氏に急速に展開する漁業改善の情勢に関する思いを直撃
 date:   2015-06-11
-teaser-text: 魚屋の3代目、オーシャン・アウトカムズの事務局長および水産物産業のコンサルティング会社Resiliensea Group, Inc.の創始者として水産物を知り尽くすディック・ジョーンズ氏。
+teaser-text: 魚屋の3代目、オーシャン・アウトカムズの事務局長および水産物産業のコンサルティング会社Resiliensea Group, Inc.の創始者として水産物を知り尽くすディック・ジョーンズ氏
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/interview-with-djones-hero.jpg
 featured:
 ---
