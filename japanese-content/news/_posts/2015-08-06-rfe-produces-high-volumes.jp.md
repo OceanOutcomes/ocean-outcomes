@@ -3,7 +3,7 @@ layout: news
 title:  ロシアのサケ生産アラスカに追従
 subtitle: ロシア極東地域の漁獲量が2013年同時期比で24％上昇
 date: 2015-08-06
-teaser-text: 現在のロシア極東地域での漁獲量の多さから、世界の野生サケのほぼ半分はロシア産であることを再認識。
+teaser-text: 現在のロシア極東地域での漁獲量の多さから、世界の野生サケのほぼ半分はロシア産であることを再認識
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/russia-catch-volumes-follow-alaska.jpg
 featured: FALSE
 ---
