@@ -1,9 +1,9 @@
 ---
 layout: news
 title:  新たな組織が世界の漁業の持続可能性を改善する
-subtitle: Ocean Outcomes Looks to Russia and Asia to Increase Supply of Sustainable Seafood
+subtitle: オーシャン・アウトカムズはロシアおよびアジアに目を向け持続可能な水産物の供給増を目指します
 date:   2015-02-10
-teaser-text: Ocean Outcomes Looks to Russia and Asia to Increase Supply of Sustainable Seafood
+teaser-text: オーシャン・アウトカムズはロシアおよびアジアに目を向け持続可能な水産物の供給増を目指します
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/ocean-outcomes-launches-hero.jpg
 featured: FALSE
 ---
