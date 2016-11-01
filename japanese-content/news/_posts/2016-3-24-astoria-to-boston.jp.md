@@ -1,7 +1,7 @@
 ---
 layout: news
 title:  水産物業界の共通点は水産物
-subtitle: 水産物のサプライチェーンは複雑かつ不透明で、時には締め出されることもあります。
+subtitle: 水産物のサプライチェーンは複雑かつ不透明で、時には締め出されることもあります
 date: 2016-03-24
 teaser-text: 生産者から調達者、消費者、加工者まで水産物のサプライチェーンは多くの異なるプレーヤーから成り立ち、それぞれが水産物の価値や本質に関して独自の視点を持つ
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/astoria-to-boston-hero.jpg
