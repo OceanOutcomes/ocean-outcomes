@@ -3,7 +3,7 @@ layout: news
 title:  新たなエコ認証で成長する持続可能な水産物市場確保を視野に入れるロシア漁業
 subtitle: 北米や欧州の持続可能な水産物に対する需要により、辺境のカムチャッカ半島に環境的な変化
 date: 2016-09-15
-teaser-text: 北米や欧州の持続可能な水産物に対する需要により、辺境のカムチャッカ半島に環境的な変化.
+teaser-text: 北米や欧州の持続可能な水産物に対する需要により、辺境のカムチャッカ半島に環境的な変化
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/west-kam-certification-hero.jpg
 featured: TRUE
 ---
