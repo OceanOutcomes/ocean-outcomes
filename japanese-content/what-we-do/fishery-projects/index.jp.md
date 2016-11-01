@@ -1,11 +1,11 @@
 ---
 layout: page 
 weight: 1
-title: JP Fishery Projects
+title: 漁業プロジェクト
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-team-hover.jpg
 hero-image:
-subtitle: 
-teaser-text: JP Our hands-on partnership approach helps fisheries achieve meaningful improvements and allows all stakeholders to reap the tangible benefits of sustainability.
+subtitle: 目標はより持続可能な漁業　 詳しくは地図上のアイコンをクリック.
+teaser-text: 現場重視の協力関係を通じて漁業の有意義な改善を支援し、全ての関係者に持続可能性に関する目に見える成果を
 permalink: /what-we-do/fishery-projects
 ---
 <div class="map-section">
@@ -14,27 +14,28 @@ permalink: /what-we-do/fishery-projects
   </div>
 </div>
 
-<h2>At Ocean Outcomes, we work hand in hand with commercial fisheries to help them become more sustainable.</h2>
+<h2>オーシャン・アウトカムズは商業漁業者と手を携え、より持続可能な漁業への転換を支援しています。</h2>
 
-Our fishery improvement work addresses the full range of major fishery challenges contributing to the global fisheries crisis. These challenges include [Illegal, Unreported and Unregulated fishing (IUU)] (/initiatives/iuu/), overfishing, depletion of non-target stocks, habitat impacts, and management system issues such as inadequate monitoring. These issues represent serious risks to the sustainability and security of fisheries, food supplies, and human livelihoods.  
-
-----
-
-<h5>Our Fishery Improvement Work Includes:</h5>
+私たちは漁業改善活動を通じて、世界の漁業の危機の原因になっているあらゆる主要な漁業問題に取り組んでいます。これらの課題は違法・無報告・無規制漁業 (IUU)や乱獲、非対象種の枯渇、生息地への影響、および不適切なモニタリングなどの管理体制の問題などがあります。このような問題は漁業や食料供給および私たちの暮らしの持続可能性および安全性に対し、深刻なリスクとなっています。
 
 ----
 
-  * The design, launch, and implementation of fishery improvement projects 
-  * Supply chain analysis and mapping
-  * Traceability and independent observer programs
-  * Buyer partnership facilitation
-  * Fishery marketplace engagement strategy development
-  * Bycatch reduction programs
-  * Fishermen and seafood buyer exchanges
-  * Seafood supply chain stakeholder convenings
+<h5>私たちは以下の漁業改善活動を実施しています。</h5>
 
 ----
 
-Many commercial fisheries work at the margins of profitability and have limited capacity on their own to improve the sustainability of their fisheries-- that’s where we come in. Our hands-on partnership approach helps fisheries achieve meaningful improvements and allows all stakeholders to reap the tangible benefits of sustainability.
+  * 漁業改善計画の策定、立ち上げおよび実施
+  * 短期審査、予備審査及び本審査の実施
+  * サプライチェーン分析及びマッピング
+  * トレーサビリティーおよび独立オブザーバープログラム
+  * バイヤーとのパートナー関係の構築促進
+  * 漁業市場への関与方策の策定
+  * 混獲低減プログラム
+  * 漁業者と水産物バイヤーとの交流
+  * 水産物サプライチェーンの利害関係者会議の開催
 
-[See the latest news on how we’re teaming up with commercial fishermen, seafood businesses, fishery managers, and community leaders to co-design, implement, and monitor effective on-the-water fishery improvements] (/jp/news/).
+----
+
+多くの商業漁業が採算ぎりぎりのところで操業しており、持続可能性の改善を自ら実施するには限界があります。そこで私たちの出番です。O2では現場重視の協力関係を通じて漁業の有意義な改善を支援し、全ての関係者が持続可能性に関する目に見える成果を得ることができるような取り組みを行っています。
+
+[最新のニュースから、私たちがどのように商業漁業者や水産物事業者、漁業管理者および地域のリーダーと協力して、効果的な現場での漁業改善計画を共同設計し、実施し、モニタリングしているかをご覧いただけます。] (/jp/news/).
