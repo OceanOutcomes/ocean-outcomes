@@ -16,7 +16,7 @@ teaser-text: Whether you are a fisherman, seafood buyer, seafood processor, or N
 
 ##  If you’re working in sustainable seafood, we can help you deliver on your goals.
 
-Our ever-expanding portfolio of work spans the globe. We’ve developed salmon escapement management strategies in Japan, mapped out supply chains of the highest valued seafood species in China, designed curriculum for tuna management workshops in Ghana, led anti-poaching initiatives in the Russian Far East, provided fishery risk analysis for seafood business partners, and assisted corporate hotels in implementing sustainable seafood sourcing policies. Key areas of expertise include:
+Our ever-expanding portfolio of work spans the globe. We’ve developed salmon escapement management strategies in Japan, mapped out supply chains of the highest valued seafood species in China, designed curriculum for a tuna management workshop in Ghana, led anti-poaching initiatives in the Russian Far East, provided fishery risk analysis for seafood business partners, and assisted corporate hotels in implementing sustainable seafood sourcing policies. Key areas of expertise include:
 
 ----
 
@@ -46,7 +46,7 @@ Getting stakeholders to the table and facilitating a constructive results-orient
 
 ##### Fisheries Management and Policy Analysis 
 
-With a high level of complexity, fisheries management and policy issues often need to be addressed from many different angles. Out wide ranging expertise allows us to provide creative and practical advice to a variety of fishery issues, whether that means for example, applying stock identification tools to complex mixed stock fishery issues, designing precautionary management approaches in response to data uncertainties, designing fishery monitoring plans to collect basic catch and biological data, evaluating the implications of artificial production strategies for wild capture fisheries and populations, or delivering expert advice on certification systems. 
+With a high level of complexity, fisheries management and policy issues often need to be addressed from many different angles. Our wide ranging expertise allows us to provide creative and practical advice to a variety of fishery issues, whether that means for example, applying stock identification tools to complex mixed stock fishery issues, designing precautionary management approaches in response to data uncertainties, designing fishery monitoring plans to collect basic catch and biological data, evaluating the implications of artificial production strategies for wild capture fisheries and populations, or delivering expert advice on certification systems. 
 
 ----
 
