@@ -9,38 +9,34 @@ teaser-text:
 ---
 ##Overview
 
-The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the western coast of the Kamchatka Peninsula in Russia. The FIP includes coastal trap net and inriver beach seines fished by the clients for coho and sockeye salmon returning to the Vorovskaya, Opala, Golygina, and Koshegochek rivers; coho to the Ozernaya river; and sockeye to the Kol river from July to September. The fishery is managed for region-wide escapement goals, and catches have been high in recent years.
-
+Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch (*Lateolabrax japonicus*), a historically and culturally important fish used for edomae sushi, the style of sushi created during the late Edo-period (late 19th century) that influenced the nigiri sushi that is common today. The fishery, which takes place year-round, has its peak season during the summer. A lack of maximum sustainable yield (MSY) based stock assessments and precautionary science-based fishery management strategies risks stock depletion. The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fishery, improve fish management practices, work to maintain overall sea perch stock abundance in Tokyo Bay, and distinguish the sea perch fishery in the growing sustainable seafood marketplace.
 ---
 
 ##Fishery Information:
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="http://fisheryprogress.org/fip-profile/western-kamchatka-salmon-beach-seinetrap-net" target="_blank">tracked fully on FisheryProgress.org</a>) |
-| Project Start Date: | January 2014 |
-| Location: | Kamchatka, Russia |
-| Participants: | Ocean Outcomes, Vityaz-Avto and Delta, Kamchatka Fish Fund, KamchatNIRO, WWF Russia |
-| Species: | sockeye (*Oncorhynchus nerka*), coho (*Oncorhynchus kisutch*) |
-| Gear Type: | coastal trap net, beach seines |
-| Volume: | 1,370 mt - *Volume taken from KamchatNIRO report, catches for coho and sockeye averaged over 2004 to 2015. Ozernaya sockeye and Kol coho were not included.* |
+| FIP Status: | Basic FIP (<a href="http://fisheryprogress.org/" target="_blank">tracked fully on FisheryProgress.org</a>) |
+| Project Start Date: | November 2016 |
+| Location: | Tokyo Bay, Chiba Prefecture, Japan |
+| Participants: | Ocean Outcomes, Kaiko Bussan, Seafood Legacy, Seiyu, Funabashi Fisheries Cooperative Association |
+| Species: | Japanese sea perch (*Lateolabrax japonicus*) |
+| Gear Type: | mid-scale purse seine |
+| Volume: | 555 mt - *555 mt - Chiba prefecture sea perch total catch is roughly 2,168 mt. The Funabashi Fisheries Cooperative Association accounts for 40% of Chiba prefecture catch and Kaido Bussan the fishery client accounts for 64% of Funabashi Fisheries Cooperative Association catch.* |
 
 ---
 
 ##What We're Doing:
 
-* An MSC pre-assessment was completed for pink, chum, sockeye and coho salmon returning to these rivers in 2014 (excluding Ozernaya sockeye which were already MSC certified). 
-* Development and implementation of a fishery improvement work plan to address deficiencies found during the MSC pre-assessment.
-* A portion of the fishery (pink, and chum salmon returning to the Vorovskaya, Kol, Opala, Golygina, Koshegochek, and Ozernaya rivers, as well as coho salmon to the Kol River) entered full MSC assessment in March 2015 and was certified in September 2016.
-* Commercial harvest ban of Chinook salmon to attempt Chinook salmon population recovery.
-* Independent observer programs implemented to verify fisheries are complying with regulation, verifying IUU product doesn’t enter supply chain, and to gather additional biological data and monitor bycatch.
-* Annual site visits to fishing and processing sites to monitor catch tracking systems, train independent observers, and check progress of improvement work plan action items.
-* Revised escapement goals based on better biological data.
+* Conducted an MSC pre-assessment of the fishery in 2016, the first time that any component of the Japanese sea perch fishery has undergone pre-assessment against the MSC standard.
+* Development and implementation of a fishery improvement work plan to address deficiencies found during the MSC pre-assessment, including plans to better monitor and track bycatch of endangered, threatened, and protected (ETP) species, plans to establish a science based maximum sustainable yield (MSY) to ensure stocks aren’t overfished, and a commitment to work towards a more collaborative management plan.
+* As part of the FIP Seiyu will test market Tokyo Bay Sea Perch FIP product at four Kanto-region Seiyu supermarkets, gauging project expansion and potential FIP model replication based on test market results.
+* Convening fishery fishery stakeholders to define management objectives and establish a system for evaluation performance against those objectives.
 
 ---
 
 [**For any recent news on this fishery project visit our blog.**] (/news/) 
 
-<a href="http://fisheryprogress.org/fip-profile/western-kamchatka-salmon-beach-seinetrap-net" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Western Kamchatka Salmon FIP profile here.**</a>
+<a href="http://fisheryprogress.org/" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Western Kamchatka Salmon FIP profile here.**</a>
 
-[**Back to O2 fishery projects.**] (/what-we-do/our-work/)
+< [**Back to O2 fishery projects.**] (/what-we-do/our-work/)
