@@ -2,7 +2,7 @@
 layout: news
 title: 極東地域で高まる持続可能な漁業生産の可能性
 date: 2015-02-25
-teaser-text: 世界の漁業の未来を決めるのは米国やヨーロッパだけではない。特に東アジアは多くの海洋漁業の行方に大きな影響を与える地域になっている。
+teaser-text: 世界の漁業の未来を決めるのは米国やヨーロッパだけではない。特に東アジアは多くの海洋漁業の行方に大きな影響を与える地域になっている
 subtitle: 
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/expanding-sustainability-markets-hero.jpg
 featured: FALSE

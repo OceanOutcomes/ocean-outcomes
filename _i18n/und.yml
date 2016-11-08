@@ -22,7 +22,7 @@ und:
   what-we-do: "What We Do"
   #### Sub-menu items
   our-work: "Fishery Projects"
-  services: "Services"
+  services: "Client Services"
   success-stories: "Success Stories"
   ### Top level menu item
   initiatives: "Initiatives"
@@ -43,6 +43,10 @@ und:
   news-more: "More News &amp; Analysis"
   news-previous: "Previous Article"
   news-next: "Next Article"
+
+  ### Misc
+  learn-more: "Learn More"
+  back-to: "Back to"
 
   ##########################
   # Header & Footer translatables
