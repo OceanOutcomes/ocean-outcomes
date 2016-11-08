@@ -11,7 +11,7 @@ permalink: /what-we-do/services
 
 <div class="map-section">
   <div class="grid-container">
-    {% embed channel: map | id: mid=1QwZuVLVLVidTu_2cQXwFifZX8GM %}
+    {% embed channel: map | id: mid=1Mo11wypEylpu9nd5LOEphWbiqf0 %}
   </div>
 </div>
 
