@@ -28,10 +28,10 @@
 - featured: TRUE
   language: jp
   heading: We're Hiring!
-  title: Join O2 as a "Japan Program Officer" and help Japanese fisheries become more sustainable.
+  title: Interested in joining the team? We're hiring a Japan Program Officer to support our work in Japan. 
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japan-coordinator-hires-featured.jpg
   link:
-    link-text: 興味ありますか？職務記述書、職務要件、責務はこちら
+    link-text: 職務記述書、職務要件、責務はこちら
     link-url: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/JapanProgramOfficer2016.pdf
 
 - featured: FALSE
