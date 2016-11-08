@@ -1,11 +1,11 @@
 - featured: TRUE
   language: en
   heading: Client Services
-  title: Helping forward-thinking groups deliver on sustainable seafood commitments
+  title: If you’re working in sustainable seafood, we can help you deliver on your goals.
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-services.jpg
   link:
-    link-text: We can help
-    link-url: oceanoutcomes.org/what-we-do/services/
+    link-text: Learn More
+    link-url: /what-we-do/services/
 
 - featured: FALSE
   language: en
