@@ -57,4 +57,4 @@ permalink: /what-we-do/services
 
 ----
 
-[<h2>お気軽にご相談ください</h2>] (/jp/contact/)
+[<h2>もしお手伝いが必要なら、いつでもお問い合わせください。</h2>] (/jp/contact/)
