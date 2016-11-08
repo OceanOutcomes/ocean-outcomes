@@ -1,3 +1,12 @@
+- featured: TRUE
+  language: en
+  heading: Client Services
+  title: Helping forward-thinking groups deliver on sustainable seafood commitments
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-services.jpg
+  link:
+    link-text: We can help
+    link-url: oceanoutcomes.org/what-we-do/services/
+
 - featured: FALSE
   language: en
   heading: Stories of Success
