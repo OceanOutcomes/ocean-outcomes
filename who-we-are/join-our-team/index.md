@@ -1,12 +1,29 @@
 ---
 layout: page 
-title: Join Us
+title: We're Hiring!
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
 teaser-text: An estimated 3 billion people worldwide depend on seafood as their primary source of protein. Seafood plays a vital role in food security, ocean health, and local economies. Here’s what you can do to get involved and support more sustainable fisheries.
 weight: 4
 ---
+
+##Careers and volunteer opportunities
+
+> **Current job openings:**
+
+> *Japan Program Officer / ジャパン・プログラム・オフィサー*
+
+> この職位に就く者は日本においてオーシャンアウトカムズ（別名：02）が計画する漁業改善プロジェクトの事業戦略を実行しサポートする責任者となる。天然魚を対象とする漁業の持続可能性の向上と、それら漁業より漁獲された水産物の持続的な供給を促進するために、重要な利害関係者（漁業者、水産買付企業、加工業者、行政機関、地域漁業協同組合、漁業協同組合連合会など）との関係構築と連携を強める。主な業務目標は認証エコラベル取得に向けた取り組みと信頼性の高いFIP（漁業改善プロジェクト／Fishery Improvement Project）を支援するために利害関係者間での合意形成やO2との契約を推進することである。この募集は東京都を拠点とする者を対象（対象外地域に場合は要相談）とし、年間合計約２ヶ月程の国内外の出張が必要とされる。従って、この職務に必要な資格として自主的な行動力、起業家に必要な能力が求められる。特に、漁業や漁業問題、水産ビジネス、そして持続可能性（サステナビリティ）への知識が充分にあり、日本社会への十分な理解と適用力があることが必要である。加えて、複数のプロジェクトを同時に牽引・管理する能力と高いコミュニケーション能力を、事務処理能力などを必要とする。[興味ありますか？職務記述書、職務要件、責務はこちら] (	
+https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/JapanProgramOfficer2016.pdf).
+
+> The Japan Program Officer is responsible for supporting implementation of fishery improvement project strategies for the benefit of fisheries and fishing communities in Japan. This position will conduct outreach and directly engage key stakeholders (e.g. commercial fishermen, local cooperatives) in Japan; help O2 develop a knowledge management system about Japanese fishery stakeholders in support of better, more transparent user-based decision-making and fishery management; conduct administrative, research, and operational tasks in support of the O2 Japan program team. The position will be based in Tokyo, Japan and will require significant regional, national, and international travel, up to two months a year. The person in this position should therefore have a flexible, creative, and empathetic outlook, possess independent and entrepreneurial qualities; have a strong background in fishery issues, seafood businesses, and/or sustainability; and understand how to successfully work in Japan. Sound interesting? [View full job description, requirements, and responsibilities] (	
+https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/JapanProgramOfficer2016.pdf).
+
+Not your cup of tea? We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share.
+
+-----
+
 ##Connect online and spread the word 
 
 We’re a small group with big goals working with fisheries across vast geographies and oceans. Connecting with us online helps get our message to more people, gives a voice to the issues commercial fisheries face, and ultimately contributes to an increased demand for sustainable seafood.
@@ -33,8 +50,3 @@ Demand seafood, both fished and farmed, from sources which have minimal impact o
 
 [![Sustainable Seafood News]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/subscribe-to-sustainable-seafood-news.jpg)] (http://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a)
-
------
-##Careers and volunteer opportunities
-
-While there are no positions currently available, we’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share.
