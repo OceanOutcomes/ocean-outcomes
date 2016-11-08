@@ -2,7 +2,7 @@
 layout: page
 weight: 1
 title: ミッションおよびビジョン
-subtitle: 私たちは、水界生態系が健全に保たれながら天然の海の幸が豊富に供給され利益を生み出し、漁業コミュニティーが繁栄する未来を描いています
+subtitle: 私たちは、水界生態系が健全に保たれながら天然の海の幸が豊富に供給され利益を生み出し、漁業コミュニティーが繁栄する未来を描いています。
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanese-what-we-do.jpg
 teaser-text:
