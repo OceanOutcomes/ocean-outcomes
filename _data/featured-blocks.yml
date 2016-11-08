@@ -1,3 +1,12 @@
+- featured: TRUE
+  language: en
+  heading: Client Services
+  title: If you’re working in sustainable seafood, we can help you deliver on your goals.
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-services.jpg
+  link:
+    link-text: Learn More
+    link-url: /what-we-do/services/
+
 - featured: FALSE
   language: en
   heading: Stories of Success
@@ -16,14 +25,14 @@
     link-text: Subscribe
     link-url: http://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a
 
-- featured: FALSE
+- featured: TRUE
   language: jp
-  heading: Japan Content Illegal, Unreported, and Unregulated Fishing (IUU)
-  title: Working at the nexus of market-based solutions to IUU in Asia
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-iuu.jpg
+  heading: We're Hiring!
+  title: Interested in joining the team? We're hiring a Japan Program Officer to support our work in Japan. 
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japan-coordinator-hires-featured.jpg
   link:
-    link-text: Learn More
-    link-url: /jp/hokkaido-success/
+    link-text: 職務記述書、職務要件、責務はこちら
+    link-url: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/JapanProgramOfficer2016.pdf
 
 - featured: FALSE
   language: en
