@@ -1,19 +1,19 @@
 ---
 layout: page
 weight: 1
-title: JP Vision and Mission
-subtitle: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+title: ミッションおよびビジョン
+subtitle: 私たちは、水界生態系が健全に保たれながら天然の海の幸が豊富に供給され利益を生み出し、漁業コミュニティーが繁栄する未来を描いています
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanese-what-we-do.jpg
 teaser-text:
 permalink: /vision-and-mission/
 ---
-<h2>More sustainable fisheries</h2>
+<h2>M持続可能な漁業を増やす</h2>
 
-At O2, we’re dedicated to improving high risk fisheries globally-- the fisheries that face the toughest sustainability issues and have the most to gain from improvements. We work hand-in-hand with commercial fisheries to design plans for improvement, and we stick around to help them achieve these goals. 
+O2はリスクの高い漁業の改善にグローバルにまい進しています。このような漁業は最も深刻な持続可能性の問題を抱えていますが、改善により最も大きな効果が期待できます。商業漁業者と手を携え改善計画を策定し、目標を達成できるよう彼らに寄り添い支援していきます。
 
-**We envision** a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+**私たちが思い描くのは、**水界生態系が健全に保たれながら天然の海の幸が豊富に供給され利益を生み出し、漁業コミュニティーが繁栄する未来です。
 
-**Our mission** is to work with communities and the seafood industry to improve the sustainability of high risk fisheries. We cultivate deep relationships with fishermen, seafood buyers, government agencies, and non-governmental organizations to uncover and implement local solutions to systems level problems in globally significant fisheries.
+**私たちの使命は、**地域社会や水産物業界と協力してリスクの高い漁業の持続可能性を向上させることです。漁業者や水産物バイヤー、政府機関およびNGOなどと深い関係を築き、世界的に重要な漁業において体系的制度的な問題を明らかにして、現地で解決策を実施していきます。
 
-**Our experience** on the water is strong. Incubated and launched by [Wild Salmon Center] (http://www.wildsalmoncenter.org), O2 builds on a decade of work promoting sustainable wild salmon fisheries. In our new, independent form we are a global fishery improvement organization, concentrating our entire mission on helping fisheries become sustainable so that they continue to produce healthy seafood and income for fishing communities well into the future.
+**私たちの漁業に関する経験は**豊富です。O2はワイルド・サーモン・センターが構想を温め発足させた組織であり、持続可能な野生サケ漁業に関する取り組みを10年間積み重ねてきました。新たに独立した後は全ての使命を捧げ、将来にわたって漁業が健全な水産物を生産し、漁業コミュニティーが十分な所得を生み出せるように、グローバルな漁業改善組織として漁業の持続可能性への取り組みを支援していきます。
