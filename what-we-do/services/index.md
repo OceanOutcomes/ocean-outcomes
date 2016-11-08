@@ -3,7 +3,7 @@ layout: page
 title: Client Services
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
 hero-image:
-subtitle: Helping forward-thinking groups deliver on sustainable seafood commitments
+subtitle: Helping forward-thinking groups deliver on sustainable seafood commitments.
 weight: 2
 teaser-text: Whether you are a fisherman, seafood buyer, seafood processor, or NGO working in seafood, the environmental and business case for sustainability has never been stronger. Let us help.
 ---
