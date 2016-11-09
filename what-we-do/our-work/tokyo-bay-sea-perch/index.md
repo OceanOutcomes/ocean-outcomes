@@ -23,7 +23,7 @@ Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch 
 | Participants: | Ocean Outcomes, Kaiko Bussan, Seafood Legacy, Seiyu, Funabashi Fisheries Cooperative Association |
 | Species: | Japanese sea perch (*Lateolabrax japonicus*) |
 | Gear Type: | mid-scale purse seine |
-| Volume: | 555 mt - *555 mt - Chiba prefecture sea perch total catch is roughly 2,168 mt. The Funabashi Fisheries Cooperative Association accounts for 40% of Chiba prefecture catch and Kaido Bussan the fishery client accounts for 64% of Funabashi Fisheries Cooperative Association catch.* |
+| Volume: | 279 mt - *Based on catch data from the Funabashi Fisheries Cooperative, UoA sea perch harvests averaged 436 mt per year from 2003 to 2014, while client (Kaiko Bussan) harvests averaged 279 mt per year from 2007 to 2014. The client catch therefore represents about 64% of UoA catch. Data taken from pre-assessment report.* |
 
 ---
 
