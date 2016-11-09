@@ -6,7 +6,7 @@ teaser-text: Sustainable seafood movement takes a big step forward in East Asia 
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg
 featured: TRUE
 ---
-###Tokyo, Japan – In 2016, the market value of sustainable seafood reached an all-time high of $11.5 billion USD, placing further incentive to increase the sustainability of fisheries across the globe. 
+##In 2016, the market value of sustainable seafood reached an all-time high of $11.5 billion USD, placing further incentive to increase the sustainability of fisheries across the globe. 
 
 Asia’s share of global seafood production is up to 69%, by some estimates, but only 11% of this is certified as sustainable seafood production including Marine Stewardship Council (MSC) and Aquaculture Stewardship Council (ASC) certifications. As such, implementation of Fishery Improvement Projects (FIPs) in Japan will ensure the growth of the Asian sustainable seafood market.
 
@@ -20,26 +20,27 @@ As a first step in the project, Ocean Outcomes collaborated with Kaiko Bussan to
 
 **Below are comments from each organization regarding the launch of the FIP.** 
 
-> Shunji Murakami (Ocean Outcome / Japan Program Director)
+**Shunji Murakami (Ocean Outcome / Japan Program Director)**
 *“Launching the Tokyo Bay Sea Perch FIP is a monumental moment for the sustainable seafood movement in Japan. Improving fisheries practices benefits both marine resources and fishing communities.”
 
-> Kazuhiko Oono (Kaiko Bussan, Inc. / President and CEO)
+**Kazuhiko Oono (Kaiko Bussan, Inc. / President and CEO)**
 *“Fishery improvement, while a new concept for Japanese fishermen, makes sense. We harvest, process, and sell the sea perch we catch, so our business is completely reliant on abundant sea perch resources. As the resource declines, so does our fishery. This project will ensure we’re harvesting the optimal amount of sea perch while not negatively affecting the amazing environment in which we work.”
 
-> Wakao Hanaoka (Seafood Legacy Co., Ltd. / CEO and Founder)
+**Wakao Hanaoka (Seafood Legacy Co., Ltd. / CEO and Founder)**
 *“Our hope for this project is to invigorate the Japanese market in a way that encourages cooperation amongst retailers and producers in the implementation of more sustainable fishing practices. This will benefit ocean ecosystems, businesses, fisheries, and local communities.” 
 
-> Kumie Wama (Seiyu GK / Vice President of Corporate Affairs)
+**Kumie Wama (Seiyu GK / Vice President of Corporate Affairs)**
 *“Responsible and sustainable fishing practices, which the participants of “Tokyo Bay Sea Perch FIP” have committed to undertake, are very important for the future of marine resources in Japan. As a company that relies on shared marine resources, we consider it our corporate social responsibility to provide environmentally friendly products to our consumers.”
 
 **Additional Resources:**
+
 [Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/2016+11+10+Tokyo+Bay+FIP+Launch+ENG+final.pdf)
 
-[Kaiko Bussan, Inc. website]（http://www.daidenmaru.com)
+<a href="http://www.daidenmaru.com" target="_blank">Kaiko Bussan, Inc. website</a>
 
-[Seafood Legacy Co., Ltd. website]（http://www.seafoodlegacy.com/ja/)
+<a href="http://www.seafoodlegacy.com/ja/" target="_blank">Seafood Legacy Co., Ltd. website</a>
 
-[Seiyu GK website]（http://www.seiyu.co.jp)
+<a href="http://www.seiyu.co.jp" target="_blank">Seiyu GK website</a>
 
 ----
 **Media Photos**
