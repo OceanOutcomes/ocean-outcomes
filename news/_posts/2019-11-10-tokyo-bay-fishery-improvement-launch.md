@@ -6,7 +6,9 @@ teaser-text: Sustainable seafood movement takes a big step forward in East Asia 
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg
 featured: TRUE
 ---
-**Tokyo, Japan** – In 2016, the market value of sustainable seafood reached an all-time high of $11.5 billion USD, placing further incentive to increase the sustainability of fisheries across the globe. Asia’s share of global seafood production is up to 69%, by some estimates, but only 11% of this is certified as sustainable seafood production including Marine Stewardship Council (MSC) and Aquaculture Stewardship Council (ASC) certifications. As such, implementation of Fishery Improvement Projects (FIPs) in Japan will ensure the growth of the Asian sustainable seafood market.
+###Tokyo, Japan – In 2016, the market value of sustainable seafood reached an all-time high of $11.5 billion USD, placing further incentive to increase the sustainability of fisheries across the globe. 
+
+Asia’s share of global seafood production is up to 69%, by some estimates, but only 11% of this is certified as sustainable seafood production including Marine Stewardship Council (MSC) and Aquaculture Stewardship Council (ASC) certifications. As such, implementation of Fishery Improvement Projects (FIPs) in Japan will ensure the growth of the Asian sustainable seafood market.
 
 Ocean Outcomes (O2) and Kaiko Bussan Inc. today announced its launch of the “Tokyo Bay Sea Perch FIP”, Japan’s first Fishery Improvement Project (FIP). The project was introduced by Seafood Legacy Co., Ltd. to Seiyu GK, a subsidiary of Walmart Stores, Inc., the American multinational retail corporation and global leader in sustainable seafood, who have decided to support this project that will improve the sustainability of the sea perch fisheries in Tokyo Bay. As part of the project, at the end of October 2016, Seiyu test marketed the “Tokyo Bay Sea Perch FIP” product in 4 stores in the Kanto area and received positive feedback from customers regarding the quality, freshness and the reasonable price of the products. Going forward, Seiyu will discuss its support for this project including continued “Tokyo Bay Sea Perch FIP” product sales in stores and project grant contribution.
 
@@ -32,9 +34,12 @@ As a first step in the project, Ocean Outcomes collaborated with Kaiko Bussan to
 
 **Additional Resources:**
 [Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/2016+11+10+Tokyo+Bay+FIP+Launch+ENG+final.pdf)
-Kaiko Bussan, Inc. website（http://www.daidenmaru.com )
-Seafood Legacy Co., Ltd. website（http://www.seafoodlegacy.com/ja/）
-Seiyu GK website（http://www.seiyu.co.jp）
+
+[Kaiko Bussan, Inc. website]（http://www.daidenmaru.com)
+
+[Seafood Legacy Co., Ltd. website]（http://www.seafoodlegacy.com/ja/)
+
+[Seiyu GK website]（http://www.seiyu.co.jp)
 
 ----
 **Media Photos**
