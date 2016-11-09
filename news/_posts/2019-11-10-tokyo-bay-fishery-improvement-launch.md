@@ -18,19 +18,19 @@ Tokyo Bay is a major fishing ground for sea perch and a historically and cultura
 
 As a first step in the project, Ocean Outcomes collaborated with Kaiko Bussan to complete an assessment of current fishing practices calibrated against internationally recognized best practices standards. The assessment found opportunities to modify fishing practices and gather additional data as steps which could better inform fisheries management and lead to more sustainable practices overall. These opportunities, described in detail in the FIP work plan, include plans to better monitor bycatch of endangered, threatened, and protected species, plans to collect fishery data to better evaluate and monitor stock abundance, and a commitment to work towards a more collaborative management plan.
 
-**Below are comments from each organization regarding the launch of the FIP.** 
+----
 
-**Shunji Murakami (Ocean Outcome / Japan Program Director)**
-*“Launching the Tokyo Bay Sea Perch FIP is a monumental moment for the sustainable seafood movement in Japan. Improving fisheries practices benefits both marine resources and fishing communities.”
+####Below are comments from each organization regarding the launch of the FIP:####
 
-**Kazuhiko Oono (Kaiko Bussan, Inc. / President and CEO)**
-*“Fishery improvement, while a new concept for Japanese fishermen, makes sense. We harvest, process, and sell the sea perch we catch, so our business is completely reliant on abundant sea perch resources. As the resource declines, so does our fishery. This project will ensure we’re harvesting the optimal amount of sea perch while not negatively affecting the amazing environment in which we work.”
+**Shunji Murakami (Ocean Outcome / Japan Program Director)** - *“Launching the Tokyo Bay Sea Perch FIP is a monumental moment for the sustainable seafood movement in Japan. Improving fisheries practices benefits both marine resources and fishing communities.”
 
-**Wakao Hanaoka (Seafood Legacy Co., Ltd. / CEO and Founder)**
-*“Our hope for this project is to invigorate the Japanese market in a way that encourages cooperation amongst retailers and producers in the implementation of more sustainable fishing practices. This will benefit ocean ecosystems, businesses, fisheries, and local communities.” 
+**Kazuhiko Oono (Kaiko Bussan, Inc. / President and CEO)** - *“Fishery improvement, while a new concept for Japanese fishermen, makes sense. We harvest, process, and sell the sea perch we catch, so our business is completely reliant on abundant sea perch resources. As the resource declines, so does our fishery. This project will ensure we’re harvesting the optimal amount of sea perch while not negatively affecting the amazing environment in which we work.”
 
-**Kumie Wama (Seiyu GK / Vice President of Corporate Affairs)**
-*“Responsible and sustainable fishing practices, which the participants of “Tokyo Bay Sea Perch FIP” have committed to undertake, are very important for the future of marine resources in Japan. As a company that relies on shared marine resources, we consider it our corporate social responsibility to provide environmentally friendly products to our consumers.”
+**Wakao Hanaoka (Seafood Legacy Co., Ltd. / CEO and Founder)** - *“Our hope for this project is to invigorate the Japanese market in a way that encourages cooperation amongst retailers and producers in the implementation of more sustainable fishing practices. This will benefit ocean ecosystems, businesses, fisheries, and local communities.” 
+
+**Kumie Wama (Seiyu GK / Vice President of Corporate Affairs)** - *“Responsible and sustainable fishing practices, which the participants of “Tokyo Bay Sea Perch FIP” have committed to undertake, are very important for the future of marine resources in Japan. As a company that relies on shared marine resources, we consider it our corporate social responsibility to provide environmentally friendly products to our consumers.”
+
+----
 
 **Additional Resources:**
 
