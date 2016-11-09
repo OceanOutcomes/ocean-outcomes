@@ -19,8 +19,9 @@ Tokyo Bay is a major fishing ground for sea perch and a historically and cultura
 As a first step in the project, Ocean Outcomes collaborated with Kaiko Bussan to complete an assessment of current fishing practices calibrated against internationally recognized best practices standards. The assessment found opportunities to modify fishing practices and gather additional data as steps which could better inform fisheries management and lead to more sustainable practices overall. These opportunities, described in detail in the FIP work plan, include plans to better monitor bycatch of endangered, threatened, and protected species, plans to collect fishery data to better evaluate and monitor stock abundance, and a commitment to work towards a more collaborative management plan.
 
 ----
-
-###Below are comments from each organization regarding the launch of the FIP:### 
+![Tokyo Bay Sea Perch FIP Stakeholders]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+press+release+logos.png)
+###Below are comments from each organization regarding the launch of the FIP: 
 
 
 **Shunji Murakami (Ocean Outcome / Japan Program Director)** - “Launching the Tokyo Bay Sea Perch FIP is a monumental moment for the sustainable seafood movement in Japan. Improving fisheries practices benefits both marine resources and fishing communities.”
