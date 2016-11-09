@@ -12,7 +12,22 @@ BODY TEXT
 
 ----
 
-![Salmon Poaching and IUU in Russia]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/sakhalin-salmon-fishery-1.jpg)
-[Right click here and "Save Link As" to download.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/sakhalin-salmon-fishery-1.jpg)
+![Tokyo Bay sea perch seafood for sale]
+(	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+[Right click here and "Save Link As" to download.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+
+
+![Tokyo Bay sea perch seafood for sale]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
+[Right click here and "Save Link As" to download.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
+
+
+![Tokyo Bay sea perch fishermen]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+3.png)
+[Right click here and "Save Link As" to download.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+3.png)
+
+
+![Tokyo Bay sea perch fishing boat]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+4.png)
+[Right click here and "Save Link As" to download.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+4.png)
 
