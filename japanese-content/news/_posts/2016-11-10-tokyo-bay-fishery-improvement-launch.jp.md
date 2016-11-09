@@ -1,6 +1,6 @@
 ---
 layout: news
-title:  『東京湾スズキ漁FIP』プレスリリース内容日本初、漁業改善プロジェクト（Fishery Improvement Project）
+title: 『東京湾スズキ漁FIP』プレスリリース内容日本初、漁業改善プロジェクト（Fishery Improvement Project）
 date: 2016-11-10
 teaser-text: 企業、漁業者、NGOが協力して、日本初となる『東京湾スズキ漁FIP』を開始東アジアにおける持続可能な水産物の提供に向けた取り組み
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg
@@ -34,7 +34,7 @@ featured: TRUE
 
 **追加情報：**
 
-[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/2016+11+10+Tokyo+Bay+FIP+Launch+JPN+final.pdf)
+[この発表のPDF版をダウンロードする] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/2016+11+10+Tokyo+Bay+FIP+Launch+JPN+final.pdf)
 
 <a href="http://www.daidenmaru.com" target="_blank">海光物産株式会社サイト</a>
 
