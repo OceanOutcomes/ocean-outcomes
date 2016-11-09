@@ -2,7 +2,7 @@
 layout: page 
 title: Tokyo Bay Sea Perch FIP
 landing-image:
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/west-kam-comment-period-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg
 subtitle:
 weight: 
 teaser-text:
