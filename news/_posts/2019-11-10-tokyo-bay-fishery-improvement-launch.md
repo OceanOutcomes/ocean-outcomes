@@ -3,7 +3,7 @@ layout: news
 title:  First Ever Fishery Improvement Project Launched in Japan
 date: 2016-11-10
 teaser-text: Sustainable seafood movement gains traction in East Asia as industry, NGOs, and fishermen come together to launch the Tokyo Bay Sea Perch FIP, the first project of its kind in Japan.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/board-launch-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg
 featured: TRUE
 ---
 ###HEADER
