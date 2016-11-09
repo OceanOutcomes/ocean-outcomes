@@ -43,24 +43,24 @@ featured: TRUE
 <a href="http://www.seiyu.co.jp" target="_blank">合同会社西友サイト</a>
 
 ----
-**Media Photos**
+**関連画像**
 
 ![Tokyo Bay sea perch seafood for sale]
 (	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
-[Right click here and "Save Link As" to download. © Seiyu] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+[ダウンロードするには右クリックして「名前を付けてリンク先を保存」をお選びください © Seiyu] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
 
 
 ![Tokyo Bay sea perch seafood for sale]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
-[Right click here and "Save Link As" to download. © Seiyu] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
+[ダウンロードするには右クリックして「名前を付けてリンク先を保存」をお選びください © Seiyu] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
 
 
 ![Tokyo Bay sea perch fishermen]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+3.png)
-[Right click here and "Save Link As" to download. © Kaiko Bussan] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+3.png)
+[ダウンロードするには右クリックして「名前を付けてリンク先を保存」をお選びください © Kaiko Bussan] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+3.png)
 
 
 ![Tokyo Bay sea perch fishing boat]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+4.png)
-[Right click here and "Save Link As" to download. © Kaiko Bussan] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+4.png)
+[ダウンロードするには右クリックして「名前を付けてリンク先を保存」をお選びください © Kaiko Bussan] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+4.png)
 
