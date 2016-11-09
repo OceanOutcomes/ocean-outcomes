@@ -21,8 +21,6 @@ As a first step in the project, Ocean Outcomes collaborated with Kaiko Bussan to
 ----
 ![Tokyo Bay Sea Perch FIP Stakeholders]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+press+release+logos.png)
-###Below are comments from each organization regarding the launch of the FIP: 
-
 
 **Shunji Murakami (Ocean Outcome / Japan Program Director)** - “Launching the Tokyo Bay Sea Perch FIP is a monumental moment for the sustainable seafood movement in Japan. Improving fisheries practices benefits both marine resources and fishing communities.”
 
