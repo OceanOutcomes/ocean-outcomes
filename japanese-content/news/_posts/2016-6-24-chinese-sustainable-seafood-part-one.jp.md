@@ -5,7 +5,7 @@ date: 2016-6-24
 teaser-text: 中国は全世界の水産物生産の35％を占める一方で、2位以下の10国の合計よりも多い水産物を消費
 subtitle: 中国1国で2位以下の10国の合計よりも多い水産物を消費　
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/opportunities-seafood-china-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 <h3>昨夏、中国の株式市場は30％以上も下落しました。</h3>
 
