@@ -8,7 +8,7 @@ hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/he
 teaser-text:
 permalink: /vision-and-mission/
 ---
-<h2>M持続可能な漁業を増やす</h2>
+<h2>持続可能な漁業を増やす</h2>
 
 O2はリスクの高い漁業の改善にグローバルにまい進しています。このような漁業は最も深刻な持続可能性の問題を抱えていますが、改善により最も大きな効果が期待できます。商業漁業者と手を携え改善計画を策定し、目標を達成できるよう彼らに寄り添い支援していきます。
 
