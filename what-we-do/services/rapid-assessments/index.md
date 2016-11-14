@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Japan Rapid Assessments
+title: Rapid Assessments
 landing-image:
 hero-image:
 weight: 1
