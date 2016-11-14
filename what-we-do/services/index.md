@@ -28,7 +28,7 @@ As an organization founded on helping commercial fisheries become more sustainab
 
 ##### Fishery Assessments 
  
-Get a clear and science-backed understanding of any fishery, against any of the leading certification standards. We conduct Seafood Watch assessments, Marine Stewardship Council pre-assessments, and have [developed our own Rapid Assessment method] (/initiatives/japanese-fisheries/rapid-assessments/) as a time and cost efficient method for evaluating a fishery’s ecological sustainability and identifying major sustainability issues.
+Get a clear and science-backed understanding of any fishery, against any of the leading certification standards. We conduct Seafood Watch assessments, Marine Stewardship Council pre-assessments, and have [developed our own Rapid Assessment method] (/what-we-do/services/rapid-assessments/) as a time and cost efficient method for evaluating a fishery’s ecological sustainability and identifying major sustainability issues.
 
 ----
 
