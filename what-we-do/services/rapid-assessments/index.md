@@ -5,15 +5,30 @@ landing-image:
 hero-image:
 weight: 1
 teaser-text:
-subtitle: We conducted eleven rapid assessments of strategically important Japanese fishery species to better articulate the Japanese fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species.
+subtitle: We conduct rapid assessments of strategically important fishery species to better articulate the fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species.
 ---
-##These assessments will help inform policy, management, funding, and the direction of sustainable seafood work in Japan.
-We developed a rapid assessment protocol based on a select group of 19 performance indicators within the three Marine Stewardship Council (MSC) principles. Using this new protocol we conducted the assessments with information from stock assessments conducted by scientists at the Fisheries Research Agency of Japan (FRA) and from policy documents posted by the Japan Fisheries Agency (JFA).
+##These assessments will help inform policy, management, funding, and the direction of sustainable seafood work across the globe.
 
-This methodology is the first of it’s kind and is designed to be faster and cheaper than other assessment processes, and it provides a comprehensive baseline to inform the direction of sustainable seafood work in Japan. A complete explanation of this methodology and the results of the rapid assessments can be found below.
+We developed a rapid assessment protocol based on a select group of 19 especially predictive performance indicators within the three Marine Stewardship Council (MSC) principles. Using this protocol we can quickly assess any fishery, providing a clear map of the certification likelihood and fishery improvement potential, which we’ve summarized below. This efficient and cost-effective assessment method is less ponderous than an MSC assessment, but still meets the Conservation Alliance for Sustainable Seafood requirements for a basic FIP and provides a great initial starting point when scoping a fishery.
 
-[![Methodology and Overview]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-000.jpeg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summaries+Page.pdf)
+----
+**MSC Fisheries Standard:**
+
+**Principle 1:** Sustainable fish stocks - The fishing activity must be at a level which ensures it can continue indefinitely
+
+**Principle 2:** Minimizing environmental impact - Fishing operations must be managed to maintain the structure, productivity, function, and diversity of the ecosystem
+
+**Principle 3:** Effective management - The fishery must comply with relevant laws and have a management system that is responsive to changing circumstances
+
+----
+
+To conduct the rapid assessment we summarize fishery information within each MSC principle and assign a scoring range (0-40, 40-60, 60-80, 80-100) to each performance indicator (any score below 60 would cause the fishery to automatically fail the MSC assessment process). Many species are harvested by multiple gear types, so we conduct rapid assessments at a more general level rather than focusing on specific gear types. To conduct the assessments we use publicly available information from stock assessments, policy documents, and reports conducted by fishery scientists at government agencies and fisheries management organizations.
+
+Based on these information summaries, we identify key sustainability issues for each species and we make an initial determination as to fishery improvement opportunities and as to whether the fisheries for each species appeared suitable for MSC certification within the near term (roughly the next 5 years). Click the banners below to get the species summaries (complete rapid assessments available by request).
+
+----
+###Japanese Rapid Assessments###
+
 [![Japanese amberjack]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-001.jpg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summary+-+Amberjacks.pdf)
 [![Arabesque greenling]
@@ -37,4 +52,10 @@ This methodology is the first of it’s kind and is designed to be faster and ch
 [![Yellowfin tuna]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-011.jpg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summary+-+Yellowfin+tuna.pdf)
 
-[Download methodology/overview and all 11 rapid assessments as one PDF.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Japan+Rapid+Assessment+Summaries+January+2016.pdf)
+----
+###Russian Rapid Assessments###
+
+[![RUSSIAN SPECIES]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-001.jpg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summary+-+Amberjacks.pdf)
+[![RUSSIAN SPECIES]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-002.jpg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summary+-+Arabesque+greenling.pdf)
