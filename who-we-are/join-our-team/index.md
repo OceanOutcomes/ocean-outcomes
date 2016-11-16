@@ -37,6 +37,7 @@ We’re a small group with big goals working with fisheries across vast geograph
 Demand seafood, both fished and farmed, from sources which have minimal impact on the environment and/or are taking steps to become more sustainable. Need some guidance? Here are a few of our favorite places to get more info on how to purchase sustainable seafood.
   
  * <a href="http://www.asc-aqua.org/" target="_blank">Aquaculture Stewardship Council</a>
+ * <a href="http://fairtradeusa.org/certification/producers/seafood" target="_blank">FairTrade</a>
  * <a href="http://www.fishchoice.com/" target="_blank">FishChoice</a>
  * <a href="https://www.msc.org/" target="_blank">Marine Stewardship Council</a>
  * <a href="http://www.fishwatch.gov/" target="_blank">NOAA Fish Watch</a>
