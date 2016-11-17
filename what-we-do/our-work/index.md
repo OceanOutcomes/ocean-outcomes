@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fishery Projects
-subtitle: Our goal? More sustainable fisheries. Click the icons on the map to learn more.
+subtitle: Our goal? More sustainable fisheries
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
 weight: 1
 teaser-text: Our hands-on partnership approach helps fisheries achieve meaningful improvements and allows all stakeholders to reap the tangible benefits of sustainability.
@@ -16,6 +16,9 @@ teaser-text: Our hands-on partnership approach helps fisheries achieve meaningfu
 ##At Ocean Outcomes, we work hand in hand with commercial fisheries to help them become more sustainable.
 
 Our fishery improvement work addresses the full range of major fishery challenges contributing to the global fisheries crisis. These challenges include [Illegal, Unreported and Unregulated fishing (IUU)] (/initiatives/iuu/), overfishing, depletion of non-target stocks, habitat impacts, and management system issues such as inadequate monitoring. These issues represent serious risks to the sustainability and security of fisheries, food supplies, and human livelihoods.  
+
+[![Ocean Outcomes Sustainable Fishery Projects]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/view+all+fishery+projects+banner.jpg)] (http://www.oceanoutcomes.org/what-we-do/our-work/tokyo-bay-sea-perch/)
 
 ----
 
