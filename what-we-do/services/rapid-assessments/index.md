@@ -44,7 +44,9 @@ Using the complete rapid assessment we create one page species summaries which i
 ----
 ##Russian Rapid Assessments##
 
-[![RUSSIAN SPECIES]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-001.jpg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summary+-+Amberjacks.pdf)
-[![RUSSIAN SPECIES]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-002.jpg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summary+-+Arabesque+greenling.pdf)
+[![White scallop]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-012.jpg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summary+-+White+scallop.pdf)
+[![Yesso scallop]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-013.jpg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summary+-+Yesso+scallop.pdf)
+[![Pacific grey and black sea urchin]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Page-014.jpg)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Rapid+Assessments+Summary+-+Urchins.pdf)
