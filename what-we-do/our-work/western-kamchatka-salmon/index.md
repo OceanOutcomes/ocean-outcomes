@@ -24,9 +24,7 @@ The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the wester
 | Species: | sockeye (*Oncorhynchus nerka*), coho (*Oncorhynchus kisutch*) |
 | Gear Type: | coastal trap net, beach seines |
 | Volume: | 1,370 mt - *Volume taken from KamchatNIRO report, catches for coho and sockeye averaged over 2004 to 2015. Ozernaya sockeye and Kol coho were not included.* |
-| Project Documents: | <a href="	
-https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">Preassessment</a> / <a href="	
-https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamWorkplan2016.pdf" target="_blank">Workplan</a> |
+| Project Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">Preassessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamWorkplan2016.pdf" target="_blank">Workplan</a> |
 
 ---
 
