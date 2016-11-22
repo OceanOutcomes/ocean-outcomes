@@ -4,14 +4,16 @@ title: Salmon FIP Tracker
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/tracker-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/trackerhero.jpg
 weight: 5
-subtitle: Tracking and verifying credible improvements in salmon fisheries 
-teaser-text: The Salmon FIP Tracker is an online tool that provides stakeholders with easily accessible information on the sustainability status of a fishery and progress being made toward fishery improvement goals.
+subtitle: Tracking and verifying credible improvements in Pacific salmon fisheries 
+teaser-text: We developed the Salmon FIP Tracker to provide salmon fishery stakeholders with easily accessible information on the sustainability status of global salmon fisheries.
 ---
-## The Salmon FIP Tracker provides stakeholders with easily accessible information on the sustainability status of a fishery and progress being made toward fishery improvement goals. 
+## The first of it’s kind, we developed and launched the Salmon FIP Tracker in 2013.
 
-While it contains information on all the major Pacific salmon fisheries, the focus of the Tracker is on fisheries in the improvement process. 
+The platform tracked Pacific salmon fisheries across the globe, providing stakeholders with easily accessible information on both the sustainability of a salmon fishery and any progress being made within that fishery towards larger sustainability goals.
 
-This tool allows buyers and conservation advocates to verify fisheries’ improvement claims and track the progress of individual fisheries online. It helps ensure that only the fisheries living up to their sustainability commitments reap rewards in the sustainable seafood marketplace.
+**With the recent launch of <a href="http://fisheryprogress.org/" target="_blank">Fisheryprogress.org</a>, a one-stop shop for information on the progress of global fishery improvement projects, we’ve decommissioned our Salmon FIP Tracker.**
 
-[Visit the Tracker to verify and track improvement claims of salmon fisheries across the Pacific.] (http://www.salmonfippartnership.org/fip) 
+Fisheryprogress.org is a collaboration of the <a href="http://www.solutionsforseafood.org/" target="_blank">Conservation Alliance for Seafood Solutions</a> and the platform has near-ubiquitous buy-in across industry, NGOs, and others working in fishery improvement. As a member of the Conservation Alliance for Seafood Solutions, we’re now tracking our projects on Fisheryprogress.org. 
+
+There is still a lot of detailed information on salmon fisheries worth exploring, [so we’re leaving our Salmon FIP Tracker online] (http://www.salmonfippartnership.org/fip), but it’s no longer actively maintained.
 		
