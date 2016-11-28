@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fishery Projects
-subtitle: Our goal? More sustainable fisheries
+subtitle: Our goal? More sustainable fisheries.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
 weight: 1
 teaser-text: Our hands-on partnership approach helps fisheries achieve meaningful improvements and allows all stakeholders to reap the tangible benefits of sustainability.
