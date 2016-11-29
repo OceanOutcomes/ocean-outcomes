@@ -4,14 +4,7 @@ bodyclass: news
 ---
 <div class="post">
   {% include content-header.html %}
-
-  <section class="meta">
-    <p class="meta-data">
-      {% include parent_title.html %}
-      <a href="{{parent_url}}">&laquo {%t back-to %} {{parent_title}}</a>
-    </p>
-  </section>
-
+  
   <article class="post-content">
     {% if page.hero-image %}
     <section class="post-image">
