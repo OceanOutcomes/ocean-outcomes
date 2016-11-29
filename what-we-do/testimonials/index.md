@@ -1,5 +1,5 @@
 ---
-layout: action-landing
+layout: testimonial-landing
 title: Testimonials
 weight: 3
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/success-stories-hover.jpg
