@@ -2,17 +2,3 @@
 layout: default
 bodyclass: news
 ---
-<div class="post">
-  {% include content-header.html %}
-  
-  <article class="post-content">
-    {% if page.hero-image %}
-    <section class="post-image">
-      <img src="{{page.hero-image}}" alt="{{page.title}}">
-    </section>
-    {% endif %}
-    <section class="article-content"> 
-      {{ content }}
-    </section>
-  </article>
-</div>
