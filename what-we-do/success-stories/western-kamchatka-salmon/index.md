@@ -63,3 +63,7 @@ The Western Kamchatka Salmon FIP demonstrates commercial fishermen can be an eff
 > "Sustainability is a growing worldwide phenomenon,” says Andrei Bokov, Chief Technologist for Vityaz-Avto and Delta. “More and more seafood companies are looking for new sources of sustainable seafood, and Russia can meet this demand.”
 
 If conservation advocates and fishing companies are able to identify shared interests and forge effective working relationships to address them, fishery improvement projects can deliver real and meaningful sustainability improvements.
+
+-----
+
+[**< Back to Success Stories.**] (/what-we-do/success-stories/)
