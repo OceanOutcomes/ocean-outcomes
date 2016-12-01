@@ -66,4 +66,4 @@ If conservation advocates and fishing companies are able to identify shared inte
 
 -----
 
-[**< Back to Success Stories.**] (/what-we-do/success-stories/)
+[*< Back to Success Stories*] (/what-we-do/success-stories/)
