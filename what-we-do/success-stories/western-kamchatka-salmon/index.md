@@ -19,7 +19,7 @@ And the odds are that you have eaten some of it. Most of the fishery’s product
 Ocean Outcomes launched the <a href="http://oceanoutcomes.org/what-we-do/our-work/western-kamchatka-salmon/" target="_blank">Western Kamchatka Salmon fishery improvement project (FIP)</a> with a 2014 assessment of the fishery’s environmental sustainability. But our work in the region began much earlier. While still a program of the Wild Salmon Center, we began working on the ground with Kamchatka’s leading fishing companies as early as 2008 in a project that ultimately led to the successful certification of the Ozernaya sockeye fishery. Those relationships continue to serve as the foundation for the FIP’s ongoing work.
 
 ----
-**Learn More:**
+**Related Material:**
 
 * <a href="http://oceanoutcomes.org/what-we-do/our-work/western-kamchatka-salmon/" target="_blank">Western Kamchatka Salmon FIP profile</a>
 * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">2014 Western Kamchatka pre-assessment</a>
@@ -48,7 +48,7 @@ The fishery’s assessment showed concerning evidence of illegal fishing by both
 ![Russian Anti IUU Poaching Efforts in the Russian Far East] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/anti-poaching-fence-teardown.jpg)
 *Anti-poaching brigades teardown chain fences put in place by poachers* 
 
-Efforts to address escapement, poaching, and other priorities are bolstered by the contributions of [independent observers] (/initiatives/iuu/observers/). Because the FIP has developed effective working relationships with Vityaz-Avto and Delta, independent observers now routinely accompany both companies in the field to observe fishing operations. Since both companies are vertically integrated, these relationships also grant independent observers access to both companies’ processing facilities, to assess the progress of sustainability efforts after the catch, as well. Observers also record what they observe, entering data that helps to promote traceability and deter illegal, unreported, and unregulated fishing.
+[Efforts to address escapement, poaching, and other priorities are bolstered by the contributions of independent observers] (/initiatives/iuu/observers/). Because the FIP has developed effective working relationships with Vityaz-Avto and Delta, independent observers now routinely accompany both companies in the field to observe fishing operations. Since both companies are vertically integrated, these relationships also grant independent observers access to both companies’ processing facilities, to assess the progress of sustainability efforts after the catch, as well. Observers also record what they observe, entering data that helps to promote traceability and deter illegal, unreported, and unregulated fishing.
 
 Independent observers are not police, but they are always watching, making notes, and asking questions. They ask about the gear used to bring in the day’s catch, the handling of non-target species, and dozens of other issues. And, because the FIP has built productive relationships with industry and works hard to maintain them, they get answers.
 
