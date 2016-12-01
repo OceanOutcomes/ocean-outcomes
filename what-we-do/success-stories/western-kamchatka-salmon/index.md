@@ -7,14 +7,14 @@ weight: 1
 ---
 ###Directly across the Bering Sea from Alaska, Kamchatka has a similar rugged natural beauty. 
 
-Home to brown bears, the expansive landscape includes some of the world’s largest geyser fields, more than 30 active volcanoes, and so many rivers and streams they don’t have a reliable count. Though the hunting, fishing, and trekking bring visitors from all over the world, Kamchatka has a very small permanent population; although it’s a peninsula, it kind of feels like an island.
+The expansive landscape is home to brown bears, and it includes some of the world’s largest geyser fields, more than 30 active volcanoes, and so many rivers and streams there isn't a reliable count. Though the hunting, fishing, and trekking bring visitors from all over the world, Kamchatka has a very small permanent population; although it’s a peninsula, it kind of feels like an island.
 
 Commercial salmon fishing is an anchor of the region’s economy. The fishing season usually begins in late June and lasts just a few months. But during that short window, Kamchatka salmon fishing operations yield about 140,000 metric tons of salmon.
 
 And the odds are that you have eaten some of it. Most of the fishery’s product is sent for processing in Japan, Korea, and China. From there, it is sold throughout the world, including to buyers in the United States and Canada markets, reaching consumers through restaurants, hotels, and retailers like Whole Foods.
 
-![Russian Sockeye Salmon For Sale at Whole Foods] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/satelliteinfractions.jpg)
-*An advertisement for Russian sockeye salmon at a Whole Foods*
+![Russian Sockeye Salmon For Sale at Whole Foods] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/western-kam-success-salmon-whole-foods.jpg)
+*Russian sockeye salmon advertised at a Whole Foods*
 
 Ocean Outcomes launched the <a href="http://oceanoutcomes.org/what-we-do/our-work/western-kamchatka-salmon/" target="_blank">Western Kamchatka Salmon fishery improvement project (FIP)</a> with a 2014 assessment of the fishery’s environmental sustainability. But our work in the region began much earlier. While still a program of the Wild Salmon Center, we began working on the ground with Kamchatka’s leading fishing companies as early as 2008 in a project that ultimately led to the successful certification of the Ozernaya sockeye fishery. Those relationships continue to serve as the foundation for the FIP’s ongoing work.
 
@@ -43,8 +43,8 @@ With this critical step in place, the FIP and fishing companies were able to eff
 
 The fishery’s assessment showed concerning evidence of illegal fishing by both commercial fishermen and in river poachers with horror stories of rotting carcasses, discarded buckets of caviar, and illegal Chinese made gillnets. For the FIP’s fishing company partners, this was a sensitive and concerning topic. But because we had established trusted relationships with industry partners, the FIP participants were able to get past any initial defensiveness and finger-pointing and begin earnest conversations about a coordinated poaching prevention effort. Today, Vityaz-Avto and Delta lead a joint effort to organize, fund, and dispatch anti-poaching brigades in the region. These patrols are now a well-known fixture along the Western Kamchatka coastline, with teams traveling up and down Kamchatka’s rivers in search of poaching activity. Today, the FIP efforts have produced the desired result: making poaching more difficult and less prevalent.
 
-![Russian Anti IUU Poaching Efforts in the Russian Far East] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/satelliteinfractions.jpg)
-*An advertisement for Russian sockeye salmon at a Whole Foods*
+![Russian Anti IUU Poaching Efforts in the Russian Far East] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/anti-poaching-fence-teardown.jpg)
+*Anti-poaching brigades teardown chain fences put in place by poachers*
  
 Efforts to address escapement, poaching, and other priorities are bolstered by the contributions of [independent observers] (/initiatives/iuu/observers/). Because the FIP has developed effective working relationships with Vityaz-Avto and Delta, independent observers now routinely accompany both companies in the field to observe fishing operations. Since both companies are vertically integrated, these relationships also grant independent observers access to both companies’ processing facilities, to assess the progress of sustainability efforts after the catch, as well. Observers also record what they observe, entering data that helps to promote traceability and deter illegal, unreported, and unregulated fishing.
 
