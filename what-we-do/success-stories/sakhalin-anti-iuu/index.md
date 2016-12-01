@@ -26,3 +26,7 @@ With IUU curbed, and with technical support from O2 staff, the Northeast Sakhali
 Decreased in-river poaching, coupled with increased accountability in commercial fisheries, contributed to a dramatic bump in salmon returns in NE Sakhalin, returns which have now leveled off and remain at a stable level. This is in sharp contrast to other regions of Sakhalin where pink salmon returns have dramatically declined in recent years. 
 
 While still ongoing, the efforts and initiatives taken in NE Sakhalin have proven that improvement projects can deliver both environmental and commercial benefits for the environment, fishermen, and their communities.
+
+-----
+
+[<< Back to Success Stories] (/what-we-do/success-stories/)
