@@ -22,8 +22,8 @@ Ocean Outcomes launched the <a href="http://oceanoutcomes.org/what-we-do/our-wor
 **Learn More:**
 
 * <a href="http://oceanoutcomes.org/what-we-do/our-work/western-kamchatka-salmon/" target="_blank">Western Kamchatka Salmon FIP profile</a>
+* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">2014 Western Kamchatka pre-assessment</a>
 * <a href="https://www.wildsalmoncenter.org/2012/09/04/asia-sockeye-msc/" target="_blank">Ozernaya Sockeye salmon MSC certification announcement</a>
-* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">2014 Pre-assessment</a>
 
 ----
 
@@ -47,19 +47,19 @@ The fishery’s assessment showed concerning evidence of illegal fishing by both
 
 ![Russian Anti IUU Poaching Efforts in the Russian Far East] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/anti-poaching-fence-teardown.jpg)
 *Anti-poaching brigades teardown chain fences put in place by poachers* 
- 
+
 Efforts to address escapement, poaching, and other priorities are bolstered by the contributions of [independent observers] (/initiatives/iuu/observers/). Because the FIP has developed effective working relationships with Vityaz-Avto and Delta, independent observers now routinely accompany both companies in the field to observe fishing operations. Since both companies are vertically integrated, these relationships also grant independent observers access to both companies’ processing facilities, to assess the progress of sustainability efforts after the catch, as well. Observers also record what they observe, entering data that helps to promote traceability and deter illegal, unreported, and unregulated fishing.
 
 Independent observers are not police, but they are always watching, making notes, and asking questions. They ask about the gear used to bring in the day’s catch, the handling of non-target species, and dozens of other issues. And, because the FIP has built productive relationships with industry and works hard to maintain them, they get answers.
 
-###Ask us what we’re proudest of, and you’ll us talk about the people. 
+###Ask us what we’re proudest of, and you’ll hear us talk about the people. 
 
 The FIP’s closest industry relationships are with the company’s managers, but they still get to work regularly with line workers on the rivers and in processing facilities. These professionals are always running at full speed, often doing more than one job and constantly being pulled in different directions. Yet we see their commitment to sustainability every day, as they are willing to take on more work and more complex work to protect the future of the resource on which they and their families depend. “We don’t care who you are,” she recalls one manager saying. “We see that you’re here to protect the fish, so we know you’re on our side and you’re helping us do a better job.”
 
-And, together, they are doing a better job, and their work is delivering real results. Three Kamchatka salmon fisheries were recently certified as sustainable by the Marine Stewardship Council (MSC). Observers have documented significant reductions in illegal fishing, and MSC cited stronger regulatory enforcement and improved traceability while certifying these fisheries. While MSC pointed to the need for even more progress on escapement rate monitoring, certification is an important indicator of meaningful progress.
+And, together, they are doing a better job, and their work is delivering real results. [Three Kamchatka salmon fisheries were recently certified as sustainable by the Marine Stewardship Council (MSC)] (/news/west-kam-certification/). Observers have documented significant reductions in illegal fishing, and MSC cited stronger regulatory enforcement and improved traceability while certifying these fisheries. While MSC pointed to the need for even more progress on escapement rate monitoring, certification is an important indicator of meaningful progress.
 
 The Western Kamchatka Salmon FIP demonstrates commercial fishermen can be an effective partner in driving real change on the water. In fact, to deliver real change on the water, industry has to be at the table. And the Western Kamchatka Salmon FIP shows that industry has a business interest in making fisheries more sustainable.
 
-"Sustainability is a growing worldwide phenomenon,” says Andrei Bokov, Chief Technologist for Vityaz-Avto and Delta. “More and more seafood companies are looking for new sources of sustainable seafood, and Russia can meet this demand.”
+> "Sustainability is a growing worldwide phenomenon,” says Andrei Bokov, Chief Technologist for Vityaz-Avto and Delta. “More and more seafood companies are looking for new sources of sustainable seafood, and Russia can meet this demand.”
 
 If conservation advocates and fishing companies are able to identify shared interests and forge effective working relationships to address them, fishery improvement projects can deliver real and meaningful sustainability improvements.
