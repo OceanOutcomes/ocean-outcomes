@@ -21,9 +21,9 @@ Ocean Outcomes launched the <a href="http://oceanoutcomes.org/what-we-do/our-wor
 ----
 **Learn More:**
 
-* <a href="http://www.w3schools.com" target="_blank">Visit W3Schools</a>2014 fishery assessment
-* <a href="http://www.w3schools.com" target="_blank">Visit W3Schools</a>Link to ozernaya salmon fip tracker profile
-* <a href="http://www.w3schools.com" target="_blank">Visit W3Schools</a>Link to
+* <a href="http://oceanoutcomes.org/what-we-do/our-work/western-kamchatka-salmon/" target="_blank">Western Kamchatka Salmon FIP profile</a>
+* <a href="https://www.wildsalmoncenter.org/2012/09/04/asia-sockeye-msc/" target="_blank">Ozernaya Sockeye salmon MSC certification announcement</a>
+* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">2014 Pre-assessment</a>
 
 ----
 
@@ -33,7 +33,9 @@ The FIP’s assessment confirmed that the fishery had, on the whole, been well-m
 
 “Escapement” is exactly what it sounds like – a measure of the number of salmon that escape fishing to reach their upriver spawning grounds. Below-target escapement is a sustainability risk for the most basic of reasons – it means there just aren’t enough fish returning to spawn to replace the ones caught by fishing operations. The assessment identified the need for the FIP to prioritize strengthening management to improve escapement goals. While the fishery-wide data was not concerning, river-specific escapement information was often unavailable. Because salmon return to the river where they were born to spawn, stocks are river-specific, so attention to each river’s specific escapement rates was essential to ensuring the fishery’s sustainability overall.
 
-Poaching was a different story. While some rivers had been spared the worst effects of poaching due to their remote location, many salmon populations were still being hammered by illegal fishing. Types of illegal fishing ran the gamut from out-of-season fishing to operations that employed unsanctioned gear to teams of in river caviar poachers stripping females in the spawning grounds. 
+###Poaching was a different story. 
+
+While some rivers had been spared the worst effects of poaching due to their remote location, many salmon populations were still being hammered by illegal fishing. Types of illegal fishing ran the gamut from out-of-season fishing to operations that employed unsanctioned gear to teams of in river caviar poachers stripping females in the spawning grounds. 
 
 Our approach to these issues is characteristic of an effective FIP- cultivating trusted relationships with fishing companies and pursuing reforms in partnership with industry. The Western Kamchatka Salmon FIP has consistently worked with two key fishing industry partners: Vityaz-Avto Ltd. and Delta Ltd., which are the two major players in the region, with prominent brands accounting for a significant share of Kamchatka’s typical annual salmon yield.
 
@@ -44,7 +46,7 @@ With this critical step in place, the FIP and fishing companies were able to eff
 The fishery’s assessment showed concerning evidence of illegal fishing by both commercial fishermen and in river poachers with horror stories of rotting carcasses, discarded buckets of caviar, and illegal Chinese made gillnets. For the FIP’s fishing company partners, this was a sensitive and concerning topic. But because we had established trusted relationships with industry partners, the FIP participants were able to get past any initial defensiveness and finger-pointing and begin earnest conversations about a coordinated poaching prevention effort. Today, Vityaz-Avto and Delta lead a joint effort to organize, fund, and dispatch anti-poaching brigades in the region. These patrols are now a well-known fixture along the Western Kamchatka coastline, with teams traveling up and down Kamchatka’s rivers in search of poaching activity. Today, the FIP efforts have produced the desired result: making poaching more difficult and less prevalent.
 
 ![Russian Anti IUU Poaching Efforts in the Russian Far East] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/anti-poaching-fence-teardown.jpg)
-*Anti-poaching brigades teardown chain fences put in place by poachers*
+*Anti-poaching brigades teardown chain fences put in place by poachers* 
  
 Efforts to address escapement, poaching, and other priorities are bolstered by the contributions of [independent observers] (/initiatives/iuu/observers/). Because the FIP has developed effective working relationships with Vityaz-Avto and Delta, independent observers now routinely accompany both companies in the field to observe fishing operations. Since both companies are vertically integrated, these relationships also grant independent observers access to both companies’ processing facilities, to assess the progress of sustainability efforts after the catch, as well. Observers also record what they observe, entering data that helps to promote traceability and deter illegal, unreported, and unregulated fishing.
 
