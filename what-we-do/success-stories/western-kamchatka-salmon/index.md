@@ -2,7 +2,7 @@
 layout: action
 title:  Ensuring Sustainable Fisheries Flourish in Kamchatka
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/west-kam-comment-period-hero.jpg
-teaser-text: Kamchatka is home to brown bears, expansive landscapes and geyser fields, more than 30 active volcanoes, countless rivers and streams, and some of the most abundant salmon fisheries earth.
+teaser-text: Kamchatka is home to brown bears, expansive landscapes and geyser fields, more than 30 active volcanoes, countless rivers and streams, and some of the most abundant salmon fisheries on earth.
 weight: 1
 ---
 ###Directly across the Bering Sea from Alaska, Kamchatka has a similar rugged natural beauty. 
