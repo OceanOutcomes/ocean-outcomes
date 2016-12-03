@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Catch Tracking System (CTS)
-subtitle: Securing the chain of custody from point of harvest to primary processor
+subtitle: Securing the chain of custody from point of harvest to primary processor.
 landing-image: 	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/catchtrackinghover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/catchtrackinghero.jpg
 weight: 2

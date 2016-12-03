@@ -3,6 +3,7 @@ layout: action
 title:  "Reenvisioning the World’s Largest Chum Salmon Fishery"
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/hokkaidosuccesshero.jpg
 teaser-text: Not many people know that one of the planet’s biggest salmon runs can be found in northern Japan.
+weight: 3
 ---
 ##Not many people know that one of the planet’s biggest salmon runs can be found in northern Japan.
 
@@ -25,3 +26,7 @@ Connected to these efforts to improve the Hokkaido chum fishery, the [Shiretoko]
 ![Japan Dam Removal Comparisons Before and After] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/damremoval.jpg)
 
 While the progress to date should be applauded, more work remains to improve the situation for wild fish in Japan.  While the Hokkaido Fishery Cooperative ultimately left the MSC program, it is currently considering launching a formal, public Fishery Improvement Project (FIP), which would lay out the next steps in improving this globally important fishery.
+
+-----
+
+[<< Back to Success Stories] (/what-we-do/success-stories/)
