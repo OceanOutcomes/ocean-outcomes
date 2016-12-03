@@ -14,7 +14,7 @@ Commercial salmon fishing is an anchor of the region’s economy. The fishing se
 And the odds are that you have eaten some of it. Most of the fishery’s product is sent for processing in Japan, Korea, and China. From there, it is sold throughout the world, including to buyers in the United States and Canada markets, reaching consumers through restaurants, hotels, and retailers like Whole Foods.
 
 ![Russian Sockeye Salmon For Sale at Whole Foods] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/western-kam-success-salmon-whole-foods.jpg)
-*Russian sockeye salmon advertised at a Whole Foods*
+*Russian sockeye salmon advertised at a Whole Foods Market*
 
 Ocean Outcomes launched the <a href="http://oceanoutcomes.org/what-we-do/our-work/western-kamchatka-salmon/" target="_blank">Western Kamchatka Salmon fishery improvement project (FIP)</a> with a 2014 assessment of the fishery’s environmental sustainability. But our work in the region began much earlier. While still a program of the Wild Salmon Center, we began working on the ground with Kamchatka’s leading fishing companies as early as 2008 in a project that ultimately led to the successful certification of the Ozernaya sockeye fishery. Those relationships continue to serve as the foundation for the FIP’s ongoing work.
 
