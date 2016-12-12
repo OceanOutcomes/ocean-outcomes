@@ -1,7 +1,7 @@
 <footer class="site-footer">
   <div class="wrap">
+    {% unless page.lang contains "ru" or page.lang contains "jp" or page.lang contains "zh" %}
     <ul>
-      {% unless page.lang contains "ru" or page.lang contains "jp" or page.lang contains "zh" %}
       <li><a href="{{ site.baseurl}}/who-we-are/">{%t who-we-are %}</a></li>
       <li><a href="{{ site.baseurl}}/what-we-do/">{%t what-we-do %}</a></li>
       <li><a href="{{ site.baseurl}}/initiatives/">{%t initiatives %}</a></li>
@@ -9,8 +9,8 @@
       <li><a href="{{ site.baseurl}}/contact/">{%t contact-us %}</a></li>
       <li><a href="{{ site.baseurl}}/initiatives/supply-chain/tracker/">{%t tracker %}</a></li>
       <li class="newsletter"><a href="#newsletter-form" class="newsletter-toggle">{%t newsletter %} <i class="fa fa-chevron-right"></i></a></li>
-      {% endunless %}
     </ul>
+    {% endunless %}
     <ul class="social-links">
       {% for link in site.data.social-links  %}
       <li><a class="{{link.channel}}" href="{{link.url}}">
