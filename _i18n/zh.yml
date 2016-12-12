@@ -28,6 +28,9 @@ zh:
   japanese-fisheries: "Japanese Fisheries"
   iuu: "IUU"
   supply-chain: "Marketplace Connections"
+  ### Footer menu item
+  tracker: "Tracker"
+  newsletter: "Newsletter"
 
   ## News section
   news-section-heading: "News & Analysis"
