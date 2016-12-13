@@ -1,7 +1,6 @@
 ---
 layout: contact 
 title: Contact Us
-subtitle: If you’re working in sustainable seafood, we can help you deliver on your goals.
 bodyclass: contact
 weight: 6
 address:
