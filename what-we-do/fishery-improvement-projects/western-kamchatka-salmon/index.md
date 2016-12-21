@@ -13,7 +13,7 @@ The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the wester
 
 ---
 
-##Fishery Information:
+##Fishery Improvement Project Information:
 
 |||
 | ---: | --- |
