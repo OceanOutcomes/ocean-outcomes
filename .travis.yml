@@ -1,7 +1,7 @@
 language: ruby
 # use container-based infrastructure to speed up build
 # see http://docs.travis-ci.com/user/workers/container-based-infrastructure/
-sudo: false
+sudo: required
 # cache bundle to speed up build
 # see http://docs.travis-ci.com/user/caching/#Bundler
 cache: bundler
