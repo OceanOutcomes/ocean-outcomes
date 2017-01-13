@@ -4,7 +4,7 @@ title:  O2 Establishes Diverse and Experienced Board of Directors
 date: 2016-10-26
 teaser-text: Earlier this month we gained independent 501(c)(3) status, expanded staff capacity, and established a talented Board of Directors to help us scale up and increase our impact.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/board-launch-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Earlier this month we gained independent 501(c)(3) status, expanded staff capacity, and established a talented Board of Directors to help us scale up and increase our impact.
 
