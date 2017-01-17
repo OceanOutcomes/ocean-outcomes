@@ -54,14 +54,6 @@
   bio: |
     Dick is a recognized leader in global seafood sustainability. He has 30 years of experience in the seafood industry, including 13 years overseeing seafood operations at HEB Grocery Co. and Whole Foods Market. Over the past 8 years he has honed his expertise in sustainable seafood initiatives through leading Ocean Outcomes as its President and CEO, founding seafood sustainability consultancy Resiliensea, Inc., and directing the major buyer engagement program at Sustainable Fisheries Partnership. He has extensive knowledge of the seafood supply chain, including global sourcing, merchandising, marketing and product/brand development, and is proficient in all global standards, certifications and eco-labels that are available to the seafood industry today.
 
-- name: Anna Klevtcova
-  contractor: false
-  title: Russia Program Intern
-  email: anna@oceanoutcomes.org
-  image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/annastaffphoto.jpg
-  bio: |
-   Holding a bachelor degree in geography from Irkutsk State University in Russia, Anna finds sustainability, conservation, and the management of natural resources fascinating. As a student she worked as an intern for the V.B. Sochava Institute of Geography where she focused on water protection standards and policies. In addition to this work she has volunteered for The Nature Conservancy and spent six years working on social research projects for SMP Research (Russia) conducting political, marketing, and social polls. Post graduation Anna attended a summer program in Pribailkaskii National Park, working on Lake Baikal for the summer with students from Christian-Albrechts University. This work solidified her passion for conservation, forestry, and fisheries and motivated her to pursue a graduate degree in a related field. In 2015, Anna received a Fulbright Program grant to attend graduate school in the United States and she’s currently pursuing a master’s degree in Natural Resources from North Carolina State University. As O2’s Russia Program Intern Anna will provide analytical reporting on O2’s success in the Russian Far East, assist the Russia team in designing Russian fishery improvement prototypes, and support Russian communications initiatives. In her spare time Anna enjoys traveling, reading books, and all kinds of outdoor activities.
-
 - name: Rich Lincoln
   contractor: false
   title: Founder and Senior Advisor
@@ -85,14 +77,6 @@
   image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/shunjistaffphoto.jpg
   bio: |
     As Japan Program Director at Ocean Outcomes (O2), Shunji leads the overall strategic development and coordination of O2's Japan Program. Based in Tokyo, he works closely in cooperation with Japanese fishery communities, seafood supply chain stakeholders, and other NGOs to ensure prosperity of both aquatic ecosystems and local fishing communities alike. Shunji's background in the fly-fishing industry and outdoor industry such as Patagonia Japan has contributed to his passion for leveraging business as a vehicle for positive impacts on the water. He received his BS in physical geography at San Francisco State University, focusing on watershed restoration and salmon habitat assessments. He also holds a degree in business administration from Golden West College. Aside from his love of fly-fishing, Shunji is always seeking intercultural experiences that broadens his understanding of the world and himself.
-
-- name: Natalia Novikova
-  contractor: false
-  title: Russia Program Manager
-  email: natasha@oceanoutcomes.org
-  image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/natashastaffphoto.jpg
-  bio: |
-    Natalia (Natasha) comes to O2 with more than 10 years of organizational, grant and contract support, cross-cultural communication, and bilingual expertise. As Russia Program Manager, she is responsible for project management of Russian fishery improvement projects, ensuring excellent relations, successful communications, and contract execution between O2 and Russian fishery clients. Originally from Russia’s North Caucasus, Natasha grew up in Moscow where she graduated with an MA in Philosophy from the State Academic University for the Humanities. She has lived in the US for many years and studied human rights at Columbia University. Prior to joining O2 in 2014, Natasha lived and worked in Moscow for over a year and now spends half of her time there, supporting O2’s Russia Program. Her lifelong passion to help people and protect their rights has shaped her personal and professional interest in sustainable communities and social justice. She has volunteered at Chechnya Advocacy Network, Seventh Generation Fund for Indigenous Peoples, and the UN Permanent Forum on Indigenous Issues where she promoted women’s and indigenous rights. Natasha loves spending time with her husband and their daughter and is also committed to Jujitsu training and teaching Russian.
 
 - name: Louie Okamoto
   contractor: false
@@ -125,17 +109,3 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/songlinstaffphoto.jpg
   bio: |
     Songlin, who lives in China, is an experienced and passionate conservation professional. His international career includes work for The Nature Conservancy, World Wildlife Fund (WWF China and WWF International), and The Paulson Institute, among others. He has planned, led, and coordinated a number of large scale sustainable fisheries projects, aquaculture improvement projects, and wetlands conservation projects. His efforts helped guide the first Marine Stewardship Council certification of a Chinese fishery and created enabling conditions for the first two Chinese fish farms to be certified by the Aquaculture Stewardship Council. In addition to this work, he also advises leading international and Chinese NGOs on coastal and marine biodiversity conservation issues. Trained first as a marine ecologist at the Ocean University of China, and then an environmental manager at Yale, Songlin excels at exploring conservation solutions from political, market, and scientific angles. He is fluent in both Mandarin and English and in his spare time enjoys reading, traveling, sports, and keeping ornamental freshwater fish.
-
-- name: Artur Maiss
-  contractor: true
-  title: Russia Sustainable Fisheries Consultant
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/arturstaffphoto.jpg
-  bio: |
-    Artur, who lives in Vladivostok, Russia knows Russian commercial fisheries. Trained as commercial fishing engineer, first at the Kamchatka State Technical Fisheries University, and then in graduate school at the Far Eastern State Fisheries University, Maiss is dedicated to improving fishing gear, the conservation and development of coastal communities, and indigenous fishing rights. He advises major Russian companies, international NGOs, and universities on the impacts coastal and marine fisheries have on global ocean biodiversity. In addition to past work with Russian fishing companies his career includes consulting positions with with the World Wide Fund for Nature (WWF-Russia), Pacific Environment, Marine Stewardship Council, and the Far Eastern State Fisheries University. Through this work he helped create and coordinate the activities of “Living Sea”, a public coalition of the Russian Far East, organized and conducted training sessions for fishermen, and articulated impacts of commercial fishing gear on the environment. In his spare time Artur enjoys reading, traveling, sports, and spending time with his son and daughter.
-
-- name: Denis Semenov
-  contractor: true
-  title: Russia Sustainable Fisheries Consultant
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/denisstaffphoto.jpg
-  bio: |
-    Denis has been working in commercial fisheries in Kamchatka, Russia since 1992 when he helped create container shipping lines between the Unites States and the Russian Far East which transported frozen fish products, among other commodities. His love for nature guided him towards work improving Russia’s fisheries; since 2001 he has worked with international NGOs such as WWF, Wild Salmon Center (WSC), and O2, and commercial fisheries on Kamchatka, to provide fishery consultation, support third party sustainability certifications, clarify international standards, guide the fishery improvement process, and provide translation and interpretation of fishery science. In 2013, with the support of O2 and WSC, Denis founded Kamchatka Fish Fund (KFF), an independent technical and logistical fishery consultancy. KFF helped guide the success of five different fishery improvement programs in 2014 and 2015, including a seabirds bycatch scientific research project, an independent observers program, and an indigenous peoples seminar. When not consulting Russian fisheries, Denis is a passionate divemaster and underwater photographer.
