@@ -6,7 +6,7 @@ teaser-text: As year three at Ocean Outcomes begins we continue to expand intern
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/iuu-china-policy-expansion-hero.jpg
 featured: TRUE
 ---
-##It’s increasingly clear that sustainable fisheries globally is unachievable without Japan and China at the table.
+###It’s increasingly clear that sustainable fisheries globally is unachievable without Japan and China at the table.
 
 As nexuses in global seafood supply chains, the sustainable seafood movement has begun honing efforts in Japan and China. Rightly so; Japan is the leading market (by value) for seafood globally and China the leading exporter (by value) of seafood. In most all major seafood related statistics these two countries are leaders, trailing only the United States and the European Union. Given such a significant portion of seafood is either consumed, produced, or passes through Japan or China, opportunity abounds for regional fisheries improvement work to have impactful and far-reaching results. 
 
