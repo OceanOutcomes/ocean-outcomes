@@ -5,7 +5,7 @@ subtitle: 北米や欧州の持続可能な水産物に対する需要により�
 date: 2016-09-15
 teaser-text: 北米や欧州の持続可能な水産物に対する需要により、辺境のカムチャッカ半島に環境的な変化
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/west-kam-certification-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 **2016年9月15日、ペトロパブロフスク・カムチャツキー、ロシア連邦** ― 海洋管理協議会(MSC)は今週、ロシア極東地域(RFE)の3つの野生サケ漁業が魚に関する最高峰のエコラベルであるMSC認証を取得したと発表しました。今回の認証は、ロシアの漁業会社Vityaz-Avto Ltd.およびDelta Ltdを中心に漁業慣行を大幅に改善した結果であり、カムチャッカ半島の漁業が、通常一次産品市場で販売されるサケ種を対象にしたMSC認証取得を目指した最初の事例です。また、これにより持続可能な水産物市場へ新たに28,000メートルトンものカラフトマス、シロザケおよびギンザケが加わることになります。
 
