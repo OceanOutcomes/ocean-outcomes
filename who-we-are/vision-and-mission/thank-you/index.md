@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Thank You!
-subtitle: We're glad you've reached out. Someone from our team will get back to you shortly. In the mean time, here are some other ways to get involved.
+subtitle: We're glad you've reached out. Someone from our team will get back to you shortly. In the meantime, here are some other ways to get involved.
 weight: 
 ---
 ##Read the latest on our blog
