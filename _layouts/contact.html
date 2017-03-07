@@ -31,8 +31,9 @@ headerimage: assets/images/news-header-bg.jpg
   <section class="contact-form">
     <div class="grid-container">
       <h1><i class="fa fa-send"></i> {%t get-in-touch %}</h1>
-      <form id="googleForm" action="https://docs.google.com/forms/d/12eJZzd40rVr7X0V5ce6seIpnmHCUNkaPlUCVPrUuKU8/formResponse"
-        method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list"
+      <form id="googleForm" cript type="text/javascript">var submitted=false;</script>
+       <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='http://www.google.com';}"></iframe>
+        <form action="https://docs.google.com/forms/d/12eJZzd40rVr7X0V5ce6seIpnmHCUNkaPlUCVPrUuKU8/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;" id="ss-form" target="_self" onsubmit=""><ol role="list"
           class="ss-question-list" style="padding-left: 0">
           <div class="ss-form-question errorbox-good" role="listitem">
             <div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry">
