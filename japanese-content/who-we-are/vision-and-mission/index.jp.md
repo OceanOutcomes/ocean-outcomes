@@ -6,7 +6,7 @@ subtitle: 私たちは、水界生態系が健全に保たれながら天然の�
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanese-what-we-do.jpg
 teaser-text:
-permalink: /vision-and-mission/
+permalink: /who-we-are/vision-and-mission/
 ---
 <h2>持続可能な漁業を増やす</h2>
 
