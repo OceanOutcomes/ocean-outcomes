@@ -1,6 +1,6 @@
 ---
 layout: page 
-weight: 1
+weight: 2
 title: 漁業プロジェクト
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
 hero-image:
