@@ -1,0 +1,30 @@
+---
+layout: default
+bodyclass: content-page
+---
+<div class="content-page-content {{page.title | downcase | replace: ' ', '-' }}">
+  
+  {% include content-header.html %}
+  {% include content-subnav.html %}
+
+  <article>
+    <div class="grid-container">
+      <ul id="og-grid" class="og-grid">
+        {% for person in site.data.board-japanese %}
+          <li>
+             <a href="/"
+               data-largesrc="{{person.image}}"
+               data-title="{{person.name}}" data-description="{{person.bio | markdownify}}"
+               data-position="{{person.title}}">
+              <img src="{{person.image}}" alt="staff image"/>
+              <span class="initial-details">
+                <span class="og-name">{{person.name}}</span>
+                <span class="og-title">{{person.title}}</span>
+              </span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </article>
+</div>

@@ -2,7 +2,7 @@
 layout: page 
 weight: 3
 title: 顧客サービス
-landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
+landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
 hero-image:
 subtitle: 先進的な考えを持つグループが持続可能な水産物へのコミットメントを果たせるよう支援をしています。
 teaser-text: 漁業者、水産物バイヤー、加工者、水産関係のNGOなどの立ち位置に関わらず、持続可能性に取り組まなければならない状況は環境の面でもビジネスの面でもこれまでにないほど強くなっています。私たちにぜひそのお手伝いをさせてください。
