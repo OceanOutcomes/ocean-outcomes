@@ -4,7 +4,7 @@ title:  First-Ever Fishery Improvement Project Launched in Japan
 date: 2016-11-10
 teaser-text: Sustainable seafood movement takes a big step forward in East Asia as industry, fishermen, and NGOs come together to launch the “Tokyo Bay Sea Perch FIP”, the first project of its kind in Japan.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ##In 2016, the market value of sustainable seafood reached an all-time high of $11.5 billion USD, placing further incentive to increase the sustainability of fisheries across the globe. 
 
