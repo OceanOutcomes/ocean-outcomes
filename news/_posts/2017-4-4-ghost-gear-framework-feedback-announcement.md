@@ -2,13 +2,13 @@
 layout: news
 title:  GGGI Launches Practical Guidance for the Seafood Industry to Reduce Marine Litter
 date: 2017-4-4
-teaser-text: Over 40 seafood, fishing industry, NGO, and government stakeholders have joined forces to recommend practical steps the seafood industry can take to reduce ghost fishing gear. A feedback period on the framework is now open.
+teaser-text: Over 40 seafood, fishing industry, NGO, and government stakeholders have joined forces to recommend practical steps the seafood industry can take to reduce ghost fishing gear.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/ghost-gear-feedback-announcement-hero.jpg
 featured: TRUE
 ---
 ###A highly anticipated best practice framework (BPF) on the management of fishing gear developed by the <a href="http://www.ghostgear.org/" target="_blank">Global Ghost Gear Initiative (GGGI)</a> launched today.
 
-The framework provides the seafood industry - from port operators to seafood companies - with practical steps to decrease the abundance and effects of ghost gear within their respective industries. GGGI is now working with O2 to hold a series of webinars and to facilite an online survey to gather feedback from seafood industry stakeholders on the framework, it's recommendations, feasibility, strengths, and weaknesses.
+The framework provides the seafood industry - from port operators to seafood companies - with practical steps to decrease the abundance and effects of ghost gear within their respective industries. GGGI is now working with O2 to hold a series of webinars and to facilite an <a href="https://www.surveymonkey.com/r/BPF-Feedback" target="_blank">online survey</a> to gather feedback from seafood industry stakeholders on the framework, it's recommendations, feasibility, strengths, and weaknesses.
 
 Developed with input from over 40 GGGI participants from across the industry, the best practices framework is the first in the world to recommend solutions and approaches to combat ghost fishing across the entire supply chain.
 
