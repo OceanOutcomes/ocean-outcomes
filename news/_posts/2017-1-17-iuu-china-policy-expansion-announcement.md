@@ -4,7 +4,7 @@ title:  Expanding Capacity and Expertise in Policy, IUU, and China
 date: 2017-1-17
 teaser-text: As year three at Ocean Outcomes begins we continue to expand internal capacity and expertise in the areas of seafood which offer the highest return on sustainable fisheries investments.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/iuu-china-policy-expansion-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###It’s increasingly clear that sustainable fisheries globally is unachievable without Japan and China at the table.
 
