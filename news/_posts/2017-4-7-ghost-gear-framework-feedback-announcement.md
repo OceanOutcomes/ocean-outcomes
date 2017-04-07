@@ -17,7 +17,7 @@ Developed with input from over 40 GGGI participants from across the industry, th
 Ghost gear, sometimes called *abandoned, lost and discarded fishing gear*, is fishing equipment which has been abandoned or lost and is now causing harm to fisheries and ocean ecosystems. Each year an estimated 640,000 tons of fishing gear is lost or abandoned in oceans, estuaries, and bays. Whether intentionally discarded or accidentally lost, this gear sticks around for hundreds of years and it catches and wastes targeted marine species, entangles marine wildlife, adds to ocean waste, and presents additional expenses and hazards for fishermen and marine communities.
 
 ![Each year an estimated 640,000 tons of fishing gear is lost or abandoned in oceans, estuaries, and bays.]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/problem-of-ghost-gear.jpg)]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/problem-of-ghost-gear.jpg)
 
 > “Minor improvements to fishing gear and fishing policies can significantly reduce the impact of ghost gear on ecosystems, livelihoods and marine animals,” says Lynn Kavanagh, the Campaign Manager for Oceans and Wildlife at World Animal Protection, a GGGI participant. 
 
