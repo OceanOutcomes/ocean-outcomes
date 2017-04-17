@@ -18,7 +18,7 @@ The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the wester
 |||
 | ---: | --- |
 | FIP Status: | Comprehensive FIP (<a href="http://fisheryprogress.org/directory" target="_blank">tracked fully on FisheryProgress.org</a>) |
-| Project Start Date: | January 2014 |
+| Project Launch: | January 2014 |
 | Location: | Kamchatka, Russia |
 | Participants: | Ocean Outcomes, Vityaz-Avto and Delta, Kamchatka Fish Fund, KamchatNIRO, WWF Russia |
 | Species: | sockeye (*Oncorhynchus nerka*), coho (*Oncorhynchus kisutch*) |
