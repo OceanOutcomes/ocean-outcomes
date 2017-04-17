@@ -18,7 +18,7 @@ Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch 
 |||
 | ---: | --- |
 | FIP Status: | Basic FIP (<a href="http://fisheryprogress.org/directory" target="_blank">tracked fully on FisheryProgress.org</a>) |
-| Project Start Date: | November 2016 |
+| Project Launch: | November 2016 |
 | Location: | Tokyo Bay, Chiba Prefecture, Japan |
 | Participants: | Ocean Outcomes, Kaiko Bussan, Seafood Legacy, Seiyu, Funabashi Fisheries Cooperative Association |
 | Species: | Japanese sea perch (*Lateolabrax japonicus*) |
