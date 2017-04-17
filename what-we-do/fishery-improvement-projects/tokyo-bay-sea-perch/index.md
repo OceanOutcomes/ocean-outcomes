@@ -33,7 +33,7 @@ Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch 
 * Conducted an MSC pre-assessment of the fishery in 2016, the first time that any component of the Japanese sea perch fishery has undergone pre-assessment against the MSC standard.
 * Development and implementation of a fishery improvement work plan to address deficiencies found during the MSC pre-assessment, including plans to better monitor and track bycatch of endangered, threatened, and protected (ETP) species, plans to establish a science based maximum sustainable yield (MSY) to ensure stocks aren’t overfished, and a commitment to work towards a more collaborative management plan.
 * As part of the FIP Seiyu will test market Tokyo Bay Sea Perch FIP product at four Kanto-region Seiyu supermarkets, gauging project expansion and potential FIP model replication based on test market results.
-* Convening fishery fishery stakeholders to define management objectives and establish a system for evaluation performance against those objectives.
+* Convening fishery stakeholders to define management objectives and establish a system for evaluation performance against those objectives.
 
 ---
 
