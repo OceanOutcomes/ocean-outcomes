@@ -27,12 +27,12 @@
 
 - featured: TRUE
   language: jp
-  heading: 求人募集中
-  title: O2ジャパン・チームに加わりたいですか？日本での活動をサポートするジャパン・プログラム・オフィサーを募集中 
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japan-coordinator-hires-featured.jpg
+  heading: Ocean Outcomes ソーシャルメデイア
+  title: O2のSNSで持続可能な水産業の最新情報をご確認ください。 
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-sns.jpg
   link:
-    link-text: 職務記述書、職務要件、責務はこちら
-    link-url: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/JapanProgramOfficer2016.pdf
+    link-text: ぜひフォローしてください！
+    link-url: https://www.facebook.com/oceanoutcomes
 
 - featured: FALSE
   language: en
