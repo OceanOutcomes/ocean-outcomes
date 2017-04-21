@@ -4,7 +4,7 @@ title:  O2 Supports 2nd Indian Ocean Tuna Management Workshop in Sri Lanka
 date: 2017-3-23
 teaser-text: Continued efforts to increase understanding and effectiveness of sustainable tuna management producing results.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tuna-management-workshop-sri-lanka.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###The need for effective management through management procedures that include harvest control rules, with associated reference points, is critical in modern tuna fishing practices. 
 
