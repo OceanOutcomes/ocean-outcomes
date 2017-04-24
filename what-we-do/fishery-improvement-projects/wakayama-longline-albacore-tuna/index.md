@@ -2,7 +2,7 @@
 layout: page 
 title: Wakayama Longline Albacore Tuna FIP
 landing-image:
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/wakayama-tuna-fip-launch-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/wakayama-albacore-tuna-hero.jpg
 subtitle:
 weight: 
 teaser-text:
