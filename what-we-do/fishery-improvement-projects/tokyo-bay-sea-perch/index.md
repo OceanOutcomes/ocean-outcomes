@@ -13,6 +13,15 @@ Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch 
 
 ---
 
+##What We're Doing:
+
+* Conducted an MSC pre-assessment of the fishery in 2016, the first time that any component of the Japanese sea perch fishery has undergone pre-assessment against the MSC standard.
+* Development and implementation of a fishery improvement work plan to address deficiencies found during the MSC pre-assessment, including plans to better monitor and track bycatch of endangered, threatened, and protected (ETP) species, plans to establish a science based maximum sustainable yield (MSY) to ensure stocks aren’t overfished, and a commitment to work towards a more collaborative management plan.
+* As part of the FIP Seiyu will test market Tokyo Bay Sea Perch FIP product at four Kanto-region Seiyu supermarkets, gauging project expansion and potential FIP model replication based on test market results.
+* Convening fishery stakeholders to define management objectives and establish a system for evaluation performance against those objectives.
+
+---
+
 ##Fishery Improvement Project Information:
 
 |||
@@ -25,15 +34,6 @@ Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch 
 | Gear Type: | mid-scale purse seine |
 | Volume: | 279 mt - *Based on catch data from the Funabashi Fisheries Cooperative, UoA sea perch harvests averaged 436 mt per year from 2003 to 2014, while client (Kaiko Bussan) harvests averaged 279 mt per year from 2007 to 2014. The client catch therefore represents about 64% of UoA catch. Data taken from pre-assessment report.* |
 | Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/TokyoBayPreassessment2016.pdf" target="_blank">Preassessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/TokyoBayWorkplan2016.pdf" target="_blank">Workplan</a> |
-
----
-
-##What We're Doing:
-
-* Conducted an MSC pre-assessment of the fishery in 2016, the first time that any component of the Japanese sea perch fishery has undergone pre-assessment against the MSC standard.
-* Development and implementation of a fishery improvement work plan to address deficiencies found during the MSC pre-assessment, including plans to better monitor and track bycatch of endangered, threatened, and protected (ETP) species, plans to establish a science based maximum sustainable yield (MSY) to ensure stocks aren’t overfished, and a commitment to work towards a more collaborative management plan.
-* As part of the FIP Seiyu will test market Tokyo Bay Sea Perch FIP product at four Kanto-region Seiyu supermarkets, gauging project expansion and potential FIP model replication based on test market results.
-* Convening fishery stakeholders to define management objectives and establish a system for evaluation performance against those objectives.
 
 ---
 
