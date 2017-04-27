@@ -13,6 +13,18 @@ The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the wester
 
 ---
 
+##What We're Doing:
+
+* An MSC pre-assessment was completed for pink, chum, sockeye and coho salmon returning to these rivers in 2014 (excluding Ozernaya sockeye which were already MSC certified). 
+* Development and implementation of a fishery improvement work plan to address deficiencies found during the MSC pre-assessment.
+* A portion of the fishery (pink, and chum salmon returning to the Vorovskaya, Kol, Opala, Golygina, Koshegochek, and Ozernaya rivers, as well as coho salmon to the Kol River) entered full MSC assessment in March 2015 and was certified in September 2016.
+* Commercial harvest ban of Chinook salmon to attempt Chinook salmon population recovery.
+* Independent observer programs implemented to verify fisheries are complying with regulation, verifying IUU product doesn’t enter supply chain, and to gather additional biological data and monitor bycatch.
+* Annual site visits to fishing and processing sites to monitor catch tracking systems, train independent observers, and check progress of improvement work plan action items.
+* Revised escapement goals based on better biological data.
+
+---
+
 ##Fishery Improvement Project Information:
 
 |||
@@ -25,18 +37,6 @@ The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the wester
 | Gear Type: | coastal trap net, beach seines |
 | Volume: | 1,370 mt - *Volume taken from KamchatNIRO report, catches for coho and sockeye averaged over 2004 to 2015. Ozernaya sockeye and Kol coho were not included.* |
 | Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">Preassessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamWorkplan2016.pdf" target="_blank">Workplan</a> |
-
----
-
-##What We're Doing:
-
-* An MSC pre-assessment was completed for pink, chum, sockeye and coho salmon returning to these rivers in 2014 (excluding Ozernaya sockeye which were already MSC certified). 
-* Development and implementation of a fishery improvement work plan to address deficiencies found during the MSC pre-assessment.
-* A portion of the fishery (pink, and chum salmon returning to the Vorovskaya, Kol, Opala, Golygina, Koshegochek, and Ozernaya rivers, as well as coho salmon to the Kol River) entered full MSC assessment in March 2015 and was certified in September 2016.
-* Commercial harvest ban of Chinook salmon to attempt Chinook salmon population recovery.
-* Independent observer programs implemented to verify fisheries are complying with regulation, verifying IUU product doesn’t enter supply chain, and to gather additional biological data and monitor bycatch.
-* Annual site visits to fishing and processing sites to monitor catch tracking systems, train independent observers, and check progress of improvement work plan action items.
-* Revised escapement goals based on better biological data.
 
 ---
 
