@@ -17,6 +17,9 @@ permalink: /what-we-do/what-is-a-fip
 * 実施計画: 設定された活動目標に向けて計画を恊働作成します。それには活動内容と期限、そして関連予算などが含まれ、これらが記載された計画を公表します。
 * 進捗追跡および報告: 計画した活動内容やその成果の進捗を半年に一度、参加者で確認します。そして進捗状況に合わせて計画の調整や見直しを行います。この進捗状況はウェブサイト等で報告します。（例：総合FIP追跡ウェブサイトや団体HP）
 
+[![Ocean Outcomes Fishery Improvement Projects]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/jp+view+all+fishery+projects+banner.png)] (http://www.oceanoutcomes.org/jp/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch/)
+
 ---
 
 ![Fishery Improvement Project Stages 漁業改善プロジェクト（FIP）のプロセス] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/jp+documents/What+is+a+FIP+Infographic+(Japanese).png)
