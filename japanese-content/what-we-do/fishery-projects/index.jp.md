@@ -10,7 +10,7 @@ permalink: /what-we-do/fishery-projects
 ---
 <div class="map-section">
   <div class="grid-container">
-    {% embed channel: map | id: mid=1CW7En43JnOl827Td56uNIln8r1I %}
+    {% embed channel: map | id: mid=1mD3CLmZaFhccL0tnU_QEU8b20lo %}
   </div>
 </div>
 
