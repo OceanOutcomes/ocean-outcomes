@@ -16,12 +16,12 @@ And the odds are that you have eaten some of it. Most of the fishery’s product
 ![Russian Sockeye Salmon For Sale at Whole Foods] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/western-kam-success-salmon-whole-foods.jpg)
 *Russian sockeye salmon advertised at a Whole Foods Market*
 
-Ocean Outcomes launched the <a href="http://oceanoutcomes.org/what-we-do/our-work/western-kamchatka-salmon/" target="_blank">Western Kamchatka Salmon fishery improvement project (FIP)</a> with a 2014 assessment of the fishery’s environmental sustainability. But our work in the region began much earlier. While still a program of the Wild Salmon Center, we began working on the ground with Kamchatka’s leading fishing companies as early as 2008 in a project that ultimately led to the successful certification of the Ozernaya sockeye fishery. Those relationships continue to serve as the foundation for the FIP’s ongoing work.
+Ocean Outcomes launched the <a href="http://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/" target="_blank">Western Kamchatka Salmon fishery improvement project (FIP)</a> with a 2014 assessment of the fishery’s environmental sustainability. But our work in the region began much earlier. While still a program of the Wild Salmon Center, we began working on the ground with Kamchatka’s leading fishing companies as early as 2008 in a project that ultimately led to the successful certification of the Ozernaya sockeye fishery. Those relationships continue to serve as the foundation for the FIP’s ongoing work.
 
 ----
 **Related Material:**
 
-* <a href="http://oceanoutcomes.org/what-we-do/our-work/western-kamchatka-salmon/" target="_blank">Western Kamchatka Salmon FIP profile</a>
+* <a href="http://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/" target="_blank">Western Kamchatka Salmon FIP profile</a>
 * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">2014 Western Kamchatka pre-assessment</a>
 * <a href="https://www.wildsalmoncenter.org/2012/09/04/asia-sockeye-msc/" target="_blank">Ozernaya Sockeye salmon MSC certification announcement</a>
 
