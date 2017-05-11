@@ -29,7 +29,7 @@ The first project of its kind in Japan, the Miyagi Coho Salmon Aquaculture Impro
 | Participants: | Ocean Outcomes, Marukin Co., Ltd., Fisherman Japan, Yahoo Japan |
 | Species: | Coho salmon (*Oncorhynchus kisutch*) |
 | Gear Type: | aquaculture, open net pen |
-| Volume: | ~465 mt - *The farm reports annual production of about 130,000 coho salmon, or roughly 465 mt assuming each fish weighs about 3.6 kg (3.6 kg estimate taken from <a href="http://www.fisheries.noaa.gov/pr/species/fish/coho-salmon.html" target="_blank">NOAA/a>)* |
+| Volume: | ~465 mt - *The farm reports annual production of about 130,000 coho salmon, or roughly 465 mt assuming each fish weighs about 3.6 kg (3.6 kg estimate taken from <a href="http://www.fisheries.noaa.gov/pr/species/fish/coho-salmon.html" target="_blank">NOAA</a>)* |
 | Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonPreassessment2017.xlsx" target="_blank">Preassessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonAIPWorkplan2017.pdf" target="_blank">Workplan</a> |
 
 ---
