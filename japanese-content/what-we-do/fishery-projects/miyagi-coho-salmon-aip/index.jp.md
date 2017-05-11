@@ -30,8 +30,8 @@ permalink: /what-we-do/fishery-improvement-projects/miyagi-coho-salmon-aip
 | 参加者: | オーシャン・アウトカムズおよび株式会社マルキン |
 | 対象種: | ギンザケ (*Oncorhynchus kisutch*) |
 | 漁具の種類: | 水産養殖、網生け簀 |
-| 生産量: | 最大465メートルトン – マルキンによると年間生産量は約13万匹で、個体の体重を約3.6キロ<a href="http://www.fisheries.noaa.gov/pr/species/fish/coho-salmon.html" target="_blank">（NOAA推定値）</a>とすると約465メートルトンになる。)* |
-| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonPreassessment2017.xlsx" target="_blank">予備審査</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonAIPWorkplan2017.pdf" target="_blank">作業計画</a> |
+| 生産量: | 最大465メートルトン – マルキンによると年間生産量は約13万匹で、個体の体重を約3.6キロ<a href="http://www.fisheries.noaa.gov/pr/species/fish/coho-salmon.html" target="_blank">（NOAA推定値）</a>とすると約465メートルトンになる。) |
+| 文書: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonPreassessment2017.xlsx" target="_blank">予備審査</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonAIPWorkplan2017.pdf" target="_blank">作業計画</a> |
 
 ---
 
