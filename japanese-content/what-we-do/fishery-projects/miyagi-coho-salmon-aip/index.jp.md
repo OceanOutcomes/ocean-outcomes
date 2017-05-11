@@ -27,7 +27,7 @@ permalink: /what-we-do/fishery-improvement-projects/miyagi-coho-salmon-aip
 | ---: | --- |
 | 開始時期: | 2017年5月 |
 | 場所: | 宮城県女川 |
-| 参加者: | オーシャン・アウトカムズおよび株式会社マルキン |
+| 参加者: | 株式会社マルキン、オーシャン・アウトカムズ、フィッシャーマンジャパン |
 | 対象種: | ギンザケ (*Oncorhynchus kisutch*) |
 | 漁具の種類: | 水産養殖、網生け簀 |
 | 生産量: | 最大465メートルトン – マルキンによると年間生産量は約13万匹で、個体の体重を約3.6キロ<a href="http://www.fisheries.noaa.gov/pr/species/fish/coho-salmon.html" target="_blank">（NOAA推定値）</a>とすると約465メートルトンになる。) |
