@@ -6,7 +6,7 @@ hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/ne
 subtitle:
 weight: 
 teaser-text:
-permalink: /what-we-do/fishery-improvement-projects/miyagi-coho-salmon-aip
+permalink: /what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch
 ---
 <h2>Overview</h2>
 
