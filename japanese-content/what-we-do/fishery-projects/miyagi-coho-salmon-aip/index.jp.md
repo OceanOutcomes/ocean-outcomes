@@ -35,6 +35,8 @@ permalink: /what-we-do/fishery-improvement-projects/miyagi-coho-salmon-aip
 
 ---
 
+[最新のニュースから、私たちがどのように商業漁業者や水産物事業者、漁業管理者および地域のリーダーと協力して、効果的な現場での漁業改善計画を共同設計し、実施し、モニタリングしているかをご覧いただけます。] (/jp/news/)
+
  **<a href="www.oceanoutcomes.org/jp/news/">本漁業プロジェクトに関する最近のニュースはブログをご参照ください</a>**
  
  **<a href="www.oceanoutcomes.org/jp/what-we-do/fishery-projects/">O2が関わる漁業プロジェクトへ戻る</a>**
