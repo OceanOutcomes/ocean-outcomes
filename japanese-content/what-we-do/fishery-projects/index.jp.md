@@ -4,7 +4,7 @@ weight: 2
 title: 漁業プロジェクト
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
 hero-image:
-subtitle:
+subtitle: 現場重視の協力関係を通じて漁業の有意義な改善を支援し、全ての関係者に持続可能性に関する目に見える成果を。
 teaser-text: 現場重視の協力関係を通じて漁業の有意義な改善を支援し、全ての関係者に持続可能性に関する目に見える成果を。
 permalink: /what-we-do/fishery-projects
 ---
