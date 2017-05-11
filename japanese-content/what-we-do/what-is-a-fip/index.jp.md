@@ -21,9 +21,9 @@ permalink: /what-we-do/what-is-a-fip
 
 ![Fishery Improvement Project Stages 漁業改善プロジェクト（FIP）のプロセス] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/jp+documents/What+is+a+FIP+Infographic+(Japanese).png)
 
-<h2>漁業改善プロジェクト（FIP）のプロセスの詳細</h2>
-
 ---
+
+<h2>漁業改善プロジェクト（FIP）のプロセスの詳細</h2>
 
 <h4>ステージ０－ 漁業改善プロジェクト（FIP）の特定</h4>
 対象漁業や流通関係者を特定し、プロジェクト参加者を決めます。
@@ -33,9 +33,9 @@ permalink: /what-we-do/what-is-a-fip
 <h4>ステージ１－ 審査と計画の作成</h4>
 漁業の現状を把握する為にMSC認証基準に基づき審査し、特定された課題を解決する計画を作成します。
 
- * **漁業の環境影響の現状を評価する
- * コンサルタントによる改善範囲設定書の作成
- * 関係者分析および関与プロセス**
+ * **漁業の環境影響の現状を評価する**
+ * **コンサルタントによる改善範囲設定書の作成**
+ * **関係者分析および関与プロセス**
  
 ---
 
