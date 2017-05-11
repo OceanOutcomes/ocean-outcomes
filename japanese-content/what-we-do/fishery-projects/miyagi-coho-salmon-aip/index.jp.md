@@ -37,4 +37,4 @@ permalink: /what-we-do/fishery-improvement-projects/miyagi-coho-salmon-aip
 
 **[本漁業プロジェクトに関する最近のニュースはブログをご参照ください] (/jp/news/)**
 
-**[O2が関わる漁業プロジェクトへ戻る] (/jp/what-we-do/fishery-projects)**
+**[O2が関わる漁業プロジェクトへ戻る] (/jp/what-we-do/fishery-projects)** 
