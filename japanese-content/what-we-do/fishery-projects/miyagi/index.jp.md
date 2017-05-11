@@ -5,7 +5,7 @@ landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/miyagi-coho-salmon-hero.jpg
 weight: 
 teaser-text:
-permalink: /what-we-do/fishery-projects/miyagi-coho-salmon-aquaculture/
+permalink: /what-we-do/fishery-projects/miyagi/
 ---
 <h2>概要:</h2>
 
