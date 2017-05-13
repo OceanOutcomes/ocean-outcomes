@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: JP - Wakayama Longline Albacore Tuna
+title: 和歌山はえ縄ビンチョウマグロ
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/wakayama-albacore-tuna-hero.jpg
 subtitle:
@@ -8,32 +8,32 @@ weight:
 teaser-text:
 permalink: /what-we-do/fishery-improvement-projects/wakayama-longline-albacore-tuna
 ---
-<h2>Overview</h2>
+<h2>概要:</h2>
 
-The Wakayama Longline Albacore Tuna FIP in Development involves recruiting the participation of offshore longline harvesters that offload at Nachi Katsuura port in Wakayama Prefecture. By volume this is the most significant port for longline tuna production in Japan, with tuna accounting for 96% of Nachi Katsuura’s total landings. Yamasa Wakiguchi Co., the FIP in Development client, is a tuna wholesaler that annually sources approximately 10,000 metric tons of albacore and yellowfin tuna from these offshore longline fisheries. This product stays in the domestic market and supplies major Japanese retail stores such as AEON. In 2012, an MSC pre-assessment of tuna species targeted by Japanese longliners was conducted for albacore, bigeye, yellowfin, and bluefin tunas. This pre-assessment concluded that the albacore and yellowfin tuna components of the fishery could be considered “well-positioned for certification” contingent on several key improvements. These include adopting harvest control rules for tuna species, expanding on-board observer coverage to collect information on non-target species such as sharks, billfish, seabirds and turtles, and implementing measures to reduce non-target catches where necessary.
-
----
-
-##What We're Doing:
-
-* Reviewed and updated an MSC pre-assessment previously completed in 2012. The updated pre-assessment completed by O2 identified priority environmental challenges and opportunities for improvement through a FIP.
-* Development of a FIP workplan to address deficiencies found during the MSC pre-assessment, including plans to better monitor and track information on retained species, pilot a traceability system in alignment with MSC traceability/Chain of Custody standards which tracks product from point of harvest to point of final sale, develop a strategy to implement a precautionary management framework, and monitor interactions with seabirds and sea turtles. 
-* Convening fishery stakeholders to generate support, participation, and funding, including facilitating matching funds and in-kind contributions, for improvement efforts.
+和歌山ビンチョウマグロFIPは現在準備段階にあり（FIP in Development）、和歌山県那智勝浦港に水揚げする遠洋はえ縄漁業者の参加を促しています。生産量で見ると、那智勝浦港は日本のはえ縄マグロ漁業にとって最も重要な港で、その総水揚げ量の96％をマグロが占めています。FIP準備段階にあるクライアントの株式会社ヤマサ脇口水産はマグロの卸売業者で、遠洋はえ縄漁業から年間およそ10,000メートルトンのビンチョウおよびキハダマグロを調達しています。これらの製品は国内市場向けで、イオンなどの主要小売大手に供給されています。2012年に日本のはえ縄漁業者によりビンチョウ、メバチ、キハダおよびクロマグロを対象としたMSC予備審査が実施されましたが、このうちビンチョウおよびキハダ漁業について、いくつかの重要な改善が実施されれば認証可能な状況にあると結論付けられました。改善点としては、マグロ種に関する漁獲管理規制の採用や、サメやカジキ、海鳥やウミガメなどの非対象種に関する情報収集を目的とした船上オブザーバーによる漁船のカバー率拡大、必要に応じた非対象種捕獲低減対策の実施などがあります。
 
 ---
 
-##Project Information:
+<h2>現在の活動:</h2>
+
+* 2012年に完了したMSC予備審査の結果を再検討し、更新する。O2による予備審査結果の更新により、優先すべき環境課題およびFIPを通じた改善の機会を特定。
+* FIP作業計画を策定し、MSC予備審査時に明らかになった改善点に取り組む。例えば非対象種に関する情報をより確実にモニタリングし追跡するための計画策定、MSCのトレーサビリティーおよび加工・流通過程の管理規準に沿った漁獲時点から最終販売時点までを追跡するトレーサビリティー制度の試験的な実施、予防管理の枠組みを実施するための戦略の策定、および海鳥やウミガメと遭遇した場合の対処記録のモニタリングなど。 
+* 漁業関係者を集めて改善の取り組みへの支援、参加を促すとともに、マッチングファンドや現物出資の奨励などを通じ資金を調達する。
+
+---
+
+<h2>プロジェクト情報:</h2>
 
 |||
-| ---: | --- |
-| FIP Status: | FIP in Development |
-| Project Launch: | April 2017 |
-| Location: | Nachi Katsuura, Wakayama Prefecture, Japan |
-| Participants: | Ocean Outcomes, Yamasa Wakiguchi Co. |
-| Species: | Albacore tuna (*Thunnus alalunga*) |
-| Gear Type: | Longline |
-| Volume: | 12,142 mt - *Based on the Western and Central Pacific Fisheries Commission (WCPFC) Tuna Fishery Yearbook, 227 Japanese longline vessels caught 12,142 mt of albacore tuna in 2015.* |
-| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WakayamaTunaLonglineTunaFisheryPreassessment2017.pdf" target="_blank">Preassessment</a> |
+| :--- | --- |
+| FIP 状況: | FIP準備段階 |
+| 開始時期: | 2017年4月 |
+| 場所: | 和歌山県那智勝浦町 |
+| 参加者: | オーシャン・アウトカムズ、株式会社ヤマサ脇口水産 |
+| 対象種: | ビンチョウマグロ (*Thunnus alalunga*) |
+| 漁具の種類: | はえ縄 |
+| 生産量: | 12,142メートルトン - 中西部太平洋まぐろ類委員会（WCPFC）のマグロ漁業年鑑によると、227隻の日本のはえ縄漁船が2015年に12,142メートルトンのビンチョウマグロを捕獲した。|
+| 文書: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WakayamaTunaLonglineTunaFisheryPreassessment2017.pdf" target="_blank">予備審査</a> |
 
 ---
 
