@@ -29,7 +29,7 @@ permalink: /what-we-do/fishery-improvement-projects/western-kamchatka-salmon
 <h2>漁業情報:</h2>
 
 |||
-| ---: | --- |
+| :--- | --- |
 | FIP 状況: | 包括的 FIP (<a href="http://fisheryprogress.org/fip-profile/western-kamchatka-salmon-beach-seinetrap-net" target="_blank">FisheryProgress.org で完全追跡しています</a>) |
 | 開始時期: | 2014年1月 |
 | 場所: | ロシア・カムチャッカ半島 |
