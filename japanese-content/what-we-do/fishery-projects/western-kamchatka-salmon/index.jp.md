@@ -30,7 +30,7 @@ permalink: /what-we-do/fishery-improvement-projects/western-kamchatka-salmon
 
 |||
 | ---: | --- |
-| FIP 状況: | 包括的 FIP (<a href="http://fisheryprogress.org/directory" target="_blank">FisheryProgress.org で完全追跡しています</a>) |
+| FIP 状況: | 包括的 FIP (<a href="http://fisheryprogress.org/fip-profile/western-kamchatka-salmon-beach-seinetrap-net" target="_blank">FisheryProgress.org で完全追跡しています</a>) |
 | 開始時期: | 2014年1月 |
 | 場所: | ロシア・カムチャッカ半島 |
 | 参加者: | オーシャン・アウトカムズ、ヴィタズ・アブト社およびデルタ社、カムチャッカ魚基金、カムチャットNIROおよびWWFロシア |
@@ -43,6 +43,6 @@ permalink: /what-we-do/fishery-improvement-projects/western-kamchatka-salmon
 
 **[本漁業プロジェクトに関する最近のニュースはブログをご参照ください] (/jp/news/)**
 
-<a href="http://fisheryprogress.org/directory" target="_blank">**本FIPはFisheryProgress.org,上でその全容を公開し追跡しています。西部カムチャッカサケFIPの概要はこちらをご覧ください**</a>
+<a href="http://fisheryprogress.org/fip-profile/western-kamchatka-salmon-beach-seinetrap-net" target="_blank">**本FIPはFisheryProgress.org,上でその全容を公開し追跡しています。西部カムチャッカサケFIPの概要はこちらをご覧ください**</a>
 
 **[O2が関わる漁業プロジェクトへ戻る] (/jp/what-we-do/fishery-projects)** 
