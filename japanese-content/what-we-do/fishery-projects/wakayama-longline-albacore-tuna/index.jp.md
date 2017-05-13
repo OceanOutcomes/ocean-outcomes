@@ -25,7 +25,7 @@ permalink: /what-we-do/fishery-improvement-projects/wakayama-longline-albacore-t
 <h2>プロジェクト情報:</h2>
 
 |||
-| ---: | --- |
+| :--- | --- |
 | FIP 状況: | FIP準備段階 |
 | 開始時期: | 2017年4月 |
 | 場所: | 和歌山県那智勝浦町 |
