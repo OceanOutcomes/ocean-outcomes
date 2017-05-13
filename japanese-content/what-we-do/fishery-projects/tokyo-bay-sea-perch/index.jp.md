@@ -26,8 +26,8 @@ permalink: /what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch
 <h2>漁業情報:</h2>
 
 |||
-| ---: | --- |
-| FIP 状況: | 簡易 FIP (<a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">FisheryProgress.org で完全追跡しています</a>) |
+| :--- | --- |
+| FIP状況: | 簡易 FIP (<a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">FisheryProgress.org で完全追跡しています</a>) |
 | 開始時期: | 2016年11月 |
 | 場所: | 千葉県東京湾 |
 | 参加者: | オーシャン・アウトカムズ、海幸物産、シーフードレガシー、西友、船橋漁業協同組合 |
