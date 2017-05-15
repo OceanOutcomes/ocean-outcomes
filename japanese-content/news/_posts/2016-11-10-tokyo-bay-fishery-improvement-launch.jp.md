@@ -4,7 +4,7 @@ title: 『東京湾スズキ漁FIP』プレスリリース内容日本初、漁�
 date: 2016-11-10
 teaser-text: 企業、漁業者、NGOが協力して、日本初となる『東京湾スズキ漁FIP』を開始東アジアにおける持続可能な水産物の提供に向けた取り組み
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 2016年、持続可能な水産物の市場価値は115億米国ドルに到達するなど著しい成長が見られる中、世界中で漁業の持続可能性の向上を促進することは、より重要になっています。アジア圏における水産物の総漁獲量は世界全体の最大約69%を占めると言われる一方、MSC（Marine Stewardship Council：海洋管理協議会）、ASC（Aquaculture Stewardship Council：水産養殖管理協議会）といった機関の国際認証をうけている水産物は、そのうち11％にとどまっており、日本で漁業改善プロジェクト（Fishery Improvement Project、以下FIP）に取り組むことは、アジア圏の持続可能な水産市場の成長のため、大きな課題となっています。
 
