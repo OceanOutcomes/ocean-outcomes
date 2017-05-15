@@ -29,12 +29,6 @@ permalink: /what-we-do/what-is-a-fip
 
 ---
 
-![Fishery Improvement Project Stages 漁業改善プロジェクト（FIP）のプロセス] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/jp+documents/What+is+a+FIP+Infographic+(Japanese).png)
-
----
-
-<h2>漁業改善プロジェクト（FIP）のプロセスの詳細</h2>
-
 **漁業改善プロジェクト（FIP）についてもっと詳しく知りたい方は、こちらのリンクをご覧ください：<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/jp+documents/JPAllianceFIPGuidelines-FINAL2-10-15.pdf" target="_blank">Conservation Alliance for Seafood Solutions 漁業改善プロジェクト支援のためのガイドライン</a>**
 
 [<h2>お気軽にご相談ください</h2>] (/jp/contact/)
