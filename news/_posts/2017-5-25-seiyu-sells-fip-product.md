@@ -3,8 +3,8 @@ layout: news
 title:  Tokyo Bay Sea Perch FIP Product Hits Japanese Supermarkets
 date: 2017-5-25
 teaser-text: Praised for its exceptional quality and the fishery’s environmental ambitions, Tokyo Bay Sea Perch FIP Shun-jime Suzuki (sea perch) is now available at 20 Tokyo-area Seiyu GK retail stores.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg
-featured: FALSE
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-seiyu-progress-update.jpg
+featured: TRUE
 ---
 ###Praised for its exceptional quality and the fishery’s environmental ambitions, Tokyo Bay Sea Perch FIP *Shun-jime Suzuki* (sea perch) is now available at 20 Tokyo-area Seiyu GK retail stores.
 
@@ -14,13 +14,15 @@ Seiyu, a subsidiary of Walmart, hopes the sales will increase Japanese awareness
 
 These steps towards more sustainable fishing practices are outlined and tracked in the FIP workplan which can be seen online at <a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">fisheryprogress.org</a>.
 
-----
-
-**Photos from the FIP:**
+####Photos from the FIP:
 
 ![Tokyo Bay sea perch fishing]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+5.jpg)
 Tokyo Bay Sea Perch FIP fishermen haul in sea perch. © Ocean Outcomes
+
+![Tokyo Bay sea perch fishing]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+7.jpg)
+Tokyo Bay Sea Perch FIP fishermen offload and process their catch. © Ocean Outcomes
 
 ![Tokyo Bay sea perch seafood for sale]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+6.jpg)
