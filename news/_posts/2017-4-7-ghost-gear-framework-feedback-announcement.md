@@ -4,7 +4,7 @@ title:  GGGI launches Practical Guidance for the Seafood Industry to Reduce Mari
 date: 2017-4-7
 teaser-text: Over 40 seafood, fishing industry, NGO, and government stakeholders have joined forces to recommend practical steps the seafood industry can take to reduce ghost fishing gear.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/ghost-gear-feedback-announcement-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###A highly anticipated best practice framework on the management of fishing gear developed by the <a href="http://www.ghostgear.org/" target="_blank">Global Ghost Gear Initiative (GGGI)</a> launched today for an industry-wide consultation.
 
