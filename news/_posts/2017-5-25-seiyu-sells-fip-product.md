@@ -14,20 +14,22 @@ Seiyu, a subsidiary of Walmart, hopes the sales will increase Japanese awareness
 
 These steps towards more sustainable fishing practices are outlined and tracked in the FIP workplan which can be seen online at <a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">fisheryprogress.org</a>.
 
-####Photos from the FIP:
+---
+
+**Photos from the FIP:**
 
 ![Tokyo Bay sea perch fishing]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+5.jpg)
-Tokyo Bay Sea Perch FIP fishermen haul in sea perch. © Ocean Outcomes
+*Tokyo Bay Sea Perch FIP fishermen haul in sea perch. © Ocean Outcomes*
 
 ![Tokyo Bay sea perch fishing]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+7.jpg)
-Tokyo Bay Sea Perch FIP fishermen offload and process their catch. © Ocean Outcomes
+*Tokyo Bay Sea Perch FIP fishermen offload and process their catch. © Ocean Outcomes*
 
 ![Tokyo Bay sea perch seafood for sale]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+6.jpg)
-Tokyo Bay Sea Perch FIP product for sale at Seiyu stores. © Seiyu
+*Tokyo Bay Sea Perch FIP product for sale at Seiyu stores. © Seiyu*
 
 ![Tokyo Bay sea perch seafood for sale]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
-Tokyo Bay Sea Perch FIP product for sale at Seiyu stores. © Seiyu
+*Tokyo Bay Sea Perch FIP product for sale at Seiyu stores. © Seiyu*
