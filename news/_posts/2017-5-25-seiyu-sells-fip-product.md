@@ -1,7 +1,7 @@
 ---
 layout: news
 title:  Tokyo Bay Sea Perch FIP Product Hits Japanese Supermarkets
-date: 2016-5-25
+date: 2017-5-25
 teaser-text: Praised for its exceptional quality and the fishery’s environmental ambitions, Tokyo Bay Sea Perch FIP Shun-jime Suzuki (sea perch) is now available at 20 Tokyo-area Seiyu GK retail stores.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg
 featured: FALSE
@@ -18,18 +18,14 @@ These steps towards more sustainable fishing practices are outlined and tracked 
 
 **Photos from the FIP:**
 
+![Tokyo Bay sea perch fishing]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+5.jpg)
+Tokyo Bay Sea Perch FIP fishermen haul in sea perch. © Ocean Outcomes
+
 ![Tokyo Bay sea perch seafood for sale]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
-[Tokyo Bay Sea Perch FIP product for sale at Seiyu stores. © Seiyu]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+6.jpg)
+Tokyo Bay Sea Perch FIP product for sale at Seiyu stores. © Seiyu
 
 ![Tokyo Bay sea perch seafood for sale]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
-[Tokyo Bay Sea Perch FIP product for sale at Seiyu stores. © Seiyu]
-
-![Tokyo Bay sea perch seafood for sale]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
-[Tokyo Bay Sea Perch FIP product for sale at Seiyu stores. © Seiyu]
-
-![Tokyo Bay sea perch seafood for sale]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
-[Tokyo Bay Sea Perch FIP product for sale at Seiyu stores. © Seiyu]
+Tokyo Bay Sea Perch FIP product for sale at Seiyu stores. © Seiyu
