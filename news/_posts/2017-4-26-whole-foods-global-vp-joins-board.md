@@ -4,7 +4,7 @@ title:  O2 Adds Whole Foods Market Global VP for Business Development to Board
 date: 2017-4-26
 teaser-text: Betsy Foster, who oversees all mergers and acquisitions for Whole Foods Markets, becomes the seventh member of our Board of Directors.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/whole-foods-global-vp-joins-board-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###We’re pleased to announce that Betsy Foster, Global Vice President for Business Development at Whole Foods Market, accepted the seventh and final seat on our recently established Board of Directors.
 
