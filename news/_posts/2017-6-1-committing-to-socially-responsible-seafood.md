@@ -6,7 +6,7 @@ teaser-text: A new paper published in Science authored by Conservation Internati
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/committing-to-socially-responsible-seafood-hero.jpg
 featured: TRUE
 ---
-###A new paper titled “**TITLE**” published in Science highlights the need for ocean science to evolve to address the social challenges in the seafood sector. 
+###A new paper titled “*TITLE*” published in Science highlights the need for ocean science to evolve to address the social challenges in the seafood sector. 
 
 Authored by Conservation International (CI) and leading researchers in the field, including contributions from Ocean Outcomes, the paper is a response to recent investigative reports by the Associated Press, New York Times, and the Guardian which highlighted social abuse in select seafood supply chains.
  
@@ -15,8 +15,6 @@ Authored by Conservation International (CI) and leading researchers in the field
 According to CI, the paper “identifies three key principles that together establish a global standard for social responsibility in the seafood sector: protecting human rights, dignity and respecting access to resources; ensuring equality and equitable opportunities to benefit; and improving food and livelihood security.”
 
 The paper’s abstract can be seen below and the full article can be found on <a href="http://science.sciencemag.org/cgi/doi/10.1126/science.aam9969" target="_blank">sciencemag.org</a>.
-
-----
 
 > **How Science Can Mitigate Social Injustice in Fisheries**
 
