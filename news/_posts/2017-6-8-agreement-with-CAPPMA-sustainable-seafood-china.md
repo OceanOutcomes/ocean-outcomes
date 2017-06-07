@@ -2,11 +2,11 @@
 layout: news
 title: O2 and CAPPMA Commit to More Sustainable Chinese Fisheries on World Oceans Day
 date: 2017-6-8
-teaser-text: O2 and CAPPMA, a Chinese seafood industry group representing 1,800 Chinese seafood players, sign agreement at Seaweb Seafood Summit to work towards more sustainable fisheries in China.
+teaser-text: O2 and CAPPMA, a Chinese seafood industry group representing over 1,800 Chinese seafood players, sign agreement at Seaweb Seafood Summit to work towards more sustainable fisheries in China.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/O2-CAPPMA-MOU-AGREEMENT.jpg
 featured: TRUE
 ---
-###O2 and CAPPMA, a Chinese seafood industry group representing 1,800 Chinese seafood players, sign agreement at Seaweb Seafood Summit to work towards more sustainable fisheries in China.
+###O2 and CAPPMA, a Chinese seafood industry group representing over 1,800 Chinese seafood players, sign agreement at Seaweb Seafood Summit to work towards more sustainable fisheries in China.
 
 Dr. Cui, who leads the China Aquatic Products Processing and Marketing Alliance (CAPPMA), China’s leading seafood trade association, shared insights into Chinese fishery management reform plans at the Summit and committed to working with O2 to implement these changes.
  
@@ -22,7 +22,9 @@ The initial focus of the MoU between CAPPMA and O2 includes a commitment to supp
 
 ----
 About CAPPMA:
+
 China Aquatic Products Processing and Marketing Alliance (CAPPMA) was founded in 1994 as a national non-profit organization directed under the Ministry of Agriculture. CAPPMA consists of seafood producers, processors, distributors, suppliers, and institutions for fisheries research and education, as well as relevant social entities and insiders that provide various services for seafood processing and marketing.In 2009, CAPPMA was awarded the title of 3A organization by Ministry of Civil Affairs.
  
 About O2:
+
 Ocean Outcomes works with commercial fisheries, seafood industry, local communities, and NGOs, to develop and implement creative solutions towards more sustainable fisheries. Ocean Outcomes’ science-based fishery improvement initiatives include fishery assessments, supply chain analysis, buyer engagement, traceability programs, fishery improvement projects, and stakeholder convening. Demand for sustainable seafood is at an all-time high, but many of the world’s commercial fisheries remain at risk of overfishing, poaching, and other problems. By restoring and protecting wild fisheries, Ocean Outcomes supports the long-term health of local communities, seafood supply chains, and the ocean resources on which we all depend.
