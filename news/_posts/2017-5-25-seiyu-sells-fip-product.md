@@ -4,7 +4,7 @@ title:  Tokyo Bay Sea Perch FIP Product Hits Japanese Supermarkets
 date: 2017-5-25
 teaser-text: Praised for its exceptional quality and the fishery’s environmental ambitions, Tokyo Bay Sea Perch FIP Shun-jime Suzuki (sea perch) is now available at 20 Tokyo-area Seiyu GK retail stores.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-seiyu-progress-update.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Praised for its exceptional quality and the fishery’s environmental ambitions, Tokyo Bay Sea Perch FIP *Shun-jime Suzuki* (sea perch) is now available at 20 Tokyo-area Seiyu GK retail stores.
 
