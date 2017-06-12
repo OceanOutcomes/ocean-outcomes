@@ -4,7 +4,7 @@ title: 活動方針の策定、IUUおよび中国での活動において高ま�
 date: 2017-1-17
 teaser-text: 3年目を迎えるオーシャン・アウトカムズは、持続可能な漁業へ向けた投資に対して最も大きな成果が上がる水産物の分野において自らの対応力と専門性を高め続けます。
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/iuu-china-policy-expansion-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###ますますはっきりしてきたのは、日本と中国に関する議論を抜きにしては国際的に持続可能な漁業を実現することはできないということです。
 
