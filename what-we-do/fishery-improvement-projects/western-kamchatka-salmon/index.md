@@ -9,6 +9,8 @@ teaser-text:
 ---
 ##Overview
 
+*This project was initially developed and implemented by Ocean Outcomes and is now managed and maintained by <a href="mailto:4seasolutions@gmail.com>ForSea Solutions</a>.*
+
 The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the western coast of the Kamchatka Peninsula in Russia. The FIP includes coastal trap net and inriver beach seines fished by the clients for coho and sockeye salmon returning to the Vorovskaya, Opala, Golygina, and Koshegochek rivers; coho to the Ozernaya river; and sockeye to the Kol river from July to September. The fishery is managed for region-wide escapement goals, and catches have been high in recent years.
 
 ---
