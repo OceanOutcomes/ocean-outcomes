@@ -30,6 +30,6 @@ Part of the challenge is that—except for some limited information displayed on
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+8+kdes.jpg)
 *Key data elements in the Tokyo Bay Sea Perch FIP and at which point in the supply chain each element is tracked. © Ocean Outcomes*
 
-###While this assessment only tells us the story of one single fishery and its supply chain, the themes we discovered speak to broader gaps within Japanese seafood supply chain.
+###While this assessment only tells us the story of one single fishery and its supply chain, the themes we discovered speak to broader gaps within the Japanese seafood supply chain.
 
 First, Japanese traceability is largely paper-based, informal, and dominated by trust and relationships. Second, systems are highly localized and differ from fishery to fishery and cooperative to cooperative. Moreover, traceability is minimally mandated by government or unprompted for by buyers. But perhaps the most important lesson learned so far is that THIS Japanese fisherman is interested and willing to test drive new traceability tools if they are designed with his fishery in mind, are low cost, and easy to operate. Stay tuned as the we work with Ono-san to co-design such a system for the [Tokyo Bay Sea Perch FIP] (/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch/).
