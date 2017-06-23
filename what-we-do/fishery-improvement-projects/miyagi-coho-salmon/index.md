@@ -2,7 +2,7 @@
 layout: page 
 title: Miyagi Coho Salmon AIP
 landing-image:
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/miyagi-coho-salmon-hero.jpg
 subtitle:
 weight: 
 teaser-text:
