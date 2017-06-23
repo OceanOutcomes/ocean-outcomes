@@ -25,7 +25,6 @@ The first project of its kind in Japan, the Miyagi Coho Salmon Aquaculture Impro
 
 |||
 | ---: | --- |
-| Status: | AIP |
 | Project Launch: | June 2017 |
 | Location: | Onagawa, Miyagi Prefecture, Japan |
 | Participants: | Ocean Outcomes, Marukin Co., Ltd. Fisherman Japan |
