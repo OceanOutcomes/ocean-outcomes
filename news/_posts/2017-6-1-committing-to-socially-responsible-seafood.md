@@ -4,7 +4,7 @@ title:  Committing to Socially Responsible Seafood
 date: 2017-6-1
 teaser-text: A new paper published in Science authored by Conservation International et al. underscores the need for ocean science to address social challenges in seafood.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/committing-to-socially-responsible-seafood-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###A new paper titled “*Committing to socially responsible seafood*” published in *Science* highlights the need for ocean science to evolve to address the social challenges in the seafood sector. 
 
