@@ -17,7 +17,7 @@ permalink: /what-we-do/fishery-improvement-projects/miyagi-coho-salmon
 <h2>現在の活動:</h2>
 
 * 環境モニタリングの優先分野および水産養殖業の課題を特定するASC予備審査の実施。
-* ASC予備審査で明らかになった課題の解決に取り組むためのAIP活動計画の策定および実施を開始。初期段階として、養殖場における生産およびその周辺生態系への影響に関する情報を特定、収集、モニタリングおよび評価する。その後プロジェクトの初期段階で明らかになったデータをもとに、養殖場の周辺生態系への影響を最小限に軽減する活動を実施する。
+* ASC予備審査で明らかになった課題の解決に取り組むためのAIP活動計画の策定および実施を開始。尚、養殖場における生産およびその周辺生態系への影響に関する情報のモニタリング、飼料の持続可能性の評価、養殖業の社会的責任に関する規制を策定する。
 * プロジェクト参加者と集まり、女川町地域における持続可能な水産物および養殖漁業に向けた改善の取り組みへの支援、参加を促すとともに関心を高める。
 
 ---
@@ -26,12 +26,12 @@ permalink: /what-we-do/fishery-improvement-projects/miyagi-coho-salmon
 
 |||
 | :--- | --- |
-| 開始時期: | 2017年5月 |
+| 開始時期: | 2017年6月 |
 | 場所: | 宮城県女川町 |
 | 参加者: | 株式会社マルキン、オーシャン・アウトカムズ、フィッシャーマンジャパン |
 | 対象種: | 銀鮭 (*Oncorhynchus kisutch*) |
-| 漁具の種類: | 中型まき網 |
-| 生産量: | 最大465 mt – マルキンによると年間生産量は約13万匹で、個体の体重を約3.6キロ（NOAA推定値）とすると約465 mt になる。 |
+| 漁具の種類: | 養殖漁業、海上生簀|
+| 生産量: | 生産量: 最大465 mt – マルキンによると年間生産量は約13万匹で、個体の体重を約3.6キロ（NOAA推定値）とすると約465 mt になる。 平均漁獲量は年間約220m〜。 |
 | 文書: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonPreassessment2017.xlsx" target="_blank">予備審査</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonAIPWorkplan2017.pdf" target="_blank">活動計画</a> |
 
 ---
