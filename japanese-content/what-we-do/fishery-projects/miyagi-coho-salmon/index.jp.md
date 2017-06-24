@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: 宮城銀鮭AIP
+title: 宮城女川・銀鮭AIP
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/miyagi-coho-salmon-hero.jpg
 subtitle:
