@@ -10,24 +10,6 @@ headerimage: assets/images/news-header-bg.jpg
     </section>
   </header>
 
-  <section class="contact-location">
-    <div class="grid-container">
-      <img class="map-icon" src="{{site.baseurl}}/assets/images/map-location-icon.png" alt="Map Icon">
-      <h1>{%t our-location %}</h1>
-      <p>
-        <span class="street">{{page.address.street}}</span><br>
-        <span class="city-state-zip">{{page.address.citystatezip}}</span><br>
-        {% if page.address.phone or page.address.tollfree %}
-        <span class="phone">
-          {% if page.address.phone %}{{page.address.phone}}{% endif %}
-          {% if page.address.phone and page.address.tollfree %} • {% endif %}
-          {%if page.address.tollfree %}{{page.address.tollfree}}{% endif %}
-        </span>
-        {% endif %}
-      </p>
-    </div>
-  </section>
-
   <section class="contact-form">
     <div class="grid-container">
       <h1><i class="fa fa-send"></i> {%t get-in-touch %}</h1>
