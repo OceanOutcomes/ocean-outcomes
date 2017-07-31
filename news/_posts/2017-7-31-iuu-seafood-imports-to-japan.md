@@ -8,7 +8,7 @@ featured: TRUE
 ---
 ###**Tokyo, Japan** - <a href="http://www.sciencedirect.com/science/article/pii/S0308597X17300817" target="_blank">A new paper</a> published in the journal of *Marine Policy* estimates that 24–36% of 2.15 million tonnes of wild-seafood imports to Japan in 2015, valued at $1.6 to $2.4 billion, were of illegal or unreported origin. 
 
-The investigation, conducted by a team of leading researchers from the University of British Columbia, assessed 27 seafood products coming from 9 leading source countries to Japan; some products such as imported Chinese eel were found to be up to 45-75% illegally harvested.
+The investigation, conducted by a team of leading researchers from the University of British Columbia, assessed 27 seafood products coming from 9 leading source countries to Japan; some products such as imported Chinese eel were found to be up to 45-75% illegally harvested. Although Japan has taken recent steps to address the illegal seafood problem including the ratification of the Port State Measures Agreement, stronger actions must be taken to prevent illegal products from entering one of the world’s largest markets.
 
 The current import control system in Japan—one of the top three seafood markets globally—poses very little deterrent to the entry of illegal seafood. Japan has yet to implement the same anti-IUU and traceability standards as the US and Europe, including a lack of import regulations to verify product legality. Although a limited catch documentation scheme is implemented for Bluefin tuna, Russian crab, and Patagonian Toothfish, as part of Japan’s commitments to Regional Fisheries Management Organizations (RFMO) and other international agreements, such arrangements do not apply to the bulk of its seafood imports. 
 
