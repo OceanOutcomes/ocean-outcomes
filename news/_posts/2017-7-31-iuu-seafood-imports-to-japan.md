@@ -28,11 +28,15 @@ The University of British Columbia research team was the same group that complet
 Media Contacts:
 
 Brian Caouette 
+
 VP Strategy and Programs, Ocean Outcomes 
+
 brian@oceanoutcomes.org 
 
 Perry Broderick 
+
 IT/Communications Manager, Ocean Outcomes 
+
 perry@oceanoutcomes.org 
 
 ----
