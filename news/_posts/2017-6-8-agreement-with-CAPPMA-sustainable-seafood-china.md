@@ -4,7 +4,7 @@ title: O2 and CAPPMA Commit to a More Sustainable Future for Chinese Seafood Ind
 date: 2017-6-8
 teaser-text: O2 and CAPPMA, a Chinese seafood industry group representing over 1,800 Chinese seafood players, sign agreement at Seaweb Seafood Summit to work towards more sustainable fisheries and responsible aquaculture practices in China.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/O2-CAPPMA-MOU-AGREEMENT.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###O2 and CAPPMA, a Chinese seafood industry group representing over 1,800 Chinese seafood players, sign agreement at Seaweb Seafood Summit to work towards more sustainable fisheries and responsible aquaculture practices in China.
 
