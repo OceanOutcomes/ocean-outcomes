@@ -6,7 +6,7 @@ teaser-text: Although Japan has taken recent steps to address the illegal seafoo
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/iuu-imports-japanese-market-hero.jpg
 featured: TRUE
 ---
-###**Tokyo, Japan** - A new <a href="http://www.sciencedirect.com/science/article/pii/S0308597X17300817" target="_blank">paper</a> published in the journal of *Marine Policy* estimates that 24–36% of 2.15 million tonnes of wild-seafood imports to Japan in 2015, valued at $1.6 to $2.4 billion, were of illegal or unreported origin. 
+###**Tokyo, Japan** - <a href="http://www.sciencedirect.com/science/article/pii/S0308597X17300817" target="_blank">A new paper</a> published in the journal of *Marine Policy* estimates that 24–36% of 2.15 million tonnes of wild-seafood imports to Japan in 2015, valued at $1.6 to $2.4 billion, were of illegal or unreported origin. 
 
 The investigation, conducted by a team of leading researchers from the University of British Columbia, assessed 27 seafood products coming from 9 leading source countries to Japan; some products such as imported Chinese eel were found to be up to 45-75% illegally harvested.
 
@@ -27,16 +27,16 @@ The University of British Columbia research team was the same group that complet
 				
 Media Contacts:
 
-Brian Caouette
-VP Strategy and Programs, Ocean Outcomes
-brian@oceanoutcomes.org
+Brian Caouette 
+VP Strategy and Programs, Ocean Outcomes 
+brian@oceanoutcomes.org 
 
-Perry Broderick
-IT/Communications Manager, Ocean Outcomes
-perry@oceanoutcomes.org
+Perry Broderick 
+IT/Communications Manager, Ocean Outcomes 
+perry@oceanoutcomes.org 
 
 ----
 
 **Additional Resources:**
 
-<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/New+study+reveals+high+risk+of+illegal+seafood+imports+entering+Japanese+market+2017.pdf">Download a PDF of this announcement</a>.
+<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/New+study+reveals+high+risk+of+illegal+seafood+imports+entering+Japanese+market+2017.pdf" target="blank">Download a PDF of this announcement</a>.
