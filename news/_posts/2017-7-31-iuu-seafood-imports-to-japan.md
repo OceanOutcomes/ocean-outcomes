@@ -21,25 +21,19 @@ The University of British Columbia research team was the same group that complet
 * Japan should strengthen its customs and import inspection regime, ensuring that appropriate measures are taken to verify the legality and origin of seafood at all points-of-entry, both by sea and air. 
 * Japan should strengthen its domestic fisheries policy and regulatory framework—for both imported and domestic seafood—to mitigate IUU risk and increase traceability and transparency. In particular, traceability standards for industry should be established that require key data elements are used to verify the origin and legality of all seafood, from point of harvest to end market.
 * A dialogue should be initiated with Japan’s seafood industry and major seafood importers in order to adopt appropriate traceability systems and other voluntary, market-based measures to prevent IUU products from entering respective supply chains.
-* Additional studies are needed—including DNA and economic impact analysis—to evaluate the effect of illegal and/or mislabeled seafood products in Japanese seafood supply chains.
-
-###
-				
-Media Contacts:
-
-Brian Caouette 
-
-VP Strategy and Programs, Ocean Outcomes 
-
-brian@oceanoutcomes.org 
-
-Perry Broderick 
-
-IT/Communications Manager, Ocean Outcomes 
-
-perry@oceanoutcomes.org 
+* Additional studies are needed—including DNA and economic impact analysis—to evaluate the effect of illegal and/or mislabeled seafood products in Japanese seafood supply chains.			
 
 ----
+
+**Media Contacts:**
+
+Brian Caouette, VP Strategy and Programs   
+<a href="mailto:brian@oceanoutcomes.org">brian@oceanoutcomes.org</a>  
++1-503.504.0050
+
+Perry Broderick, IT/Communications Manager   
+<a href="mailto:perry@oceanoutcomes.org">perry@oceanoutcomes.org</a>  
++1-503.758.6893
 
 **Additional Resources:**
 
