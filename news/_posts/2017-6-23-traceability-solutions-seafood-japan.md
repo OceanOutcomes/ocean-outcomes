@@ -4,7 +4,7 @@ title: Building Traceability into Japanese Fisheries
 date: 2017-6-23
 teaser-text: Recently Ono-san—the fisherman leading the Tokyo Bay Sea Perch FIP—shared a story with us regarding how traceability works in Japan. It really got us thinking.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/japan-traceability-pilot-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###A few years back, Ono-san received a call from a long-time buyer of his fish.
 
