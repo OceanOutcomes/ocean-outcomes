@@ -1,6 +1,6 @@
 ---
 layout: news-landing 
-title: News & Analysis
-subtitle: Synthesized information on fishery improvement.
+title: News + Blog
+subtitle: Synthesized information and analysis on sustainable fisheries, farms, and seafood.
 weight: 4
 ---
