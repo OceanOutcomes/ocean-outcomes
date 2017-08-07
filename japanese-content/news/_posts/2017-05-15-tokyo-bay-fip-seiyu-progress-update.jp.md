@@ -4,7 +4,7 @@ title: 日本初の漁業改善プロジェクト「東京湾スズキFIP」本�
 date: 2017-05-15
 teaser-text: 5月16日（火）から関東の西友店舗でFIPの『瞬〆スズキ』の初売りを開始
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-seiyu-progress-update.jpg
-featured: TRUE
+featured: FALSE
 ---
 このたび、2016年11月から開始した日本初の漁業改善プロジェクト「東京湾スズキFIP」の対象である『瞬〆スズキ』を、通常のすずき店舗価格と変わらないリーズナブルな価格で、5月16日（火）から10月末まで、関東の西友主要20店舗で販売します。
 
