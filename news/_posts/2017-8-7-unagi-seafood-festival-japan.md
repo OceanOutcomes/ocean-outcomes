@@ -8,7 +8,7 @@ featured: FALSE
 ---
 In Japan, August 6th—traditionally considered the hottest day of the year—marks the end of special festival called “*Doyo no Ushi no Hi*” or Midsummer Days of the Ox. During this festival, Japanese people eat huge quantities of “unagi” to counteract the summer heat.
 
-###Festivals such as this are one reason a whopping <a href="https://www.theatlantic.com/science/archive/2016/01/unagi-endangered-eel-japan/423675/" target="blank">70% of freshwater eels produced worldwide are consumed in Japan</a>.
+###<a href="https://www.theatlantic.com/science/archive/2016/01/unagi-endangered-eel-japan/423675/" target="blank">Festivals such as this are one reason a whopping 70% of freshwater eels produced worldwide are consumed in Japan</a>.
 
 An especially loved food item is “*kabayaki*” or glazed grilled eel. Stalls and markets all over Japan make a brisk business in the selling of this tasty treat. 
 
@@ -16,8 +16,14 @@ Unfortunately, this unique Japanese cultural and culinary experience may soon di
 
 Last week, the O2 Japan team joined the *Doyo no Ushi no Hi* celebrations, check out some of the photos from one of the festivals below. 
 
+----
+
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-7.jpg)
+*Caption. © Ocean Outcomes*
+
+![Japan seafood Doyo no Ushi no Hi unagi festival]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-4.jpg)
 *Caption. © Ocean Outcomes*
 
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
@@ -29,7 +35,7 @@ Last week, the O2 Japan team joined the *Doyo no Ushi no Hi* celebrations, check
 *Caption. © Ocean Outcomes*
 
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-1.jpg)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-3.jpg)
 *Caption. © Ocean Outcomes*
 
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
