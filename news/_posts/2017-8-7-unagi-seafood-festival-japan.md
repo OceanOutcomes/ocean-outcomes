@@ -35,10 +35,6 @@ Last week, the O2 Japan team joined the *Doyo no Ushi no Hi* celebrations, check
 *Caption. © Ocean Outcomes*
 
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-3.jpg)
-*Caption. © Ocean Outcomes*
-
-![Japan seafood Doyo no Ushi no Hi unagi festival]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-5.jpg)
 *Caption. © Ocean Outcomes*
 
@@ -47,5 +43,5 @@ Last week, the O2 Japan team joined the *Doyo no Ushi no Hi* celebrations, check
 *Caption. © Ocean Outcomes*
 
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-4.jpg)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-3.jpg)
 *Caption. © Ocean Outcomes*
