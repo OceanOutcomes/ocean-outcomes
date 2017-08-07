@@ -2,7 +2,7 @@
 layout: news
 title: Traditional Japanese Eel Festival Draws to a Close
 date: 2017-8-7
-teaser-text: Festivals such as this are one reason a whopping 70% of freswhater eels produced worldwide are consumed in Japan. Check out some photos from one festival.
+teaser-text: Festivals such as this are one reason a whopping 70% of freswhater eels produced worldwide are consumed in Japan. View some photos from one *Doyo no Ushi no Hi* celebration.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-4.jpg
 featured: TRUE
 ---
