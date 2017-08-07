@@ -18,7 +18,7 @@ featured: TRUE
 
 *本当にこれが今の日本の仕組みなのか？これで違法漁業の魚や汚染魚を効果的にサプライチェーンから排除できるのか？サプライチェーンがより複雑な場合はどうなるか？このような信用に基づく仕組みは日本ではどこででも通用するのか？サプライチェーンの抜け穴や弱点はどこか？*
 
-このような疑問に答えるために、[私たちは東京湾スズキ漁業改善プロジェクト（FIP）の一環として日本初のFIPトレーサビリティーの試験的な審査を実施しました] (/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch/)。 O2チームは漁船上および加工施設で1日ずつ過ごし、現在のトレーサビリティーの状況を直接観察しました。また、国際的なベストプラクティス（最良の慣行や実施例：MSCの加工流通基準など）に基づき質問表およびチェックリストも作成しました。
+このような疑問に答えるために、[私たちは東京湾スズキ漁業改善プロジェクト（FIP）の一環として日本初のFIPトレーサビリティーの試験的な審査を実施しました] (/jp/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch)。 O2チームは漁船上および加工施設で1日ずつ過ごし、現在のトレーサビリティーの状況を直接観察しました。また、国際的なベストプラクティス（最良の慣行や実施例：MSCの加工流通基準など）に基づき質問表およびチェックリストも作成しました。
 
 ![Japan seafood tracebility]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+9+-+angelina.jpg)
