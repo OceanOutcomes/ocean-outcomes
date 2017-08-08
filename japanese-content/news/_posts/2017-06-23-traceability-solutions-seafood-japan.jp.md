@@ -22,7 +22,7 @@ featured: TRUE
 
 ![Japan seafood tracebility]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+9+-+angelina.jpg)
-*O2 team members track sea perch product at point of processing in Tokyo Bay. © Ocean Outcomes*
+*東京湾の加工場でスズキのトレーサビリティ審査に係るO2スタッフ。 © Ocean Outcomes*
 
 ###私たちが実施した審査により、最良の手法がすでに数多く実施されていることが分かりました。 
 
@@ -31,8 +31,8 @@ featured: TRUE
 課題としては－いくつかの限定的な情報がどこにでもある発泡スチロール製の容器上に表示されている以外は－標準化された統一的な記録体制が整っていないので、このような情報が効率的にサプライチェーンに行き渡ることはありません。また加工時や輸送時、さらに下流のサプライチェーンの中で製品が混ざることを防止する体制もないように思われます。大野さんの会社では過去のある時点までは電子航海日誌や個々の魚に対する追跡システムを活用していましたが、パソコンのソフトウェアが古くなったので使えなくなり、追跡業務がとても面倒になってしまったことを大野さんは率直に話してくださいました。
 
 ![Tokyo Bay sea perch traceability key data elements]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+8+kdes.jpg)
-*Key data elements in the Tokyo Bay Sea Perch FIP and at which point in the supply chain each element is tracked. © Ocean Outcomes*
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+8+kdes+jp.jpg)
+*東京湾スズキFIPの重要データ要素及びサプライチェーン上で追跡可能な情報。 © Ocean Outcomes*
 
 ###今回の審査では一つの漁業とそのサプライチェーンの実情しか分かりませんが、私たちが明らかにしたテーマは日本全体の水産物サプライチェーン内部に存在するより大きなギャップ（改善すべき点）を示しています。 
 
