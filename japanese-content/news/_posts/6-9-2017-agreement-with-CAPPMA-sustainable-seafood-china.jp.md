@@ -4,7 +4,7 @@ title: O2とCAPPMA、「世界海洋の日」に中国水産業の持続可能�
 date: 2017-6-9
 teaser-text: 6月5日〜7日に米国シアトルで開催された「シーフード・サミット in 2017」にて、中国で1,800社以上の水産関連企業を代表する中国水産流通加工協会（CAPPMA）とO2が中国の漁業と養殖業をより持続可能かつ責任あるものにするために協働する覚書をとりかわしました。
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/O2-CAPPMA-MOU-AGREEMENT.jpg
-featured: TRUE
+featured: FALSE
 ---
 <h3>中国水産流通加工協会（CAPPMA）とO2は世界海洋の日に、より多くの持続可能な中国漁業と責任ある養殖業に取り組むことを公約。</h3>
 

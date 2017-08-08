@@ -4,7 +4,7 @@ title:  Fifth Tuna Management Workshop Advances Knowledge of Tuna Sustainability
 date: 2017-8-2
 teaser-text: Leading tuna management experts convene to build capacity with tuna managers on international best practices for sustainable tuna management in areas beyond national jurisdiction (ABNJ).
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tuna-management-workshop-bali.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Leading tuna management experts convene to build capacity with tuna managers on international best practices for sustainable tuna management in areas beyond national jurisdiction (ABNJ).
 
