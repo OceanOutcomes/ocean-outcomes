@@ -20,28 +20,28 @@ Last week, the O2 Japan team joined the *Doyo no Ushi no Hi* celebrations, check
 
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-7.jpg)
-*Caption. © Ocean Outcomes*
+*Attendees of this eel festival had the opportunity to hand-catch eel from a miniature pool and observe how kabayaki unagi are prepared and cooked. © Ocean Outcomes*
 
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-4.jpg)
-*Caption. © Ocean Outcomes*
+*An annual summer eel festival hosted by a local food service and catering company in Tokyo. © Ocean Outcomes*
 
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-1.jpg)
-*Caption. © Ocean Outcomes*
+*Freshly caught eel being prepared for the grill. © Ocean Outcomes*
 
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-6.jpg)
-*Caption. © Ocean Outcomes*
+*Grilling kayabaki unagi (glazed grilled eel) over charcoal. © Ocean Outcomes*
 
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-5.jpg)
-*Caption. © Ocean Outcomes*
+*Tray of kabayaki unagi ready to be enjoyed by customers. © Ocean Outcomes*
 
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-2.jpg)
-*Caption. © Ocean Outcomes*
+*Special sale of kabayaki unagi at a major department store leading up to Doyo no ushi no hi. © Ocean Outcomes*
 
 ![Japan seafood Doyo no Ushi no Hi unagi festival]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-3.jpg)
-*Caption. © Ocean Outcomes*
+*Traditional Japanese eel products being advertised for English-speaking customers as well. © Ocean Outcomes*
