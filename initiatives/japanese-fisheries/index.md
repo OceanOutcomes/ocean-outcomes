@@ -15,8 +15,10 @@ Tsukiji market stands at the center of a global seafood trade that reaches nearl
 For the average Japanese consumer, this has meant higher prices at the market and increasing difficulties in enjoying traditional “washoku” food items. “Unagi” (eel), for example, saw a peak commercial catch of 232 metric tons in 1963 but that catch was reduced to a measly 5 tons in 2011. Meanwhile, the price of Unagi quadrupled in the last decade alone. For coastal communities and fishery cooperatives across Japan that have beared the brunt of the fishery crisis, the situation is even more severe; a whopping 800,000 Japanese jobs have been lost since the fishing industry’s peak in the 1960s.
 
 ---
-##Opportunities for Sustainable Fisheries in Japan
-To learn more about the complex issues facing Japanese fisheries see our report titled "<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/OceanOutcomesJapanOppReport.pdf" target="_blank">Opportunities for Sustainable Fisheries in Japan</a>" which provides analysis and practical recommendations to restore ecosystems, fisheries, and coastal communities across the Japanese archipelago.
+##Sustainable Fisheries in Japan
+To learn more about the complex issues facing Japanese fisheries see our report titled "<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/OceanOutcomesJapanOppReport.pdf" target="_blank">*Opportunities for Sustainable Fisheries in Japan*</a>" which provides analysis and practical recommendations to restore ecosystems, fisheries, and coastal communities across the Japanese archipelago.
+
+We work directly with fisheries and other fishery stakeholders in Japan to improve fishery management practices and fishery sustainability. A comprehensive understanding of Japan’s current management system and strategies is key to achieving lasting outcomes in this work. To this effect, we developed a brief white paper titled "<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/OverviewofJapanFisheriesManagementandChallenges+WhitePaper.pdf" target="_blank">*Overview of Japan Fisheries Management and Challenges: White Paper*</a>" to outline key features of Japan’s fisheries management, as well as core challenges and needs.
 
 ---
 ##Japan Rapid Assessment Summaries  
