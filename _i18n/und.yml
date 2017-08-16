@@ -37,7 +37,7 @@ und:
   news-section-heading: "Stories from the Field"
   news-section-link-text: "See All Posts"
   news-base-url: "/news/"
-  news-back: "Back to Stories from the Field"
+  news-back: "View all stories"
   news-published: "Published"
   news-like: "Like what you are reading?"
   news-notified: "Get notified of new posts"
@@ -57,7 +57,7 @@ und:
   close: "Close"
   menu: "Menu"
   tracker: "FIP Tracker"
-  newsletter: "Subscribe for the Latest from the Field"
+  newsletter: "Subscribe to our newsletter"
 
   ##########################
   # Contact Page
