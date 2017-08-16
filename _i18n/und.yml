@@ -34,7 +34,7 @@ und:
   supply-chain: "Marketplace Connections"
 
   ## News section
-  news-section-heading: "From the Blog"
+  news-section-heading: "Stories from the Field"
   news-section-link-text: "See All Posts"
   news-base-url: "/news/"
   news-back: "Back to News &amp; Analysis"
