@@ -1,6 +1,6 @@
 ---
 layout: news-landing 
-title: News + Blog
-subtitle: Synthesized information and analysis on sustainable fisheries, farms, and seafood.
+title: Stories from the Field
+subtitle: Synthesized information and analysis from the ground on sustainable fisheries, farms, and seafood.
 weight: 4
 ---

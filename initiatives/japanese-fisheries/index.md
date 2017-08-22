@@ -15,8 +15,8 @@ Tsukiji market stands at the center of a global seafood trade that reaches nearl
 For the average Japanese consumer, this has meant higher prices at the market and increasing difficulties in enjoying traditional “washoku” food items. “Unagi” (eel), for example, saw a peak commercial catch of 232 metric tons in 1963 but that catch was reduced to a measly 5 tons in 2011. Meanwhile, the price of Unagi quadrupled in the last decade alone. For coastal communities and fishery cooperatives across Japan that have beared the brunt of the fishery crisis, the situation is even more severe; a whopping 800,000 Japanese jobs have been lost since the fishing industry’s peak in the 1960s.
 
 ---
-##Opportunities for Sustainable Fisheries in Japan
-To learn more about the complex issues facing Japanese fisheries see our report titled "<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/OceanOutcomesJapanOppReport.pdf" target="_blank">Opportunities for Sustainable Fisheries in Japan</a>" which provides analysis and practical recommendations to restore ecosystems, fisheries, and coastal communities across the Japanese archipelago.
+##Sustainable Fisheries in Japan
+To learn more about the complex issues facing Japanese fisheries see our report titled "<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/OceanOutcomesJapanOppReport.pdf" target="_blank">*Opportunities for Sustainable Fisheries in Japan*</a>" which provides analysis and practical recommendations to restore ecosystems, fisheries, and coastal communities across the Japanese archipelago.
 
 ---
 ##Japan Rapid Assessment Summaries  
@@ -24,4 +24,3 @@ We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-w
 
 ---
 Hungry for more Japanese seafood? [See the fishery improvement success story of the largest chum salmon fishery in the world] (/what-we-do/success-stories/hokkaido-chum/).
-

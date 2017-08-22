@@ -20,9 +20,9 @@ Our ever-expanding portfolio of work spans the globe. We’ve developed salmon e
 
 ----
 
-##### Fishery Improvement Projects (FIP) 
+##### Improvement Projects - FIPs and AIPs
  
-As an organization founded on helping commercial fisheries become more sustainable, we know FIPs. Our FIP work includes the design, launch, and implementation of both basic and comprehensive fishery improvement projects. This includes fishery assessments, stakeholder mapping and convening, work plan development and implementation, project public relations, and certification guidance.
+As an organization founded on helping commercial fisheries and aquaculture operations become more sustainable, we know Fishery Improvement Projects (FIP) and Aquaculture Improvement Projects (AIP). Our improvement work includes the design, launch, and implementation of both basic and comprehensive fishery improvement projects, as well as aquaculture improvement projects. This includes assessment, stakeholder mapping and convening, work plan development and implementation, project public relations, and certification guidance.
 
 ----
 
@@ -57,4 +57,3 @@ Leave the development and implementation of sustainable practices to the experts
 ----
 
 ##[Have a need? Let’s talk.] (/contact/)
-
