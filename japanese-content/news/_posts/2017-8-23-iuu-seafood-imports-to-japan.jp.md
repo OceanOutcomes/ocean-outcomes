@@ -15,7 +15,7 @@ featured: TRUE
 
 また、近年、欧米ではIUU漁業に由来する水産物の輸入を禁止する制度を制定しており、欧米に輸出することができない水産物が日本に流入するリスクも生じています。
 
-これらの状況を踏まえ、私たちは、世界第3位の水産物の輸入市場である日本がIUU水産物の輸入を防止するために、以下の取組みを行うことが重要と考えます。
+<h3>これらの状況を踏まえ、私たちは、世界第3位の水産物の輸入市場である日本がIUU水産物の輸入を防止するために、以下の取組みを行うことが重要と考えます。</h3>
 
 * 日本へのIUU水産物の流入リスクについて更に調査を進めること。
 * IUU漁業由来の水産物が輸入され、市場に流通することを防止するために、輸入時に水産物の漁獲地と合法性を証明するための主要データが報告・検証される制度の構築を検討すること。こうした制度の運用に際しては、国際的なベストプラクティスに対応するために各国との連携を図ること。
@@ -35,9 +35,10 @@ O2、シーフードレガシー、GR Japanは、今後も持続可能な漁業�
 * 輸入量でみると、中国から輸入されるイカ及びコウイカが違法・無報告漁業によって漁獲された量が最も多かった（推計で26,950トン〜42,350トン。中国からのイカ及びコウイカ輸入量のうち35〜55%）。
 * 違法・無報告の割合でみると、中国から輸入されるウナギがもっとも高く、45〜75%を占めた。		
 
-調査報告の概要（日本語）は、こちら⇒<a href="http://www.oceanoutcomes.org/jp/news/" target="blank">http://www.oceanoutcomes.org/jp/news/</a> 
 
-調査報告の全文（英文のみ）は、こちら⇒<a href="https://authors.elsevier.com/sd/article/S0308597X17300817" target="blank">https://authors.elsevier.com/sd/article/S0308597X17300817</a>
+<a href="http://www.oceanoutcomes.org/jp/news/" target="blank">調査報告の概要（日本語）は、こちら⇒</a>
+
+<a href="https://authors.elsevier.com/sd/article/S0308597X17300817" target="blank">調査報告の全文（英文のみ）は、こちら⇒</a>
 
 ----
 
@@ -47,11 +48,13 @@ GR Japan ・IUU漁業対策プロジェクト広報事務局 （株式会社ジ�
 
 TEL ：03-3291-0118　FAX ：03-3291-0223　E-mail ：<a href="mailto:iuu@jc-inc.co.jp">iuu@jc-inc.co.jp</a>
 
-**【研究結果に関するお問い合わせ先】 **
+**【研究結果に関するお問い合わせ先】**
 
 オーシャン・アウトカムズ 
 
 E-mail ：<a href="mailto:info@oceanoutcomes.org">info@oceanoutcomes.org</a> 
+
+----
 
 **Additional Resources:**
 
