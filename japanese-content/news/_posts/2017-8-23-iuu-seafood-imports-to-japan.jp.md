@@ -35,11 +35,6 @@ O2、シーフードレガシー、GR Japanは、今後も持続可能な漁業�
 * 輸入量でみると、中国から輸入されるイカ及びコウイカが違法・無報告漁業によって漁獲された量が最も多かった（推計で26,950トン〜42,350トン。中国からのイカ及びコウイカ輸入量のうち35〜55%）。
 * 違法・無報告の割合でみると、中国から輸入されるウナギがもっとも高く、45〜75%を占めた。		
 
-
-<a href="http://www.oceanoutcomes.org/jp/news/" target="blank">調査報告の概要（日本語）は、こちら⇒</a>
-
-<a href="https://authors.elsevier.com/sd/article/S0308597X17300817" target="blank">調査報告の全文（英文のみ）は、こちら⇒</a>
-
 ----
 
 **【本件に関するお問い合わせ先】**
@@ -54,10 +49,10 @@ TEL ：03-3291-0118　FAX ：03-3291-0223　E-mail ：<a href="mailto:iuu@jc-inc
 
 E-mail ：<a href="mailto:info@oceanoutcomes.org">info@oceanoutcomes.org</a> 
 
-----
+**【追加情報】**
 
-**Additional Resources:**
+<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/jp+documents/%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91O2%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%95%E3%83%BC%E3%83%88%E3%82%99%E3%83%AC%E3%82%AB%E3%82%99%E3%82%B7%E3%83%BC%E3%83%BBGR+Japan%E3%81%8B%E3%82%99%E9%81%95%E6%B3%95%E6%BC%81%E6%A5%AD%E5%AF%BE%E7%AD%96%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E5%8F%96%E7%B5%84%E3%81%BF%E3%82%92%E8%A1%A8%E6%98%8E_0822%E5%86%8D%E4%BF%AE%E6%AD%A3.pdf" target="blank">この発表のPDF版をダウンロードする</a>.
 
-<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/jp+documents/%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91O2%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%95%E3%83%BC%E3%83%88%E3%82%99%E3%83%AC%E3%82%AB%E3%82%99%E3%82%B7%E3%83%BC%E3%83%BBGR+Japan%E3%81%8B%E3%82%99%E9%81%95%E6%B3%95%E6%BC%81%E6%A5%AD%E5%AF%BE%E7%AD%96%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E5%8F%96%E7%B5%84%E3%81%BF%E3%82%92%E8%A1%A8%E6%98%8E_0822%E5%86%8D%E4%BF%AE%E6%AD%A3.pdf" target="blank">Download a PDF of this announcement</a>.
+<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/jp+documents/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%91%E3%80%8C%E6%97%A5%E6%9C%AC%E3%81%B8%E3%81%AE%E9%81%95%E6%B3%95%E3%83%BB%E7%84%A1%E5%A0%B1%E5%91%8A%E6%B0%B4%E7%94%A3%E7%89%A9%E3%81%AE%E8%BC%B8%E5%85%A5%E9%87%8F%E6%8E%A8%E8%A8%88%E3%80%8D%E6%A6%82%E8%A6%81.pdf" target="blank">【参考資料】「日本への違法・無報告水産物の輸入量推計」概要</a>.
 
-<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/jp+documents/%E3%80%90%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99%E3%80%91%E3%80%8C%E6%97%A5%E6%9C%AC%E3%81%B8%E3%81%AE%E9%81%95%E6%B3%95%E3%83%BB%E7%84%A1%E5%A0%B1%E5%91%8A%E6%B0%B4%E7%94%A3%E7%89%A9%E3%81%AE%E8%BC%B8%E5%85%A5%E9%87%8F%E6%8E%A8%E8%A8%88%E3%80%8D%E6%A6%82%E8%A6%81.pdf" target="blank">Download TITLE OF SECOND DOCUMENT HERE</a>.
+<a href="https://authors.elsevier.com/sd/article/S0308597X17300817" target="blank">調査報告の全文（英文のみ）は、こちら⇒</a>
