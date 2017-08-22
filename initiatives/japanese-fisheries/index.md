@@ -24,4 +24,3 @@ We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-w
 
 ---
 Hungry for more Japanese seafood? [See the fishery improvement success story of the largest chum salmon fishery in the world] (/what-we-do/success-stories/hokkaido-chum/).
-
