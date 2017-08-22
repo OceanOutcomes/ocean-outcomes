@@ -18,8 +18,6 @@ For the average Japanese consumer, this has meant higher prices at the market an
 ##Sustainable Fisheries in Japan
 To learn more about the complex issues facing Japanese fisheries see our report titled "<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/OceanOutcomesJapanOppReport.pdf" target="_blank">*Opportunities for Sustainable Fisheries in Japan*</a>" which provides analysis and practical recommendations to restore ecosystems, fisheries, and coastal communities across the Japanese archipelago.
 
-A comprehensive understanding of Japan’s current management system and strategies is key to achieving lasting outcomes in this work. To this effect, we developed a brief white paper titled "<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/OverviewofJapanFisheriesManagementandChallenges+WhitePaper.pdf" target="_blank">*Overview of Japan Fisheries Management and Challenges: White Paper*</a>" to outline key features of Japan’s fisheries management, as well as core challenges and needs.
-
 ---
 ##Japan Rapid Assessment Summaries  
 We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-we-do/services/rapid-assessments/)) of strategically important fishery species to better articulate the fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species. These assessments will help inform policy, management, funding, and the direction of sustainable seafood work across the globe.
