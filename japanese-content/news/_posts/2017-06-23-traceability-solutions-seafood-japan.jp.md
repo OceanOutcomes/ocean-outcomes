@@ -4,7 +4,7 @@ title: 日本の漁業におけるトレーサビリティーを確立する
 date: 2017-6-23
 teaser-text: 東京湾スズキ漁業改善プロジェクト（FIP）を率いる中型巻き網船大傳丸の大野さんから日本におけるトレーサビリティーの現状を伺い、多くの知見を頂きました。
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/japan-traceability-pilot-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###東京湾スズキ漁業改善プロジェクト（FIP）を率いる中型巻き網船大傳丸の大野さんから日本におけるトレーサビリティーの現状を伺い、多くの知見を頂きました。
 
