@@ -1,0 +1,70 @@
+---
+layout: news
+title: O2・シーフードレガシー・GR Japanが違法漁業対策のために必要な取組みを表明
+date: 2017-8-23
+teaser-text: 海洋政策国際学術誌「マリン・ポリシー」掲載の最新調査報告2015年に日本へ輸入された天然水産物のうち24〜36%が違法又は無報告漁業と推計
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/iuu-imports-japanese-market-hero.jpg
+featured: TRUE
+---
+オーシャン・アウトカムズ（以下、O2）、株式会社シーフードレガシー、GR Japan株式会社は、O2の委託によって行った最新の調査<a href="http://www.sciencedirect.com/science/article/pii/S0308597X17300817" target="_blank">「日本への違法・無報告水産物の輸入量推計」（Estimates of illegal and unreported seafood imports to Japan）</a>で、2015年に日本へ輸入された天然水産物のうち24〜36%は違法又は無報告漁業によって漁獲されたものであるとの推計結果を受けて、違法・無報告・無規制（IUU）漁業対策のために今後必要な取組みとして、
+以下の通り共同で意見を表明致します。 
+
+日本は、2017年6月に違法漁業防止寄港国措置協定に加入し、同協定に基づきIUU漁業に従事したとの十分な証拠を有する漁船の国内への入港拒否、IUU漁業に従事した疑いのある船舶の検査を実施するなどの取組みを進めています。
+
+しかしながら、主な輸入経路であるコンテナ船などによって日本に輸入される水産物については、クロマグロなど一部の魚種を除いてIUU水産物の輸入を防止するための措置が十分に講じられていません。このため、日本への輸入水産物においてはIUU漁業に由来するリスクが高く、これによって合法的な漁業活動を行っている日本の漁業者が不当な競争にさらされることが懸念されます。
+
+また、近年、欧米ではIUU漁業に由来する水産物の輸入を禁止する制度を制定しており、欧米に輸出することができない水産物が日本に流入するリスクも生じています。
+
+これらの状況を踏まえ、私たちは、世界第3位の水産物の輸入市場である日本がIUU水産物の輸入を防止するために、以下の取組みを行うことが重要と考えます。
+
+* 日本へのIUU水産物の流入リスクについて更に調査を進めること。
+* IUU漁業由来の水産物が輸入され、市場に流通することを防止するために、輸入時に水産物の漁獲地と合法性を証明するための主要データが報告・検証される制度の構築を検討すること。こうした制度の運用に際しては、国際的なベストプラクティスに対応するために各国との連携を図ること。
+* 国産水産物については、水産物の漁獲情報や流通の履歴が記録・報告される制度の構築を検討すること。
+* FAO（国連食糧農業機関）及び地域漁業管理機関の枠組み等を通じた国際的なIUU漁業対策の取組みを更に進めること。
+
+O2、シーフードレガシー、GR Japanは、今後も持続可能な漁業を目指し、IUU漁業の課題や対策に関する啓発及び提言を行ってまいります。
+
+
+The UBC team included research members that completed an analogous <a href="http://www.sciencedirect.com/science/article/pii/S0308597X14000918" target="_blank">study</a> of illegal imports into the United States market, which highlighted similarly high IUU risks with 20-32% of US seafood imports to be of IUU origin. That study garnered significant attention in the US and helped spur major US Government action, including the Obama Task Force on IUU Fishing and the US Seafood Import Monitoring Program. 
+
+----
+
+> 【「日本への違法・無報告水産物の輸入量推計」概要から抜粋】
+（2017年7月発行 海洋政策国際学術誌「マリン・ポリシー」掲載）
+　著者：Ganapathiraju Pramod, Tony J. Pitcher, Gopikrishna Mantha
+ 
+----
+
+* 2015年に日本へ輸入された天然水産物のうち24〜36%は違法又は無報告漁業によって漁獲されたものであると推計された。金額にしておおよそ16〜24億米ドル（日本円でおおよそ1800〜2700億円ほどに及ぶ）。
+* これは2014年に発表された米国の輸入水産物の違法・無報告漁業の割合（重量の20〜32%）の推計と肩を並べる。
+* 輸入量でみると、中国から輸入されるイカ及びコウイカが違法・無報告漁業によって漁獲された量が最も多かった（推計で26,950トン〜42,350トン。中国からのイカ及びコウイカ輸入量のうち35〜55%）。
+* 違法・無報告の割合でみると、中国から輸入されるウナギがもっとも高く、45〜75%を占めた。
+
+				
+###Recommended actions to minimize the risk of illegal products from entering Japanese supply chain include:
+
+* Japan should strengthen its customs and import inspection regime, ensuring that appropriate measures are taken to verify the legality and origin of seafood at all points-of-entry, both by sea and air. 
+* Japan should strengthen its domestic fisheries policy and regulatory framework—for both imported and domestic seafood—to mitigate IUU risk and increase traceability and transparency. In particular, traceability standards for industry should be established that require key data elements are used to verify the origin and legality of all seafood, from point of harvest to end market.
+* A dialogue should be initiated with Japan’s seafood industry and major seafood importers in order to adopt appropriate traceability systems and other voluntary, market-based measures to prevent IUU products from entering respective supply chains.
+* Additional studies are needed—including DNA and economic impact analysis—to evaluate the effect of illegal and/or mislabeled seafood products in Japanese seafood supply chains.			
+
+調査報告の概要（日本語）は、こちら⇒<a href="http://www.oceanoutcomes.org/jp/news/" target="blank">http://www.oceanoutcomes.org/jp/news/</a>
+調査報告の全文（英文のみ）は、こちら⇒<a href="https://authors.elsevier.com/sd/article/S0308597X17300817" target="blank">https://authors.elsevier.com/sd/article/S0308597X17300817</a>
+
+----
+
+**【本件に関するお問い合わせ先】**
+
+GR Japan ・IUU漁業対策プロジェクト広報事務局
+（株式会社ジャパン・カウンセラーズ内）
+TEL ：03-3291-0118  　FAX ：03-3291-0223　E-mail: <a href="mailto:iuu@jc-inc.co.jp">iuu@jc-inc.co.jp</a>
+
+【研究結果に関するお問い合わせ先】
+オーシャン・アウトカムズ
+E-mail: <a href="mailto:info@oceanoutcomes.org">info@oceanoutcomes.org</a>
+
+**Additional Resources:**
+
+<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/New+study+reveals+high+risk+of+illegal+seafood+imports+entering+Japanese+market+2017.pdf" target="blank">Download a PDF of this announcement</a>.
+
+<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/New+study+reveals+high+risk+of+illegal+seafood+imports+entering+Japanese+market+2017.pdf" target="blank">Download TITLE OF SECOND DOCUMENT HERE</a>.
