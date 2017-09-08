@@ -20,5 +20,3 @@ We’re working at the nexus of market-based, sustainable seafood solutions to I
 * Learn more about our on the water initiatives including our [Catch Tracking System (CTS)] (/initiatives/iuu/cts/) and our [Independent Observer] (/initiatives/iuu/observers/) programs.
 
 * [View our fishery projects] (/what-we-do/our-work/).
-
-
