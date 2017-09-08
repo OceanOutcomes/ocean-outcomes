@@ -3,7 +3,7 @@ layout: page
 title: Japan
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/japanese-fisheries-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanesefisherieshero.jpg
-weight: 1
+weight: 2
 teaser-text: Few countries in the world are more important to the future of the global fisheries and the sustainability of global seafood supplies than Japan. Bottom line, sustainable fisheries will not be possible without Japan playing a constructive role.
 subtitle: Few countries in the world are more important to the future of the global fisheries and the sustainability of global seafood supplies than Japan.
 ---
