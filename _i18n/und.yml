@@ -25,13 +25,15 @@ und:
   services: "Client Services"
   testimonials: "Testimonials"
   success-stories: "Success Stories"
+  past-initiatives: "Past Initiatives"
   ### Top level menu item
-  initiatives: "Initiatives"
+  areas-of-work: "Areas of Work"
   #### Sub-menu items
   russian-fisheries: "Russian Fisheries"
   japanese-fisheries: "Japanese Fisheries"
   iuu: "IUU"
   supply-chain: "Marketplace Connections"
+  china-fisheries-seaoof: "China"
 
   ## News section
   news-section-heading: "Stories from the Field"
