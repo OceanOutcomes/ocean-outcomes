@@ -29,10 +29,10 @@ und:
   ### Top level menu item
   areas-of-focus: "Areas of Focus"
   #### Sub-menu items
-  china-fisheries-seaood: "China"
-  japan-fisheries-seaood: "Japan"
-  korea-fisheries-seaood: "Korea"
-  russia-fisheries-seaood: "Russia"
+  china-fisheries-seafood: "China"
+  japan-fisheries-seafood: "Japan"
+  korea-fisheries-seafood: "Korea"
+  russia-fisheries-seafood: "Russia"
   iuu: "IUU"
 
   ## News section
