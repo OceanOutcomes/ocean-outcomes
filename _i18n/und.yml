@@ -27,13 +27,13 @@ und:
   success-stories: "Success Stories"
   past-initiatives: "Past Initiatives"
   ### Top level menu item
-  areas-of-work: "Areas of Work"
+  areas-of-focus: "Areas of Focus"
   #### Sub-menu items
-  russian-fisheries: "Russian Fisheries"
-  japanese-fisheries: "Japanese Fisheries"
+  china-fisheries-seaood: "China"
+  japan-fisheries-seaood: "Japan"
+  korea-fisheries-seaood: "Korea"
+  russia-fisheries-seaood: "Russia"
   iuu: "IUU"
-  supply-chain: "Marketplace Connections"
-  china-fisheries-seaoof: "China"
 
   ## News section
   news-section-heading: "Stories from the Field"
