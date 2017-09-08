@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: page
 title: Russia
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/russian-fisheries-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/russianfisherieshero.jpg
