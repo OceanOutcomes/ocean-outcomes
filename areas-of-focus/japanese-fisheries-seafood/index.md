@@ -23,4 +23,15 @@ To learn more about the complex issues facing Japanese fisheries see our report 
 We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-we-do/services/rapid-assessments/)) of strategically important fishery species to better articulate the fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species. These assessments will help inform policy, management, funding, and the direction of sustainable seafood work across the globe.
 
 ---
-Hungry for more Japanese seafood? [See the fishery improvement success story of the largest chum salmon fishery in the world] (/what-we-do/success-stories/hokkaido-chum/).
+##Stories from the Field: Japan
+
+* [Traditional Japanese Eel Festival Draws to a Close] (/news/unagi-seafood-festival-japan/)
+* [New Study Reveals High Risk of Illegal Seafood Imports Entering Japanese Market] (/news/iuu-seafood-imports-to-japan/)
+* [Building Traceability into Japanese Fisheries] (/news/traceability-solutions-seafood-japan/)
+* [Tokyo Bay Sea Perch FIP Product Hits Japanese Supermarkets] (/news/seiyu-sells-fip-product/)
+* [First-Ever Fishery Improvement Project Launched in Japan] (/news/tokyo-bay-fishery-improvement-launch/)
+* [Opportunities for Sustainable Fisheries in Japan] (/news/japan-developments/)
+* [Iki Island Fishermen Take Inspired Action To Preserve Precious Bluefin Tuna] (/news/iki-island-bluefin-tuna-fisherman-lament/)
+* [Growing Potential for Sustainable Fishery Production in the Far East] (/news/expanding-sustainability-markets/)
+
+---
