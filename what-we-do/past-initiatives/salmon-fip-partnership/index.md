@@ -11,4 +11,4 @@ teaser-text: Central to our model of locally led, industry supported improvement
 
 A collaborative, industry-based initiative of Ocean Outcomes and leading seafood companies, the goal of the Partnership is to significantly increase the volume of sustainable or improving wild capture salmon. The Partnership supports a number of fishery improvement projects currently underway for wild salmon.
 
-To learn more about the Partnership’s activities visit the [Salmon FIP Partnership website] (http://www.salmonfippartnership.org/).
+To learn more about the Partnership’s activities visit the <a href="http://www.salmonfippartnership.org/" target="_blank">Salmon FIP Partnership website</a>.
