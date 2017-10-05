@@ -15,7 +15,9 @@ Primary species caught in the RFE are Russian pollock, Pacific herring, Pacific 
 
 Of the roughly seven hundred fishing companies in Russia, over half are located in the RFE. However, with only a handful of significant cities, the processing infrastructure in the RFE is limited. As a result, Russian fisheries are often at a competitive disadvantage relative to other fisheries around the Pacific which catch the same species. Partially due to the lack of sufficient infrastructure, Russia is a net exporter of seafood (both processed and unprocessed), and situations where seafood is exported for processing only to be imported for Russian consumption aren’t uncommon. 
 
-Along with the need for improving capacity, Russian fisheries also face significant fishery improvement needs. The big issue is [Illegal, Unreported, and Unregulated Fishing (IUU)] (/initiatives/iuu/). Its a complex socio-economic problem that manifests itself in many unfortunate ways. All seafood companies that want to source from this region need to understand the risks and be diligent with its supply chain.
+Along with the need for improving capacity, Russian fisheries also face significant fishery improvement needs. The big issue is [Illegal, Unreported, and Unregulated Fishing (IUU)] (/areas-of-focus/iuu/). Its a complex socio-economic problem that manifests itself in many unfortunate ways. All seafood companies that want to source from this region need to understand the risks and be diligent with its supply chain.
+
+The concentration of Russian fisheries and processing capacity in the RFE put it in the top tier of globally important fishing regions and progress in this region is vitally important to the success of the global sustainable seafood movement. Productive marine fisheries in the RFE are ripe for improvement efforts that help close loopholes for illegal activity, bolster fishery infrastructure, and build value for fishermen.
 
 ---
 ##Russian Rapid Assessment Summaries
@@ -23,5 +25,16 @@ Along with the need for improving capacity, Russian fisheries also face signific
 We conduct rapid assessments ([see the Russian fishery summaries here] (/what-we-do/services/rapid-assessments/)) of strategically important fishery species to better articulate the fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species. These assessments will help inform policy, management, funding, and the direction of sustainable seafood work across the globe.
 
 ---
+##Stories from the Field: Russia
 
-The concentration of Russian fisheries and processing capacity in the RFE put it in the top tier of globally important fishing regions and progress in this region is vitally important to the success of the global sustainable seafood movement. Productive marine fisheries in the RFE are ripe for improvement efforts that help close loopholes for illegal activity, bolster fishery infrastructure, and build value for fishermen.
+* [Russian Fisheries Look to Corner a Piece of the Growing Sustainable Seafood Market] (/news/west-kam-certification/)
+* [Hatchery Best Practices Finding Traction in Russia] (/news/sakhalin-hatchery-reform/)
+* [West Kamchatka Salmon Fisheries Near MSC Sustainability Certification] (/news/west-kam-comment-period/)
+* [Fishery Improvement Efforts Lead to New Management Strategies in Kamchatka] (/news/new-fishery-management-kamchatka/)
+* [Russian Fisheries Make Strides on Road to Sustainability] (/news/russian-commerical-fisheries-make-strides/)
+* [Russian Salmon Production Follows Alaska Trends] (/news/rfe-produces-high-volumes/)
+* [Why the Sakhalin Salmon Fishery Left the MSC and What it Means for Sustainable Fisheries] (/news/sakhalin-salmon-fishery/)
+* [Record Catches and Increased Seafood Harvest in Russia] (/news/russia-record-catches/)
+* [West Kamchatka Salmon Fisheries Continue on Path to Sustainability] (/news/kamchatka-continues-improvement/)
+
+---
