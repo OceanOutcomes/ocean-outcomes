@@ -21,6 +21,6 @@ With little domestic awareness for sustainable seafood to drive change, a signif
 ---
 ##Stories from the Field: Korea
 
-* [O2’s Korea Program Garnering Headlines in Korea] (/news/)
+* [O2’s Korea Program Garnering Headlines in Korea] (/news/korea-program-launches-news-coverage/)
 
 ---
