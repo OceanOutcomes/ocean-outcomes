@@ -17,6 +17,11 @@ East Asian countries like Japan, China, Korea, and Russia’s Far East are major
 
 We’re working at the nexus of market-based, sustainable seafood solutions to IUU in Asia; we’re on the water with fishermen to help close loopholes where IUU might enter a seafood supply chain and we’re demonstrating new models and best practices for fishermen and policy makers alike through fishery improvement. 
 
-* Learn more about our on the water initiatives including our [Catch Tracking System (CTS)] (/initiatives/iuu/cts/) and our [Independent Observer] (/initiatives/iuu/observers/) programs.
+---
+##Stories from the Field: IUU
 
-* [View our fishery projects] (/what-we-do/our-work/).
+* [New Study Reveals High Risk of Illegal Seafood Imports Entering Japanese Market] (/news/iuu-seafood-imports-to-japan/)
+* [Building Traceability into Japanese Fisheries] (/news/traceability-solutions-seafood-japan/)
+* [Expanding Capacity and Expertise in Policy, IUU, and China] (/news/iuu-china-policy-expansion-announcement/)
+
+---
