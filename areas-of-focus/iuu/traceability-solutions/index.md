@@ -13,7 +13,7 @@ IUU fisheries are a well-documented problem in many Asian fisheries, however cur
 
 ----
 
-** *What does traceability mean?
+** *What does traceability mean?* **
 
 A ‘traceable’ seafood product can be tracked throughout the supply chain, from source to final point of sale, to help differentiate and verify legal product from illegal product.
 
@@ -21,13 +21,11 @@ A ‘traceable’ seafood product can be tracked throughout the supply chain, fr
 
 This process includes:
 
-* An on-site assessment of the fishery which assesses any gaps in the key data elements (KDEs) tracked and inconsistencies in the processes surrounding KDEs tracking. This includes information regarding harvest, date, buyer, port of landing, and species, to name a few. 
-* Working with the fishery and any relevant supply chain partners, we then codesign a traceability workplan to address any gaps found in the assessment, ensuring relevant KDEs are tracked and passed along the supply chain.
-* This work is then integrated with any other fishery improvement workplan activities, ensuring a holistic approach to improvement.
+* An on-site assessment of the fishery which assesses any gaps in the key data elements (KDEs) tracked and inconsistencies in the processes surrounding KDEs tracking. This includes information regarding harvest, date, buyer, port of landing, and species, to name a few.  
+* Working with the fishery and any relevant supply chain partners, we then codesign a traceability workplan to address any gaps found in the assessment, ensuring relevant KDEs are tracked and passed along the supply chain.  
+* This work is then integrated with any other fishery improvement workplan activities, ensuring a holistic approach to improvement.  
 
 This on-the-water verification reconciles inputs and outputs and assures integrity of seafood entering any supply chain at the source, and it helps fisheries meet the MSC Chain of Custody standard, a requirement to sell seafood as MSC certified or in a FIP. As traceability becomes a requisite in the sustainable seafood movement, we hope to expand and customize our approach for other regions, fisheries, and supply chains looking to ensure proof of legality from point of harvest to processor.
-
-Interested in learning more about our traceability work and how it can help you secure your supply chain? [**Get in touch!**] (/contact/)
 
 ---
 ##Stories from the Field: Traceability
