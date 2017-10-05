@@ -19,7 +19,7 @@ A ‘traceable’ seafood product can be tracked throughout the supply chain, fr
 
 ----
 
-This process includes:
+Our process includes:
 
 * An on-site assessment of the fishery which assesses any gaps in the key data elements (KDEs) tracked and inconsistencies in the processes surrounding KDEs tracking. This includes information regarding harvest, date, buyer, port of landing, and species, to name a few.  
 * Working with the fishery and any relevant supply chain partners, we then codesign a traceability workplan to address any gaps found in the assessment, ensuring relevant KDEs are tracked and passed along the supply chain.  
