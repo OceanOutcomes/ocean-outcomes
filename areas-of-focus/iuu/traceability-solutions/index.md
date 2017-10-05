@@ -13,7 +13,7 @@ IUU fisheries are a well-documented problem in many Asian fisheries, however cur
 
 ----
 
-** *What does traceability mean?* **
+**What does traceability mean?**
 
 A ‘traceable’ seafood product can be tracked throughout the supply chain, from source to final point of sale, to help differentiate and verify legal product from illegal product.
 
