@@ -12,7 +12,7 @@ As such, the global sustainable seafood movement must engage Korean fisheries. W
 
 On a recent trip to Korea, Jiehyun coordinated an interview between local journalists and O2 President and CEO Dick Jones in which Korean sustainable seafood needs and priorities were discussed. The following interview <a href="http://v.media.daum.net/v/20170914212658438?rcmd=rn" target="_blank">appeared in the *Kyunghyang Daily Paper* on September 14th, 2017</a> and was translated with the author’s permission.
 
-> ** *Fish resources in shared waters between Korea, Japan, and China are threatened by competitive fishing efforts* **
+> *Fish resources in shared waters between Korea, Japan, and China are threatened by competitive fishing efforts*
 
 > Ocean Outcomes (O2), a new NGO committed to sustainable fisheries, is starting projects aimed at protecting fisheries and fish resources in Korea. Launched in 2015 by Wild Salmon Center, which has 25 years of history working with salmon fisheries across the Pacific, O2’s region of focus include Korea, China, Japan, and Russia.
 
