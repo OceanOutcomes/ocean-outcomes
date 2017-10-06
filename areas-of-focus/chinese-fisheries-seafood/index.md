@@ -1,16 +1,23 @@
 ---
 layout: page
 title: China
-landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/placeholderrollover.jpg
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/placeholderhero.jpg
+landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/chinese-fisheries-hover.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chinesefisherieshero.jpg
 weight: 1
-teaser-text: Tester text
-subtitle: Subtitle text
+teaser-text: In addition to accounting for ⅓ of the world’s seafood production, China as a country consumes more seafood than the next 10 countries combined. Ensuring sustainable Chinese fisheries and aquaculture at this scale will be no easy task. 
+subtitle: China as a country consumes more seafood than the next 10 countries combined.
 ---
 
-##Header
+##China’s seafood production, consumption, aquaculture operations, and commercial fishing fleets are staggering in size.
 
-Body text
+* 25% of the world’s commercial fishing capacity is Chinese
+* 35% of the world’s seafood (wild and farmed combined) comes from China
+* 5 million square miles, an area of Switzerland and Netherlands combined, are used for Chinese aquaculture production
+* China consumes more seafood than the next 10 countries combined
+
+Despite the size of the Chinese seafood industry and the unique status seafood has in Chinese diet and economy—China is the world’s largest seafood trading country and home to the world’s largest wild seafood processing and re-exporting sector—the industry as a whole lags behind most countries from a sustainability perspective. There is little consumer awareness or demand for sustainable seafood, few organizations working towards reform, and any work to bring Chinese fisheries and aquaculture operations in line with internationally recognized best practices is few and far between. 
+
+Our work in China is focused around building a Chinese sustainable seafood movement, including increasing consumer and government awareness regarding the fisheries crisis and the solutions towards more sustainable practices. This includes demonstration level conservation projects in key ecoregions to protect important spawning grounds, piloting fishery and aquaculture improvement projects to reform management policies, and engaging Chinese industry and other supply chain actors. However, without a significant and concerted push for reform, it’s likely overfishing and habitat loss and degradation in China will continue.
 
 ---
 ##Stories from the Field: China
