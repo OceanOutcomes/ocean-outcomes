@@ -4,13 +4,25 @@ title: Tuna
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/tuna-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/tunahero.jpg
 weight: 6
-teaser-text: Tester text
-subtitle: Subtitle text
+teaser-text: Tuna, one of the highest valued and most sought after species, will continue to face unsustainable fishing practices without a collaborative international management engagement strategy.
+subtitle: Tuna fisheries are some of the most complex and challenging fisheries to sustainably manage.
 ---
 
-##Header
+##Sustainable tuna management will require systemic changes in the way we consume, fish, and manage tuna.
 
-Body text
+Tuna fisheries, targeting a variety of tuna species including Bluefin, Yellowfin, Skipjack, and Albacore (see Atuna.com for more information on tuna species and tuna products), often take place on the high seas in distant waters where overlapping and opaque management regulations can make sustainable management a challenge. Further, tuna are apex predators, some species living up to 40 years, which means tuna stocks take significant time to rejuvenate. Coupled with the fact that tuna are a highly migratory species, and worth significant amounts of money both in legal and illegal markets, sustainable tuna management is a truly complex process.
+
+Tuna fisheries management takes place via multi-national cooperation delivered through treaty systems and regional fisheries management organizations (RFMOs). While these systems are effective for defining policy, they often lack the ability to implement or ensure compliance at local, national and ocean level putting tuna resources at risk. 
+
+----
+
+**What is an RFMO?
+
+A RFMO is an international body made up of countries that share a practical and/or financial interest in managing and conserving fish stocks in a particular region. These include coastal States, whose waters are home to at least part of an identified fish stock, and “distant water fishing nations” (DWFN), whose fleets travel to areas where a fish stock is found. RFMOs are established by international agreements or treaties and can take different forms. Some focus on regulating fishing for a particular species or group of species. Others have a broader mandate, with responsibility to ensure that the fishery does not negatively affect the wider marine ecosystem and the species within it. <a href="http://www.pewtrusts.org/en/research-and-analysis/fact-sheets/2012/02/23/faq-what-is-a-regional-fishery-management-organization" target="_blank">*Source: PEW Charitable Trusts*</a>
+
+----
+
+Despite these barriers, positive transformation of tuna management is gaining momentum, especially in the canned tuna fisheries (which primarily target skipjack and albacore tunas). This includes the adoptions of improvement management strategies through Harvest Control Rules (<a href="http://www.pewtrusts.org/en/research-and-analysis/fact-sheets/2016/07/harvest-control-rules" target="_blank">learn more about Harvest Control Rules</a>), collaborative work through programs such as the United Nation Food and Agriculture Organization's <a href="http://www.fao.org/in-action/commonoceans/en/" target="_blank">Areas Beyond National Jurisdiction program</a> which trains local tuna managers on best practices, and a growing consumer awareness regarding the critically endangered status of select tuna populations.
 
 ---
 ##Stories from the Field: Tuna
