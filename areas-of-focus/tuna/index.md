@@ -8,7 +8,7 @@ teaser-text: Tuna, one of the highest valued and most sought after species, will
 subtitle: Tuna fisheries are some of the most complex and challenging fisheries to sustainably manage.
 ---
 
-##Sustainable tuna management will require systemic changes in the way we consume, fish, and manage tuna.
+##Sustainable tuna fisheries will require systemic changes in the way we consume, fish, and manage tuna.
 
 Tuna fisheries, targeting a variety of tuna species including Bluefin, Yellowfin, Skipjack, and Albacore (<a href="http://www.atuna.com/index.php/en/tuna-info/tuna-species-guide" target="_blank">see Atuna.com</a> for more information on tuna species and tuna products), often take place on the high seas in distant waters where overlapping and opaque management regulations can make sustainable management a challenge. Further, tuna are apex predators, some species living up to 40 years, which means tuna stocks take significant time to rejuvenate. Coupled with the fact that tuna are a highly migratory species, and worth significant amounts of money both in legal and illegal markets, sustainable tuna management is a truly complex process.
 
