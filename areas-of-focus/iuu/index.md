@@ -5,5 +5,5 @@ landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/iuuhero.jpg
 weight: 5
 subtitle: Illegal, Unregulated, and Unreported Fishing (IUU) 
-teaser-text: Illegal, unreported, and unregulated fishing (IUU) is fishing which takes place in contradiction to laws and marine regulations. IUU depletes fish stocks and negatively impacts both ecosystems and economies, weakens coastal communities and puts legal fisheries at an unfair disadvantage. Currently, one in four fish is caught and traded illegally.
+teaser-text: East Asian countries like Japan, China, Korea, and Russia’s Far East are major hubs of seafood production, trade, and consumption. Loopholes and IUU hotspots in these Asian supply chains create risk and allow IUU product to enter the regional Asian and global marketplaces, negatively impacting the entire seafood industry.
 ---
