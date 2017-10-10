@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Korea
-landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/placeholderrollover.jpg
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/placeholderhero.jpg
+landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/korean-fisheries-hover.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/koreanfisherieshero.jpg
 weight: 3
 teaser-text: Perhaps overshadowed by the enormity of Chinese fishing capacity, or Japan’s international reputation as the primary seafood consuming region in Asia, Korea still produces and consumes more seafood than most any country on earth.
 subtitle: Despite it's size and population, Korea still produces and consumes more seafood than most any country on earth.
