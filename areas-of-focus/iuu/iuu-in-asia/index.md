@@ -1,21 +1,21 @@
 ---
 layout: page 
-title: IUU In East Asia
+title: Combatting IUU in Asia
 subtitle: One in four fish is caught and traded illegally, posing significant problems for seafood buyers, coastal communities, fisheries, and marine life.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/iuu-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/iuuhero.jpg
 weight: 1
-teaser-text: East Asian countries like Japan, China, Korea, and Russia’s Far East are major hubs of seafood production, trade, and consumption. Loopholes and IUU hotspots in dominant Asian supply chains allow illegal product to enter the global marketplace, putting legal seafood companies and fisheries in both Asia and the West at risk.
+teaser-text: East Asian countries like Japan, China, Korea, and Russia’s Far East are major hubs of seafood production, trade, and consumption. Loopholes and IUU hotspots in these Asian supply chains create risk and allow IUU product to enter the regional Asian and global marketplaces, negatively impacting the entire seafood industry.
 ---
-##Illegal, unreported, and unregulated fishing (IUU) is fishing which takes place in contradiction to laws and marine regulations. 
+##East Asian countries can play a significant role in the global effort to combat IUU fishing.
 
-IUU depletes fish stocks and negatively impacts both ecosystems and economies, weakens coastal communities and puts legal fisheries at an unfair disadvantage. One in four fish is caught and traded illegally, posing significant problems for seafood buyers, coastal communities, fisheries, and marine life. On a global scale, IUU fishing accounts for USD23 billion in global economic loss annually.
+Globally, illegal and unreported fishing accounts for an annual economic loss of $10 to 23.5 billion, representing between 11 and 26 million tonnes of seafood. As much as 30 percent of global catch may be unreported. In addition to economic loss, IUU fishing undermines sustainable fisheries management and governance, depletes fish stocks, negatively impacts ecosystems, threatens the livelihoods and food security of coastal communities, creates unfair competition for legal fisheries and industry, and often coincides with other significant issues such as slave labor.
 
-> #####China, Japan, and Russia combined represent nearly a quarter of global fish landings, and Asia as a whole accounts for more than 50% of global fish landings.
+> #####Together, China, Japan, and Russia represent nearly 25% of global fish landings, and as a whole, Asia accounts for more than 50% of global fish landings.
 
-East Asian countries like Japan, China, Korea, and Russia’s Far East are major hubs of seafood production, trade, and consumption. Loopholes and IUU hotspots in dominant Asian supply chains allow illegal product to enter the global marketplace, putting legal seafood companies and fisheries in both Asia and the West at risk. Our work addresses the urgent need to implement cost-effective and replicable approaches to combat illegal fishing that build value for the private sector by increasing oversight and traceability, while also complementing legislative efforts towards a foundation of legal and sustainable fisheries globally. 
+East Asian countries like Japan, China, Korea, and Russia’s Far East play a major roles in the global seafood sector as producers, traders, and consumers. Unfortunately, loopholes and gaps currently exist within dominant Asian supply chains, creating risk and enabling IUU product to enter regional Asian and global marketplaces, affecting both legal industry players as well as consumers alike. 
 
-We’re working at the nexus of market-based, sustainable seafood solutions to IUU in Asia; we’re on the water with fishermen to help close loopholes where IUU might enter a seafood supply chain and we’re demonstrating new models and best practices for fishermen and policy makers alike through fishery improvement. 
+We’re building momentum to combat IUU fishing in Asia at the source by working with fisheries, supply chain partners, and policy makers across Northeast Asia. We’re on the water working with fishermen to close loopholes where illegal product might enter seafood supply chains; we’re building support for legal fisheries through market-based incentives; and we’re bolstering industry champions who embody best practices.
 
 ---
 ##Stories from the Field: IUU
