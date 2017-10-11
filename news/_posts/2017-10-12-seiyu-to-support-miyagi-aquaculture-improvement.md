@@ -1,22 +1,18 @@
 ---
 layout: news
-title:  First-Ever Fishery Improvement Project Launched in Japan
-date: 2016-10-11
-teaser-text: Sustainable seafood movement takes a big step forward in East Asia as industry, fishermen, and NGOs come together to launch the “Tokyo Bay Sea Perch FIP”, the first project of its kind in Japan.
+title:  Seiyu to Support Japan's First Aquaculture Improvement Project
+date: 2017-10-12
+teaser-text: Seiyu GK, a Japanese subsidiary of Walmart, has decided to participate in Japan’s first aquaculture improvement project, the “Miyagi Onagawa Coho Salmon AIP” which launched earlier this summer.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg
 featured: TRUE
 ---
-##In 2016, the market value of sustainable seafood reached an all-time high of $11.5 billion USD, placing further incentive to increase the sustainability of fisheries across the globe. 
+##Seiyu GK, a Japanese subsidiary of Walmart, has decided to participate in Japan’s first aquaculture improvement project, the “Miyagi Onagawa Coho Salmon AIP”. 
 
-Asia’s share of global seafood production is up to 69%, by some estimates, but only 11% of this is certified as sustainable seafood production including Marine Stewardship Council (MSC) and Aquaculture Stewardship Council (ASC) certifications. As such, implementation of Fishery Improvement Projects (FIPs) in Japan will ensure the growth of the Asian sustainable seafood market.
+The project, a collaborative effort by Marukin Co., Ltd., Fisherman Japan, and Ocean Outcomes launched this year, works to improve the sustainability of Coho salmon farms in the thriving seafood region of Onagawa, Japan. Seiyu, who joins the project as a formal participant, will contribute financial resources towards the project objectives and sell AIP Coho salmon product in Tokyo area stores. 
 
-Ocean Outcomes (O2) and Kaiko Bussan Inc. today announced its launch of the “Tokyo Bay Sea Perch FIP”, Japan’s first Fishery Improvement Project (FIP). The project was introduced by Seafood Legacy Co., Ltd. to Seiyu GK, a subsidiary of Walmart Stores, Inc., the American multinational retail corporation and global leader in sustainable seafood, who have decided to support this project that will improve the sustainability of the sea perch fisheries in Tokyo Bay. As part of the project, at the end of October 2016, Seiyu test marketed the “Tokyo Bay Sea Perch FIP” product in 4 stores in the Kanto area and received positive feedback from customers regarding the quality, freshness and the reasonable price of the products. Going forward, Seiyu will discuss its support for this project including continued “Tokyo Bay Sea Perch FIP” product sales in stores and project grant contribution.
+An Aquaculture Improvement Project (AIP) is a collaborative effort, which brings together multiple stakeholders including producers, distributors, and NGOs for the purpose of improving the sustainability of a farm’s aquaculture practices. With advice and technical support from Ocean Outcomes and Fisherman Japan, Marukin will work to address issues identified during a third-party assessment. This includes monitoring the farms impact on the surrounding ecosystems and evaluating the sustainability of the feed use in the farming process. Seiyu will provide funding for these activities and will publicly support the project by selling Miyagi Onagawa Coho Salmon AIP products.
 
-A Fishery Improvement Project (FIP) is a collaborative project between fisheries stakeholders, such as fishermen, businesses, distributors, and NGOs, to improve the sustainability of a fishery. Two-thirds of the top 25 North American retailers, comprising 90% of the global seafood market, have committed to supporting FIPs. Projects like the “Tokyo Bay Sea Perch FIP” are vital if fisheries want to improve and access global markets. 
-
-Tokyo Bay is a major fishing ground for sea perch and a historically and culturally important sourcing region for *edomae* sushi, the style of sushi created during the late Edo-period (late 19th century) that influenced the *nigiri* sushi that is common today. The “Tokyo Bay Sea Perch FIP” will ensure sustainable fisheries management and the enjoyment of sea perch for generations to come.
-
-As a first step in the project, Ocean Outcomes collaborated with Kaiko Bussan to complete an assessment of current fishing practices calibrated against internationally recognized best practices standards. The assessment found opportunities to modify fishing practices and gather additional data as steps which could better inform fisheries management and lead to more sustainable practices overall. These opportunities, described in detail in the FIP work plan, include plans to better monitor bycatch of endangered, threatened, and protected species, plans to collect fishery data to better evaluate and monitor stock abundance, and a commitment to work towards a more collaborative management plan.
+As harvest volume of internationally recognized species such as Pacific Bluefin Tuna and others more familiar to Japanese consumers—ranging from Saury, Mackerel, Sardine, and Walleye Pollock—remains low in Japan, concerns continue to mount regarding stock levels and fishing practices. With a growing interest and demand for sustainable seafood as the 2020 Tokyo Olympic and Paralympic Games approach—the Olympic committee has required all seafood sourced for the Games to be sustainable—improvement projects such as this are garnering support in the hopes of bringing Japanese fisheries and farms in line with international best practices.
 
 ----
 ![Tokyo Bay Sea Perch FIP Stakeholders]
