@@ -506,11 +506,11 @@ body {
   background: url(../images/what-we-do-header-bg.jpg) center center no-repeat;
   background-size: cover; }
 
-.landing .content-header.initiatives,
-.landing .content-header.ruinitiatives,
-.landing .content-header.jpinitiatives,
-.content-page .content-header.initiatives {
-  background: url(../images/initiatives-header-bg.jpg) center center no-repeat;
+.landing .content-header.areas-of-focus,
+.landing .content-header.ruareas-of-focus,
+.landing .content-header.jpareas-of-focus,
+.content-page .content-header.areas-of-focus {
+  background: url(../images/areas-of-focus-header-bg.jpg) center center no-repeat;
   background-size: cover; }
 
 .content-header.jp {
@@ -890,8 +890,8 @@ body {
   background: #2B3A46 url(../images/what-we-do.png) no-repeat center center;
   background-size: cover; }
 
-.home-about__item.initiatives {
-  background: #2B3A46 url(../images/initiatives.png) no-repeat center center;
+.home-about__item.areas-of-focus {
+  background: #2B3A46 url(../images/areas-of-focus.png) no-repeat center center;
   background-size: cover; }
 
 .home-about__item:hover {

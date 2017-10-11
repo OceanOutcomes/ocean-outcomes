@@ -40,6 +40,6 @@ permalink: /what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch
 
 **[本漁業プロジェクトに関する最近のニュースはブログをご参照ください] (/jp/news/)**
 
-<a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">**本FIPはFisheryProgress.org,上でその全容を公開し追跡しています。西部カムチャッカサケFIPの概要はこちらをご覧ください.**</a>
+<a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">**本プロジェクトはFisheryProgress.orgにて公開され追跡できます。もしご興味のある方はこちらまで。**</a>
 
 **[O2が関わる漁業プロジェクトへ戻る] (/jp/what-we-do/fishery-projects)** 

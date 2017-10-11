@@ -1,5 +1,5 @@
 ---
 layout: page-landing
-title: Initiatives
+title: Areas of Focus
 weight: 3
 ---

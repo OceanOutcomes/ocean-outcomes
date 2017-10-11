@@ -1,9 +1,9 @@
 ---
-layout: page 
-title: Japanese Fisheries
+layout: page
+title: Japan
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/japanese-fisheries-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanesefisherieshero.jpg
-weight: 1
+weight: 2
 teaser-text: Few countries in the world are more important to the future of the global fisheries and the sustainability of global seafood supplies than Japan. Bottom line, sustainable fisheries will not be possible without Japan playing a constructive role.
 subtitle: Few countries in the world are more important to the future of the global fisheries and the sustainability of global seafood supplies than Japan.
 ---
@@ -23,4 +23,19 @@ To learn more about the complex issues facing Japanese fisheries see our report 
 We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-we-do/services/rapid-assessments/)) of strategically important fishery species to better articulate the fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species. These assessments will help inform policy, management, funding, and the direction of sustainable seafood work across the globe.
 
 ---
-Hungry for more Japanese seafood? [See the fishery improvement success story of the largest chum salmon fishery in the world] (/what-we-do/success-stories/hokkaido-chum/).
+##Stories from the Field: Japan
+
+* [Traditional Japanese Eel Festival Draws to a Close] (/news/unagi-seafood-festival-japan/)
+* [New Study Reveals High Risk of Illegal Seafood Imports Entering Japanese Market] (/news/iuu-seafood-imports-to-japan/)
+* [Building Traceability into Japanese Fisheries] (/news/traceability-solutions-seafood-japan/)
+* [Tokyo Bay Sea Perch FIP Product Hits Japanese Supermarkets] (/news/seiyu-sells-fip-product/)
+* [First-Ever Fishery Improvement Project Launched in Japan] (/news/tokyo-bay-fishery-improvement-launch/)
+* [Opportunities for Sustainable Fisheries in Japan] (/news/japan-developments/)
+* [Iki Island Fishermen Take Inspired Action To Preserve Precious Bluefin Tuna] (/news/iki-island-bluefin-tuna-fisherman-lament/)
+* [Growing Potential for Sustainable Fishery Production in the Far East] (/news/expanding-sustainability-markets/)
+
+---
+
+##Meet O2's Japan Program Director
+
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/shunjistaffphoto1.jpg" width="320" height="320"> As Japan Program Director at Ocean Outcomes (O2), Shunji leads the overall strategic development and coordination of O2's Japan Program. Based in Tokyo, he works closely in cooperation with Japanese fishery communities, seafood supply chain stakeholders, and other NGOs to ensure prosperity of both aquatic ecosystems and local fishing communities alike. Shunji's background in the fly-fishing industry and outdoor industry such as Patagonia Japan has contributed to his passion for leveraging business as a vehicle for positive impacts on the water. He received his BS in physical geography at San Francisco State University, focusing on watershed restoration and salmon habitat assessments. He also holds an AA degree in business administration from Golden West College. Aside from his love of fly-fishing, Shunji is always seeking intercultural experiences that broadens his understanding of the world and himself.

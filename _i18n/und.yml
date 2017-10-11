@@ -10,6 +10,7 @@ und:
   ## About section
   about-section-heading: "About Ocean Outcomes"
   about-section-content: "We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities."
+  
   ### Top level menu item
   who-we-are: "Who We Are"
   #### Sub-menu items
@@ -25,13 +26,17 @@ und:
   services: "Client Services"
   testimonials: "Testimonials"
   success-stories: "Success Stories"
+  past-initiatives: "Past Initiatives"
+  
   ### Top level menu item
-  initiatives: "Initiatives"
+  areas-of-focus: "Areas of Focus"
   #### Sub-menu items
-  russian-fisheries: "Russian Fisheries"
-  japanese-fisheries: "Japanese Fisheries"
+  chinese-fisheries-seafood: "China"
+  japanese-fisheries-seafood: "Japan"
+  korean-fisheries-seafood: "Korea"
+  russian-fisheries-seafood: "Russia"
   iuu: "IUU"
-  supply-chain: "Marketplace Connections"
+  tuna: "Tuna"
 
   ## News section
   news-section-heading: "Stories from the Field"
