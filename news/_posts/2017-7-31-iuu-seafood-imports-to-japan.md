@@ -4,7 +4,7 @@ title: New Study Reveals High Risk of Illegal Seafood Imports Entering Japanese 
 date: 2017-7-31
 teaser-text: Although Japan has taken recent steps to address the illegal seafood problem including the ratification of the Port State Measures Agreement, stronger actions must be taken to prevent illegal products from entering one of the world’s largest markets.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/iuu-imports-japanese-market-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###**Tokyo, Japan** - <a href="http://www.sciencedirect.com/science/article/pii/S0308597X17300817" target="_blank">A new paper</a> published in the journal of *Marine Policy* estimates that 24–36% of 2.15 million tonnes of wild-seafood imports to Japan in 2015, valued at $1.6 to $2.4 billion, were of illegal or unreported origin. 
 

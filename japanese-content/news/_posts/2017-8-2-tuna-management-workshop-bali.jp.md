@@ -4,7 +4,7 @@ title:  第5回マグロ管理ワークショップの開催で太平洋にお�
 date: 2017-8-2
 teaser-text: マグロ管理の第一線の専門家が集まり、マグロの管理者とともに国家管轄権外区域（ABNJ）での持続可能なまぐろ管理のための国際的なベストプラクティスに関する能力向上を目指す。
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tuna-management-workshop-bali.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###マグロ管理の第一線の専門家が集まり、マグロの管理者とともに国家管轄権外区域（ABNJ）での持続可能なまぐろ管理のための国際的なベストプラクティスに関する能力向上を目指す。
 

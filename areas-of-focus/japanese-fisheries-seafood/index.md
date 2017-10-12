@@ -25,6 +25,7 @@ We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-w
 ---
 ##Stories from the Field: Japan
 
+* [Seiyu to Support Japan's First Aquaculture Improvement Project] (/news/seiyu-to-support-miyagi-aquaculture-improvement/)
 * [Traditional Japanese Eel Festival Draws to a Close] (/news/unagi-seafood-festival-japan/)
 * [New Study Reveals High Risk of Illegal Seafood Imports Entering Japanese Market] (/news/iuu-seafood-imports-to-japan/)
 * [Building Traceability into Japanese Fisheries] (/news/traceability-solutions-seafood-japan/)
