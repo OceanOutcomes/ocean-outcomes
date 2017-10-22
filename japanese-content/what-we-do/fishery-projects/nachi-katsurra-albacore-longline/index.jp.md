@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: 延縄ビンチョウマグロFIP
+title: Nachi Katsuura Albacore Longline FIP
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/wakayama-albacore-tuna-hero.jpg
 subtitle:
