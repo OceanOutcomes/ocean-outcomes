@@ -3,7 +3,7 @@ layout: news
 title: NACHI KATSUURA LAUNCH JP
 date: 2017-10-12
 teaser-text: 助成金の拠出、そして同プロジェクトにより生産される銀鮭を西友店舗にて販売いたします。
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/seiyu-to-support-miyagi-aquaculture-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/nachi-katsuura-fip-launch-hero.jpg
 featured: TRUE
 ---
 株式会社マルキン、一般社団法人フィッシャーマン・ジャパン、国際環境非営利機関オーシャン・アウトカムズが立ち上げた日本初の養殖漁業改善プロジェクト『[宮城女川銀鮭AIP] (/jp/what-we-do/fishery-improvement-projects/miyagi-coho-salmon)』に、株式会社シーフードレガシーの紹介を得て、合同会社西友の参画が決定しました。助成金の拠出、そして同プロジェクトにより生産される銀鮭を西友店舗にて販売いたします。
