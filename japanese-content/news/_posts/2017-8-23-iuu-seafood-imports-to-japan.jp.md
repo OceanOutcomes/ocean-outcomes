@@ -4,7 +4,7 @@ title: O2・シーフードレガシー・GR Japanが違法漁業対策のため
 date: 2017-8-23
 teaser-text: 海洋政策国際学術誌「マリン・ポリシー」掲載の最新調査報告2015年に日本へ輸入された天然水産物のうち24〜36%が違法又は無報告漁業と推計。
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/iuu-imports-japanese-market-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 **＜ニュースリリース＞**オーシャン・アウトカムズ（以下、O2）、株式会社シーフードレガシー、GR Japan株式会社は、O2の委託によって行った最新の調査<a href="http://www.sciencedirect.com/science/article/pii/S0308597X17300817" target="_blank">「日本への違法・無報告水産物の輸入量推計」（Estimates of illegal and unreported seafood imports to Japan）</a>で、2015年に日本へ輸入された天然水産物のうち24〜36%は違法又は無報告漁業によって漁獲されたものであるとの推計結果を受けて、違法・無報告・無規制（IUU）漁業対策のために今後必要な取組みとして、
 以下の通り共同で意見を表明致します。 
