@@ -1,7 +1,7 @@
 ---
 layout: news
 title: NACHI KATSUURA LAUNCH JP
-date: 2017-10-12
+date: 2017-10-26
 teaser-text: 助成金の拠出、そして同プロジェクトにより生産される銀鮭を西友店舗にて販売いたします。
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/nachi-katsuura-fip-launch-hero.jpg
 featured: TRUE
