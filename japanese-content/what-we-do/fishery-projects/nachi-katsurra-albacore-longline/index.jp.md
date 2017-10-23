@@ -1,12 +1,12 @@
 ---
 layout: page 
-title: 延縄ビンチョウマグロFIP
+title: Nachi Katsuura Albacore Longline FIP
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/wakayama-albacore-tuna-hero.jpg
 subtitle:
 weight: 
 teaser-text:
-permalink: /what-we-do/fishery-improvement-projects/wakayama-longline-albacore-tuna
+permalink: /what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline
 ---
 <h2>概要:</h2>
 
@@ -34,7 +34,7 @@ permalink: /what-we-do/fishery-improvement-projects/wakayama-longline-albacore-t
 | 対象種: | ビンチョウマグロ (*Thunnus alalunga*) |
 | 漁具の種類: | 延縄 |
 | 生産量: | 12,142 mt - 中西部太平洋まぐろ類委員会（WCPFC）のマグロ漁業年鑑によると、227隻の日本のはえ縄漁船が2015年に12,142 mtのビンチョウマグロを漁獲した。|
-| 文書: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WakayamaTunaLonglineTunaFisheryPreassessment2017.pdf" target="_blank">予備審査</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WakayamaTunaLonglineFisheryWorkplan2017.pdf" target="_blank">活動計画</a>|
+| 文書: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/NachiKatsuuraAlbacoreLonglineTunaPreassessment2017.pdf" target="_blank">予備審査</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/NachiKatsuuraAlbacoreLonglineTunaWorkplan2017.pdf" target="_blank">活動計画</a>|
 
 ---
 
