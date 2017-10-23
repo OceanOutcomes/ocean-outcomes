@@ -3,7 +3,7 @@ layout: news
 title:  NACHI KATSUURA LAUNCH
 date: 2017-10-26
 teaser-text: PLACEHOLDER TEASER
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/seiyu-to-support-miyagi-aquaculture-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/nachi-katsuura-fip-launch-hero.jpg
 featured: TRUE
 ---
 ###Seiyu GK, a Japanese subsidiary of Walmart, has decided to participate in Japan’s first aquaculture improvement project, the “[Miyagi Onagawa Coho Salmon AIP] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/)”. 
