@@ -39,6 +39,6 @@ The Nachi Katsuura Albacore Longline FIP involves Kaiou Maru, an offshore longli
 
 [**For any recent news on this fishery project visit our blog.**] (/news/) 
 
-<a href="" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Nachi Katsuura Albacore Longline FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/japan-albacore-tuna-longline" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Nachi Katsuura Albacore Longline FIP profile here.**</a>
 
 [**<< Back to O2 fishery improvement projects**] (/what-we-do/fishery-improvement-projects/)
