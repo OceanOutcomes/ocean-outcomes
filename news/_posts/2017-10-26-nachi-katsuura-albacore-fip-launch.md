@@ -47,25 +47,25 @@ Working with Yamasa Wakiguchi Co. Ltd, a leading tuna processor in the region, O
 **Media Photos**
 
 ![Nachi Katsuura Longline Albacore Tuna FIP]
-(	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+1.jpg)
 [Right click here and "Save Link As" to download. © Ocean Outcomes] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+1.jpg)
 
 
 ![Nachi Katsuura Longline Albacore Tuna FIP]
-(	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+2.jpg)
 [Right click here and "Save Link As" to download. © Ocean Outcomes] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+2.jpg)
 
 
 ![Nachi Katsuura Longline Albacore Tuna FIP]
-(	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+3.jpg)
 [Right click here and "Save Link As" to download. © Ocean Outcomes] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+3.jpg)
 
 
 ![Nachi Katsuura Longline Albacore Tuna FIP]
-(	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+4.jpg)
 [Right click here and "Save Link As" to download. © Ocean Outcomes] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+4.jpg)
 
 
 ![Nachi Katsuura Longline Albacore Tuna FIP]
-(	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+5.jpg)
 [Right click here and "Save Link As" to download. © Ocean Outcomes] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+5.jpg)
