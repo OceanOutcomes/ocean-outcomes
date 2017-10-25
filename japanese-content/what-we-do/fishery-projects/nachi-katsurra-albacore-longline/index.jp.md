@@ -40,6 +40,6 @@ permalink: /what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-long
 
 **[本漁業プロジェクトに関する最近のニュースはブログをご参照ください] (/jp/news/)**
 
-<a href="" target="_blank">**本プロジェクトはFisheryProgress.orgにて公開され追跡できます。もしご興味のある方はこちらまで。**</a>
+<a href="https://fisheryprogress.org/fip-profile/japan-albacore-tuna-longline" target="_blank">**本プロジェクトはFisheryProgress.orgにて公開され追跡できます。もしご興味のある方はこちらまで。**</a>
 
 **[O2が関わる漁業プロジェクトへ戻る] (/jp/what-we-do/fishery-projects)**
