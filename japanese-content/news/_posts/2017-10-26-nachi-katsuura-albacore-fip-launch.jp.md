@@ -49,25 +49,25 @@ featured: TRUE
 **関連画像**
 
 ![Nachi Katsuura Longline Albacore Tuna FIP]
-(	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+1.jpg)
 [ダウンロードするには右クリックして「名前を付けてリンク先を保存」をお選びください. © Ocean Outcomes] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+1.jpg)
 
 
 ![Nachi Katsuura Longline Albacore Tuna FIP]
-(	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+2.jpg)
 [ダウンロードするには右クリックして「名前を付けてリンク先を保存」をお選びください. © Ocean Outcomes] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+2.jpg)
 
 
 ![Nachi Katsuura Longline Albacore Tuna FIP]
-(	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+3.jpg)
 [ダウンロードするには右クリックして「名前を付けてリンク先を保存」をお選びください. © Ocean Outcomes] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+3.jpg)
 
 
 ![Nachi Katsuura Longline Albacore Tuna FIP]
-(	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+4.jpg)
 [ダウンロードするには右クリックして「名前を付けてリンク先を保存」をお選びください. © Ocean Outcomes] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+4.jpg)
 
 
 ![Nachi Katsuura Longline Albacore Tuna FIP]
-(	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+5.jpg)
 [ダウンロードするには右クリックして「名前を付けてリンク先を保存」をお選びください. © Ocean Outcomes] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/nachi+katsuura+5.jpg)
