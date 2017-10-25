@@ -1,45 +1,64 @@
 ---
 layout: news
-title:  NACHI KATSUURA LAUNCH
-date: 2017-10-26
-teaser-text: PLACEHOLDER TEASER
+title:  Japan Looks to Improve Key Tuna Fisheries as Part of Blossoming Sustainable Seafood Movement
+date: 2017-10-25
+teaser-text: Fishery, industry, and NGO stakeholders come together to increase the sustainability of key albacore tuna fisheries in Japan.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/nachi-katsuura-fip-launch-hero.jpg
 featured: TRUE
 ---
-###Seiyu GK, a Japanese subsidiary of Walmart, has decided to participate in Japan’s first aquaculture improvement project, the “[Miyagi Onagawa Coho Salmon AIP] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/)”. 
+###Already on the map as the largest port for fresh long-line and pole-and-line tuna landings in Japan, Nachi Katsuura port in Wakayama prefecture is now home to Japan’s first tuna Fisheries Improvement Project (FIP), the [Nachi Katsuura Longline Albacore Tuna FIP] (/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline/). 
 
-The project, a collaborative effort by Marukin Co., Ltd., Fisherman Japan, and Ocean Outcomes launched this year, works to improve the sustainability of Coho salmon farms in the thriving seafood region of Onagawa, Japan. Seiyu, who joins the project as a formal participant, will contribute financial resources towards the project objectives and sell AIP Coho salmon product in Tokyo area stores. 
+The FIP, launched today, comprises 10,000 metric tons of Albacore tuna caught in Japanese waters by fishing company No. 78 Kaiou Maru—tuna which will soon be more sustainably managed due to the efforts of the fishery and project collaborators Yamasa Wakiguchi Co. Ltd., Seiyu GK (a Japanese subsidiary of Walmart), Ocean Outcomes, and Seafood Legacy.  
 
-An Aquaculture Improvement Project (AIP) is a collaborative effort, which brings together multiple stakeholders including producers, distributors, and NGOs for the purpose of improving the sustainability of a farm’s aquaculture practices. With advice and technical support from Ocean Outcomes and Fisherman Japan, Marukin will work to address issues identified during a third-party assessment. This includes monitoring the farms impact on the surrounding ecosystems and evaluating the sustainability of the feed use in the farming process. Seiyu will provide funding for these activities and will publicly support the project by selling [Miyagi Onagawa Coho Salmon AIP] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/) products.
+**> “I’ve been fishing Albacore for over 40 years,” said Mr. Nishida, a fishing captain at No.78 Kaiou Maru, “and there’s undoubtedly been a decline in catch volumes over those years. This has led to fewer jobs in the industry, so we absolutely need to invest in sustainable tuna management so that the resource recovers and the fishery can continue to provide us benefits.”
 
-As harvest volume of internationally recognized species such as Pacific Bluefin Tuna and others more familiar to Japanese consumers—ranging from Saury, Mackerel, Sardine, and Walleye Pollock—remains low in Japan, concerns continue to mount regarding stock levels and fishing practices. With a growing interest and demand for sustainable seafood as the 2020 Tokyo Olympic and Paralympic Games approach—the Olympic committee has required all seafood sourced for the Games to be sustainable—improvement projects such as this are garnering support in the hopes of bringing Japanese fisheries and farms in line with international best practices.
+Due to a variety of factors including overfishing, ineffective management by Regional Fishery Management Organizations (RFMOs), and opaque regulation, many tuna species have populations which are at fractions of historical levels. Albacore stocks, however, largely remain stable and projects such as this will help ensure the numbers of fish and the jobs they provide flourish without adverse effects on the marine environment, so that Albacore tuna can continue to be a pillar of Japanese economy and cuisine.
 
-----
+**> “Working proactively to develop systems and fisheries which are both earth-friendly and human-friendly is part of who we are,” said Kumie, Wama, VP of Corporate Affairs at Seiyu, “so we’re excited to be involved in this FIP and to continue leading fisheries and aquaculture improvement efforts in Japan through project funding and product sales.”
 
-###Comments from the project stakeholders:
+Seiyu will be selling FIP product caught and processed by project participants in their Tokyo area stores starting in November this year.
 
-**<a href="mailto:megumi_hayakawa@walmart.com">Kumie Wama</a> (Vice President, Corporate Affairs, Seiyu GK)** 
-> “Our parent company Walmart has been proactively developing a wide range of activities around the world in order to enhance human- and earth-friendly environment with “sustainable fisheries” as one of its focused fields. Seiyu is committed to projects such as this. Working together with our partner companies, NGOs, and fishermen, we will help promote improvement by selling AIP product and funding AIP work.”
+**>“Support from an industry leading retailer like Seiyu is vital to ensuring the Japanese sustainable seafood movement grows,” says Wakao Hanaoka, the CEO of Seafood Legacy whose group helped broker the deal the get FIP product into 20 Seiyu stores in Tokyo metropolitan area. “Seiyu not only provides an important relationship for the fishery, but they also have the ability to raise awareness amongst consumers.”
 
-**<a href="mailto:wakao.hanaoka@seafoodlegacy.com">Wakao Hanaoka</a> (CEO, Seafood Legacy Co., Ltd.)**
-> “Seiyu’s approach is an ideal market initiative as it not only provides financial support to the producer for their on-site operation, but it also creates opportunities for consumers to join this initiative by purchasing AIP products. This is the first step to building a Tokyo Olympic Legacy that aims to achieve sustainable development goals (SDGs). We hope this will further galvanize efforts to pursue the sustainability both in Japan and overseas.”
+And scalable and replicable improvement models such as the Nachi Katsuura Longline Albacore Tuna FIP will play an important role helping to ensure adequate sustainable seafood supply is available for the upcoming 2020 Tokyo Olympic and Paralympic Games.
 
-**<a href="mailto:shingo1987_2006@yahoo.co.jp">Shingo Suzuki</a> (Managing Director, Marukin Co., Ltd. / Director, Fisherman Japan)**
-> “We have been farming Coho Salmon for more than 30 years. In order to pass this industry to the next generation, it is essential for producers themselves to take the initiative in promoting responsible fisheries that consider the natural environment. Further, cooperation from all stakeholders within our supply chain will deliver sustainable products all the way down to consumers. Therefore, we sincerely appreciate support from Seiyu as it will allow us to concentrate on addressing environmental challenges at our production sites. We hope to further promote our products and fisheries from Miyagi Prefecture, the origin of Coho salmon aquaculture, not only domestically but also internationally.” 
+**>“There’s a lot of attention being given right now to tuna fisheries, Japanese seafood, and the Olympic Games, so it’s the perfect time for industry, fisheries, government and NGOs to come together and make meaningful changes to Japanese seafood, as it truly is in everyone’s interest to do as much,” said Shunji Murakami, Ocean Outcomes’ Japan Program Director. “We’re thrilled to work with this group to ensure sound fishery science and traceable fishing practices are the baseline for this change.”
 
-**<a href="mailto:shunji@oceanoutcomes.org">Shunji Murakami</a> (Japan Program Director, Ocean Outcomes)**
-> “With aquaculture businesses growing remarkably around the world, we think this project can demonstrate the needs and challenges for improvements towards sustainability of Coho salmon aquacultures in Japan. In addition, this collaborative opportunity with such a market initiative from Seiyu and other participants like Seafood Legacy will empower the improvement projects strongly but also to create appropriate incentives for local farmers to continuously improve their sustainability and traceability, which will ultimately contribute to the revitalization of Onagawa town that endured enormous damage in the devastating Great East Japan Earthquake.”
+Working with Yamasa Wakiguchi Co. Ltd, a leading tuna processor in the region, Ocean Outcomes completed an updated pre-assessment of the fishery which laid out opportunities for more sustainable practices including documenting retained species, developing a precautionary harvest approach, and monitoring fishery interactions with seabirds and sea turtles (i.e. independent observers). Documented through the FIP workplan, progress towards these actions will be implemented over the next five years with project participants meeting biannually for review.
+
+**>“This region, the resource, the fishery, and the relationships they foster are truly a thing of beauty,” said Koutarou Wakiguchi, the CEO of Yamasa Wakiguchi, “but there was anxiety surrounding the potential decline of the fishery. We’re thrilled to be part of this project and part of the larger Japanese sustainable seafood movement, ensuring sustainable fishing practices are financially viable so that local fisheries and seafood can continue to be a foundational part of Japan.”
 
 ----
 
 **Additional Resources:**
 
-[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SeiyutoSupportMiyagiCohoSalmonAIP-Final+ENGLISH.pdf)
+[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Nachi+Katsuura+Albacore+LL+FIP+Launch+English+FINAL.pdf)
 
-<a href="http://www.seiyu.co.jp" target="_blank">Seiyu GK website</a>
+----
+**Media Contacts**
 
-<a href="http://www.seafoodlegacy.com/ja/" target="_blank">Seafood Legacy Co., Ltd. website</a>
+<a href="mailto:shunji@oceanoutcomes.org">Shunji Murakami</a> (Japan Program Director, Ocean Outcomes)
+<a href="mailto:wakao.hanaoka@seafoodlegacy.com">Wakao Hanaoka</a> (CEO, Seafood Legacy Co., Ltd.)
+<a href="mailto:megumi_hayakawa@walmart.com">Kumie Wama</a> (Vice President, Corporate Affairs, Seiyu GK)
 
-<a href="http://www.kaki-marukin.com/" target="_blank">Marukin Co., Ltd. website</a>
+----
+**Media Photos**
 
-<a href="http://www.fishermanjapan.com/" target="_blank">Fisherman Japan website</a>
+![Tokyo Bay sea perch seafood for sale]
+(	https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+[Right click here and "Save Link As" to download. © Seiyu] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+1.png)
+
+
+![Tokyo Bay sea perch seafood for sale]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
+[Right click here and "Save Link As" to download. © Seiyu] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
+
+
+![Tokyo Bay sea perch fishermen]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+3.png)
+[Right click here and "Save Link As" to download. © Kaiko Bussan] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+3.png)
+
+
+![Tokyo Bay sea perch fishing boat]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+4.png)
+[Right click here and "Save Link As" to download. © Kaiko Bussan] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+4.png)
