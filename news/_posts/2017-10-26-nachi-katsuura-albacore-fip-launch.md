@@ -10,11 +10,11 @@ featured: TRUE
 
 The [Nachi Katsuura Longline Albacore Tuna FIP] (/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline/), launched today, comprises 10,000 metric tons of Albacore tuna caught in Japanese waters by fishing company No. 78 Kaiou Maru—tuna which will soon be more sustainably managed due to the efforts of the fishery and project collaborators Yamasa Wakiguchi Co. Ltd., Seiyu GK (a Japanese subsidiary of Walmart), Ocean Outcomes, and Seafood Legacy.  
 
->*“I’ve been fishing Albacore for over 40 years,” said Mr. Nishida, a fishing captain at No.78 Kaiou Maru, “and there’s undoubtedly been a decline in catch volumes over those years. This has led to fewer jobs in the industry, so we absolutely need to invest in sustainable tuna management so that the resource recovers and the fishery can continue to provide us benefits.”*
+>**“I’ve been fishing Albacore for over 40 years,” said Mr. Nishida, a fishing captain at No.78 Kaiou Maru, “and there’s undoubtedly been a decline in catch volumes over those years. This has led to fewer jobs in the industry, so we absolutely need to invest in sustainable tuna management so that the resource recovers and the fishery can continue to provide us benefits.”**
 
 Due to a variety of factors including overfishing, ineffective management by Regional Fishery Management Organizations (RFMOs), and opaque regulation, many tuna species have populations which are at fractions of historical levels. Albacore stocks, however, largely remain stable and projects such as this will help ensure the numbers of fish and the jobs they provide flourish without adverse effects on the marine environment, so that Albacore tuna can continue to be a pillar of Japanese economy and cuisine.
 
->*“Working proactively to develop systems and fisheries which are both earth-friendly and human-friendly is part of who we are,” said Kumie, Wama, VP of Corporate Affairs at Seiyu, “so we’re excited to be involved in this FIP and to continue leading fisheries and aquaculture improvement efforts in Japan through project funding and product sales.”*
+>**“Working proactively to develop systems and fisheries which are both earth-friendly and human-friendly is part of who we are,” said Kumie, Wama, VP of Corporate Affairs at Seiyu, “so we’re excited to be involved in this FIP and to continue leading fisheries and aquaculture improvement efforts in Japan through project funding and product sales.”**
 
 Seiyu will be selling FIP product caught and processed by project participants in their Tokyo area stores starting in November this year.
 
@@ -37,11 +37,11 @@ Working with Yamasa Wakiguchi Co. Ltd, a leading tuna processor in the region, O
 ----
 **Media Contacts**
 
-* <a href="mailto:78aisora@gmail.com">No. 78 Kaiou Maru</a>
-* <a href="mailto:megumi_hayakawa@walmart.com">Kumie Wama</a>, Vice President, Corporate Affairs, Seiyu GK  
-* <a href="mailto:wakao.hanaoka@seafoodlegacy.com">Wakao Hanaoka</a>, CEO, Seafood Legacy Co., Ltd.)  
-* <a href="mailto:shunji@oceanoutcomes.org">Shunji Murakami</a>, Japan Program Director, Ocean Outcomes  
-* <a href="mailto:contact@maguro-yamasa.com">Yamasa Wakiguchi Co., Ltd</a>
+* No. 78 Kaiou Maru - <a href="mailto:78aisora@gmail.com">Email/a>  
+* Kumie Wama, Vice President, Corporate Affairs, Seiyu GK - <a href="mailto:megumi_hayakawa@walmart.com">Email</a>
+* Wakao Hanaoka, CEO, Seafood Legacy Co., Ltd. - <a href="mailto:wakao.hanaoka@seafoodlegacy.com">Email</a>   
+* Shunji Murakami, Japan Program Director, Ocean Outcomes - <a href="mailto:shunji@oceanoutcomes.org">Email</a>  
+* Yamasa Wakiguchi Co., Ltd - <a href="mailto:contact@maguro-yamasa.com">Email</a>  
 
 ----
 **Media Photos**
