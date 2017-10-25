@@ -37,7 +37,7 @@ Working with Yamasa Wakiguchi Co. Ltd, a leading tuna processor in the region, O
 ----
 **Media Contacts**
 
-* No. 78 Kaiou Maru - <a href="mailto:78aisora@gmail.com">Email/a>  
+* No. 78 Kaiou Maru - <a href="mailto:78aisora@gmail.com">Email</a>  
 * Kumie Wama, Vice President, Corporate Affairs, Seiyu GK - <a href="mailto:megumi_hayakawa@walmart.com">Email</a>
 * Wakao Hanaoka, CEO, Seafood Legacy Co., Ltd. - <a href="mailto:wakao.hanaoka@seafoodlegacy.com">Email</a>   
 * Shunji Murakami, Japan Program Director, Ocean Outcomes - <a href="mailto:shunji@oceanoutcomes.org">Email</a>  
