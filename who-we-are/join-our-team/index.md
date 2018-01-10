@@ -11,20 +11,8 @@ weight: 4
 
 > **Current job openings:**  
 
-> *Development Director*  
+> <a href="https://ocean-outcomes.workable.com/jobs/637736" target="_blank">*Development Director*</a>
 > Ocean Outcomes is seeking an experienced and driven Development Director to refine and execute the implementation of O2’s fundraising strategy. The focus of the position will be to develop and expand funding relationships with foundations, international NGOs, and development agencies in order to achieve the ambitious fundraising targets set out in O2’s strategic plan. Sound interesting? <a href="https://ocean-outcomes.workable.com/jobs/637736" target="_blank">**View full job description and apply**</a>.
-
-##Career and volunteer opportunities
-
-> **Current job openings:**  
-
-<script src='https://www.workable.com/assets/embed.js' type='text/javascript'></script>
-<script type='text/javascript' charset='utf-8'>
-whr(document).ready(function(){
-whr_embed(257016, {detail: 'descriptions', base: 'jobs', zoom: 'country', grouping: 'none'});
-});
-</script>
-<div id="whr_embed_hook"></div>
 
 Not your cup of tea? We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share.
 
