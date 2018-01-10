@@ -15,8 +15,17 @@
   link:
     link-text: Learn more
     link-url: /what-we-do/success-stories/hokkaido-chum/
-
+    
 - featured: TRUE
+  language: en
+  heading: We're Hiring!
+  title: Do you care as much about sustainable fisheries as we do?
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-hiring.jpg
+  link:
+    link-text: Career and volunteer opportunities
+    link-url: /who-we-are/join-our-team/
+
+- featured: FALSE
   language: en
   heading: We've got a newsletter!
   title: O2 insights on fisheries, improvement projects, IUU, and Northeast Asian seafood.
