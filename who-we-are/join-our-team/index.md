@@ -12,11 +12,12 @@ weight: 4
 > **Current job openings:**  
 
 > *Development Director*  
-> Ocean Outcomes is seeking an experienced and driven Development Director to refine and execute the implementation of O2’s fundraising strategy. The focus of the position will be to develop and expand funding relationships with foundations, international NGOs, and development agencies in order to achieve the ambitious fundraising targets set out in O2’s strategic plan. Sound interesting? <a href="https://ocean-outcomes.workable.com/jobs/637736" target="_blank">View full job description and apply</a>.
+> Ocean Outcomes is seeking an experienced and driven Development Director to refine and execute the implementation of O2’s fundraising strategy. The focus of the position will be to develop and expand funding relationships with foundations, international NGOs, and development agencies in order to achieve the ambitious fundraising targets set out in O2’s strategic plan. Sound interesting? <a href="https://ocean-outcomes.workable.com/jobs/637736" target="_blank">**View full job description and apply**</a>.
 
 ##Career and volunteer opportunities
 
 > **Current job openings:**  
+
 <script src='https://www.workable.com/assets/embed.js' type='text/javascript'></script>
 <script type='text/javascript' charset='utf-8'>
 whr(document).ready(function(){
