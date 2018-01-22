@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Chinese Red Swimming Crab
+title: Fujian Zhangzhou Red Swimming Crab FIP
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/placeholderhero.jpg
 subtitle:
