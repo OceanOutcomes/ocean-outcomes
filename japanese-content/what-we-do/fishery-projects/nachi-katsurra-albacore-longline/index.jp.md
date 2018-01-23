@@ -27,7 +27,7 @@ permalink: /what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-long
 
 |||
 | :--- | --- |
-| FIP 状況: | FIP |
+| FIP 状況: | 包括的 FIP (<a href="https://fisheryprogress.org/fip-profile/japan-albacore-tuna-longline" target="_blank">FisheryProgress.org で完全追跡しています</a>) |
 | 開始時期: | 2017年10月 |
 | 場所: | 和歌山県那智勝浦町 |
 | 参加者: | 海王丸、株式会社ヤマサ脇口水産、オーシャン・アウトカムズ |
