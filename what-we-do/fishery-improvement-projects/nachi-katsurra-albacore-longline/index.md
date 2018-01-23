@@ -26,7 +26,7 @@ The Nachi Katsuura Albacore Longline FIP involves Kaiou Maru, an offshore longli
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/japan-albacore-tuna-longline" target="_blank">tracked fully on FisheryProgress.org</a> |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/japan-albacore-tuna-longline" target="_blank">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | October 2017 |
 | Location: | Nachi Katsuura, Wakayama Prefecture, Japan |
 | Participants: | Ocean Outcomes, Yamasa Wakiguchi Co., Kaiou Maru |
