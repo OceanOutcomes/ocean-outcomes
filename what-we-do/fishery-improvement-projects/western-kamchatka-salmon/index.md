@@ -34,7 +34,7 @@ The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the wester
 | FIP Status: | Comprehensive FIP (<a href="http://fisheryprogress.org/fip-profile/western-kamchatka-salmon-beach-seinetrap-net" target="_blank">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | January 2014 |
 | Location: | Kamchatka, Russia |
-| Participants: | Ocean Outcomes, Vityaz-Avto and Delta, Kamchatka Fish Fund, KamchatNIRO, WWF Russia |
+| Participants: | Ocean Outcomes, ForSea Solutions, Vityaz-Avto and Delta, Kamchatka Fish Fund, KamchatNIRO, WWF Russia |
 | Species: | sockeye (*Oncorhynchus nerka*), coho (*Oncorhynchus kisutch*) |
 | Gear Type: | coastal trap net, beach seines |
 | Volume: | 1,370 mt - *Volume taken from KamchatNIRO report, catches for coho and sockeye averaged over 2004 to 2015. Ozernaya sockeye and Kol coho were not included.* |
