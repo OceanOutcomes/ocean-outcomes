@@ -4,7 +4,7 @@ title: O2’s Korea Program Garnering Headlines in Korea
 date: 2017-10-3
 teaser-text: Launched this summer with the hire of Jiehyun Park, our Korea Program is already garnering headlines in Korea, one of the world’s preeminent fish producing and consuming countries.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/korea-program-making-news.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Korea is a top ten producer of seafood and the world’s fifth most seafood loving region—only China, Japan, the United States, and the European Union consume more seafood annually. 
 
