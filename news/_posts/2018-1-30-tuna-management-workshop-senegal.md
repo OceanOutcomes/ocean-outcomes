@@ -10,7 +10,7 @@ featured: TRUE
 
 This week, members from Atlantic Ocean coastal states gathered in Dakar, Senegal to work towards more sustainable tuna fisheries management. The two-day workshop consisted of training, games, lectures, and discussions which encouraged participants to develop a better understanding of a precautionary approach to managing Atlantic Ocean tuna fisheries. 
 
-With members of the <a href="http://www.iccat.es/en/" target="_blank">International Commission for the Conservation of Atlantic Tunas (ICCAT)</a> as the key audience-ICCAT is the Regional Fisheries Management Organizations (RFMO) which manages Atlantic Ocean tunas-the hands-on training provided practical advice on ways managers can improve management by the development and implementation of harvest strategies.
+With members of the <a href="http://www.iccat.es/en/" target="_blank">International Commission for the Conservation of Atlantic Tunas (ICCAT)</a> as the key audience--ICCAT is the Regional Fisheries Management Organizations (RFMO) which manages Atlantic Ocean tunas--the hands-on training provided practical advice on ways managers can improve management by the development and implementation of harvest strategies.
 
 And the workshop couldn't come at a better time. According to a just released report by the <a href="https://iss-foundation.org/" target="_blank">International Seafood Sustainability Foundation (ISSF)</a>, of the 19 stocks of tropical and temperate tunas, only six achieved a passing score according to the criteria for the Marine Stewardship Council, due mostly to the lack of well-defined harvest control rules in place.
 
@@ -24,7 +24,7 @@ Participants were trained on these concepts, among others, by leading experts on
 
 ####To date over 240 tuna fishery managers and other experts have had training on the precautionary approach through the workshop series, which is part of the <a href="http://www.fao.org/in-action/commonoceans/projects/tuna-biodiversity/en/" target="_blank">Common Oceans ABNJ Tuna Project</a>.
 
->**"A level playing field of understanding is essential for fisheries managers to meaningfully engage in discussions on science-based sustainable fishery management" says Ocean Outcomes' Daniel Suddaby, who helped develop the content and logistics of workshop series. "Providing fisheries managers with the resources and tools to promote sustainable fisheries management through these workshops is paramount to the long term viability of tuna stocks."**
+>**"A level playing field of understanding is essential for fisheries managers to meaningfully engage in discussions on science-based sustainable fishery management" says Ocean Outcomes' Daniel Suddaby, who helped develop the content and logistics of the workshop series. "Providing fisheries managers with the resources and tools to promote sustainable fisheries management through these workshops is paramount to the long term viability of tuna stocks."**
 
 The Common Oceans ABNJ Tuna Project, funded by the <a href="https://www.thegef.org/" target="_blank">Global Environment Facility (GEF)</a> and implemented by the <a href="http://www.fao.org/home/en/" target="_blank">UN-FAO</a>, harnesses the efforts of a large and diverse array of partners. Including the five tuna RFMOs, governments, intergovernmental organizations, non-governmental organizations and private sector, the project works to achieve responsible, efficient and sustainable tuna production and biodiversity conservation in the ABNJ. 
 
