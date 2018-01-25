@@ -10,7 +10,7 @@ featured: TRUE
 
 This week, members from Atlantic Ocean coastal states gathered in Dakar, Senegal to work towards more sustainable tuna fisheries management. The two-day workshop consisted of training, games, lectures, and discussions which encouraged participants to develop a better understanding of a precautionary approach to managing Atlantic Ocean tuna fisheries. 
 
-With members of the <a href="http://www.iccat.es/en/" target="_blank">International Commission for the Conservation of Atlantic Tunas (ICCAT)</a> as the key audience--ICCAT is the Regional Fisheries Management Organizations (RFMO) which manages Atlantic Ocean tunas--the hands-on training provided practical advice on ways managers can improve management by the development and implementation of harvest strategies.
+With members of the <a href="http://www.iccat.es/en/" target="_blank">International Commission for the Conservation of Atlantic Tunas (ICCAT)</a> as the key audience&mdash;ICCAT is the Regional Fisheries Management Organizations (RFMO) which manages Atlantic Ocean tunas&mdash;the hands-on training provided practical advice on ways managers can improve management by the development and implementation of harvest strategies.
 
 And the workshop couldn't come at a better time. According to a just released report by the <a href="https://iss-foundation.org/" target="_blank">International Seafood Sustainability Foundation (ISSF)</a>, of the 19 stocks of tropical and temperate tunas, only six achieved a passing score according to the criteria for the Marine Stewardship Council, due mostly to the lack of well-defined harvest control rules in place.
 
