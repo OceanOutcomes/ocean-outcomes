@@ -26,4 +26,4 @@ FAOのコモンオーシャンズABNJマグロプロジェクトの主任技術�
 
 コモンオーシャンズABNJマグロプロジェクトは、<a href="https://www.thegef.org/" target="_blank">グローバル環境ファシリティ（GEF）</a>の資金提供を受け、<a href="http://www.fao.org/home/en/" target="_blank">国連食糧農業機関（FAO）</a>により実施されていますが、数多くの多様なパートナーの取り組みを活動に役立てています。五つの地域漁業管理機関や各国政府、政府間組織、非政府組織および民間部門などを巻き込んで、本プロジェクトはABNJ地域において責任ある、効率的で持続可能なマグロの生産および生物多様性保全の実現に取り組んでいます。
 
-<a href="http://www.fao.org/in-action/commonoceans/news/detail-events/en/c/1027165/" target="_blank">ワークショップの写真や関わった関係組織、およびワークショップに関する連絡先はコモン・オーシャンズのウェブサイトをご覧ください。</a>
+<a href="http://www.fao.org/in-action/commonoceans/news/en/" target="_blank">ワークショップの写真や関わった関係組織、およびワークショップに関する連絡先はコモン・オーシャンズのウェブサイトをご覧ください。</a>
