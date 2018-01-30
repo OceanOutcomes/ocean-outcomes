@@ -22,7 +22,7 @@ Participants were trained on these concepts, among others, by leading experts on
 
 >**"We were able to develop a real understanding of how these approaches can be applied to better manage Atlantic Ocean tunas," said Dr. Mamadou Goudiaby, Fisheries Director for Senegal. "And as the local authority on Atlantic Ocean tuna fisheries, we're now in a place to adapt and implement these strategies according to local context."**
 
-####To date over 240 tuna fishery managers and other experts have had training on the precautionary approach through the workshop series, which is part of the <a href="http://www.fao.org/in-action/commonoceans/projects/tuna-biodiversity/en/" target="_blank">Common Oceans ABNJ Tuna Project</a>.
+####To date over 240 tuna fishery managers and other experts have had training on the precautionary approach through the workshop series, which is part of the <a href="http://www.fao.org/in-action/commonoceans/" target="_blank">Common Oceans ABNJ Tuna Project</a>.
 
 >**"A level playing field of understanding is essential for fisheries managers to meaningfully engage in discussions on science-based sustainable fishery management" says Ocean Outcomes' Daniel Suddaby, who helped develop the content and logistics of the workshop series. "Providing fisheries managers with the resources and tools to promote sustainable fisheries management through these workshops is paramount to the long term viability of tuna stocks."**
 
