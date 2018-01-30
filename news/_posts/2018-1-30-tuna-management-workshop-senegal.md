@@ -3,7 +3,7 @@ layout: news
 title:  Sixth Tuna Management Workshop Takes Best Practices to West Africa Through Two Days of Hands-on Trainings
 date: 2018-1-30
 teaser-text: Over 40 tuna experts come together in Dakar, Senegal to improve understanding of sustainable tuna management strategies through games, simulation, and lecture.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/placeholderhero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/tuna-management-workshop-senegal.jpg
 featured: TRUE
 ---
 ###Over 40 tuna experts come together in Dakar, Senegal to improve understanding of sustainable tuna management strategies through games, simulation, and lecture.
@@ -28,4 +28,4 @@ Participants were trained on these concepts, among others, by leading experts on
 
 The Common Oceans ABNJ Tuna Project, funded by the <a href="https://www.thegef.org/" target="_blank">Global Environment Facility (GEF)</a> and implemented by the <a href="http://www.fao.org/home/en/" target="_blank">UN-FAO</a>, harnesses the efforts of a large and diverse array of partners. Including the five tuna RFMOs, governments, intergovernmental organizations, non-governmental organizations and private sector, the project works to achieve responsible, efficient and sustainable tuna production and biodiversity conservation in the ABNJ. 
 
-<a href="http://www.fao.org/in-action/commonoceans/projects/tuna-biodiversity/en/" target="_blank">See photos of the workshop, organizations involved, and workshop contacts on the Common Oceans website.</a>
+ #<a href="http://www.fao.org/in-action/commonoceans/news/en/" target="_blank">See photos of the workshop, organizations involved, and workshop contacts on the Common Oceans website.</a>
