@@ -24,4 +24,4 @@ Ocean Outcomes supported the design and management of this workshop series as pa
 
 The Common Oceans ABNJ Tuna Project, funded by the <a href="https://www.thegef.org/" target="_blank">Global Environment Facility (GEF)</a> and implemented by the <a href="http://www.fao.org/home/en/" target="_blank">Food and Agriculture Organization of the United Nations (FAO)</a>, harnesses the efforts of a large and diverse array of partners. Including the five tuna RFMOs, governments, intergovernmental organizations, non-governmental organizations and private sector, the project works to achieve responsible, efficient and sustainable tuna production and biodiversity conservation in the ABNJ. 
 
-<a href="http://www.fao.org/in-action/commonoceans/news/detail-events/en/c/1027165/" target="_blank">See photos of the workshop, organizations involved, and workshop contacts on the Common Oceans website.</a>
+<a href="http://www.fao.org/in-action/commonoceans/news/en/" target="_blank">See photos of the workshop, organizations involved, and workshop contacts on the Common Oceans website.</a>
