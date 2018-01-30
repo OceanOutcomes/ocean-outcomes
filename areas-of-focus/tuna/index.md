@@ -27,6 +27,7 @@ Despite these challenges, positive transformation of tuna management is gaining 
 ---
 ##Stories from the Field: Tuna
 
+* [Sixth Tuna Management Workshop Takes Best Practices to West Africa Through Two Days of Hands-on Trainings] (/news/tuna-management-workshop-senegal/)
 * [Japan Looks to Improve Key Tuna Fisheries as Part of Blossoming Sustainable Seafood Movement] (/news/nachi-katsuura-albacore-fip-launch/)
 * [Fifth Tuna Management Workshop Advances Knowledge of Tuna Sustainability in the Pacific Ocean] (/news/tuna-management-workshop-bali/)
 * [O2 Supports 2nd Indian Ocean Tuna Management Workshop in Sri Lanka] (/news/tuna-management-workshop-sri-lanka/)
