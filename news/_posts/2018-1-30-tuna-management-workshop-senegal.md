@@ -34,6 +34,7 @@ The Common Oceans ABNJ Tuna Project, funded by the <a href="https://www.thegef.o
 
 **Additional Resources:**
 
-[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Atlantic-Ocean-and-ICCAT-ANBJ-Press-Release-Jan-30-2018.pdf)
+[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Atlantic-Ocean-and-ICCAT-ANBJ-Press-Release-Jan-30-2018.pdf) [
+Télécharger en Français.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Atlantic-Ocean-and-ICCAT-ANBJ-Press-Release-Jan-30-2018-French.pdf)
 
 ----
