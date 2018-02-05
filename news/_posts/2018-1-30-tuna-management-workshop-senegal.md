@@ -18,7 +18,7 @@ And the workshop couldn't come at a better time. A recently released report co-a
 
 Harvest strategies are management frameworks that have been used to successfully implement the precautionary approach. Management strategy evaluation (MSE) is a process by which the performance of different harvest strategies under various conditions is evaluated through computer simulations, in order to find the strategy that best fulfills management objectives.
 
-Participants were trained on these concepts, among others, by leading experts on international tuna management. Following the lectures, participants worked in small groups to discuss key concepts, map hypothetical strategies, and pilot MSE tools, such as the <a href="https://puntapps.shinyapps.io/tunafijimse/" target="_blank">online MSE modeling application</a> which was developed for the workshop series.
+Participants were trained on these concepts, among others, by leading experts on international tuna management. Following the lectures, participants worked in small groups to discuss key concepts, map hypothetical strategies, and pilot MSE tools, such as the online MSE modeling application which was developed for the workshop series.
 
 >**"We were able to develop a real understanding of how these approaches can be applied to better manage Atlantic Ocean tunas," said Dr. Mamadou Goudiaby, Fisheries Director for Senegal. "And as the local authority on Atlantic Ocean tuna fisheries, we're now in a place to adapt and implement these strategies according to local context."**
 
