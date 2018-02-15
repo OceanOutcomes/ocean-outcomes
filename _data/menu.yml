@@ -1,10 +1,9 @@
 und:
-  - title: FIP Tracker
-    url: /what-we-do/past-initiatives/tracker/
-
-und:
   - title: Make a Donation
     url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M6GDSMR3CKSWJ
+und:
+  - title: FIP Tracker
+    url: /what-we-do/past-initiatives/tracker/
 
 ru:
   - title: "Трекер ФИП"
