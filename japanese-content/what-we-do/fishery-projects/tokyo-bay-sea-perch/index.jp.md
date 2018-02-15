@@ -27,14 +27,14 @@ permalink: /what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch
 
 |||
 | :--- | --- |
-| FIP状況: | 簡易 FIP (<a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">FisheryProgress.org で追跡管理しています</a>) |
+| FIP状況: | 包括的 FIP (<a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">FisheryProgress.org で追跡管理しています</a>) |
 | 開始時期: | 2016年11月 |
 | 場所: | 千葉県東京湾 |
 | 参加者: | オーシャン・アウトカムズ、海光物産、シーフードレガシー、西友 |
 | 対象種: | スズキ (*Lateolabrax japonicus*) |
 | 漁具の種類: | 中型まき網 |
 | 生産量: | 279 mt – 船橋漁業協同組合の漁獲データによると、審査単位となっているスズキの2003年から2014年までの平均漁獲量は年間436 mt で、参加者の2007年から2014年までの平均漁獲量は年間279 mtになっている。よって参加者は審査単位の漁獲量の約64％を占めている。予備審査報告書のデータより抜粋。 |
-| 文書: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/TokyoBayPreassessment2016.pdf" target="_blank">予備審査</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/TokyoBayWorkplan2016.pdf" target="_blank">活動計画</a> |
+| 文書: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/TokyoBayPreassessment2016.pdf" target="_blank">予備審査</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/TokyoBayWorkplan2018.pdf" target="_blank">活動計画</a> |
 
 ---
 
