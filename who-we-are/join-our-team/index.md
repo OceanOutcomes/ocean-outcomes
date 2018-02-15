@@ -8,9 +8,18 @@ teaser-text: An estimated 3 billion people worldwide depend on seafood as their 
 weight: 4
 ---
 
+##Career and volunteer opportunities
+
+> **Current job openings:**  
+
+> <a href="https://ocean-outcomes.workable.com/jobs/637736" target="_blank">*Development Director*</a> - Ocean Outcomes is seeking an experienced and driven Development Director to refine and execute the implementation of O2’s fundraising strategy. The focus of the position will be to develop and expand funding relationships with foundations, international NGOs, and development agencies in order to achieve the ambitious fundraising targets set out in O2’s strategic plan. Sound interesting? <a href="https://ocean-outcomes.workable.com/jobs/637736" target="_blank">**View full job description and apply**</a>.
+
+Not your cup of tea? We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share.
+
+-----
 ##Contribute to improving fisheries
 
-We’re working to ensure ocean resources are abundant and sustainably harvested, and that fisheries, fishing communities, and fishery-based livelihoods flourish. <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M6GDSMR3CKSWJ" target="_blank">*Support our efforts by making donation*</a>. Ocean Outcomes is a registered a 501(c)(3) nonprofit organization and our Tax ID is 46-4901375. Have a question about a donation? Just email us at <a href="donations@oceanoutcomes.org">donations@oceanoutcomes.org</a>.
+We’re working to ensure ocean resources are abundant and sustainably harvested, and that fisheries, fishing communities, and fishery-based livelihoods flourish. <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M6GDSMR3CKSWJ" target="_blank">**Support our efforts by making donation**</a>. Have a question about a donation? Just email us at <a href="donate@oceanoutcomes.org">donate@oceanoutcomes.org</a>. *Ocean Outcomes is a registered a 501(c)(3) nonprofit organization and our Tax ID is 46-4901375.*
 
 -----
 ##Connect online and spread the word 
@@ -41,12 +50,3 @@ Demand seafood, both fished and farmed, from sources which have minimal impact o
 
 [![Sustainable Seafood News]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/subscribe-to-sustainable-seafood-news.jpg)] (http://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a)
-
------
-##Career and volunteer opportunities
-
-> **Current job openings:**  
-
-> <a href="https://ocean-outcomes.workable.com/jobs/637736" target="_blank">*Development Director*</a> - Ocean Outcomes is seeking an experienced and driven Development Director to refine and execute the implementation of O2’s fundraising strategy. The focus of the position will be to develop and expand funding relationships with foundations, international NGOs, and development agencies in order to achieve the ambitious fundraising targets set out in O2’s strategic plan. Sound interesting? <a href="https://ocean-outcomes.workable.com/jobs/637736" target="_blank">**View full job description and apply**</a>.
-
-Not your cup of tea? We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share.
