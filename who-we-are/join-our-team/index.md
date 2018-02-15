@@ -7,6 +7,17 @@ hero-image:
 teaser-text: An estimated 3 billion people worldwide depend on seafood as their primary source of protein. Seafood plays a vital role in food security, ocean health, and local economies. Here’s what you can do to get involved and support more sustainable fisheries.
 weight: 4
 ---
+
+##Donate!
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="M6GDSMR3CKSWJ">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+-----
 ##Career and volunteer opportunities
 
 > **Current job openings:**  
