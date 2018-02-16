@@ -17,7 +17,7 @@ und:
   our-team: "Our Team"
   board: "Our Board"
   vision-mission: "Vision & Mission"
-  join-our-team: "We're Hiring!"
+  join-our-team: "Get Involved"
 
   ### Top level menu item
   what-we-do: "What We Do"
@@ -63,6 +63,7 @@ und:
   menu: "Menu"
   tracker: "FIP Tracker"
   newsletter: "Subscribe to our newsletter"
+  donate: "Make a Donation"
 
   ##########################
   # Contact Page
