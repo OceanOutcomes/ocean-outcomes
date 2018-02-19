@@ -1,7 +1,7 @@
 ---
 layout: news
 title: O2 and GGGI Seafood Co-Lab Proposal - Voting is Open!
-date: 2017-2-15
+date: 2018-2-15
 teaser-text: An estimated 6 million polluting styrofoam buoys are used in one of the world’s largest oyster fisheries. We want to change that. Vote for our Seafood Co-Lab project to support better buoying.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-2.jpg
 featured: TRUE
