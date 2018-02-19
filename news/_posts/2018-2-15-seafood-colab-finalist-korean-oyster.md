@@ -12,7 +12,7 @@ Winners are chosen by the seafood community and receive a $10,000 financial rewa
 
 Working with the Global Ghost Gear Initiative and on the ground stakeholders in South Korea, we submitted the entry “<a href="http://speakingofseafood.org/seafood-co-lab/2018-co-lab-finalists/transitioning-styrofoam-buoys-south-korean-oyster-farms/" target="blank">*Buoying it the right way: Transitioning 6 million styrofoam buoys to a non-polluting alternative in South Korea's 200,000 ton oyster industry*</a>” to the Seafood Co-Lab contest. Out of 40 entries, our is one of the four finalists!
 
-The Seafood Co-Lab winner is selected by popular vote and gets $10,000 and advisor support to begin work. Want to support reducing styrofoam microplastics in our ocean? <a href="http://speakingofseafood.org/seafood-co-lab/choose-seafood-co-lab-winner/" target="blank">*Cast a vote for our entry and support better buoying*</a>. 
+The Seafood Co-Lab winner is selected by popular vote and gets $10,000 and advisor support to begin work. Want to support reducing styrofoam microplastics in our ocean? <a href="http://speakingofseafood.org/seafood-co-lab/choose-seafood-co-lab-winner/" target="blank">Cast a vote for our entry and support better buoying</a>. 
 
 ----
 ###Project background:
