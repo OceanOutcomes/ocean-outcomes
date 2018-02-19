@@ -4,7 +4,7 @@ title:  Sixth Tuna Management Workshop Takes Best Practices to West Africa Throu
 date: 2018-1-30
 teaser-text: Over 40 tuna experts come together in Dakar, Senegal to improve understanding of sustainable tuna management strategies through games, simulation, and lecture.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tuna-management-workshop-senegal.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Over 40 tuna experts come together in Dakar, Senegal to improve understanding of sustainable tuna management strategies through games, simulation, and lecture.
 
