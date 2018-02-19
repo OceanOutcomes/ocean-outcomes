@@ -4,7 +4,7 @@ title:  Japan Looks to Improve Key Tuna Fisheries as Part of Blossoming Sustaina
 date: 2017-10-25
 teaser-text: Fishery, industry, and NGO stakeholders come together to increase the sustainability of key albacore tuna fisheries in Japan.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/nachi-katsuura-fip-launch-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Already on the map as the largest port for fresh long-line and pole-and-line tuna landings in Japan, Nachi Katsuura port in Wakayama prefecture is now home to Japan’s first tuna Fisheries Improvement Project (FIP). 
 
