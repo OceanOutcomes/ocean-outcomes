@@ -18,7 +18,7 @@ The last workshop for members from the <a href="https://www.wcpfc.int/" target="
 
 >**"Harvest strategies can be used to ensure fishers catch significant volumes of tuna, but in a way which doesn’t overfish the stock,” said Feleti Teo, Executive Director of the WCPFC. “Our mandate at the WCPFC is to maintain sustainable use of tuna resources through effective management. Trainings such as this workshop are a good way to ensure fisheries managers have the acumen and tools to implement."**
 
->**Dr. Graham Pilling of the Oceanic Fisheries Programme at the Pacific Community (SPC) added, "As members continue to develop the harvest strategy approach for their fisheries and stocks, this workshop will enhance their engagement with the process, and enable them to provide the critical inputs necessary for its implementation."**
+Dr. Graham Pilling of the Oceanic Fisheries Programme at the Pacific Community (SPC) added, "As members continue to develop the harvest strategy approach for their fisheries and stocks, this workshop will enhance their engagement with the process, and enable them to provide the critical inputs necessary for its implementation."
 
 The Nadi workshop, designed by Ocean Outcomes for the Common Oceans ABNJ Tuna Project and implementing partner <a href="https://www.worldwildlife.org/" target="_blank">World Wide Fund for Nature</a> (WWF), is number seven in a series of eight. To date, over 280 developing state representatives have received training as part of the workshop series. An eighth and final workshop will be held later this year in Latin America. 
 
