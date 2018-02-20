@@ -21,6 +21,7 @@ With little domestic awareness for sustainable seafood to drive change, a signif
 ---
 ##Stories from the Field: Korea
 
+* [O2 and GGGI Seafood Co-Lab Proposal - Voting is Open!] (/news/seafood-colab-finalist-korean-oyster/)
 * [O2’s Korea Program Garnering Headlines in Korea] (/news/korea-program-launches-news-coverage/)
 
 ---
