@@ -34,7 +34,7 @@ WWFは「人類が自然と調和して生きられる未来」を理想とし�
   
 ----
 <h2>Marine Stewardship Council (MSC)</h2>
-<img align="leftt" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/msc-partners.png">
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/msc-partners.png">
 MSCの認証プログラムは持続可能な漁業に恩恵をもたらします。MSCは、漁業、水産物取扱企業、学者、環境団体、そして広く一般の方々とともに、環境・資源に配慮して獲られた水産物の普及に努める世界的な組織です。<a href="https://www.msc.org/?set_language=ja" target="_blank">www.msc.org</a>
 
 ----
