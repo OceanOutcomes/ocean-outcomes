@@ -1521,12 +1521,12 @@ body {
   .og-grid li a span.initial-details span {
     display: block; }
   .og-grid li a span.initial-details span.og-name {
-    font-size: 18px;
-    font-weight: bold;
+    font-size: 13px;
+    text-transform: uppercase;
     font-family: "adriane", Georgia, Times, serif; }
   .og-grid li a span.initial-details span.og-title {
     font-size: 12px;
-    text-transform: uppercase;
+    font-weight: bold;
     line-height: 1.5; }
 
 .og-grid li.og-expanded > a::after {
@@ -1538,9 +1538,9 @@ body {
   position: absolute;
   pointer-events: none;
   border-bottom-color: #0071C5;
-  border-width: 15px;
+  border-width: 10px;
   left: 50%;
-  margin: 15px 0 0 -15px; }
+  margin: 10px 0 0 -10px; }
 
 .og-expander {
   position: absolute;
@@ -1597,7 +1597,7 @@ body {
   padding: 0; }
   @media screen and (min-width: 40em) {
     .og-details {
-      padding: 0 40px 0 20px; } }
+      padding: 0 20px 0 10px; } }
 
 .og-fullimg {
   text-align: center; }
@@ -1610,7 +1610,7 @@ body {
 
 .og-details h3 {
   font-weight: 300;
-  font-size: 36px;
+  font-size: 18px;
   padding: 0px 0 10px;
   margin: 0;
   color: #FFFFFF; }
@@ -1621,20 +1621,20 @@ body {
 
 .og-details p {
   font-weight: 400;
-  font-size: 16px;
+  font-size: 12px;
   line-height: 22px;
   color: #FFFFFF; }
 
 .og-details a {
   font-weight: 700;
-  font-size: 16px;
+  font-size: 12px;
   color: #333;
   text-transform: uppercase;
   letter-spacing: 2px;
-  padding: 10px 20px;
+  padding: 8px 10px;
   border: 3px solid #333;
   display: inline-block;
-  margin: 30px 0 0;
+  margin: 20px 0 0;
   outline: none; }
 
 .og-details a::before {
