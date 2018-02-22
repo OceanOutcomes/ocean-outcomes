@@ -33,9 +33,7 @@ WWFは「人類が自然と調和して生きられる未来」を理想とし�
 セイラーズフォーザシーは、2004年にロックフェラー&カンパニー会長のDavid Rockefeller, Jr.によって設立されたNGO団体で、マリンスポーツ愛好家の海洋自然保護に対する責任において、教育を通して地球環境を保全することを目的として活動しています。 米国ロードアイランド州ニューポートに本部を置き、日本・ポルトガルに支局を構え、会員は3万人を数えます。 活動は海洋自然保護、環境教育、海洋由来の食料確保への提言、ヨットレース時の環境保全基準値設定など、広範に及びます。また、世界最高峰のヨットレース「アメリカズカップ」の公式サステナビリティ・パートナーに選出されているほか、世界銀行の環境保護プログラムGlobal Partnership for Oceans「オーシャンズ」の公式スポンサーとなるなど、世界規模で海洋環境保護活動を応援しています。<a href="http://sailorsforthesea.jp/" target="_blank">http://sailorsforthesea.jp</a>
 
 ----
-<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/msc-partners.png">
-<br />
-<h2>Marine Stewardship Council (MSC)</h2>
+<h2>Marine Stewardship Council (MSC)</h2><img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/msc-partners.png">
 
 MSCの認証プログラムは持続可能な漁業に恩恵をもたらします。MSCは、漁業、水産物取扱企業、学者、環境団体、そして広く一般の方々とともに、環境・資源に配慮して獲られた水産物の普及に努める世界的な組織です。<a href="https://www.msc.org/?set_language=ja" target="_blank">www.msc.org</a>
 
