@@ -24,7 +24,7 @@ permalink: /what-we-do/fishery-projects
 
 ----
 
-  * [宮城女川・銀鮭AIP] (/jp/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/)
+  * [宮城女川・銀鮭AIP] (/jp/what-we-do/fishery-improvement-projects/miyagi-coho-salmon)
   * [那智勝浦ビンチョウマグロ延縄FIP] (/jp/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline)
   * [東京湾スズキFIP] (/jp/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch)
   * [西部カムチャッカサケFIP] (/jp/what-we-do/fishery-improvement-projects/western-kamchatka-salmon)
