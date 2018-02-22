@@ -18,16 +18,22 @@ permalink: /what-we-do/fishery-projects
 
 私たちは漁業改善活動を通じて、世界の漁業の危機の原因になっているあらゆる主要な漁業問題に取り組んでいます。これらの課題は違法・無報告・無規制漁業 (IUU)や乱獲、非対象種の枯渇、生息地への影響、および不適切なモニタリングなどの管理体制の問題などがあります。このような問題は漁業や食料供給および私たちの暮らしの持続可能性および安全性に対し、深刻なリスクとなっています。
 
+----
+
 <h5>漁業改善プロジェクト（FIP/AIP）</h5>
 
-  * [宮城女川・銀鮭AIP] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/)
-  * [那智勝浦ビンチョウマグロ延縄FIP] (/jp/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline)
-  * [東京湾スズキFIP] (/jp/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch)
-  * [西部カムチャッカサケFIP] (/jp/what-we-do/fishery-improvement-projects/western-kamchatka-salmon)
+----
+
+  * [宮城女川・銀鮭AIP] (jp/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/)
+  * [那智勝浦ビンチョウマグロ延縄FIP] (jp/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline)
+  * [東京湾スズキFIP] (jp/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch)
+  * [西部カムチャッカサケFIP] (jp/what-we-do/fishery-improvement-projects/western-kamchatka-salmon)
 
 ----
 
 <h5>私たちは以下の漁業改善活動を実施しています。</h5>
+
+----
 
   * 漁業改善計画の策定、立ち上げおよび実施
   * 短期審査、予備審査及び本審査の実施
