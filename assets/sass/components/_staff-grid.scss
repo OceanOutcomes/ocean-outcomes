@@ -33,7 +33,7 @@
   bottom: 0;
   span { display: block; }
   span.og-name {
-	font-size: 18px;
+	font-size: 13px;
 	font-weight: bold;
 	font-family: $serif;
   }
@@ -55,7 +55,7 @@
 	border-bottom-color: $blue;
 	border-width: 15px;
 	left: 50%;
-	margin: 15px 0 0 -15px;
+	margin: 10px 0 0 -10px;
 }
 
 .og-expander {
@@ -139,7 +139,7 @@
 
 .og-details h3 {
 	font-weight: 300;
-	font-size: 36px;
+	font-size: 16px;
 	padding: 0px 0 10px;
 		margin: 0;
 		color: $white;
@@ -152,14 +152,14 @@
 
 .og-details p {
 	font-weight: 400;
-	font-size: 16px;
+	font-size: 13px;
 	line-height: 22px;
 	color: $white;
 }
 
 .og-details a {
 	font-weight: 700;
-	font-size: 16px;
+	font-size: 13px;
 	color: #333;
 	text-transform: uppercase;
 	letter-spacing: 2px;
