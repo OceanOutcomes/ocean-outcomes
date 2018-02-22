@@ -19,9 +19,7 @@ Our fishery improvement projects work addresses the full range of major fishery 
 
 #####Basic and Comprehensive Fishery Improvement Projects:  
 
-----
-
-  * [Miyagi Onagawa Coho Salmon AIP] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/)
+  * [Miyagi Onagawa Coho Salmon AIP] (/jp/what-we-do/fishery-improvement-projects/miyagi-coho-salmon)
   * [Nachi Katsuura Albacore Longline FIP] (/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline/)
   * [Tokyo Bay Sea Perch FIP] (/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch/)
   * [Western Kamchatka Salmon FIP] (/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/)
@@ -29,8 +27,6 @@ Our fishery improvement projects work addresses the full range of major fishery 
 ----
 
 #####Our Fishery Improvement Project Work Includes:  
-
-----
 
   * Design, launch, and implementation of fishery improvement projects 
   * Conduct rapid assessments, pre-assessments, and full assessments
