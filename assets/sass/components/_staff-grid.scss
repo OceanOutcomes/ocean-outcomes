@@ -121,7 +121,7 @@
 	padding: 0;
 
 		@include media($medium-screen) {
-	  padding: 0 40px 0 20px;
+	  padding: 0 20px 0 10px;
 		}
 }
 
@@ -137,9 +137,9 @@
 
 }
 
-.og-details h3 {
+.og-details h5 {
 	font-weight: 300;
-	font-size: 16px;
+	font-size: 13px;
 	padding: 0px 0 10px;
 		margin: 0;
 		color: $white;
@@ -151,14 +151,14 @@
 }
 
 .og-details p {
-	font-weight: 400;
+	font-weight: 300;
 	font-size: 13px;
 	line-height: 22px;
 	color: $white;
 }
 
 .og-details a {
-	font-weight: 700;
+	font-weight: 400;
 	font-size: 13px;
 	color: #333;
 	text-transform: uppercase;
@@ -166,7 +166,7 @@
 	padding: 10px 20px;
 	border: 3px solid #333;
 	display: inline-block;
-	margin: 30px 0 0;
+	margin: 20px 0 0;
 	outline: none;
 }
 
