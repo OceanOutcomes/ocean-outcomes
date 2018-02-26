@@ -1,10 +1,10 @@
 ---
 layout: page
 weight: 4
-title: JP - Partners
+title: 協働企業・団体
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/past-initiatives-hover.jpg
-teaser-text: JP - To work towards more sustainable fisheries and aquaculture operations, we partner with pioneering Japanese seafood companies, international fisheries and aquaculture organizations, and leading non governmental organizations.
-subtitle: JP - Lasting change requires close collaboration with, and buy-in from, many stakeholders. Here are some of those we work most closely with.
+teaser-text: より多くの漁業や養殖漁業が持続可能になるよう活動するためには、先進的な水産企業、国際的な海洋環境組織、NGOとの連携・協働は必要不可欠です。
+subtitle: 問題解決には関係者との協働・連携が欠かせません。私たちが連携・協働する企業や団体・組織をご紹介します。
 permalink: /who-we-are/partners/
 ---
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/seiyu-partners.png"><h2>合同会社西友</h2>
