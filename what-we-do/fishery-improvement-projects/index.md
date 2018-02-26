@@ -17,8 +17,16 @@ teaser-text: Our hands-on partnership approach helps fisheries achieve meaningfu
 
 Our fishery improvement projects work addresses the full range of major fishery challenges contributing to the global fisheries crisis. These challenges include [Illegal, Unreported and Unregulated fishing (IUU)] (/initiatives/iuu/), overfishing, depletion of non-target stocks, habitat impacts, and management system issues such as inadequate monitoring. These issues represent serious risks to the sustainability and security of fisheries, food supplies, and human livelihoods.  
 
-[![Ocean Outcomes Fishery Improvement Projects]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/view+all+fishery+projects+banner.jpg)] (http://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch/)
+----
+
+#####Basic and Comprehensive Fishery Improvement Projects:  
+
+----
+
+  * [Miyagi Onagawa Coho Salmon AIP] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon)
+  * [Nachi Katsuura Albacore Longline FIP] (/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline/)
+  * [Tokyo Bay Sea Perch FIP] (/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch/)
+  * [Western Kamchatka Salmon FIP] (/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/)
 
 ----
 
