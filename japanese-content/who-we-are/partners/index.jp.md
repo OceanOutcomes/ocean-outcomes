@@ -33,11 +33,11 @@ WWFは「人類が自然と調和して生きられる未来」を理想とし�
 セイラーズフォーザシーは、2004年にロックフェラー&カンパニー会長のDavid Rockefeller, Jr.によって設立されたNGO団体で、マリンスポーツ愛好家の海洋自然保護に対する責任において、教育を通して地球環境を保全することを目的として活動しています。 米国ロードアイランド州ニューポートに本部を置き、日本・ポルトガルに支局を構え、会員は3万人を数えます。 活動は海洋自然保護、環境教育、海洋由来の食料確保への提言、ヨットレース時の環境保全基準値設定など、広範に及びます。また、世界最高峰のヨットレース「アメリカズカップ」の公式サステナビリティ・パートナーに選出されているほか、世界銀行の環境保護プログラムGlobal Partnership for Oceans「オーシャンズ」の公式スポンサーとなるなど、世界規模で海洋環境保護活動を応援しています。<a href="http://sailorsforthesea.jp/" target="_blank">www.sailorsforthesea.jp</a>
 
 ----
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/asc-partners.png"><h2>Aquaculture Stewardship Council (ASC)</h2>
+
+水産養殖管理協議会（ASC）は、WWF（世界自然保護基金）とIDH （オランダの持続可能な貿易を推進する団体）の支援のもと、2010年に設立された、独立した国際的な非営利団体です。 ASCの責任ある養殖水産物のための認証とラベリングの制度が世界をリードするものになることを目指しています。ASCの主たる役割は、WWFが主宰する円卓会議「アクアカルチャー・ダイアログ（水産養殖管理検討会）」により策定された、責任ある養殖に関する世界基準を管理することです。 ASCは、養殖業者、加工業者、小売業者や食品サービス業者、科学者、環境NGOおよび消費者と協力して、次のような取り組みを行っています。<a href="https://www.asc-aqua.org/ja/" target="_blank">www.asc-aqua.org/ja/</a>
+
+----
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/msc-partners.png"><h2>Marine Stewardship Council (MSC)</h2>
 
 MSCの認証プログラムは持続可能な漁業に恩恵をもたらします。MSCは、漁業、水産物取扱企業、学者、環境団体、そして広く一般の方々とともに、環境・資源に配慮して獲られた水産物の普及に努める世界的な組織です。<a href="https://www.msc.org/?set_language=ja" target="_blank">www.msc.org</a>
-
-----
-<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/asc-partners.png"><h2>Aquaculture Stewardship Council (ASC)</h2>
-
-The Aquaculture Stewardship Council is an independent, international non-profit organisation that manages the world’s leading certification and labelling programme for responsible aquaculture. <a href="https://www.asc-aqua.org/" target="_blank">www.asc-aqua.org</a>
