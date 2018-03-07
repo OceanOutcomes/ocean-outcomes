@@ -33,4 +33,4 @@ IUU（Illegal, Unreported, Unregulated）漁業を減少させた北東サハリ
 
 -----
 
-[<< Back to Success Stories] (/jp/what-we-do/success-stories/)
+[« 戻る] (/jp/what-we-do/success-stories/)
