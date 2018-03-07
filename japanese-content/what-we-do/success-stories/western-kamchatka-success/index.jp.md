@@ -67,4 +67,4 @@ FIPで最も緊密な業界との関係は企業の経営者たちとの関係�
 
 -----
 
-[<< Back to Success Stories] (/jp/what-we-do/success-stories/)
+[« 戻る] (/jp/what-we-do/success-stories/)
