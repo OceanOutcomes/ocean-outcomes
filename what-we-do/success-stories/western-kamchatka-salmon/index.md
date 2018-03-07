@@ -29,7 +29,7 @@ Ocean Outcomes launched the <a href="http://www.oceanoutcomes.org/what-we-do/fis
 
 The 2014 assessment was a critical first step, because a major obstacle to effective sustainability efforts was a lack of consistent data. During the Soviet era, the environmental health of Kamchatka’s salmon fishery was closely monitored. But as the Soviet Union collapsed, environmental science quickly lost funding, and data became rarer and much less reliable.
 
-The FIP’s assessment confirmed that the fishery had, on the whole, been well-managed. But a number of concerning indicators served as guideposts for the FIP’s work. Two that jumped out were the fishery’s lack of escapement goals and illegal fishing .
+The FIP’s assessment confirmed that the fishery had, on the whole, been well-managed. But a number of concerning indicators served as guideposts for the FIP’s work. Two that jumped out were the fishery’s lack of escapement goals and illegal fishing.
 
 “Escapement” is exactly what it sounds like – a measure of the number of salmon that escape fishing to reach their upriver spawning grounds. Below-target escapement is a sustainability risk for the most basic of reasons – it means there just aren’t enough fish returning to spawn to replace the ones caught by fishing operations. The assessment identified the need for the FIP to prioritize strengthening management to improve escapement goals. While the fishery-wide data was not concerning, river-specific escapement information was often unavailable. Because salmon return to the river where they were born to spawn, stocks are river-specific, so attention to each river’s specific escapement rates was essential to ensuring the fishery’s sustainability overall.
 
