@@ -26,7 +26,6 @@ https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photo
 
 IUU（Illegal, Unreported, Unregulated）漁業を減少させた北東サハリン島のカラフトマス漁業は、O2スタッフによる技術支援も手伝って、北東サハリン島カラフトマス漁業として[ＭＳＣ認証を受けました](http://www.msc.org/track-a-fishery/fisheries-in-the-program/certified/pacific/sakhalin_island_northheast_trap_net_pink_salmon/sakhalin_island_northheast_trap_net_pink_salmon)。このことは、当該漁業における持続可能性の証明、さらに地元漁業会社が取り扱う製品の付加価値向上がもたらされ、結果として新規ビジネスネットワークも構築されました。
 
-
 河川内での密漁の減少とそれに伴う商業漁業における説明責任の増加によって、北東サハリンにおけるカラフトマスの回帰率はプロジェクトによって劇的に増加し、現在でも安定したレベルに落ち着いています。この事は、近年、カラフトマスの回帰率が大幅に減少したサハリンの他地域と対照的な状況となっています。
 
 プロジェクトは現在も進行中ですが、北東サハリン島カラフトマス漁業における成功事例は、持続的な漁業を推進する事によって環境にもたらされる恩恵だけに留まらず、経済的利益の両方をプロジェクトの利害関係者にもたらすことができる事を証明しています。
