@@ -31,4 +31,4 @@ permalink: /what-we-do/success-stories/hokkaido-success/
 
 -----
 
-[<< Back to Success Stories] (/jp/what-we-do/success-stories/)
+[« 戻る] (/jp/what-we-do/success-stories/)
