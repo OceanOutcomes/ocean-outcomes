@@ -28,3 +28,7 @@ permalink: /what-we-do/success-stories/hokkaido-success/
 ![Dam Removal Comparisons] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/damremoval.jpg)
 
 これまでの進歩は称えられるべきですが、日本の野生魚の状況を改善するにはさらに多くの課題が残っています。北海道ぎょれんは最終的にMSCプログラムから撤退することになりましたが、現在は第三者機関の審査を通し信頼のおける漁業改善計画（FIP）の実施を検討しています。FIPはこの世界的にも重要な漁業の姿を世界に伝え、更なる改善に向けた次の段階の道筋を示すものになるはずです。
+
+-----
+
+[<< Back to Success Stories] (/jp/what-we-do/success-stories/)
