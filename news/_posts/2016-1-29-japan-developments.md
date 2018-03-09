@@ -15,6 +15,6 @@ However, wild fisheries in Japan have been in decline for years and local fishin
 
 * Our new report "<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/OceanOutcomesJapanOppReport.pdf" target="_blank">**Opportunities for Sustainable Fisheries in Japan**</a>" lays out the complexities of Japanese fisheries and offers practical recommendations to restore wild fisheries and coastal communities across the Japanese archipelago. Accompanying this report are eleven rapid assessments of priority fisheries ([**see the Japan fishery summaries here**] (/what-we-do/services/rapid-assessments/)) define the potential improvement and third party certification in Japan. 
 
-Next up for O2? We’ll be in Malta the SeaWeb Seafood Summit where we’re hosting four panels including one titled "<a href="http://www.seafoodsummit.org/session/nurturing-fishery-improvement-in-japan/" target="_blank">Nurturing Fishery Improvement in Japan</a>".
+Next up for O2? We’ll be in Malta the SeaWeb Seafood Summit where we’re hosting four panels including one titled "Nurturing Fishery Improvement in Japan".
 
 Hope to see you there!
