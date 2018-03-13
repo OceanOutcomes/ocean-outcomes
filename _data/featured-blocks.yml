@@ -45,11 +45,11 @@
 
 - featured: TRUE
   language: jp
-  heading: We're Hiring!
-  title: Do you care as much about sustainable fisheries as we do?
+  heading: JP - We're Hiring!
+  title: JP - Do you care as much about sustainable fisheries as we do?
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-hiring.jpg
   link:
-    link-text: Join our team
+    link-text: JP - Join our team
     link-url: /who-we-are/join-our-team/
   
 - featured: FALSE
