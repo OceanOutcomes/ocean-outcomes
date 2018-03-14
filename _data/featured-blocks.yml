@@ -34,7 +34,7 @@
     link-text: Get the latest
     link-url: http://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a
 
-- featured: TRUE
+- featured: FALSE
   language: jp
   heading: Ocean Outcomes ソーシャルメデイア
   title: O2のSNSで持続可能な水産業の最新情報をご確認ください。 
@@ -43,14 +43,14 @@
     link-text: ぜひフォローしてください！
     link-url: https://www.facebook.com/oceanoutcomes
 
-- featured: FALSE
-  language: en
-  heading: We're Hiring!
-  title: Do you care as much about sustainable fisheries as we do?
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japan-coordinator-hires-featured.jpg
+- featured: TRUE
+  language: jp
+  heading: 日本プログラムスタッフ募集中！
+  title: 持続可能な漁業や環境問題そしてサステナビリティに関心ありますか？
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-hiring.jpg
   link:
-    link-text: Learn more
-    link-url: who-we-are/join-our-team/
+    link-text: 詳細はこちら
+    link-url: https://ocean-outcomes.workable.com/jobs/681426
   
 - featured: FALSE
   language: ru
