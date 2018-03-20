@@ -4,7 +4,7 @@ title: 那智勝浦ビンチョウマグロ延縄FIP（Fishery Improvement Proje
 date: 2017-10-25
 teaser-text: 第78海王丸（大分船籍）、株式会社ヤマサ脇口水産、国際非営利機関オーシャン・アウトカムズはこの度、和歌山県那智勝浦町にて、「那智勝浦ビンチョウマグロ延縄FIP」を発足致しました。
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/nachi-katsuura-fip-launch-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 第78海王丸（大分船籍）、株式会社ヤマサ脇口水産、国際非営利機関オーシャン・アウトカムズはこの度、和歌山県那智勝浦町にて、「那智勝浦ビンチョウマグロ延縄FIP」を発足致しました。また、グローバルで持続可能な漁業の実現に注力する米ウォルマート・ストアーズ・インクの子会社である合同会社西友は、株式会社シーフードレガシーの紹介を得て、同プロジェクトの対象となるビンチョウマグロを、関東の約20店舗にて11月初旬より販売予定です。
 
