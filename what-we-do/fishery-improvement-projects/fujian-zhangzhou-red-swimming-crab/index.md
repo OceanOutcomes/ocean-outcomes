@@ -1,15 +1,15 @@
 ---
 layout: page 
-title: Fujian Zhangzhou Red Swimming Crab
+title: Fujian Zhangzhou Red Swimming Crab FIP
 landing-image:
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/placeholderhero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/fujian-zhangzhou-red-swimming-crab-hero.jpg
 subtitle:
 weight: 
 teaser-text:
 ---
 <h2>Overview</h2>
 
-China’s Fujian Province is the leading fishing region in China for red swimming crab (*Portunus haanii*). On an annual basis over 40,000 metric tons of red swimming crab (RSC) is caught here, most of which is processed in Zhangzhou. RSC is not only commercially important in China, but also supplies an important export market of crabmeat, much of which is imported by the United States in the form of canned crab. The Fujian Zhangzhou Red Swimming Crab FIP in Development, comprised of over 1000 bottom trawl and pot vessels, takes place on the Minnan-Taiwan Bank fishing grounds and is subject to a summer fishery closure common to all Chinese coastal areas. This closure attempts to protect stocks during during the RSC. However, the current lack of science based stock assessments, minimum harvestable size limit, and maximum sustainable yield (MSY) fishery management strategies represent a serious risk to the fishery as little is known about the actual stock status of these species. Since 2012, many processors have found that large crabs reaching processable size, those with a carapace width of 8 cm or greater, have been decreasing in numbers. It’s estimated undersized crabs might account for as high as 80% of harvest.
+China’s Fujian Province is the leading fishing region in China for red swimming crab (*Portunus haanii*). On an annual basis over 40,000 metric tons of red swimming crab (RSC) is caught here, most of which is processed in Zhangzhou. RSC is not only commercially important in China, but also supplies an important export market of crabmeat, much of which is imported by the United States in the form of canned crab. The Fujian Zhangzhou Red Swimming Crab FIP, comprised of over 1000 bottom trawl and pot vessels, takes place on the Minnan-Taiwan Bank fishing grounds and is subject to a summer fishery closure common to all Chinese coastal areas. This closure attempts to protect stocks during during the RSC. However, the current lack of science based stock assessments, minimum harvestable size limit, and maximum sustainable yield (MSY) fishery management strategies represent a serious risk to the fishery as little is known about the actual stock status of these species. Since 2012, many processors have found that large crabs reaching processable size, those with a carapace width of 8 cm or greater, have been decreasing in numbers. It’s estimated undersized crabs might account for as high as 80% of harvest.
 
 ---
 
@@ -32,7 +32,6 @@ China’s Fujian Province is the leading fishing region in China for red swimmin
 | Species: | Red swimming crab (*Portunus haanii*) |
 | Gear Type: | Bottom trawl and pot |
 | Volume: | ~40,000 mt - *The China Fisheries Statistics Yearbook indicates the annual crab harvest in Zhangzhou as 55,000 to 60,000 metric tons and an estimated 60-65% of these are red swimming crab putting the approximate harvest at 30,000-40,000 mt.* |
-| Documents: | <a href=" " target="_blank">Preassessment</a> / <a href=" " target="_blank">Workplan</a> |
 
 ---
 
