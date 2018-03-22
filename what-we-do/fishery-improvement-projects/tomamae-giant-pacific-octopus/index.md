@@ -2,22 +2,22 @@
 layout: page 
 title: Tomamae Giant Pacific Octopus FIP
 landing-image:
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/placeholderhero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/tomamae-giant-pacific-octopus-hero.jpg
 subtitle:
 weight: 
 teaser-text:
 ---
 <h2>Overview</h2>
 
-In Tomamae-cho, Hokkaido, about 40% of the total population is employed in the first industry, about 30% of which are fishing workers. As in the trends in Japan as a whole, reductions in catches, aging of fishermen and shortage of successors are the subjects. In this project, a sustainable fishery "Fisheries Improvement Project (commonly known as FIP)" which is mainstream in Europe and the United States is targeted for "Mizudako (barreling fishing)" where catch reduction can be seen * Sustainable fishery Aiming to recover resources by introducing a project aiming at improving fish prices and fishery incomes by "brandizing" marine products by sustainable fishing methods, developing restaurants using the fishery products and traditional "Mizudako" Experience of barrel sinking "We aim for the continuation of the sustainable fisheries community and regional creation through examination of tourism etc.
+In Tomamae-cho, Hokkaido, about 40% of the population of 3,200 is employed in the fishing industry. Of these, about 30% of which are fishermen (2010 census). As go the trends for Japan as a whole, the industry in Tomamae is in decline, experiencing a reduction in catches, an aging of the workforce, and a lack of new interest in the industry. The Tomamae Giant Pacific Octopus FIP aims to revitalize the regions fisheries by improving fishing practices through establishing science-based management plans, initially for the octopus fishery, but then for other key species caught in the region such as sea urchin and sea cucumber. In addition to environmental work, the Kita-Rumoi Fisheries Cooperative, which manages the fishery, wants to use the FIP as a vehicle to generate further interest and investment in the region’s fisheries.
 
 ---
 
 ##What We're Doing:
 
-* Facilitation of a preassessment of the East China Sea and Yellow Sea JFS trawl fisheries which identified environmental issues in the fishery and opportunities for improvement.
-* Conducted a one year monitoring project of JFS landings in Zhoushan Province to investigate harvest areas, species composition, and other related biological data.
-* Convening project stakeholders through squid industry roundtables, including the China Aquatic Products Processing and Marketing Alliance (CAPPMA) and Sea Farms Limited, to generate support, participation, and attention for more sustainable Chinese squid production in the East China Sea and Yellow Sea.
+* Convening fishery stakeholders to generate support, participation, and funding, including facilitating matching funds and in-kind contributions, for improvement efforts.
+* Conducted a rapid assessment of the fishery to identify priority environmental challenges, including a harvest strategy which without catch limits or harvest control rules, no clear knowledge of the stock status of the locally-caught flatfish used as bait, and little information on the fisheries impact on endangered, threatened, or protected species. 
+* Development of a FIP workplan to address the concerns found during the rapid assessment. The workplan includes plans to transition to more robust and routine stock assessments, understand and manage the bait species, and develop and implement a precautionary harvest strategy.
 
 ---
 
@@ -31,7 +31,7 @@ In Tomamae-cho, Hokkaido, about 40% of the total population is employed in the f
 | Participants: | Ocean Outcomes, |
 | Species: | North Pacific Giant Octopus (*Enteroctopus dofleini*) |
 | Gear Type: | Barrel flowing fishing (樽流し、tarunagashi) |
-| Volume: | 51 mt - *Based on the fishery catch data provided by the Kita-Rumoi fisheries coop, which manages the fishery, the average annual catch from 2010 to 2016 was 51 mt.* |
+| Volume: | 51 mt - *Based on the fishery catch data provided by the Kita-Rumoi Fisheries Cooperative, which manages the fishery, the average annual catch from 2010 to 2016 was 51 mt.* |
 
 ---
 
