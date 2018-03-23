@@ -2,7 +2,7 @@
 layout: page 
 title: East China Sea and Yellow Sea Squid FIP
 landing-image:
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/placeholderhero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/east-china-sea-and-yellow-sea-squid-hero.jpg
 subtitle:
 weight: 
 teaser-text:
