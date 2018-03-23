@@ -9,7 +9,7 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
-In Tomamae-cho, Hokkaido, about 40% of the population of 3,200 are employed in the fishing industry, 30% of which are fishermen (2010 census). As go the trends for Japan as a whole, the industry in Tomamae is in decline, experiencing a reduction in catches, an aging of the workforce, and a lack of new interest in the industry. The Tomamae Giant Pacific Octopus FIP aims to revitalize the regions fisheries by improving fishing practices through establishing science-based management plans, initially for the octopus fishery, but then for other key species caught in the region such as sea urchin and sea cucumber. In addition to environmental work, the Kita-Rumoi Fisheries Cooperative, which manages the fishery, wants to use the FIP as a vehicle to generate further interest and investment in the region’s fisheries.
+In Tomamae-cho, Hokkaido, about 40% of the population of 3,200 are employed in the fishing industry, 30% of which are fishermen (2010 census). As go the trends for Japan as a whole, the industry in Tomamae is in decline, experiencing a reduction in catches, an aging of the workforce, and a lack of new interest in the industry. The Tomamae Giant Pacific Octopus FIP aims to revitalize the regions fisheries by improving fishing practices through establishing science-based management plans for the octopus fishery, which is managed by the Kita-Rumoi Fisheries Cooperative. In addition to the environmental work, the group of barrel drift fishermen involved in the FIP want to use the project as a vehicle to generate further interest and investment in the region’s fisheries.
 
 ---
 
@@ -28,10 +28,10 @@ In Tomamae-cho, Hokkaido, about 40% of the population of 3,200 are employed in t
 | FIP Status: | Prospective FIP (<a href="">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | February 2018 |
 | Location: | Tomamae, Hokkaido, Japan |
-| Participants: | Ocean Outcomes, |
+| Participants: | Ocean Outcomes, a group of barrel flowing fishery at the Tomamae branch of Kita-Rumoi Fisheries Cooperative |
 | Species: | North Pacific Giant Octopus (*Enteroctopus dofleini*) |
 | Gear Type: | Barrel flowing fishing (樽流し、tarunagashi) |
-| Volume: | 51 mt - *Based on the fishery catch data provided by the Kita-Rumoi Fisheries Cooperative, which manages the fishery, the average annual catch from 2010 to 2016 was 51 mt.* |
+| Volume: | 51 mt - *Based on the fishery catch data provided by the Kita-Rumoi Fisheries Cooperative, which manages the fishery, the average annual catch from 2010 to 2016 in this region was 51 mt.* |
 
 ---
 
