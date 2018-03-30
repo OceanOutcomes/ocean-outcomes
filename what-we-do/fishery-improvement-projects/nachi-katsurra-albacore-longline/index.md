@@ -33,7 +33,7 @@ The Nachi Katsuura Albacore Longline FIP involves Kaiou Maru, an offshore longli
 | Species: | Albacore tuna (*Thunnus alalunga*) |
 | Gear Type: | Longline |
 | Volume: | 12,142 mt - *Based on the Western and Central Pacific Fisheries Commission (WCPFC) Tuna Fishery Yearbook, 227 Japanese longline vessels caught 12,142 mt of albacore tuna in 2015.* |
-| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/NachiKatsuuraAlbacoreLonglineTunaPreassessment2017.pdf" target="_blank">Preassessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/NachiKatsuuraAlbacoreLonglineTunaWorkplan2017.pdf" target="_blank">Workplan</a> |
+| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/NachiKatsuuraAlbacoreLonglineTunaPreassessment2017.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/NachiKatsuuraAlbacoreLonglineTunaWorkplan2017.pdf" target="_blank">Workplan</a> |
 
 ---
 
