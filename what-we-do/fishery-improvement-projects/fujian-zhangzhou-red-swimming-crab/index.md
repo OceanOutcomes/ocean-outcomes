@@ -16,7 +16,7 @@ China’s Fujian Province is the leading fishing region in China for a ‘red sw
 ##What We're Doing:
 
 * Working with government managers and other fishery stakeholders to fully launch a comprehensive FIP that will develop and test new science based catch management strategies, potentially as part of one of selected five Chinese national management system reform pilots.
-* Convening project stakeholders, including the National Fisheries Institute (NFI),China Aquatic Products Processing and Marketing Alliance (CAPPMA), local research Institute and local processors and producers through stakeholder workshops to review previously completed fishery assessments, discuss how to better monitor fishery bycatch, and transition to a science based maximum sustainable yield (MSY) management approach.
+* Convening project stakeholders, including the National Fisheries Institute (NFI), China Aquatic Products Processing and Marketing Alliance (CAPPMA), local research Institute, and local processors and producers through stakeholder workshops to review previously completed fishery assessments, discuss how to better monitor fishery bycatch, and transition to a science based maximum sustainable yield (MSY) management approach.
 * Developing an initial 5-year fishery improvement work plan by reviewing a gap analysis with local Chinese fishery scientists and fishery observers, based on the previously completed MSC pre-assessment, which will transition the fishery to more sustainable management. 
 
 ---
