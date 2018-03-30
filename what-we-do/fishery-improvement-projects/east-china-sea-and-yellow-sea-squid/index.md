@@ -9,16 +9,16 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
-By volume, China is the largest squid fishing and and processing country in the world. The East China Sea and Yellow Sea, fished by Korean, Japanese, and Chinese fishing vessels, is one of the world’s most significant squid fishing grounds. It’s there that Chinese trawl, gillnet, and hook and line vessels target *Todarodes pacificus*, or Japanese flying squid (JFS). JFS, are highly migratory, have a broad geographic distribution, and are native to both the open ocean and coastal regions of Northeast Asia. While there is great diversity and scope of JFS fisheries across Northeast Asia, the East China Sea and Yellow Sea Squid FIP is focused on improving Chinese JFS fisheries using midwater and bottom trawls in the East China Sea and Yellow Sea. The primary markets for this product are the European Union, Japan, and South Korea, although better supply chain analysis is needed to fully understand product flow and to elucidate any other squid species product mixing which might occur.
+By volume, China is the largest squid fishing and processing country in the world. The East China Sea and Yellow Sea, fished by Korean, Japanese, and Chinese fishing vessels, are significant squid fishing grounds. It’s there that Chinese trawl, purse seine, and gillnet vessels target *Todarodes pacificus*, or Japanese flying squid (JFS) together with other finfish species. JFS are highly migratory, having a broad geographic distribution and inhabiting both the open ocean and coastal regions of Northeast Asia. While there is great diversity and scope of JFS fisheries across Northeast Asia, the East China Sea and Yellow Sea Squid FIP will initially focus on improving Chinese JFS trawl fisheries operating within Chinese jurisdictions in the East China and Yellow Seas. The primary markets for this product are the European Union, US, Japan, and South Korea, although better supply chain analysis is needed to fully understand product flow and to elucidate any other squid species product mixing which might occur.
 
 ---
 
 ##What We're Doing:
 
-* Facilitation of a preassessment of the East China Sea and Yellow Sea JFS trawl fisheries which analyzed JFS squid export and import data, fishing practices, biological data, and management policies to determine environmental challenges and improvement needs in the fishery.
-* Conducted a one year monitoring project of JFS landings in Zhoushan Province to investigate harvest areas, species composition, and other related biological data.
-* Supporting the convening of project stakeholders through squid industry roundtables, including the China Aquatic Products Processing and Marketing Alliance (CAPPMA) and Sea Farms Limited, to generate support, participation, and attention for more sustainable Chinese squid production in the East China Sea and Yellow Sea.
-* Collecting harvest, fishery, and supply chain information first-hand from major JFS landing ports in Shandong Province through port surveys, processing plant inspections, and fishery interviews with fishing captains and government managers.
+* Completed a pre-assessment and scoping of the East China Sea and Yellow Sea JFS trawl fisheries, which analyzed JFS squid export and import data, fishing practices, biological data, and management policies to determine environmental challenges and improvement needs in the fishery.
+* Conducted a one-year monitoring project of JFS landings in Shandong and Zhejiang Provinces to investigate harvest areas, species composition, and other related biological data. Included port surveys, processing plant inspections, and fishery interviews with fishing captains and government managers.
+* Working to fully launch and implement a comprehensive FIP that will lead to fishery performance consistent with the MSC standard. Includes participation in squid industry roundtables and convening project specific planning sessions, including with the China Aquatic Products Processing and Marketing Alliance (CAPPMA), Sea Farms Ltd,. PanaPesca, and other potential partners to generate support, participation, and attention for more sustainable Chinese squid fisheries in the East China Sea and Yellow Sea.
+* Designing catch monitoring and vessel catch area verification approaches for application in the FIP’s implementation to improve fishery’s traceability.
 
 ---
 
@@ -29,9 +29,9 @@ By volume, China is the largest squid fishing and and processing country in the 
 | FIP Status: | Prospective FIP (<a href="">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | March 2018 |
 | Location: | East China Sea and Yellow Sea, China|
-| Participants: | Ocean Outcomes, Sea Farms Limited, PanaPesca, Sustainable Fisheries Partnership, China Aquatic Products Processing and Marketing Alliance (CAPPMA) |
+| Participants: | Ocean Outcomes, Sea Farms Ltd., PanaPesca, Sustainable Fisheries Partnership, China Aquatic Products Processing and Marketing Alliance (CAPPMA) |
 | Species: | Japanese flying squid (*Todarodes pacificus*) |
-| Gear Type: | Midwater and bottom trawl |
+| Gear Type: | Trawl |
 | Volume: | To be determined as project develops |
 
 ---
