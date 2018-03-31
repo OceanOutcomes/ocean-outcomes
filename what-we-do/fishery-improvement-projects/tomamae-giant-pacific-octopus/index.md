@@ -9,7 +9,7 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
-In Tomamae-cho, Hokkaido, about 10% of the population of 3,200 are employed in the fishing industry (2010 census). As go the trends for Japan as a whole, the fishing industry in Tomamae is in decline, experiencing a reduction in catches, an aging of the workforce, and a lack of new interest in the industry. The Tomamae Giant Pacific Octopus FIP aims to revitalize the region’s fisheries by improving sustainability of fishing practices through establishment of a science-based management plan for the octopus fishery, which is managed by the Kita-Rumoi Fisheries Cooperative along with refining stock evaluation. In addition to the environmental work, the group of barrel drift fishermen involved in the FIP want to use the project as a vehicle to generate further interest and investment in the region’s fisheries.
+In Tomamae-cho, Hokkaido, about 10% of the population of 3,200 are employed in the fishing industry (2010 census). As go the trends for Japan as a whole, the fishing industry in Tomamae is in decline, experiencing a reduction in catches, an aging of the workforce, and a lack of new interest in the industry. The Tomamae Giant Pacific Octopus FIP aims to revitalize the region’s fisheries by improving sustainability of fishing practices through the establishment of a science-based management plan for the octopus fishery, which is managed by the Kita-Rumoi Fisheries Cooperative. In addition to the environmental work, the group of barrel drift fishermen involved in the FIP want to use the project as a vehicle to generate further interest and investment in the region’s fisheries.
 
 ---
 
