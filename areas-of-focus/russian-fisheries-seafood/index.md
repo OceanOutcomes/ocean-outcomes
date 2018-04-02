@@ -25,6 +25,11 @@ The concentration of Russian fisheries and processing capacity in the RFE put it
 We conduct rapid assessments ([see the Russian fishery summaries here] (/what-we-do/services/rapid-assessments/)) of strategically important fishery species to better articulate the fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species. These assessments will help inform policy, management, funding, and the direction of sustainable seafood work across the globe.
 
 ---
+##Russian Fishery Improvement Projects:
+
+* [Western Kamchatka Salmon FIP] (/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/)
+
+---
 ##Stories from the Field: Russia
 
 * [Russian Fisheries Look to Corner a Piece of the Growing Sustainable Seafood Market] (/news/west-kam-certification/)
