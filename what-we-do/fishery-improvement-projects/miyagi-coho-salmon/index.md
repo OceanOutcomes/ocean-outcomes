@@ -31,7 +31,7 @@ The first project of its kind in Japan, the Miyagi Onagawa Coho Salmon Aquacultu
 | Species: | Coho salmon (*Oncorhynchus kisutch*) |
 | Gear Type: | aquaculture, open net pen |
 | Volume: | ~465 mt - *The farm reports annual production of about 130,000 coho salmon, or roughly 465 mt assuming each fish weighs about 3.6 kg (3.6 kg estimate taken from NOAA).* |
-| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonPreassessment2017.xlsx" target="_blank">Preassessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonAIPWorkplan2017.pdf" target="_blank">Workplan</a> |
+| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonPreassessment2017.xlsx" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonAIPWorkplan2017.pdf" target="_blank">Workplan</a> |
 
 ---
 

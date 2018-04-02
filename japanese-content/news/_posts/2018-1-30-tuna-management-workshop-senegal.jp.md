@@ -4,7 +4,7 @@ title:  第6回マグロ管理ワークショップの2日間にわたる実地�
 date: 2018-1-30
 teaser-text: 40人を超えるマグロの専門家がセネガルのダカールに集まり、ゲームやシミュレーション、講義を通じて持続可能なマグロ管理方策への理解を深める
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tuna-management-workshop-senegal.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###40人を超えるマグロの専門家がセネガルのダカールに集まり、ゲームやシミュレーション、講義を通じて持続可能なマグロ管理方策への理解を深める
 
