@@ -23,6 +23,14 @@ To learn more about the complex issues facing Japanese fisheries see our report 
 We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-we-do/services/rapid-assessments/)) of strategically important fishery species to better articulate the fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species. These assessments will help inform policy, management, funding, and the direction of sustainable seafood work across the globe.
 
 ---
+##Japanese Fishery Improvement Projects:
+
+* [Miyagi Onagawa Coho Salmon AIP] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/)
+* [Nachi Katsuura Albacore Longline FIP] (/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline/)
+* [Tokyo Bay Sea Perch FIP] (/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch/)
+* [Tomamae Giant Pacific Octopus FIP] (/what-we-do/fishery-improvement-projects/tomamae-giant-pacific-octopus/)
+
+---
 ##Stories from the Field: Japan
 
 * [Japan Looks to Improve Key Tuna Fisheries as Part of Blossoming Sustainable Seafood Movement] (/news/nachi-katsuura-albacore-fip-launch/)
