@@ -20,6 +20,12 @@ Despite the size of the Chinese seafood industry and the unique status seafood h
 Our work in China is focused around building a Chinese sustainable seafood movement, including increasing consumer and business awareness regarding the fisheries crisis and exploring solutions towards more sustainable practices with government and industry leaders. This includes demonstration level conservation projects in key ecoregions to protect important spawning grounds, piloting fishery and aquaculture improvement projects to instruct management policies, and engaging Chinese industry and other supply chain actors. Without a significant and concerted push for reform, it’s likely overfishing, irresponsible aquaculture, and habitat loss and degradation in China will continue.
 
 ---
+##Chinese Fishery Improvement Projects:
+
+* [East China Sea and Yellow Sea Squid FIP] (/what-we-do/fishery-improvement-projects/east-china-sea-and-yellow-sea-squid/)
+* [Fujian Zhangzhou Red Swimming Crab FIP] (/what-we-do/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/)
+
+---
 ##Stories from the Field: China
 
 * [O2 and CAPPMA Commit to a More Sustainable Future for Chinese Seafood Industry on World Oceans Day] (/news/agreement-with-CAPPMA-sustainable-seafood-china/)
