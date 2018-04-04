@@ -25,7 +25,7 @@ In Tomamae-cho, Hokkaido, about 10% of the population of 3,200 are employed in t
 
 |||
 | ---: | --- |
-| FIP Status: | Prospective FIP (<a href="">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Prospective FIP (<a href="https://fisheryprogress.org/fip-profile/prospective-japan-tomamae-giant-pacific-octopus-barrel-flowing">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | February 2018 |
 | Location: | Tomamae, Hokkaido, Japan |
 | Participants: | Ocean Outcomes, a group of barrel flowing fishermen at the Tomamae branch of Kita-Rumoi Fisheries Cooperative |
@@ -37,6 +37,6 @@ In Tomamae-cho, Hokkaido, about 10% of the population of 3,200 are employed in t
 
 [**For any recent news on this fishery project visit our blog.**] (/news/) 
 
-<a href=" " target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Tomamae Giant Pacific Octopus FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/prospective-japan-tomamae-giant-pacific-octopus-barrel-flowing" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Tomamae Giant Pacific Octopus FIP profile here.**</a>
 
 [**<< Back to O2 fishery improvement projects**] (/what-we-do/fishery-improvement-projects/)
