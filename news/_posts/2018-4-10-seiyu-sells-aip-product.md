@@ -27,4 +27,4 @@ Seiyu, a subsidiary of Walmart, hopes the sales will increase Japanese awareness
 
 ![Miyagi Onagawa Coho Salmon AIP]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/seiyu-to-support-miyagi-aquaculture-hero.jpg)
-*Miyagi Onagawa Coho Salmon AIP fishermen haul in coho salmon. © Ocean Outcomes*
+*Miyagi Onagawa Coho Salmon AIP fishermen haul in coho salmon. © Marukin Co., Ltd.*
