@@ -1,35 +1,30 @@
 ---
 layout: news
-title:  Miyagi Coho Salmon AIP Product Hits Japanese Supermarkets
+title: Miyagi Onagawa Coho Salmon AIP Product Hits Japanese Supermarkets
 date: 2018-4-10
-teaser-text: Teaser text
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-seiyu-progress-update.jpg
+teaser-text: Praised for its exceptional quality and its environmental ambitions, Miyagi Onagawa Coho Salmon is now available at over 50 Tokyo-area Seiyu GK retail stores.
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/seiyu-sells-miyagi-product-hero.jpg
 featured: TRUE
 ---
-###Praised for its exceptional quality and the fishery’s environmental ambitions, Tokyo Bay Sea Perch FIP *Shun-jime Suzuki* (sea perch) is now available at 20 Tokyo-area Seiyu GK retail stores.
+![Miyagi Onagawa Coho Salmon AIP Stakeholders]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/seiyu+sells+miyagi+product+logos.jpg)
 
-Seiyu, a subsidiary of Walmart, hopes the sales will increase Japanese awareness and recognition of fishery improvement and the need for more sustainable fishing practices. 
+###Praised for its exceptional quality and its environmental ambitions, Miyagi Onagawa Coho Salmon is now available at over 50 Tokyo-area Seiyu GK retail stores.
 
-[The first project of its kind in Japan, the Tokyo Bay Sea Perch FIP launched in the fall of 2016] (/news/tokyo-bay-fishery-improvement-launch/). Since then, project partners Ocean Outcomes, Kaiko Bussan, Seafood Legacy, and Seiyu have been working towards more sustainable fishing practices. This includes monitoring fishery bycatch, the daily collection of catch information to evaluate sea perch stock abundance, testing more transparent processing and packing methods, and scoping more collaborative, precautionary fishery management plans.
+Seiyu, a subsidiary of Walmart, hopes the sales will increase Japanese awareness and recognition of aquaculture improvement and the need for more sustainable fishing and fish farming practices.
 
-These steps towards more sustainable fishing practices are outlined and tracked in the FIP workplan which can be seen online at <a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">fisheryprogress.org</a>.
+[The first project of its kind in Japan, the Miyagi Onagawa Coho Salmon AIP launched in the fall of 2017] (/news/seiyu-to-support-miyagi-aquaculture-improvement/). Since then, project partners Ocean Outcomes, Fisherman Japan, Marukin Co., Ltd., Seafood Legacy, and Seiyu have been working towards more sustainable fish farming practices. This includes monitoring the farms impact on surrounding ecosystems, evaluating the sustainability of the feed used, and developing farm policies relating to social responsibility.
+
+[View the online profile for more information on the project, including a full pre-assessment and aquaculture improvement workplan] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/).
 
 ---
 
-**Photos from the FIP:**
+**Photos from the AIP:**
 
-![Tokyo Bay sea perch fishing]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+5.jpg)
-*Tokyo Bay Sea Perch FIP fishermen haul in sea perch. © Ocean Outcomes*
+![Miyagi Onagawa Coho Salmon AIP]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/miyagi-coho-salmon-hero.jpg)
+*Miyagi Onagawa Coho Salmon AIP fishermen haul in coho salmon. © Ocean Outcomes*
 
-![Tokyo Bay sea perch fishing]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+7.jpg)
-*Tokyo Bay Sea Perch FIP fishermen offload and process their catch. © Ocean Outcomes*
-
-![Tokyo Bay sea perch seafood for sale]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+6.jpg)
-*Tokyo Bay Sea Perch FIP product for sale at Seiyu stores. © Seiyu*
-
-![Tokyo Bay sea perch seafood for sale]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tokyo+bay+sea+perch+2.png)
-*Tokyo Bay Sea Perch FIP product for sale at Seiyu stores. © Seiyu*
+![Miyagi Onagawa Coho Salmon AIP]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/seiyu-to-support-miyagi-aquaculture-hero.jpg)
+*Miyagi Onagawa Coho Salmon AIP fishermen haul in coho salmon. © Ocean Outcomes*
