@@ -23,12 +23,12 @@ Seiyu, a subsidiary of Walmart, hopes the sales will increase Japanese awareness
 
 ![Miyagi Onagawa Coho Salmon AIP]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/miyagi-coho-salmon-hero.jpg)
-<p align="right">*© Ocean Outcomes*</p>
+*© Ocean Outcomes*
 
 ![Miyagi Onagawa Coho Salmon AIP]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/miyagi+coho+salmon+1.jpg)
-<p align="right">*© Ocean Outcomes*</p>
+*© Ocean Outcomes*
 
 ![Miyagi Onagawa Coho Salmon AIP]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/seiyu-to-support-miyagi-aquaculture-hero.jpg)
-<p align="right">*© Marukin Co., Ltd.*</p>*
+*© Marukin Co., Ltd.*
