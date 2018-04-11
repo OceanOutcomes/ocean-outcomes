@@ -2,7 +2,7 @@
 layout: news
 title: 日本初の養殖漁業改善プロジェクト「宮城女川銀鮭AIP」西友店舗で4月10 日（火）からAIP対象銀鮭の販売を開始
 date: 2018-04-10
-teaser-text: NEED A TEASER SENTENCE
+teaser-text: 日本初の養殖漁業改善プロジェクト『宮城女川・銀鮭AIP（Aquaculture Improvement Project）』の銀鮭を、西友が関東・東北エリアの主要58店舗にて旬の時期である4月10日（火）から夏頃まで販売決定！
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/seiyu-sells-miyagi-product-hero.jpg
 featured: TRUE
 ---
