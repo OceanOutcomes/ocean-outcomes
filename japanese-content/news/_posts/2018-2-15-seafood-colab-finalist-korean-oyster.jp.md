@@ -4,7 +4,7 @@ title: O2とGGGIからシーフード Co-Labへの提案－投票受付中！
 date: 2018-2-15
 teaser-text: 国際コンペティション・シーフード Co-Labは、水産業界がサステナビリティの課題に対する実用的で革新的な解決策を選出し、選定されたプロジェクトへの投資も行われます。
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/2018-seafood-colab-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###国際コンペティション・シーフード Co-Labは、水産業界がサステナビリティの課題に対する実用的で革新的な解決策を選出し、選定されたプロジェクトへの投資も行われます。
 
