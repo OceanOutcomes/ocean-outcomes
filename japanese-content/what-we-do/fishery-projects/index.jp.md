@@ -24,9 +24,12 @@ permalink: /what-we-do/fishery-projects
 
 ----
 
+  * [東シナ海および黄海・スルメイカFIP] (/jp/what-we-do/fishery-improvement-projects/east-china-sea-and-yellow-sea-squid)
+  * [福建省漳州ガザミ漁業FIP] (/jp/what-we-do/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab)
   * [宮城女川・銀鮭AIP] (/jp/what-we-do/fishery-improvement-projects/miyagi-coho-salmon)
   * [那智勝浦ビンチョウマグロ延縄FIP] (/jp/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline)
   * [東京湾スズキFIP] (/jp/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch)
+  * [北海道苫前樽流し漁・ミズダコ FIP] (/jp/what-we-do/fishery-improvement-projects/tomamae-giant-pacific-octopus)
   * [西部カムチャッカサケFIP] (/jp/what-we-do/fishery-improvement-projects/western-kamchatka-salmon)
 
 ----
