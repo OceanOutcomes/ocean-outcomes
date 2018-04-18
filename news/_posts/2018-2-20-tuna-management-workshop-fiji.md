@@ -4,7 +4,7 @@ title:  Experts Responsible for World’s Largest Tuna Fisheries Come Together t
 date: 2018-2-20
 teaser-text: Fishery managers from Western and Central Pacific Ocean states which collectively produce over half of the world’s tuna come together to further understanding of tuna management best practices.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tuna-management-workshop-fiji.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Fishery managers from Western and Central Pacific Ocean states which collectively produce over half of the world’s tuna come together to further understanding of tuna management best practices.
 
