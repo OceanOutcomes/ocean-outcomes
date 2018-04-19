@@ -60,6 +60,16 @@
   link:
     link-text: Learn more
     link-url: who-we-are/join-our-team/
+    
+      
+- featured: TRUE
+  language: ru
+  heading: Что такое ФИП?
+  title: ФИП - проект с участием нескольких заинтересованных сторон, направленный на улучшение благосостояния рыбного промысла.
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-enews.jpg
+  link:
+    link-text: Выучить больше
+    link-url: /ru/what-is-a-fip/
 
 - featured: FALSE
   language: ru

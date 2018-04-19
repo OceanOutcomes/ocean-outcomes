@@ -33,6 +33,7 @@ We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-w
 ---
 ##Stories from the Field: Japan
 
+* [Miyagi Onagawa Coho Salmon AIP Product Hits Japanese Supermarkets] (/news/seiyu-sells-aip-product/)
 * [Japan Looks to Improve Key Tuna Fisheries as Part of Blossoming Sustainable Seafood Movement] (/news/nachi-katsuura-albacore-fip-launch/)
 * [Seiyu to Support Japan's First Aquaculture Improvement Project] (/news/seiyu-to-support-miyagi-aquaculture-improvement/)
 * [Traditional Japanese Eel Festival Draws to a Close] (/news/unagi-seafood-festival-japan/)

@@ -41,9 +41,3 @@ We conduct rapid assessments ([see the Russian fishery summaries here] (/what-we
 * [Why the Sakhalin Salmon Fishery Left the MSC and What it Means for Sustainable Fisheries] (/news/sakhalin-salmon-fishery/)
 * [Record Catches and Increased Seafood Harvest in Russia] (/news/russia-record-catches/)
 * [West Kamchatka Salmon Fisheries Continue on Path to Sustainability] (/news/kamchatka-continues-improvement/)
-
----
-
-##Meet O2's Russia Expert
-
-<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/brianstaffphoto1.jpg" width="320" height="320">For 20 years, Brian has played an active role in promoting environmental initiatives and development of civil society in East Asia. As a founder of O2, he leads as Vice President for Engagement and Innovation, identifying and cultivating new, cross regional initiatives and anti-IUU efforts. Prior to O2, Brian spent a decade at the Wild Salmon Center as the Director of the Sustainable Fisheries and Markets Program. There he pioneered the fishery improvement model in the Russian Far East and rallied the market to enhance the legality and transparency of Russian fisheries. Brian has worked with Pacific Environment and the Monterey Bay Aquarium, as well as lived and worked full time at two overseas nature parks: Muraviovka Park for Sustainable Land Use in Russia and the Animal Refuge Kansai in Japan. He has a MA in International Environmental Policy from the Middlebury Institute of International Studies in Monterey, CA and a BA from Boston University. 
