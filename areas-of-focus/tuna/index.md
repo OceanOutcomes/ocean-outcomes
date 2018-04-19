@@ -25,6 +25,11 @@ A RFMO is an international body made up of countries that share a practical and/
 Despite these challenges, positive transformation of tuna management is gaining momentum, especially in the canned tuna fisheries (which primarily target skipjack and albacore tunas). This includes the adoption of improved management strategies through Harvest Control Rules, collaborative work through programs such as the United Nation Food and Agriculture Organization’s <a href="http://www.fao.org/in-action/commonoceans/en/" target="_blank">Areas Beyond National Jurisdiction program</a> which trains local tuna managers on best practices, and a growing consumer awareness regarding the critically endangered status of select tuna populations.
 
 ---
+##Tuna Fishery Improvement Projects:
+
+* [Nachi Katsuura Albacore Longline FIP] (/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline/)
+
+---
 ##Stories from the Field: Tuna
 
 * [Experts Responsible for World’s Largest Tuna Fisheries Come Together to Work Towards More Sustainable Management] (/news/tuna-management-workshop-fiji/)
