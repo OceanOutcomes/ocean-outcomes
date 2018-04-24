@@ -4,7 +4,7 @@ title:  より持続可能な管理を目指して世界最大のマグロ漁業
 date: 2018-2-20
 teaser-text: 世界のマグロの半分以上を生産する中西部太平洋地域の国々の漁業管理者が集まり、マグロ管理のベストプラクティスに関する理解を深める。
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tuna-management-workshop-fiji.jpg
-featured: TRUE
+featured: FALSE
 ---
 <h3>世界のマグロの半分以上を生産する中西部太平洋地域の国々の漁業管理者が集まり、マグロ管理のベストプラクティスに関する理解を深める。</h3>
 
