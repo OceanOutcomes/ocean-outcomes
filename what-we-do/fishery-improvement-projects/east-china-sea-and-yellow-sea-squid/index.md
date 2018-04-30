@@ -33,7 +33,6 @@ By volume, China is the largest squid fishing and processing country in the worl
 | Species: | Japanese flying squid (*Todarodes pacificus*) |
 | Gear Type: | Trawl |
 | Volume: | To be determined as project develops |
-| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/EastChinaAndYellowSeaJFSPreassessment2016.pdf" target="_blank">Pre-assessment</a> |
 
 ---
 
