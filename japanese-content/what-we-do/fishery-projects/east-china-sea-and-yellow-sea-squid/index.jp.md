@@ -34,7 +34,6 @@ permalink: /what-we-do/fishery-improvement-projects/east-china-sea-and-yellow-se
 | 対象種: | スルメイカ (*Todarodes pacificus*) |
 | 漁具の種類: | 底引き網 |
 | 生産量: | プロジェクトの進展に応じて将来決定 |
-| 文書: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/EastChinaAndYellowSeaJFSPreassessment2016.pdf" target="_blank">予備審査</a> |
 
 ---
 
