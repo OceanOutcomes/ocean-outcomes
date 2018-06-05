@@ -7,14 +7,11 @@ hero-image:
 teaser-text: An estimated 3 billion people worldwide depend on seafood as their primary source of protein. Seafood plays a vital role in food security, ocean health, and local economies. Here’s what you can do to get involved and support more sustainable fisheries.
 weight: 4
 ---
-
 ##Career and volunteer opportunities
 
 > **Current job openings:**  
 
 > <a href="https://ocean-outcomes.workable.com/jobs/681426" target="_blank">*Japan Program Manager 日本プログラム・マネジャー*</a> - Working closely with the Japan Program Director, the Japan Program Manager will be responsible for developing and managing Fishery Improvement Projects (FIPs) and Aquaculture Improvement Projects (AIPs), and supporting the implementation of improvement actions for the benefit of fisheries and fishing communities in Japan. The Japan Program Manager will conduct outreach and directly engage key stakeholders (e.g. commercial fishermen, local cooperatives and government) in Japan with the aim of developing FIPs and AIPs which reflect community-based solutions. Sound interesting? <a href="https://ocean-outcomes.workable.com/jobs/681426" target="_blank">**View full job description and apply**</a>.
-
-> <a href="https://ocean-outcomes.workable.com/j/A87053F369" target="_blank">*Business Development and Finance Associate*</a> - We're seeking a highly organized, resourceful and efficient Business Development and Finance Associate to provide support for O2’s administrative and financial activities, business development, and the establishment and maintenance of O2’s corporate entities and partnerships. In addition, this position provides logistical support for periodic events and meetings around the world. This is a full time position with potential for growth. Sound interesting? <a href="https://ocean-outcomes.workable.com/j/A87053F369" target="_blank">**View full job description and apply**</a>.
 
 Not your cup of tea? We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share.
 
@@ -30,6 +27,7 @@ As a small group with big goals working with fisheries across vast geographies a
 
  * <a href="https://www.linkedin.com/company/oceanoutcomes/" target="_blank">Connect with O2 on LinkedIn</a>
  * <a href="http://www.twitter.com/oceanoutcomes" target="_blank">Follow O2 on Twitter</a>
+ * <a href="https://www.facebook.com/oceanoutcomes" target="_blank">Ocean Outcomes ソーシャルメデイアぜひフォローしてください！</a>
 
 -----
 ##Be a sustainable seafood advocate
