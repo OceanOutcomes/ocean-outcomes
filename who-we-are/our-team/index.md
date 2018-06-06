@@ -1,8 +1,8 @@
 ---
 layout: our-team
 title: Our Team
-subtitle: With team members in Japan, China, Korea, England, Mexico, Spain, and the United States, we are a team of fishery and seafood market experts —  fishermen, scientists, entrepreneurs, and conservationists.
+subtitle: With team members in China, England, Japan, Korea, Mexico, Spain, and the United States, we are a team of fishery and seafood market experts —  fishermen, scientists, entrepreneurs, and conservationists.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-team-hover.jpg
-teaser-text: With team members in Japan, China, Korea, England, Mexico, Spain, and the United States, we are a team of fishery and seafood market experts — fishermen, scientists, entrepreneurs, and conservationists.
+teaser-text: With team members in China, England, Japan, Korea, Mexico, Spain, and the United States, we are a team of fishery and seafood market experts — fishermen, scientists, entrepreneurs, and conservationists.
 weight: 2
 ---
