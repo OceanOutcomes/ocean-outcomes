@@ -21,6 +21,14 @@
   image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/fenjiestaffphoto.jpg
   bio: |
     フェンジーは中国における漁業改善プロジェクトの実施と水産科学評価を指揮し、FIPおよびAIPの管理や漁業に関する調査研究の実施、およびモンテレーベイ水族館の依頼による東アジアの漁業に関する報告書の作成などを担当。過去には中国南部の海洋環境と漁業資源モニタリングセンター、および持続可能な漁業と水産養殖に取り組む中国の有力なNGOの1つであるチャイナブルーにも所属。さらに複数の国際NGOの中国での拠点作りを支援するとともに、世界銀行の依頼で現地の様々な海面漁業を審査するなど様々な業務を経験する。中国の漁業、漁業管理、海洋生態学に対する情熱を持ち、中国の上海海洋大学では学士号(理学)、日本の北海道大学では水産学の修士号を取得。北京語、英語、日本語に堪能で、余暇には観賞魚飼育、空手、スケートを楽しんでいる。
+    
+- name: ゼーリン・チェン
+  contractor: false
+  title: 中国プログラムインターン
+  email: 
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/zelinstaffphoto.jpg
+  bio: |
+    水産科学、資源管理および生物学を4年にわたり学んだゼーリンは、魚や漁業管理に情熱を燃やしている。ワシントン大学の海洋・環境政策学部の大学院生として、ゼーリンは持続可能な漁業や漁業資源評価、および小規模漁業の管理方策に学術的な関心を寄せる。大学院では多様な観点から漁業に接するための分析的および包括的思考を学ぶ。現在は、中国の沿岸カニ漁業およびその漁獲割当量に基づく漁業管理制度の策定をテーマとした卒業論文に取り組んでおり、その一環としてO2の中国における漁業改善プロジェクトの研究および分析を支援している。
 
 - name: ジョセリン・ドゥリューガン
   contractor: false
@@ -29,6 +37,22 @@
   image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/jocelynstaffphoto.jpg
   bio: |
     水産科学分野における14年以上の経験を活かし、ジョセリンは健全な魚の個体群と水生生態系の維持に情熱を注ぐ。イェール大学では生態学と進化生物学の学士を取得。ワシントン大学では、サケの集団遺伝学および進化生態学的動態に関する論文を執筆し、水産科学博士号を取得。卒業後はシアトルの米国海洋大気庁（NOAA）アラスカ水産学センターにおいて、博士研究員として底生魚の海洋景観遺伝学シミュレーションモデルを開発。O2では漁業審査および漁業改善計画の策定において科学的公正性を確保する業務を担当。2002年には、フルブライトフェローとして静岡県清水市においてマグロの刺身生産について学び、たくさんの寿司を食べる機会にも恵まれた。カリフォルニア州サンディエゴ出身で、北京語や日本語も話す。趣味は読書、ランニング、サッカー (およびフットサル)。
+
+- name: ルー·ファン
+  contractor: false
+  title: 日本インターン
+  email: 
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/lustaffphoto.jpg
+  bio: |
+    海洋に対する熱意を持ち、持続可能な漁業プロジェクトを探求し、海洋生態保護の取り組みを努力してきた。海洋管理協議会のボランティアとして、持続可能な水産物の理念を消費者に伝えた。さらに、モントレーベイ水族館で行われたBlue Pioneers Programに参加し、データベースと水産市場を統合し、持続可能な中国の漁業プロジェクトを提案した。そして、O2でインターンシップし、日本における漁業・養殖漁業改善プロジェクト（FIPs / AIPs）の実施を全力で支援した。2016年中国海洋大学学部を卒業した後、文部科学省の事業「海洋における日中韓高度専門職業人養成」に選べられて来日し、現在東京海洋大学の漁業資源解析学分野の修士2年生である。中国語、英語と日本語に堪能で、余暇に旅行や撮影を楽しんでいる。
+
+- name: Anna Gabis
+  contractor: false
+  title: Accountant
+  email: anna@oceanoutcomes.org
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/annastaffphoto.jpg
+  bio: |
+    Anna Gabis, CPA, provides accounting support for Ocean Outcomes. She began her accounting career with Primorsky Zavod in the Russian Far East, and has extensive experience in non-profit accounting, cash management, financial forecasting, budgeting and auditing having worked in senior accounting roles in a number of not-for-profit organizations, a CPA firm, and private companies. Anna holds a Bachelor of Science degree in accounting from Portland State University.
 
 - name: ディック・ジョーンズ
   contractor: false
@@ -78,6 +102,14 @@
   bio: |
     Hoyt has worked for more than 20 years to ensure that oceans and those who depend on them thrive. At O2, he is working to scale the sustainable seafood movement by developing collaborative approaches that accelerate improvement in fisheries and aquaculture. Hoyt founded—and now serves as Board President of—The SmartFish Group, a triple impact seafood enterprise that incentivizes responsible artisanal fishing in Mexico. A Visiting Fellow at Stanford’s Center for Ocean Solutions, a Pew Marine Conservation Fellow, and a member of the IUCN MTSG, he holds an AB in Biology and English from Bowdoin College, a PhD in Evolutionary Ecology from the University of California, Santa Cruz, and a Launching New Ventures certificate from Harvard University. Hoyt’s experience as a captain, diver, fisherman, cameraman, and seafood entrepreneur contribute to his successful development of community–based conservation solutions. Hoyt and his wife and two daughters divide their time between La Paz, Mexico and Madrid, Spain.
     
+- name: ファン・クィン
+  contractor: false
+  title: 中国漁業・水産養殖上級顧問
+  email: 
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/qingstaffphoto.jpg
+  bio: |
+    中国の持続可能な水産業に関する経験豊富なベテラン。中国水産流通加工協会（CAPPMA）在籍時は、EUが定めるIUU漁業規制の順守を確保し、合法で追跡可能な水産物製品のみがEUへ輸出されるよう努める。また中国農業部漁業局では、出向で中国の遠洋漁業の管理を支援するとともに、漁業や水産養殖に関して世界自然保護基金（WWF）および海洋管理協議会（MSC）の顧問を務めた。現在は青島道然環境科学技術有限公司において、水産養殖管理協議会（ASC）の中国における市場開発および養殖場への働きかけなどの取り組みを主導している。青島海洋大学で生態学の学位を取得。
+    
 - name: ダニエル・サダビィ
   contractor: false
   title: 戦略・評価担当副代表
@@ -93,35 +125,3 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/songlinstaffphoto.jpg
   bio: |
     経験豊富で熱心な環境保全のプロ。ネイチャー・コンサーバンシーや世界自然保護基 (WWF)、ポールソン・インスティチュートなどでキャリア経験を積み、多くの大規模な持続可能な漁業や水産養殖および湿地保全プロジェクトの計画、主導および調整に従事。ソンリンの尽力により、中国の漁業の一つが国内最初の海洋管理協議会（MSC）認証を取得し、2つの養殖場が中国初の水産養殖管理協議会（ASC）の認証を取得できる状況を整えた。さらに主要な国内外のNGOに対し沿岸および海洋の生物多様性保全問題に関する助言も行っている。中国海洋大学で海洋生態学者として研さんを積み、その後イェール大学で環境管理学を学んだソンリンは、政治的、市場的、科学的観点から環境保全の解決を模索することを得意とする。北京語と英語の両方に堪能で、余暇には読書、旅行、スポーツおよび淡水魚鑑賞を楽しんでいる。
-
-- name: ゼーリン・チェン
-  contractor: true
-  title: 中国プログラムインターン
-  email: 
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/zelinstaffphoto.jpg
-  bio: |
-    水産科学、資源管理および生物学を4年にわたり学んだゼーリンは、魚や漁業管理に情熱を燃やしている。ワシントン大学の海洋・環境政策学部の大学院生として、ゼーリンは持続可能な漁業や漁業資源評価、および小規模漁業の管理方策に学術的な関心を寄せる。大学院では多様な観点から漁業に接するための分析的および包括的思考を学ぶ。現在は、中国の沿岸カニ漁業およびその漁獲割当量に基づく漁業管理制度の策定をテーマとした卒業論文に取り組んでおり、その一環としてO2の中国における漁業改善プロジェクトの研究および分析を支援している。
-
-- name: ルー·ファン
-  contractor: true
-  title: 日本インターン
-  email: 
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/lustaffphoto.jpg
-  bio: |
-    海洋に対する熱意を持ち、持続可能な漁業プロジェクトを探求し、海洋生態保護の取り組みを努力してきた。海洋管理協議会のボランティアとして、持続可能な水産物の理念を消費者に伝えた。さらに、モントレーベイ水族館で行われたBlue Pioneers Programに参加し、データベースと水産市場を統合し、持続可能な中国の漁業プロジェクトを提案した。そして、O2でインターンシップし、日本における漁業・養殖漁業改善プロジェクト（FIPs / AIPs）の実施を全力で支援した。2016年中国海洋大学学部を卒業した後、文部科学省の事業「海洋における日中韓高度専門職業人養成」に選べられて来日し、現在東京海洋大学の漁業資源解析学分野の修士2年生である。中国語、英語と日本語に堪能で、余暇に旅行や撮影を楽しんでいる。
-
-- name: Anna Gabis
-  contractor: true
-  title: Accountant
-  email: 
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/annastaffphoto.jpg
-  bio: |
-    Anna Gabis, CPA, provides accounting support for Ocean Outcomes. She began her accounting career with Primorsky Zavod in the Russian Far East, and has extensive experience in non-profit accounting, cash management, financial forecasting, budgeting and auditing having worked in senior accounting roles in a number of not-for-profit organizations, a CPA firm, and private companies. Anna holds a Bachelor of Science degree in accounting from Portland State University.
-
-- name: ファン・クィン
-  contractor: true
-  title: 中国漁業・水産養殖上級顧問
-  email: 
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/qingstaffphoto.jpg
-  bio: |
-    中国の持続可能な水産業に関する経験豊富なベテラン。中国水産流通加工協会（CAPPMA）在籍時は、EUが定めるIUU漁業規制の順守を確保し、合法で追跡可能な水産物製品のみがEUへ輸出されるよう努める。また中国農業部漁業局では、出向で中国の遠洋漁業の管理を支援するとともに、漁業や水産養殖に関して世界自然保護基金（WWF）および海洋管理協議会（MSC）の顧問を務めた。現在は青島道然環境科学技術有限公司において、水産養殖管理協議会（ASC）の中国における市場開発および養殖場への働きかけなどの取り組みを主導している。青島海洋大学で生態学の学位を取得。
