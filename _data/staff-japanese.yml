@@ -94,13 +94,13 @@
   bio: |
     O2の韓国でのプログラムの策定および実施を担当するジェヒョンは、南極海域における海洋保護区（MPA）の設定から反IUU漁業活動の推進までその経験は多岐にわたる。南極南大洋連合やグリーンピース東アジア、WWFコリアなど数多くの組織において持続可能な漁業の推進活動を主導。さらに南極海の海洋保護区ネットワークに対する韓国の支援を広げ、韓国籍の遠洋漁船によるIUU漁業の実態を明らかにし報告するとともに、最近では韓国のIUU漁業規制を策定し、韓国産業の持続可能なマグロへの責任ある取り組みを醸成するなど、韓国での持続可能な漁業に関する数々の成果の立役者として評価されている。またこれらの経験を通じて、韓国政府高官や政治家、学術関係者、メディア、企業および市民社会との幅広いつながりを構築している。
  
-- name: Hoyt Peckham
+- name: ホイト・ペッカム
   contractor: false
-  title: Chief Operating Officer
+  title: 最高執行責任者
   email: hoyt@oceanoutcomes.org
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/hoytstaffphoto.jpg
   bio: |
-    Hoyt has worked for more than 20 years to ensure that oceans and those who depend on them thrive. At O2, he is working to scale the sustainable seafood movement by developing collaborative approaches that accelerate improvement in fisheries and aquaculture. Hoyt founded—and now serves as Board President of—The SmartFish Group, a triple impact seafood enterprise that incentivizes responsible artisanal fishing in Mexico. A Visiting Fellow at Stanford’s Center for Ocean Solutions, a Pew Marine Conservation Fellow, and a member of the IUCN MTSG, he holds an AB in Biology and English from Bowdoin College, a PhD in Evolutionary Ecology from the University of California, Santa Cruz, and a Launching New Ventures certificate from Harvard University. Hoyt’s experience as a captain, diver, fisherman, cameraman, and seafood entrepreneur contribute to his successful development of community–based conservation solutions. Hoyt and his wife and two daughters divide their time between La Paz, Mexico and Madrid, Spain.
+    20年以上にわたり海と海に依存する人々の繁栄のために活動してきたホイトは、O2では漁業および水産養殖の改善を加速させる協力的手法の開発を通じて、持続可能な水産物活動の拡大に取り組んでいる。またメキシコでは、環境、社会、経済面でインパクトを与え続ける水産企業であるスマートフィッシュ・グループを創設し（現在は代表理事）、伝統的な零細漁業に責任ある操業を奨励している。さらにスタンフォード海洋ソリューションセンターの客員研究員やピュー慈善財団の海洋保全研究員を務め、国際自然保護連合（IUCN）のウミガメ専門家グループのメンバーでもある。ボードウィン大学で生物学および英文学の学士号、カリフォルニア大学サンタクルーズ校で進化生態学博士号を取得し、ハーバード大学ではローンチング・ニュー・ベンチャーズ・プログラムを修了。船長やダイバー、漁業者、写真家および水産事業起業家としての経験は、コミュニティに根ざした対話による優れた解決策の策定に役立っている。妻と2人の娘と共にメキシコのラパスとスペインのマドリードを拠点として行き来する。
     
 - name: ファン・クィン
   contractor: false
@@ -109,7 +109,15 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/qingstaffphoto.jpg
   bio: |
     中国の持続可能な水産業に関する経験豊富なベテラン。中国水産流通加工協会（CAPPMA）在籍時は、EUが定めるIUU漁業規制の順守を確保し、合法で追跡可能な水産物製品のみがEUへ輸出されるよう努める。また中国農業部漁業局では、出向で中国の遠洋漁業の管理を支援するとともに、漁業や水産養殖に関して世界自然保護基金（WWF）および海洋管理協議会（MSC）の顧問を務めた。現在は青島道然環境科学技術有限公司において、水産養殖管理協議会（ASC）の中国における市場開発および養殖場への働きかけなどの取り組みを主導している。青島海洋大学で生態学の学位を取得。
-    
+   
+- name: Courtney J. Sakai
+  contractor: false
+  title: Vice President, Business Development
+  email: courtney@oceanoutcomes.org
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/courtneystaffphoto.jpg
+  bio: |
+    Courtney is an accomplished nonprofit and association executive, an award-winning PR and public affairs practitioner, and has demonstrated success formulating and leading large-scale, transformative policy initiatives. At O2, she is responsible for leading fundraising efforts, including initiating and expanding relationships with foundations, development agencies, and NGOs. Prior to O2, she spent 15 years at Oceana in senior-level management and program positions where she led numerous successful ocean and fisheries campaigns, including an international trade initiative on fishing subsidy reform that resulted in action by the World Trade Organization, Trans-Pacific Partnership, and United Nations. She has been a formal advisor to the U.S. Government on trade and environment; Vice President of the Coalition of Services Industries, and served on the staffs of California Governor Pete Wilson, including as Deputy Assistant Secretary in the California Resources Agency. She holds a B.A. in economics from Smith College and is a graduate of the California Executive Fellowship. 
+   
 - name: ダニエル・サダビィ
   contractor: false
   title: 戦略・評価担当副代表
@@ -125,3 +133,11 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/songlinstaffphoto.jpg
   bio: |
     経験豊富で熱心な環境保全のプロ。ネイチャー・コンサーバンシーや世界自然保護基 (WWF)、ポールソン・インスティチュートなどでキャリア経験を積み、多くの大規模な持続可能な漁業や水産養殖および湿地保全プロジェクトの計画、主導および調整に従事。ソンリンの尽力により、中国の漁業の一つが国内最初の海洋管理協議会（MSC）認証を取得し、2つの養殖場が中国初の水産養殖管理協議会（ASC）の認証を取得できる状況を整えた。さらに主要な国内外のNGOに対し沿岸および海洋の生物多様性保全問題に関する助言も行っている。中国海洋大学で海洋生態学者として研さんを積み、その後イェール大学で環境管理学を学んだソンリンは、政治的、市場的、科学的観点から環境保全の解決を模索することを得意とする。北京語と英語の両方に堪能で、余暇には読書、旅行、スポーツおよび淡水魚鑑賞を楽しんでいる。
+
+- name: Nicole Williams
+  contractor: false
+  title: Business Development and Finance Associate
+  email: nicole@oceanoutcomes.org
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/nicolestaffphoto.jpg
+  bio: |
+    Nicole provides support for O2’s administrative and financial activities, business development, and the establishment and maintenance of O2’s corporate entities and partnerships. Nicole brings seven years of experience with international wildlife conservation organizations, which included managing program finances and grants for Wildlife Conservation Society and Panthera. In addition, she is a successful entrepreneur and small business owner, having established two retail roller skate shops from the ground up. Nicole is a world renowned roller derby athlete and five time world champion who actively competes at the highest level of the sport. She previously volunteered with the national governing body and currently serves on the Board of Directors for USA Roller Derby. Nicole holds a B.Sc. from SUNY College of Environmental Science and Forestry. She enjoys traveling internationally, backpacking, cycling, and tending to her small urban farm.
