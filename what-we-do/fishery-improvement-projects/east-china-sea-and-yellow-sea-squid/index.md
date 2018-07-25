@@ -29,7 +29,7 @@ By volume, China is the largest squid fishing and processing country in the worl
 | FIP Status: | Prospective FIP (<a href="https://fisheryprogress.org/fip-profile/east-china-sea-and-yellow-sea-japanese-flying-squid-trawl">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | March 2018 |
 | Location: | East China Sea and Yellow Sea, China|
-| Participants: | Ocean Outcomes, Sea Farms Ltd., PanaPesca, China Aquatic Products Processing and Marketing Alliance (CAPPMA) |
+| Participants: | Ocean Outcomes, Sea Farms Ltd., PanaPesca, Aqua Star, Quirch Foods, China Aquatic Products Processing and Marketing Alliance (CAPPMA) |
 | Species: | Japanese flying squid (*Todarodes pacificus*) |
 | Gear Type: | Trawl |
 | Volume: | To be determined as project develops |
