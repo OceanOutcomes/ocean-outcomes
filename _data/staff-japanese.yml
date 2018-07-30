@@ -46,13 +46,13 @@
   bio: |
     海洋に対する熱意を持ち、持続可能な漁業プロジェクトを探求し、海洋生態保護の取り組みを努力してきた。海洋管理協議会のボランティアとして、持続可能な水産物の理念を消費者に伝えた。さらに、モントレーベイ水族館で行われたBlue Pioneers Programに参加し、データベースと水産市場を統合し、持続可能な中国の漁業プロジェクトを提案した。そして、O2でインターンシップし、日本における漁業・養殖漁業改善プロジェクト（FIPs / AIPs）の実施を全力で支援した。2016年中国海洋大学学部を卒業した後、文部科学省の事業「海洋における日中韓高度専門職業人養成」に選べられて来日し、現在東京海洋大学の漁業資源解析学分野の修士2年生である。中国語、英語と日本語に堪能で、余暇に旅行や撮影を楽しんでいる。
 
-- name: Anna Gabis
+- name: アンナ・ガビス
   contractor: false
-  title: Accountant
+  title: 経理担当
   email: anna@oceanoutcomes.org
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/annastaffphoto.jpg
   bio: |
-    Anna Gabis, CPA, provides accounting support for Ocean Outcomes. She began her accounting career with Primorsky Zavod in the Russian Far East, and has extensive experience in non-profit accounting, cash management, financial forecasting, budgeting and auditing having worked in senior accounting roles in a number of not-for-profit organizations, a CPA firm, and private companies. Anna holds a Bachelor of Science degree in accounting from Portland State University.
+    公認会計士としてO2を経理面からサポートするアンナは、ロシア極東地域のプリモルスキー・ザヴォート社から経理畑を歩み始め、その後数多くの非営利団体や会計事務所および民間企業において経理の上級職を務めるなど、非営利組織の経理からキャッシュ管理、財務予測、予算編成および監査まで幅広い経験を有する。ポートランド州立大学で会計学理学士号を取得。
 
 - name: ディック・ジョーンズ
   contractor: false
@@ -110,13 +110,13 @@
   bio: |
     中国の持続可能な水産業に関する経験豊富なベテラン。中国水産流通加工協会（CAPPMA）在籍時は、EUが定めるIUU漁業規制の順守を確保し、合法で追跡可能な水産物製品のみがEUへ輸出されるよう努める。また中国農業部漁業局では、出向で中国の遠洋漁業の管理を支援するとともに、漁業や水産養殖に関して世界自然保護基金（WWF）および海洋管理協議会（MSC）の顧問を務めた。現在は青島道然環境科学技術有限公司において、水産養殖管理協議会（ASC）の中国における市場開発および養殖場への働きかけなどの取り組みを主導している。青島海洋大学で生態学の学位を取得。
    
-- name: Courtney J. Sakai
+- name: コートニー・J・サカイ
   contractor: false
-  title: Vice President, Business Development
+  title: 事業開発担当副代表
   email: courtney@oceanoutcomes.org
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/courtneystaffphoto.jpg
   bio: |
-    Courtney is an accomplished nonprofit and association executive, an award-winning PR and public affairs practitioner, and has demonstrated success formulating and leading large-scale, transformative policy initiatives. At O2, she is responsible for leading fundraising efforts, including initiating and expanding relationships with foundations, development agencies, and NGOs. Prior to O2, she spent 15 years at Oceana in senior-level management and program positions where she led numerous successful ocean and fisheries campaigns, including an international trade initiative on fishing subsidy reform that resulted in action by the World Trade Organization, Trans-Pacific Partnership, and United Nations. She has been a formal advisor to the U.S. Government on trade and environment; Vice President of the Coalition of Services Industries, and served on the staffs of California Governor Pete Wilson, including as Deputy Assistant Secretary in the California Resources Agency. She holds a B.A. in economics from Smith College and is a graduate of the California Executive Fellowship. 
+    様々な非営利団体および協会の幹部として経験豊富なコートニーは、渉外および広報分野に精通し受賞歴もあり、大規模な変革政策の取り組みの策定、主導で成功を収めている。O2では様々な財団や開発事業団、およびNGOとの関係構築・拡大など、資金調達活動を主導する責務を負う。O2参画前はオーシャナ（Oceana）に在籍。15年にわたり上級管理職やプログラム担当職に就き、数多くの海洋および漁業に関するキャンペーン活動を成功に導く。漁業助成金改革に関する国際通商の取り組みでは、世界貿易機関（WTO）や環太平洋戦略的経済連携協定（TPP）および国連の行動に影響を与えた。また通商・環境分野における米国政府の公式顧問や、サービス産業連合（Coalition of Services Industries）の副総裁を歴任するとともに、カリフォルニア資源庁の副次官補を務めるなどカリフォルニア州ピート・ウィルソン知事のスタッフの一員として活躍。スミス大学で経済学の学士号を取得。カリフォルニア・エグゼクティブ・フェローシップ修了。
    
 - name: ダニエル・サダビィ
   contractor: false
@@ -134,10 +134,10 @@
   bio: |
     経験豊富で熱心な環境保全のプロ。ネイチャー・コンサーバンシーや世界自然保護基 (WWF)、ポールソン・インスティチュートなどでキャリア経験を積み、多くの大規模な持続可能な漁業や水産養殖および湿地保全プロジェクトの計画、主導および調整に従事。ソンリンの尽力により、中国の漁業の一つが国内最初の海洋管理協議会（MSC）認証を取得し、2つの養殖場が中国初の水産養殖管理協議会（ASC）の認証を取得できる状況を整えた。さらに主要な国内外のNGOに対し沿岸および海洋の生物多様性保全問題に関する助言も行っている。中国海洋大学で海洋生態学者として研さんを積み、その後イェール大学で環境管理学を学んだソンリンは、政治的、市場的、科学的観点から環境保全の解決を模索することを得意とする。北京語と英語の両方に堪能で、余暇には読書、旅行、スポーツおよび淡水魚鑑賞を楽しんでいる。
 
-- name: Nicole Williams
+- name: ニコール・ウィリアムズ
   contractor: false
-  title: Business Development and Finance Associate
+  title: 事業開発・財務担当アソシエイト
   email: nicole@oceanoutcomes.org
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/nicolestaffphoto.jpg
   bio: |
-    Nicole provides support for O2’s administrative and financial activities, business development, and the establishment and maintenance of O2’s corporate entities and partnerships. Nicole brings seven years of experience with international wildlife conservation organizations, which included managing program finances and grants for Wildlife Conservation Society and Panthera. In addition, she is a successful entrepreneur and small business owner, having established two retail roller skate shops from the ground up. Nicole is a world renowned roller derby athlete and five time world champion who actively competes at the highest level of the sport. She previously volunteered with the national governing body and currently serves on the Board of Directors for USA Roller Derby. Nicole holds a B.Sc. from SUNY College of Environmental Science and Forestry. She enjoys traveling internationally, backpacking, cycling, and tending to her small urban farm.
+    ニコールは様々な国際野生生物保護団体での7年にわたる経験を活かして、O2の運営・財務活動、事業開発、および法人格やパートナーシップの確立や構築および維持をサポートしている。野生生物保護協会（WCS）やパンテラ（Panthera）では、様々なプログラムの財務および助成金の管理を担当。さらに起業家として、ローラースケートの小売店2店舗をゼロから立ち上げ成功を収めた中小企業の経営者でもある。また、世界的に有名なローラーダービーの選手として世界チャンピオンに5度輝いており、最高レベルで積極的に競技に取り組んでいる。以前は国内のローラーダービー管理運営機関でボランティアとして活動し、現在はUSAローラーダービーの理事を務める。ニューヨーク州立大学環境科学林業学部で理学士号を取得。海外旅行やバックパック旅行、サイクリングを楽しむとともに、ささやかな都市農園を営んでいる。
