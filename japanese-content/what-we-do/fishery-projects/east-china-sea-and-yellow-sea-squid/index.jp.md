@@ -30,7 +30,7 @@ permalink: /what-we-do/fishery-improvement-projects/east-china-sea-and-yellow-se
 | FIP状況: | FIP策定・開始段階 (<a href="https://fisheryprogress.org/fip-profile/east-china-sea-and-yellow-sea-japanese-flying-squid-trawl" target="_blank">FisheryProgress.orgで完全追跡しています</a>) |
 | 開始時期: | 2018年3月 |
 | 場所: | 中国の東シナ海および黄海 |
-| 参加者: | オーシャン・アウトカムズ、シーファームズ、パナペスカおよび中国水産流通加工協会(CAPPMA) |
+| 参加者: | オーシャン・アウトカムズ、シーファームズ、アクアスター、クワーチフーズ、パナペスカおよび中国水産流通加工協会(CAPPMA) |
 | 対象種: | スルメイカ (*Todarodes pacificus*) |
 | 漁具の種類: | 底引き網 |
 | 生産量: | プロジェクトの進展に応じて将来決定 |
