@@ -4,7 +4,7 @@ title: Miyagi Onagawa Coho Salmon AIP Product Hits Japanese Supermarkets
 date: 2018-4-10
 teaser-text: Praised for its exceptional quality and its environmental ambitions, Miyagi Onagawa Coho Salmon is now available at over 50 Tokyo-area Seiyu GK retail stores.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/seiyu-sells-miyagi-product-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ![Miyagi Onagawa Coho Salmon AIP Stakeholders]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/seiyu+sells+miyagi+product+logos.jpg)
