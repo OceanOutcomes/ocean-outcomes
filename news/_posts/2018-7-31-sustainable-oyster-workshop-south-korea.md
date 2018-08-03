@@ -6,7 +6,7 @@ teaser-text: Since the 1960s, the Tongyeong region of South Korea has been an oy
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tongyeong-oyster-workshop-hero.jpg
 featured: TRUE
 ---
-###Stakeholders from South Korea’s largest oyster fishery, which produces 50,000 metric tons annually, come together for first-ever oyster improvement workshop to build consensus.
+###Since the 1960s, the Tongyeong region of South Korea has been an oyster producing mecca. And for the first time stakeholders are coming together to ensure it stays that way.
 
 On an annual basis some 50,000 metric tons of oysters are farmed here, both for domestic consumption and for export to the United States, Japan, Canada, and the European Union. Second only to China in terms of volume, South Korea produces roughly 260,000 metric tons of oysters annually, making the Tongyeong fishery a key component of South Korea’s vibrant oyster industry.
 
