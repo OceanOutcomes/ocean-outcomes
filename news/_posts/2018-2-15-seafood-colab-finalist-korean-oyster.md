@@ -17,7 +17,7 @@ The Seafood Co-Lab winner is selected by popular vote and gets $10,000 and advis
 ----
 ###Project background:
 
-South Korea is the second largest oyster producer globally, with a total of 260,000 tons produced annually, almost 80% of which comes from the Tongyeong region on the South Gyeongsang coast. 
+South Korea is the second largest oyster producer globally, with a total of 260,000 tons produced annually, almost 20% of which comes from the Tongyeong region on the South Gyeongsang coast. 
 
 The process of industrial oyster farming, however, can pollute the oceans. One study found microplastic (pieces smaller than 2mm) occurring in over 90% of sampled ocean sites in the region, including farming seas. We're working to develop and launch an Aquaculture Improvement Project in South Korea's Tongyeong region to address styrofoam (polystyrene) microplastic pollution resulting from breakdown of styrofoam buoys used in oyster farming. 
 
