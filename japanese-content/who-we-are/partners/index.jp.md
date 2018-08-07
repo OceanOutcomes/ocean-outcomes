@@ -41,3 +41,8 @@ WWFは「人類が自然と調和して生きられる未来」を理想とし�
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/msc-partners.png"><h2>Marine Stewardship Council (MSC)</h2>
 
 MSCの認証プログラムは持続可能な漁業に恩恵をもたらします。MSCは、漁業、水産物取扱企業、学者、環境団体、そして広く一般の方々とともに、環境・資源に配慮して獲られた水産物の普及に努める世界的な組織です。<a href="https://www.msc.org/?set_language=ja" target="_blank">www.msc.org</a>
+
+----
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/GGGI-partners.png"><h2>世界水産物持続可能性イニシアチブ(GSSI - Global Sustainable Seafood Initiative)</h2>
+
+GSSIグローバル・ベンチマーク・ツールは、厳格で透明性のあるプロセスを経た 水産物認証スキームを正式に承認する。同ツールはFAO(国際連合食糧農業機 関)が発行した「責任のある漁業のための行動規範」(Code of Conduct for Responsible Fisheries)と「水産物エコラベルのガイドライン」(Ecolabelling Guidelines)* に基づき、スキームのガバナンス、生産・流通・加工過程の管理 認証(以下:CoC認証)を含む運営管理、養殖業・漁業認証の基準などのパフ ォーマンス指標で構成されている。同ツールは環境NGO、水産関連企業、専門 家、政府、NGO等の多くのステークホルダーと3年間の月日をかけ、二度のパブリ ック。コンサルテーションとパイロット・テストを行い、立ち上げた。<a href="http://www.ourgssi.org" target="_blank">www.ourgssi.org</a>
