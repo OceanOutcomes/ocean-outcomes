@@ -38,6 +38,7 @@ Demand seafood, both fished and farmed, from sources which have minimal impact o
  * <a href="http://fairtradeusa.org/certification/producers/seafood" target="_blank">FairTrade</a>
  * <a href="http://www.fishchoice.com/" target="_blank">FishChoice</a>
  * <a href="https://www.fishwise.org" target="_blank">FishWise</a>
+ * <a href="http://www.ourgssi.org" target="_blank">Global Sustainable Seafood Initiative</a>
  * <a href="https://www.msc.org/" target="_blank">Marine Stewardship Council</a>
  * <a href="http://www.fishwatch.gov/" target="_blank">NOAA Fish Watch</a>
  * <a href="http://www.oceanwise.ca/seafood" target="_blank">Ocean Wise</a>
