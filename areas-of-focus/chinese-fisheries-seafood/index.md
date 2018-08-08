@@ -28,6 +28,7 @@ Our work in China is focused around building a Chinese sustainable seafood movem
 ---
 ##Stories from the Field: China
 
+* [Leading Seafood Industry Groups Launch First Sustainable Crab Project in China] (/news/national-fisheries-institute-O2-CAPPMA-O2-launch-crab-seafood-project-china/)
 * [Agreement Clears Way for Launch of China’s First Comprehensive Marine FIP] (/news/national-fisheries-institute-O2-CAPPMA-sign-mou/)
 * [O2 and CAPPMA Commit to a More Sustainable Future for Chinese Seafood Industry on World Oceans Day] (/news/agreement-with-CAPPMA-sustainable-seafood-china/)
 * [Expanding Capacity and Expertise in Policy, IUU, and China] (/news/iuu-china-policy-expansion-announcement/)
