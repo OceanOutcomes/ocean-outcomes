@@ -4,7 +4,7 @@ title:  Agreement Clears Way for Launch of China’s First Comprehensive Marine 
 date: 2018-4-18
 teaser-text: The National Fisheries Institute, China Aquatic Products Processing and Marketing Alliance, and Ocean Outcomes sign a Memorandum of Understanding for a Red Swimming Crab Fisheries Improvement Project (FIP) in China.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/fujian-zhangzhou-red-swimming-crab-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###MOU teams Industry, In-Country Association, and NGO
 
