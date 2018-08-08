@@ -32,6 +32,8 @@ With universal, transpacific support, the FIP has a unique funding model through
 
 >**“The crabs and sea have generously provided us with food and jobs, but we haven’t done enough to protect them,” added ZAPPMA President Mr. Zhenkui Chen, who witnessed the decline of the RSC fishing and seafood processing sectors, first as a fisherman and then as an entrepreneur. He is now calling on his fellow fishermen and seafood processors to “spare no effort to support the FIP for ourselves and our future generations.”**
 
+[Learn more about the Fujian Zhangzhou Red Swimming Crab Fisheries Improvement Project (FIP)] (/what-we-do/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/).
+
 ----
 
 **Additional Resources:**
