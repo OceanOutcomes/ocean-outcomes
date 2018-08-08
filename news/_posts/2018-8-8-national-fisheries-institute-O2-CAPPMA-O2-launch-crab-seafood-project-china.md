@@ -3,7 +3,7 @@ layout: news
 title: Leading Seafood Industry Groups Launch First Sustainable Crab Project in China
 date: 2018-8-8
 teaser-text: As China is home to 25% of the world’s commercial fishing capacity, China’s first crab improvement project, and the largest improvement project by volume in China, is a positive step towards more sustainable fishing practices globally.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/fujian-zhangzhou-red-swimming-crab-launch-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/fujian-zhangzhou-red-swimming-crab-launch-hero.jpg
 featured: TRUE
 ---
 ###Comprehensive project now underway to better manage and fish red swimming crab
@@ -14,7 +14,7 @@ The FIP–led by the National Fisheries Institute (NFI) Red Crab Council, China 
 
 >**“Crab from these fisheries are imported by our member companies and sold across the globe,” said NFI President, John Connelly, “so precompetitive sustainability projects, such as this FIP, are a way to ensure our Chinese partners, NFI members, and consumers have continued access to healthy red swimming crab resources.”**
 
-###China produces 35% of the world’s seafood (wild and farmed combined) and is home to 25% of the world’s commercial fishing capacity
+###China is home to 25% of the world’s commercial fishing capacity
 
 As China produces 35% of the world’s seafood (wild and farmed combined) and is home to 25% of the world’s commercial fishing capacity, China’s first crab improvement project, and the largest improvement project by volume in China, is a positive step towards more sustainable fishing practices globally.
 
