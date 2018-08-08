@@ -27,7 +27,7 @@ permalink: /what-we-do/fishery-improvement-projects/fujian-zhangzhou-red-swimmin
 
 |||
 | :--- | --- |
-| FIP状況: |  FIP策定・開始段階 (<a href="https://fisheryprogress.org/fip-profile/prospective-china-fujian-zhangzhou-red-swimming-crab-bottom-trawl-pottrap" target="_blank">FisheryProgress.org で完全追跡しています</a>) |
+| FIP状況: |  包括的 FIP (<a href="https://fisheryprogress.org/fip-profile/prospective-china-fujian-zhangzhou-red-swimming-crab-bottom-trawl-pottrap" target="_blank">FisheryProgress.org で完全追跡しています</a>) |
 | 開始時期: | 2016年7月1日 |
 | 場所: | 閩南・台灣堆、東シナ海と南シナ海の境にある台湾海峡の南に位置する |
 | 参加者: | 参加者: オーシャン・アウトカムズ、アメリカ全国漁業協会(NFI)、中国水産流通加工協会(CAPPMA)および漳州水産流通加工協会(ZAPPMA)。他の主要な関係者については参加交渉中。|
