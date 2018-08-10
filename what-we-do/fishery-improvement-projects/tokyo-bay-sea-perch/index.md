@@ -13,9 +13,9 @@ Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch 
 
 <link rel="stylesheet" href="image-gallery/dist/image-gallery.css">
 
-<div class="image-gallery" style="max-width: 800px">
-  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/yellow+photo+1.jpg">
-  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/blue+photo+1.jpg">
+<div class="image-gallery" style="max-width: 1000px">
+  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/yellow+photo+1.jpg" data-full-src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/yellow+photo+1+large.jpg>
+  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/blue+photo+1.jpg" data-dimensions="800,100">
   <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/green+photo+1.jpg">
   <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/red+photo+1.jpg">
 </div>
