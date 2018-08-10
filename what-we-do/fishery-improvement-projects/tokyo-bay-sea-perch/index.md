@@ -11,6 +11,30 @@ teaser-text:
 
 Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch (*Lateolabrax japonicus*), a historically and culturally important fish used for edomae sushi, the style of sushi created during the late Edo-period (late 19th century) that influenced the nigiri sushi that is common today. The fishery, which takes place year-round, has its peak season during the summer. A lack of maximum sustainable yield (MSY) based stock assessments and precautionary science-based fishery management strategies risks stock depletion. The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fishery, improve fish management practices, work to maintain overall sea perch stock abundance in Tokyo Bay, and distinguish the sea perch fishery in the growing sustainable seafood marketplace.
 
+<link rel="stylesheet" href="image-gallery/dist/image-gallery.css">
+
+<div class="image-gallery" style="max-width: 400px">
+  <img src="fixtures/1-small.jpg" data-full-src="fixtures/1-large.jpg">
+  <!--
+    data-full-src is optional
+  -->
+  <img src="fixtures/2-small.jpg">
+  <!--
+    may specify pre-computed dimensions
+    via data-dimensions="width,height"
+  -->
+  <img src="fixtures/3-small.jpg" data-dimensions="400,100" data-full-src="fixtures/3-large.jpg">
+</div>
+
+<script type="text/javascript">
+  var gallery = ImageGallery('.image-gallery', {
+    use: [
+      ImageGallery.LazyLoading,
+      ImageGallery.Responsive
+    ]
+  });
+</script>
+
 ---
 
 ##What We're Doing:
