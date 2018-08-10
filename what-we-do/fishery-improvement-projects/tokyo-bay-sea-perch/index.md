@@ -14,16 +14,16 @@ Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch 
 <link rel="stylesheet" href="image-gallery/dist/image-gallery.css">
 
 <div class="image-gallery" style="max-width: 400px">
-  <img src="fixtures/1-small.jpg" data-full-src="fixtures/1-large.jpg">
+  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg" data-full-src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg">
   <!--
     data-full-src is optional
   -->
-  <img src="fixtures/2-small.jpg">
+  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg">
   <!--
     may specify pre-computed dimensions
     via data-dimensions="width,height"
   -->
-  <img src="fixtures/3-small.jpg" data-dimensions="400,100" data-full-src="fixtures/3-large.jpg">
+  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg" data-dimensions="400,100" data-full-src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg">
 </div>
 
 <script type="text/javascript">
