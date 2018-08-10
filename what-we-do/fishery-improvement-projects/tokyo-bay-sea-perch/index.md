@@ -59,7 +59,7 @@ Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch 
 
 ##Fishery Improvement Project Information:
 
-![Tokyo Bay Sea Perch FIP Timeline] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/tokyo-bay-sea-perch-fip.png)
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 35%;"><iframe src="https://vizzlo.com/embed/perrybroderick/b9708847-00c3-4187-beb4-7cee39b61be8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:none; overflow:hidden;" allowTransparency="false" scrolling="no" frameborder="0"></iframe ></div>
 
 |||
 | ---: | --- |
