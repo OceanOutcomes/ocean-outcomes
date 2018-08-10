@@ -30,12 +30,14 @@ teaser-text:
 
 Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch (*Lateolabrax japonicus*), a historically and culturally important fish used for edomae sushi, the style of sushi created during the late Edo-period (late 19th century) that influenced the nigiri sushi that is common today. The fishery, which takes place year-round, has its peak season during the summer. A lack of maximum sustainable yield (MSY) based stock assessments and precautionary science-based fishery management strategies risks stock depletion. The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fishery, improve fish management practices, work to maintain overall sea perch stock abundance in Tokyo Bay, and distinguish the sea perch fishery in the growing sustainable seafood marketplace.
 
-**Key Conservation Concerns:**
+##Key Conservation Concerns:
 
 * Concern 1 listed here..
 * Concern 2 listed here..
 
 ---
+
+![Tokyo Bay Sea Perch FIP Timeline] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg)
 
 ##What We're Doing:
 
@@ -64,7 +66,8 @@ Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch 
 | Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/TokyoBayPreassessment2016.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/TokyoBayWorkplan2018.pdf" target="_blank">Workplan</a> |
 
 ----
-**Improvement Project News and Additional Resources**
+
+##Improvement Project News and Additional Resources
 
 * <a href="http://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/" target="_blank">Example link 1</a>
 * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">Example link 2</a>
