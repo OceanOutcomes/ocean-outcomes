@@ -37,7 +37,8 @@ Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch 
 
 ---
 
-![Tokyo Bay Sea Perch FIP Timeline] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg)
+![Tokyo Bay Sea Perch FIP] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg)
+*Explanation of image here.*
 
 ##What We're Doing:
 
@@ -48,11 +49,17 @@ Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch 
 
 ---
 
-![Tokyo Bay Sea Perch FIP Timeline] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/tokyo-bay-sea-perch-fip.png)
+##Improvement Project News and Additional Resources
+
+* <a href="http://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/" target="_blank">Example link 1</a>
+* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">Example link 2</a>
+* <a href="https://www.wildsalmoncenter.org/2012/09/04/asia-sockeye-msc/" target="_blank">Example link 3</a>
 
 ---
 
 ##Fishery Improvement Project Information:
+
+![Tokyo Bay Sea Perch FIP Timeline] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/tokyo-bay-sea-perch-fip.png)
 
 |||
 | ---: | --- |
@@ -64,14 +71,6 @@ Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch 
 | Gear Type: | mid-scale purse seine |
 | Volume: | 279 mt - *Based on catch data from the Funabashi Fisheries Cooperative, UoA sea perch harvests averaged 436 mt per year from 2003 to 2014, while client (Kaiko Bussan) harvests averaged 279 mt per year from 2007 to 2014. The client catch therefore represents about 64% of UoA catch. Data taken from pre-assessment report.* |
 | Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/TokyoBayPreassessment2016.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/TokyoBayWorkplan2018.pdf" target="_blank">Workplan</a> |
-
-----
-
-##Improvement Project News and Additional Resources
-
-* <a href="http://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/" target="_blank">Example link 1</a>
-* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">Example link 2</a>
-* <a href="https://www.wildsalmoncenter.org/2012/09/04/asia-sockeye-msc/" target="_blank">Example link 3</a>
 
 ----
 
