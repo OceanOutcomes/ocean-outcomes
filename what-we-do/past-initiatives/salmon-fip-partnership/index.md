@@ -25,4 +25,4 @@ We agree to collectively:
 
 ---
 
-This pan-Pacific partnership stewarded a number of regional Fishery Improvement Projects (FIPs) in Russia to address serious sustainability challenges, including overfishing, poaching, bycatch and hatchery impacts. 
+This pan-Pacific partnership stewarded a number of regional [Fishery Improvement Projects (FIPs) in Russia] (/what-we-do/fishery-improvement-projects/) to address serious sustainability challenges, including overfishing, poaching, bycatch and hatchery impacts. 
