@@ -13,6 +13,4 @@ The platform tracked Pacific salmon fisheries across the globe, providing stakeh
 
 **With the recent launch of <a href="http://fisheryprogress.org/" target="_blank">Fisheryprogress.org</a>, a one-stop shop for information on the progress of global fishery improvement projects, we’ve decommissioned our Salmon FIP Tracker.**
 
-Fisheryprogress.org is a collaboration of the <a href="http://www.solutionsforseafood.org/" target="_blank">Conservation Alliance for Seafood Solutions</a> and the platform has near-ubiquitous buy-in across industry, NGOs, and others working in fishery improvement. As a member of the Conservation Alliance for Seafood Solutions, we’re now tracking our projects on Fisheryprogress.org. 
-
-There is still a lot of detailed information on salmon fisheries worth exploring, <a href="http://www.salmonfippartnership.org/fip" target="_blank">so we’re leaving our Salmon FIP Tracker online</a>, but it’s no longer actively maintained.
+Fisheryprogress.org is a collaboration of the <a href="http://www.solutionsforseafood.org/" target="_blank">Conservation Alliance for Seafood Solutions</a> and the platform has near-ubiquitous buy-in across industry, NGOs, and others working in fishery improvement. As a member of the Conservation Alliance for Seafood Solutions, we’re now tracking our projects on Fisheryprogress.org.
