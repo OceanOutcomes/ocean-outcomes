@@ -15,8 +15,6 @@ A collaborative industry-based initiative of Ocean Outcomes and leading seafood 
 
 ##Guiding Principles
 
-We agree to collectively:  
-
 * Support a model of continuous improvement in wild salmon fisheries globally. 
 * Engage our supply chain in discussion and actions around such continuous improvement. 
 * Publicly state our goals for supporting sustainable salmon fisheries globally and monitor and measure our progress towards our goal. 
