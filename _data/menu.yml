@@ -2,15 +2,11 @@ und:
   - title: Make a Donation
     url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M6GDSMR3CKSWJ
 
-ru:
-  - title: "Трекер ФИП"
-    url: "http://salmonfippartnership.org/ru/fip"
-    external: 'true'
-
   #  - title: What We Do
   #    children:
   #      - title: "Child link"
   #        url: "http://www.oceanoutcomes.com"
+  #        external: 'true'
   #      - title: "Child link"
   #        url: "http://www.oceanoutcomes.com"
   #      - title: "Child link"
@@ -41,3 +37,5 @@ ru:
 jp:
 
 zh:
+
+ru:
