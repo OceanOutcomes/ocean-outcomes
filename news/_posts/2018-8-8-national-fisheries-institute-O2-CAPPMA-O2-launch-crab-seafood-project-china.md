@@ -10,7 +10,7 @@ featured: TRUE
 
 **August 8, 2018 Dongshan, Fujian Province, China** – Leading United States and Chinese seafood industry groups, fishermen, and sustainable seafood groups came together today to celebrate the much anticipated launch of the [Fujian Zhangzhou Red Swimming Crab Fisheries Improvement Project (FIP)] (/what-we-do/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/).
 
-The FIP–led by the National Fisheries Institute (NFI) Red Crab Council, China Aquatic Products Processing and Marketing Alliance (CAPPMA), Zhangzhou Aquatic Products Processing and Marketing Association (ZAPPMA), and Ocean Outcomes (O2)– is the first project of its kind in China and will work to address the sustainability challenges of the region’s red swimming crab (RSC) fisheries, whose 1,000 plus trawl and pot vessels catch approximately 40,000 metric tons of red swimming crab annually.
+The FIP–led by the National Fisheries Institute (NFI) Red Crab Council, China Aquatic Products Processing and Marketing Alliance (CAPPMA), Zhangzhou Aquatic Products Processing and Marketing Association (ZAPPMA), and Ocean Outcomes (O2)–is the first project of its kind in China and will work to address the sustainability challenges of the region’s red swimming crab (RSC) fisheries, whose 1,000 plus trawl and pot vessels catch approximately 40,000 metric tons of red swimming crab annually.
 
 **“Crab from these fisheries are imported by our member companies and sold across the globe,” said NFI President, John Connelly, “so precompetitive sustainability projects, such as this FIP, are a way to ensure our Chinese partners, NFI members, and consumers have continued access to healthy red swimming crab resources.”**
 
