@@ -12,7 +12,7 @@ featured: TRUE
 
 NFIガザミ委員会の創設メンバーは、アジアン・パシフィック・シーフード、バンブル・ビー・シーフード、キャリントン・フーズ、チキン・オブ・ザ・シー・フローズン・フーズ、ニューポート・インターナショナル、ステイビス・シーフード、スプリーム・クラブ&シーフード、およびツイン・テールズ・シーフード・コーポレーションです。
 
-本FIPはアメリカ全国漁業協会（NFI）ガザミ委員会、中国水産流通加工協会（CAPPMA）、漳州水産流通加工協会（ZAPPMA）およびオーシャン・アウトカムズ（O2）が主導する中国初の漁業改善プロジェクトで、対象地域のガザミ（RSC）漁業が直面する持続可能性に関する課題に取り組みます。本漁業は1000艘以上の底曳きおよび籠漁船により年間約40,000トンのガザミを漁獲しています。
+本FIPはアメリカ全国漁業協会（NFI）ガザミ委員会、中国水産流通加工協会（CAPPMA）、漳州水産流通加工協会（ZAPPMA）およびオーシャン・アウトカムズ（O2）が主導する中国初のカニ漁業改善プロジェクトで、対象地域のガザミ（RSC）漁業が直面する持続可能性に関する課題に取り組みます。本漁業は1000艘以上の底曳きおよび籠漁船により年間約40,000トンのガザミを漁獲しています。
 
 ジョン・コネリーNFI代表  
 
@@ -43,4 +43,4 @@ NFIガザミ委員会の創設メンバーは、アジアン・パシフィッ�
 
 **追加情報：**
 
-[この発表のPDF版をダウンロードする] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/NFI+O2+CAPPMA+MoU+Announcement+4-18-18+Japanese.pdf)
+[この発表のPDF版をダウンロードする] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/NFI+O2+CAPPMA+RSC+FIP+Launch+Announcement+FINAL+JAPANESE+August+2018.pdf)
