@@ -4,7 +4,7 @@ title:  中国初の漁業改善プロジェクトへの合意・発足へ
 date: 2018-4-18
 teaser-text: 国立漁業研究所 (NFI) ガザミ委員会 、中国水産加工流通協会 (CAPPMA)およびオーシャン・アウトカムズ (O2) は中国におけるガザミ漁業改善プロジェクト(FIP) の立ち上げおよび実施に向けた覚書に署名しました。
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/fujian-zhangzhou-red-swimming-crab-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###覚書締結で水産業界、国内機関およびNGOがひとつに
 
