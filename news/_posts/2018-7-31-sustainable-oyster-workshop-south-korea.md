@@ -4,7 +4,7 @@ title: World’s Second Largest Oyster Producer Working Towards More Sustainable
 date: 2018-7-31
 teaser-text: Since the 1960s, the Tongyeong region of South Korea has been an oyster producing mecca. And for the first time, stakeholders are coming together to ensure it stays that way.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tongyeong-oyster-workshop-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Since the 1960s, the Tongyeong region of South Korea has been an oyster producing mecca. And for the first time, stakeholders are coming together to ensure it stays that way.
 
