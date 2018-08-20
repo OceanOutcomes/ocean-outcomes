@@ -24,4 +24,4 @@ Over the past 20 years, market-based sustainable seafood solutions have been suc
 
 These include ensuring the movement is effective and relevant for producers of all types and sizes; scaling at a rate to adequately address the major ocean conservation concerns of our time; and, working to not just generate environmental benefits, but also to address the social and financial issues prevalent in many of the world’s fisheries.
 
-With Hoyt, Courtney, and Nicole now working for Ocean Outcomes, we’re assembling a team to lead a worldwide movement to create a network of sustainable seafood enterprises which ensures environmental, economic, and social performance.
+With Hoyt, Courtney, and Nicole now working for Ocean Outcomes, [we’re assembling a team to lead a worldwide movement] (/who-we-are/our-team/) to create a network of sustainable seafood enterprises which ensures environmental, economic, and social performance.
