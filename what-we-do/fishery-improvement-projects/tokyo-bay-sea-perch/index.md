@@ -38,14 +38,15 @@ The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fi
 
 ##Key Conservation Concerns:
 
-<img align="right" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/sea-perch-industry-decline-graph.png" width="300" height="161" style="margin:20px">
+<img align="right" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/sea-perch-industry-decline-graph.png" width="500" height="268" style="margin:20px">
+
+<img align="right" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/sea-perch-production-value-graph.png" width="500" height="268" style="margin:20px">
 
 * While sea perch catch in Chiba Prefecture has averaged around 2,000 metric tons annually in the last 20 years, the value of sea perch production declined significantly between 2006 and 2009 and hasn’t recovered (<a href="http://www.maff.go.jp/j/tokei/kouhyou/gyogyou_seigaku/index.html" target="_blank">Data from MAFF</a>). 
 * The number of people involved in the fishery is in decline, from almost 12,000 in 1993 to under 5,000 in 2013 (<a href="https://www.pref.chiba.lg.jp/gyoshigen/sigenhyoka/index.html" target="_blank">graph from Chiba Prefecture government</a>).
 * Water quality and pollution are potentially adversely impacting sea perch resources as over 80% of the Tokyo Bay coastline has been developed for industrial and urban uses.
 * A lack of a comprehensive fishery management plan and science based management objectives risk overfishing and stock depletion; little scientific evidence exists to support sea perch stock status and inform fishing practices. 
 
-<img align="right" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/sea-perch-production-value-graph.png" width="300" height="161" style="margin:20px">
 ---
 
 ##What We're Doing:
