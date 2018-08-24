@@ -13,8 +13,8 @@ teaser-text:
 <div class="image-gallery" style="max-width: 1000px">
   <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/tokyo-bay-fip-profile-top.jpg">
   <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/tokyo-bay-fip-profile-bottom.jpg">
+  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/tokyo-bay-fip-profile-square-2.jpg">
   <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/tokyo-bay-fip-profile-square-1.jpg">
-  <img src="ttps://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/tokyo-bay-fip-profile-square-2.jpg">
 </div>
 
 <script type="text/javascript">
@@ -37,6 +37,9 @@ Purse seine vessels which are participants of the Tokyo Bay Sea Perch FIP are si
 The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fishery, its effects and sea perch stocks, improve fish management practices, work to maintain overall sea perch stock abundance in Tokyo Bay, and distinguish the sea perch fishery in the growing sustainable seafood marketplace.
 
 ##Key Conservation Concerns:
+
+<img align="right" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/sea-perch-industry-decline-graph.png" width="300" height="161" style="margin:20px">
+<img align="right" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/sea-perch-production-value-graph.png" width="300" height="161" style="margin:20px">
 
 * While sea perch catch in Chiba Prefecture has averaged around 2,000 metric tons annually in the last 20 years, the value of sea perch production declined significantly between 2006 and 2009 and hasn’t recovered. 
 * The number of people involved in the fishery is in decline, from almost 12,000 in 1993 to under 5,000 in 2013.
