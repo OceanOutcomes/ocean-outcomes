@@ -11,10 +11,10 @@ teaser-text:
 <link rel="stylesheet" href="image-gallery/dist/image-gallery.css">
 
 <div class="image-gallery" style="max-width: 1000px">
-  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/yellow+photo+1.jpg">
-  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/blue+photo+1.jpg">
-  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/red+photo+1.jpg" data-dimensions="500,500" data-full-src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/red+photo+1+large.jpg">
-  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/green+photo+1.jpg" data-full-src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/green+photo+1+large.jpg" data-dimensions="500,500">
+  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/tokyo-bay-fip-profile-top.jpg">
+  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/tokyo-bay-fip-profile-bottom.jpg">
+  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/tokyo-bay-fip-profile-square-1.jpg">
+  <img src="ttps://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/tokyo-bay-fip-profile-square-2.jpg">
 </div>
 
 <script type="text/javascript">
@@ -28,32 +28,44 @@ teaser-text:
 
 <h2>Overview</h2>
 
-Tokyo Bay is one of the leading fishing regions in Japan for Japanese sea perch (*Lateolabrax japonicus*), a historically and culturally important fish used for edomae sushi, the style of sushi created during the late Edo-period (late 19th century) that influenced the nigiri sushi that is common today. The fishery, which takes place year-round, has its peak season during the summer. A lack of maximum sustainable yield (MSY) based stock assessments and precautionary science-based fishery management strategies risks stock depletion. The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fishery, improve fish management practices, work to maintain overall sea perch stock abundance in Tokyo Bay, and distinguish the sea perch fishery in the growing sustainable seafood marketplace.
+Tokyo Bay is one of the leading commercial and recreational fishing regions in Japan for Japanese sea perch (*Lateolabrax japonicus*), a historically and culturally important fish used for edomae sushi, the style of sushi created during the late Edo-period (late 19th century) that influenced the nigiri sushi that is common today. 
+
+While archaeological sites show that species such as sea perch were consumed in the Tokyo Bay region as far back as 300 BC, commercial sea perch fishing in Tokyo Bay expanded during the Edo Period (1600-1850s) with new technology, gear, and techniques to match a growing demand. Present day commercial fishing is permitted by the Chiba Prefecture government and 60-70% of the sea perch purse seine vessels fishing in Tokyo Bay are managed by the Funabashi Fisheries Cooperative. While fishing is permitted year-round, peak season is during the summer. 
+
+Purse seine vessels which are participants of the Tokyo Bay Sea Perch FIP are significant players in the region’s industry and account for 10-15% of the total Chiba Prefecture sea perch catch. These fishermen, led by FIP client company Kaiko Bussan, abide by voluntary practices including setting non-fishing days, limiting soak times, and generally forgoing winter fishing seasons. However, prefecture-wide science-based fishery management plans are lacking which risk overfishing and stock depletion. These include a lack of maximum sustainable yield (MSY) based stock assessments and precautionary science-based fishery management strategies. 
+
+The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fishery, its effects and sea perch stocks, improve fish management practices, work to maintain overall sea perch stock abundance in Tokyo Bay, and distinguish the sea perch fishery in the growing sustainable seafood marketplace.
 
 ##Key Conservation Concerns:
 
-* Concern 1 listed here..
-* Concern 2 listed here..
+* While sea perch catch in Chiba Prefecture has averaged around 2,000 metric tons annually in the last 20 years, the value of sea perch production declined significantly between 2006 and 2009 and hasn’t recovered. 
+* The number of people involved in the fishery is in decline, from almost 12,000 in 1993 to under 5,000 in 2013.
+* Water quality and pollution are potentially adversely impacting sea perch resources as over 80% of the Tokyo Bay coastline has been developed for industrial and urban uses.
+* A lack of a comprehensive fishery management plan and science based management objectives risk overfishing and stock depletion; little scientific evidence exists to support sea perch stock status and inform fishing practices. 
+
+![Tokyo Bay Sea Perch FIP] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/sea-perch-industry-decline-graph.png)
+*Fewer and fewer people are making a living in Chiba Prefecture fisheries.<a href="https://www.pref.chiba.lg.jp/gyoshigen/sigenhyoka/index.html" target="_blank">Graph from Chiba Prefecture government</a>*
+
+![Tokyo Bay Sea Perch FIP] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/sea-perch-production-value-graph.png)
+*The value of the region’s sea perch declined over a decade ago and hasn’t recovered.<a href="http://www.maff.go.jp/j/tokei/kouhyou/gyogyou_seigaku/index.html" target="_blank">Data from MAFF</a>*
 
 ---
-
-![Tokyo Bay Sea Perch FIP] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tokyo-bay-fip-launch-hero.jpg)
-*Explanation of image here.*
 
 ##What We're Doing:
 
 * Conducted an MSC pre-assessment of the fishery in 2016, the first time that any component of the Japanese sea perch fishery has undergone pre-assessment against the MSC standard.
 * Development and implementation of a fishery improvement work plan to address deficiencies found during the MSC pre-assessment, including plans to better monitor and track bycatch of endangered, threatened, and protected (ETP) species, plans to establish a science based maximum sustainable yield (MSY) to ensure stocks aren’t overfished, and a commitment to work towards a more collaborative management plan.
 * As part of the FIP Seiyu will test market Tokyo Bay Sea Perch FIP product at four Kanto-region Seiyu supermarkets, gauging project expansion and potential FIP model replication based on test market results.
-* Convening fishery stakeholders to define management objectives and establish a system for evaluation performance against those objectives.
+* Developing a regional fishery engagement strategy, bringing together recreational and commercial fishermen for the first time to develop management objectives, a system for evaluation against those objectives, and strategy for prefecture-wide reform. 
 
 ---
 
 ##Improvement Project News and Additional Resources
 
-* <a href="http://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/" target="_blank">Example link 1</a>
-* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">Example link 2</a>
-* <a href="https://www.wildsalmoncenter.org/2012/09/04/asia-sockeye-msc/" target="_blank">Example link 3</a>
+* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/TokyoBayPreassessment2016.pdf" target="_blank">Funabashi Fisheries Cooperative Sea Perch Purse Seine Fishery MSC Pre-assessment Report</a>
+* [First-Ever Fishery Improvement Project Launched in Japan] (/news/tokyo-bay-fishery-improvement-launch/)
+* [Tokyo Bay Sea Perch FIP Product Hits Japanese Supermarkets] (/news/seiyu-sells-fip-product/)
+* [Building Traceability into Japanese Fisheries] (/news/traceability-solutions-seafood-japan/)
 
 ---
 
