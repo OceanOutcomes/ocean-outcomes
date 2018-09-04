@@ -1,4 +1,4 @@
-- featured: FALSE
+- featured: TRUE
   language: en
   heading: Client Services
   title: If you’re working in sustainable seafood, we can help you deliver on your goals.
@@ -16,7 +16,7 @@
     link-text: Learn more
     link-url: /what-we-do/success-stories/hokkaido-chum/
     
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: We're Hiring!
   title: Do you care as much about sustainable fisheries as we do?
@@ -34,7 +34,7 @@
     link-text: Get the latest
     link-url: http://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a
 
-- featured: FALSE
+- featured: TRUE
   language: jp
   heading: Ocean Outcomes ソーシャルメデイア
   title: O2のSNSで持続可能な水産業の最新情報をご確認ください。 
@@ -43,7 +43,7 @@
     link-text: ぜひフォローしてください！
     link-url: https://www.facebook.com/oceanoutcomes
 
-- featured: TRUE
+- featured: FALSE
   language: jp
   heading: 日本プログラムスタッフ募集中！
   title: 持続可能な漁業や環境問題そしてサステナビリティに関心ありますか？
