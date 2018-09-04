@@ -7,14 +7,9 @@ hero-image:
 teaser-text: An estimated 3 billion people worldwide depend on seafood as their primary source of protein. Seafood plays a vital role in food security, ocean health, and local economies. Here’s what you can do to get involved and support more sustainable fisheries.
 weight: 4
 ---
-
 ##Career and volunteer opportunities
 
-> **Current job openings:**  
-
-> <a href="https://ocean-outcomes.workable.com/jobs/681426" target="_blank">*Japan Program Manager 日本プログラム・マネジャー*</a> - Working closely with the Japan Program Director, the Japan Program Manager will be responsible for developing and managing Fishery Improvement Projects (FIPs) and Aquaculture Improvement Projects (AIPs), and supporting the implementation of improvement actions for the benefit of fisheries and fishing communities in Japan. The Japan Program Manager will conduct outreach and directly engage key stakeholders (e.g. commercial fishermen, local cooperatives and government) in Japan with the aim of developing FIPs and AIPs which reflect community-based solutions. Sound interesting? <a href="https://ocean-outcomes.workable.com/jobs/681426" target="_blank">**View full job description and apply**</a>.
-
-Not your cup of tea? We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share.
+We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a resume, link to a portfolio, a LinkedIn profile, or whatever else you have to share.
 
 -----
 ##Contribute to improving fisheries
