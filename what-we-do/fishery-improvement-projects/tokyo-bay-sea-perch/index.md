@@ -41,7 +41,7 @@ The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fi
 
 <img align="right" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/sea-perch-industry-decline-graph.png" width="500" height="268" style="margin:10px">
 
-* While sea perch catch in Chiba Prefecture has averaged around 2,000 metric tons annually in the last 20 years, the value of sea perch production declined significantly between 2006 and 2009 and hasn’t recovered (<a href="http://www.maff.go.jp/j/tokei/kouhyou/gyogyou_seigaku/index.html" target="_blank">Data from MAFF</a>). 
+* While sea perch catch in Chiba Prefecture has averaged around 2,000 metric tons annually in the last 20 years, the value of sea perch production declined significantly between 2006 and 2009 and hasn’t recovered (<a href="http://www.maff.go.jp/j/tokei/kouhyou/gyogyou_seigaku/index.html" target="_blank">data from MAFF</a>). 
 * The number of people involved in the fishery is in decline, from almost 12,000 in 1993 to under 5,000 in 2013 (<a href="https://www.pref.chiba.lg.jp/gyoshigen/sigenhyoka/index.html" target="_blank">graph from Chiba Prefecture government</a>).
 * Water quality and pollution issues, including harmful algal blooms and hypoxia “dead zones”, which are potentially adversely impacting sea perch resources, as over 80% of the Tokyo Bay coastline has been developed for industrial and urban uses.
 * A lack of a comprehensive fishery management plan and science based management objectives risk overfishing and stock depletion; little scientific evidence exists to support sea perch stock status and inform fishing practices. 
@@ -52,6 +52,7 @@ The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fi
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 35%;"><iframe src="https://vizzlo.com/embed/perrybroderick/b9708847-00c3-4187-beb4-7cee39b61be8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:none; overflow:hidden;" allowTransparency="false" scrolling="no" frameborder="0"></iframe ></div>
 
+  
 * Conducted an MSC pre-assessment of the fishery in 2016, the first time that any component of the Japanese sea perch fishery has undergone pre-assessment against the MSC standard.
 * Development and implementation of a fishery improvement work plan to address deficiencies found during the MSC pre-assessment, including plans to better monitor and track bycatch of endangered, threatened, and protected (ETP) species, plans to establish a science based maximum sustainable yield (MSY) to ensure stocks aren’t overfished, and a commitment to work towards a more collaborative management plan.
 * Assessing fishery impacts on bottom habitat and ETP species, developing a system and process to sample/monitor sea perch catches, and evaluating existing—and recommending future—harvest strategies. 
