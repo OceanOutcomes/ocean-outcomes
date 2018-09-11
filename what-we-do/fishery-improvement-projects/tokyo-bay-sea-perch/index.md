@@ -36,10 +36,11 @@ Purse seine vessels which are participants of the Tokyo Bay Sea Perch FIP are si
 
 The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fishery, its effects and sea perch stocks, improve fish management practices, work to maintain overall sea perch stock abundance in Tokyo Bay, and distinguish the sea perch fishery in the growing sustainable seafood marketplace.
 
-##Key Conservation Concerns:  
 <img align="right" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/sea-perch-production-value-graph.png" width="500" height="268" style="margin:10px">
 
 <img align="right" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/sea-perch-industry-decline-graph.png" width="500" height="268" style="margin:10px">
+
+##Key Conservation Concerns:  
 
 * While sea perch catch in Chiba Prefecture has averaged around 2,000 metric tons annually in the last 20 years, the value of sea perch production declined significantly between 2006 and 2009 and hasn’t recovered (<a href="http://www.maff.go.jp/j/tokei/kouhyou/gyogyou_seigaku/index.html" target="_blank">data from MAFF</a>). 
 * The number of people involved in the fishery is in decline, from almost 12,000 in 1993 to under 5,000 in 2013 (<a href="https://www.pref.chiba.lg.jp/gyoshigen/sigenhyoka/index.html" target="_blank">graph from Chiba Prefecture government</a>).
