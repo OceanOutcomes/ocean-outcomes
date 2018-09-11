@@ -52,7 +52,8 @@ The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fi
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 35%;"><iframe src="https://vizzlo.com/embed/perrybroderick/b9708847-00c3-4187-beb4-7cee39b61be8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:none; overflow:hidden;" allowTransparency="false" scrolling="no" frameborder="0"></iframe ></div>
 
-  
+
+
 * Conducted an MSC pre-assessment of the fishery in 2016, the first time that any component of the Japanese sea perch fishery has undergone pre-assessment against the MSC standard.
 * Development and implementation of a fishery improvement work plan to address deficiencies found during the MSC pre-assessment, including plans to better monitor and track bycatch of endangered, threatened, and protected (ETP) species, plans to establish a science based maximum sustainable yield (MSY) to ensure stocks aren’t overfished, and a commitment to work towards a more collaborative management plan.
 * Assessing fishery impacts on bottom habitat and ETP species, developing a system and process to sample/monitor sea perch catches, and evaluating existing—and recommending future—harvest strategies. 
