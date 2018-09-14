@@ -9,7 +9,7 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
-The Nachi Katsuura Albacore Longline FIP involves Kaiou Maru, an offshore longline harvester that offloads at Nachi Katsuura port in Wakayama Prefecture, and Yamasa Wakiguchi Co., a regional tuna wholesaler. By volume Nachi Katsuura  is one of the most significant ports for longline tuna production in Japan, accounting for the largest landings of fresh tuna in Japan. Yamasa Wakiguchi Co., the FIP client, annually sources approximately 10,000 metric tons of albacore and yellowfin tuna from these offshore longline fisheries, including tuna caught by Kaiou Maru. In 2012, an MSC pre-assessment of tuna species targeted by two Japanese longliners was conducted for albacore, bigeye, yellowfin, and pacific bluefin tunas. This pre-assessment concluded that the albacore and yellowfin tuna components of the fishery could be considered “well-positioned for certification” contingent on several key improvements. These include adopting harvest control rules for northern albacore tuna stock, expanding on-board observer coverage to collect information on non-target species such as sharks, billfish, seabirds and turtles, and implementing measures to reduce non-target catches where necessary.
+The Nachi Katsuura Albacore Longline FIP involves No. 78 Kaiou Maru, an offshore longline harvester that offloads at Nachi Katsuura port in Wakayama Prefecture, and Yamasa Wakiguchi Co., a regional tuna wholesaler. By volume Nachi Katsuura  is one of the most significant ports for longline tuna production in Japan, accounting for the largest landings of fresh tuna in Japan. Yamasa Wakiguchi Co., the FIP client, sourced approximately 590 metric tons of albacore tuna from these offshore longline fisheries in 2017-2018, including tuna caught by No. 78 Kaiou Maru. In 2012, an MSC pre-assessment of tuna species targeted by two Japanese longliners was conducted for albacore, bigeye, yellowfin, and pacific bluefin tunas. This pre-assessment concluded that the albacore and yellowfin tuna components of the fishery could be considered “well-positioned for certification” contingent on several key improvements. These include adopting harvest control rules for northern albacore tuna stock, expanding on-board observer coverage to collect information on non-target species such as sharks, billfish, seabirds and turtles, and implementing measures to reduce non-target catches where necessary.
 
 ---
 
@@ -29,10 +29,10 @@ The Nachi Katsuura Albacore Longline FIP involves Kaiou Maru, an offshore longli
 | FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/japan-albacore-tuna-longline" target="_blank">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | October 2017 |
 | Location: | Nachi Katsuura, Wakayama Prefecture, Japan |
-| Participants: | Ocean Outcomes, Yamasa Wakiguchi Co., Kaiou Maru |
+| Participants: | Ocean Outcomes, Yamasa Wakiguchi Co., No. 78 Kaiou Maru |
 | Species: | Albacore tuna (*Thunnus alalunga*) |
 | Gear Type: | Longline |
-| Volume: | 12,142 mt - *Based on the Western and Central Pacific Fisheries Commission (WCPFC) Tuna Fishery Yearbook, 227 Japanese longline vessels caught 12,142 mt of albacore tuna in 2015.* |
+| Volume: | 150 mt - *No. 78 Kaiou Maru annually harvests 150 mt of albacore. Based on the Western and Central Pacific Fisheries Commission (WCPFC) Tuna Fishery Yearbook, 227 Japanese longline vessels caught 12,142 mt of albacore tuna in 2015.* |
 | Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/NachiKatsuuraAlbacoreLonglineTunaPreassessment2017.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/NachiKatsuuraAlbacoreLonglineTunaWorkplan2017.pdf" target="_blank">Workplan</a> |
 
 ---
