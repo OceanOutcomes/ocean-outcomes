@@ -29,7 +29,7 @@ The Nachi Katsuura Albacore Longline FIP involves No. 78 Kaiou Maru, an offshore
 | FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/japan-albacore-tuna-longline" target="_blank">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | October 2017 |
 | Location: | Nachi Katsuura, Wakayama Prefecture, Japan |
-| Participants: | Ocean Outcomes, Yamasa Wakiguchi Co., Kaiou Maru |
+| Participants: | Ocean Outcomes, Yamasa Wakiguchi Co., No. 78 Kaiou Maru |
 | Species: | Albacore tuna (*Thunnus alalunga*) |
 | Gear Type: | Longline |
 | Volume: | 150 mt - *No. 78 Kaiou Maru annually harvests 150 mt of albacore. Based on the Western and Central Pacific Fisheries Commission (WCPFC) Tuna Fishery Yearbook, 227 Japanese longline vessels caught 12,142 mt of albacore tuna in 2015.* |
