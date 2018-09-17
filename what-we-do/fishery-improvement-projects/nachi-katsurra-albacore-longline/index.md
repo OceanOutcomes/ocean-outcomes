@@ -2,7 +2,7 @@
 layout: page 
 title: Nachi Katsuura Albacore Longline FIP
 landing-image:
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/wakayama-albacore-tuna-hero.jpg
+hero-image:
 subtitle:
 weight: 
 teaser-text:
@@ -43,7 +43,7 @@ While Wakiguchi-san’s goal for the FIP is an unconditional pass of the Marine 
 ##Key Conservation Concerns:  
 
 * While stock status appears healthy, juveniles are disproportionately caught as juvenile albacore aged 2-4 years, comprised, on average, 70% of annual catch between 1993-2015 (<a href="http://isc.fra.go.jp/recommendation/index.html" target="_blank">graph from ISC</a>).
-* Concern 2
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ---
 
