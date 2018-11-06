@@ -16,7 +16,9 @@ The fisheries improvement project—or FIP for short—is a precompetitive proje
 
 ###In the East China and Yellow Seas, China has important domestic fisheries which target migratory JFS stocks
 
-These supply both a booming domestic market and are exported to the Europe Union, United Kingdom, United States, Japan, and South Korea, among many others, by global seafood companies such as those involved in the project. However, JFS fishing practices and management need improvement in a number of ways to ensure a continued supply of squid products. For example, China lacks a JFS-specific harvest strategy outside of a summer fishing moratorium banning the use of motorized fishing vessels, and it’s difficult to verify the exact catch locations for some squid products from the region.
+These supply both a booming domestic market and are exported to the Europe Union, United Kingdom, United States, Japan, and South Korea, among many others, by global seafood companies such as those involved in the project. 
+
+However, JFS fishing practices and management need improvement in a number of ways to ensure a continued supply of squid products. For example, China lacks a JFS-specific harvest strategy outside of a summer fishing moratorium banning the use of motorized fishing vessels, and it’s difficult to verify the exact catch locations for some squid products from the region.
 
 **“Around a third to half of all squid passes through a Chinese seafood supply chain, whether caught, processed, traded, or consumed,” said Dr. He Cui, who heads CAPPMA, a Chinese national seafood industry group with thousands of members. “Given CAPPMA’s commitment to both domestic and global seafood sustainability, it’s in our interest to ensure a future where all squid stocks are healthy. This project will help us explore a path forward.**
 
