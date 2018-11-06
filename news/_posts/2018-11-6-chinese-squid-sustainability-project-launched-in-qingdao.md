@@ -26,6 +26,8 @@ The FIP will work to address areas of concern through implementation of a five y
 
 Since its inception, the FIP has grown beyond founding members Ocean Outcomes, Sea Farms, and PanaPesca to include support from a number of industry stakeholders, including, Quirch Foods, Seachill, China Aquatic Products Processing and Marketing Alliance (CAPPMA), Marks & Spencer, Tesco, Sainsbury’s, and local Chinese suppliers Genho, IG and the Zhejiang Industry Group.
 
+![Japanese flying squid project participants] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/JFS+FIP+launch+group+photo+2018.jpg) *Project participants at the China Fisheries and Seafood Expo in Qingdao. © Ocean Outcomes*
+
 ###Precompetitive industry collaboration is key
 
 The success and growth of the project were due, in part, to the collaborative forum of the <a href="https://www.sustainablefish.org/Programs/Improving-Wild-Fisheries/Seafood-Sectors-Supply-Chain-Roundtables/Squid/Global-Squid-SR" target="_blank">Global Squid Supply Chain Roundtable</a>, facilitated by Sustainable Fisheries Partnership, which heavily featured the East China Sea and Yellow Sea Squid FIP in recent meetings at the North America Seafood Expo in Boston, MA.
