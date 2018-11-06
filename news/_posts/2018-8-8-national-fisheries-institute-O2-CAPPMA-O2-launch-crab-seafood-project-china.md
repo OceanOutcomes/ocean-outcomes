@@ -4,7 +4,7 @@ title: Leading Seafood Industry Groups Launch First Sustainable Crab Project in 
 date: 2018-8-8
 teaser-text: As China is home to 25% of the world’s commercial fishing capacity, China’s first crab improvement project, and the largest improvement project by volume in China, is a positive step towards more sustainable fishing practices globally.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/fujian-zhangzhou-red-swimming-crab-launch-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Comprehensive project now underway to better manage and fish red swimming crab
 
