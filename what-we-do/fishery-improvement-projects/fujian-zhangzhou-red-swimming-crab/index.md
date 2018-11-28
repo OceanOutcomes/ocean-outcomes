@@ -32,6 +32,7 @@ China’s Fujian Province is the leading fishing region in China for a ‘red sw
 | Species: | Red swimming crab (*Portunus haanii*) and three-spot swimming crab (*Portunus sanguinolentus*) |
 | Gear Type: | Bottom trawl and pot |
 | Volume: | ~40,000 mt - *The Zhangzhou Fisheries Statistics Yearbook indicates the annual crab harvest in Zhangzhou from 2009 to 2014 varies from about 55,000 to 60,000 metric tons and an estimated 60-65% of these are in the ‘red swimming crab group’, putting the approximate RSC harvest at 30,000-40,000 mt.* |
+| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/O2+Fujian+Zhangzhou+Red+Swimming+Crab+Fisheries+Improvement+Scoping+Report+2018.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+O2+5-YR+RSC+FIP+WORK+PLAN+V1.0+14+AUG+2018.pdf" target="_blank">Workplan</a> |
 
 ---
 
