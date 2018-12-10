@@ -15,7 +15,7 @@ teaser-text: Our hands-on partnership approach helps fisheries achieve meaningfu
 
 ##At Ocean Outcomes, we work hand in hand with commercial fisheries to help them become more sustainable.
 
-Our fishery improvement projects work addresses the full range of major fishery challenges contributing to the global fisheries crisis. These challenges include [Illegal, Unreported and Unregulated fishing (IUU)] (/areas-of-focus/iuu/), overfishing, depletion of non-target stocks, habitat impacts, and management system issues such as inadequate monitoring. These issues represent serious risks to the sustainability and security of fisheries, food supplies, and human livelihoods.  
+Our fishery improvement projects work addresses the full range of major fishery challenges contributing to the global fisheries crisis. These challenges include Illegal, Unreported and Unregulated fishing (IUU), overfishing, depletion of non-target stocks, habitat impacts, and management system issues such as inadequate monitoring. These issues represent serious risks to the sustainability and security of fisheries, food supplies, and human livelihoods.  
 
 ----
 
