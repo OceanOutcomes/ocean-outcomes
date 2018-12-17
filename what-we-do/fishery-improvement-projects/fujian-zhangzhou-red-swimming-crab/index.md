@@ -25,7 +25,7 @@ China’s Fujian Province is the leading fishing region in China for a ‘red sw
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/prospective-china-fujian-zhangzhou-red-swimming-crab-bottom-trawl-pottrap">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/china-fujian-zhangzhou-red-swimming-crab-bottom-trawl-pottrap">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | 7/1/2016 |
 | Location: | Minnan-Taiwan Bank, located in the southern part of Taiwan Strait at the boundary between the East and South China Seas |
 | Participants: | Ocean Outcomes, National Fisheries Institute (NFI), China Aquatic Products Processing and Marketing Alliance (CAPPMA), and Zhangzhou Aquatic Products Processing and Marketing Alliance (ZAPPMA). Participation from other key stakeholders under negotiation. |
