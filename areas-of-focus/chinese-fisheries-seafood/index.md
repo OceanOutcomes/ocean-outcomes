@@ -17,8 +17,6 @@ subtitle: China as a country consumes more seafood than the next 10 countries co
 
 Despite the size of the Chinese seafood industry and the unique status seafood has in Chinese diet and economy—China is the world’s largest seafood trading country and home to the world’s largest wild seafood processing and re-exporting sector—the industry as a whole lags behind most North American and West European countries from a sustainability perspective. There is little consumer awareness or demand for sustainable seafood, government led fisheries reform often faces many barriers, there is a lack of Chinese organizations working towards seafood reform, and work to bring Chinese fisheries and aquaculture operations in line with internationally recognized best practices is few and far between.
 
-![Japanese flying squid project participants] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/JFS+FIP+launch+group+photo+2018.jpg) *O2, Tao Ran, and partners celebrate the launch of a new project at the China Fisheries and Seafood Expo in Qingdao. © Ocean Outcomes*
-
 ##Our work in China is focused around building a Chinese sustainable seafood movement.
 
 This includes increasing consumer and business awareness regarding the fisheries crisis, bolstering in-country capacity and initiatives, exploring solutions towards more sustainable practices with government and industry leaders, and developing and implementing fishery and aquaculture improvement projects.
@@ -26,6 +24,8 @@ This includes increasing consumer and business awareness regarding the fisheries
 To most effectively accelerate sustainable seafood outcomes in China, and ensure those initiatives are durable, we work closely with Tao Ran, a Chinese-registered seafood consultancy. Tao Ran, founded with the support of O2 in 2018, is our primary partner for our China work, and collaboratively we fund, design, test, and implement a variety of sustainable seafood initiatives across the region. These include, demonstration level conservation projects in key ecoregions to protect important spawning grounds, fishery and aquaculture improvement projects to instruct management policies, and engaging Chinese industry and other supply chain actors towards improved practices. 
 
 Without a significant, concerted, and locally-led push for reform, it’s likely overfishing, irresponsible aquaculture, and habitat loss and degradation in China will continue.
+
+![Japanese flying squid project participants] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/JFS+FIP+launch+group+photo+2018.jpg) *O2, Tao Ran, and partners celebrate the launch of a new project at the China Fisheries and Seafood Expo in Qingdao. © Ocean Outcomes*
 
 ---
 ##O2 and Tao Ran Chinese Fishery Improvement Projects:
