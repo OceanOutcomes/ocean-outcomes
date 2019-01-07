@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-ruby '3.0.2'
+ruby '2.3.0'
 
-gem "jekyll", "3.6.3"
+gem "jekyll", "2.5.3"
 gem "bourbon"
 gem "neat"
 gem "bitters"
