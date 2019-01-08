@@ -15,12 +15,20 @@ subtitle: China as a country consumes more seafood than the next 10 countries co
 * 5 million square miles, an area of Switzerland and Netherlands combined, are used for Chinese aquaculture production
 * China consumes more seafood than the next 10 countries combined
 
-Despite the size of the Chinese seafood industry and the unique status seafood has in Chinese diet and economy—China is the world’s largest seafood trading country and home to the world’s largest wild seafood processing and re-exporting sector—the industry as a whole lags behind most North American and West European countries from a sustainability perspective. There is little consumer awareness or demand for sustainable seafood, government led fisheries reform often faces many barriers, there are few organizations working towards seafood reform, and any work to bring Chinese fisheries and aquaculture operations in line with internationally recognized best practices is few and far between. 
+Despite the size of the Chinese seafood industry and the unique status seafood has in Chinese diet and economy—China is the world’s largest seafood trading country and home to the world’s largest wild seafood processing and re-exporting sector—the industry as a whole lags behind most North American and West European countries from a sustainability perspective. There is little consumer awareness or demand for sustainable seafood, government led fisheries reform often faces many barriers, there is a lack of Chinese organizations working towards seafood reform, and work to bring Chinese fisheries and aquaculture operations in line with internationally recognized best practices is few and far between.
 
-Our work in China is focused around building a Chinese sustainable seafood movement, including increasing consumer and business awareness regarding the fisheries crisis and exploring solutions towards more sustainable practices with government and industry leaders. This includes demonstration level conservation projects in key ecoregions to protect important spawning grounds, piloting fishery and aquaculture improvement projects to instruct management policies, and engaging Chinese industry and other supply chain actors. Without a significant and concerted push for reform, it’s likely overfishing, irresponsible aquaculture, and habitat loss and degradation in China will continue.
+##Our work in China is focused around building a Chinese sustainable seafood movement.
+
+This includes increasing consumer and business awareness regarding the fisheries crisis, bolstering in-country capacity and initiatives, exploring solutions towards more sustainable practices with government and industry leaders, and developing and implementing fishery and aquaculture improvement projects.
+
+To most effectively accelerate sustainable seafood outcomes in China, and ensure those outcomes are durable, we work closely with Tao Ran, a Chinese-registered seafood consultancy. Tao Ran, founded with the support of O2 in 2018, is our primary partner for our China work, and collaboratively we fund, design, test, and implement a variety of sustainable seafood initiatives across the region. These include, demonstration level conservation projects in key ecoregions to protect important spawning grounds, fishery and aquaculture improvement projects to instruct management policies, and engaging Chinese industry and other supply chain actors towards improved practices. 
+
+Without a significant, concerted, and locally-led push for reform, it’s likely overfishing, irresponsible aquaculture, and habitat loss and degradation in China will continue.
+
+![Japanese flying squid project participants] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/JFS+FIP+launch+group+photo+2018.jpg) *O2, Tao Ran, and partners celebrate the launch of a new project at the China Fisheries and Seafood Expo in Qingdao. © Ocean Outcomes*
 
 ---
-##Chinese Fishery Improvement Projects:
+##O2 and Tao Ran Chinese Fishery Improvement Projects:
 
 * [East China Sea and Yellow Sea Squid FIP] (/what-we-do/fishery-improvement-projects/east-china-sea-and-yellow-sea-squid/)
 * [Fujian Zhangzhou Red Swimming Crab FIP] (/what-we-do/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/)
@@ -37,6 +45,6 @@ Our work in China is focused around building a Chinese sustainable seafood movem
 
 ---
 
-##Meet O2's China Program Director
+##Meet Tao Ran 
 
-<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/songlinstaffphoto1.jpg" width="320" height="320"> Songlin is an experienced and passionate conservation professional. His career includes work for The Nature Conservancy, World Wildlife Fund, and The Paulson Institute, among others. He has planned, led, and coordinated a number of large scale sustainable fisheries and aquaculture projects and wetlands conservation projects. His efforts helped guide the first Marine Stewardship Council certification of a Chinese fishery and created enabling conditions for the first two Chinese fish farms to be certified by the Aquaculture Stewardship Council. He also advises leading international and Chinese NGOs on coastal and marine biodiversity conservation issues. Trained first as a marine ecologist at the Ocean University of China, and then an environmental manager at Yale, Songlin excels at exploring conservation solutions from political, market, and scientific angles. He is fluent in Mandarin and English and in his spare time enjoys reading, traveling, sports, and keeping ornamental freshwater fish. 
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/songlinstaffphoto1.jpg" width="320" height="320"> Tao Ran was founded in 2018 with support from Ocean Outcomes. Tao Ran, led by Songlin Wang, is a registered Chinese company and O2’s principal partner in Chinese fishery and aquaculture improvement projects and sustainable seafood initiatives.
