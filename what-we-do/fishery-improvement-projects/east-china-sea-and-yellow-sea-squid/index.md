@@ -29,10 +29,12 @@ By volume, China is the largest squid fishing and processing country in the worl
 | FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/east-china-sea-and-yellow-sea-japanese-flying-squid-trawl">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | March 2018 |
 | Location: | East China Sea and Yellow Sea, China|
-| Participants: | Ocean Outcomes, Sea Farms Ltd., PanaPesca, Quirch Foods, China Aquatic Products Processing and Marketing Alliance (CAPPMA), Marks & Spencer, Tesco, Sainsbury's |
+| Owners/Leads: | Ocean Outcomes, China Aquatic Products Processing and Marketing Alliance (CAPPMA) |
+| Participants: | Sea Farms Ltd., PanaPesca, Quirch Foods, Seachill |
+| Supporters: | Marks & Spencer, Tesco, Sainsbury's |
 | Species: | Japanese flying squid (*Todarodes pacificus*) |
 | Gear Type: | Trawl |
-| Volume: | ~3,000 mt |
+| Volume: | ~5,000 mt |
 | Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/O2+Chinese+JFS+Fishery+Improvement+Scoping+Report+-+December+Revised+2018+FINAL.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+O2+5-YR+JFS+FIP+WORK+PLAN+October+2018.pdf" target="_blank">Workplan</a> |
 
 ---
