@@ -27,7 +27,9 @@ Despite these challenges, positive transformation of tuna management is gaining 
 ---
 ##Tuna Fishery Improvement Projects:
 
+* [Indian Ocean Albacore Tuna Longline FIP] (/what-we-do/fishery-improvement-projects/indian-ocean-longline-albacore/)
 * [Nachi Katsuura Albacore Longline FIP] (/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline/)
+* [South Pacific Albacore and Yellowfin Tuna Longline FIP] (/what-we-do/fishery-improvement-projects/south-pacific-longline-albacore-yellowfin/)
 
 ---
 ##Stories from the Field: Tuna
