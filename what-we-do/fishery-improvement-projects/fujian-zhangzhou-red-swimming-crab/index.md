@@ -38,6 +38,6 @@ China’s Fujian Province is the leading fishing region in China for a ‘red sw
 
 [**For any recent news on this fishery project visit our blog.**] (/news/) 
 
-<a href="https://fisheryprogress.org/fip-profile/prospective-china-fujian-zhangzhou-red-swimming-crab-bottom-trawl-pottrap" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Fujian Zhangzhou Red Swimming Crab FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/china-fujian-zhangzhou-red-swimming-crab-bottom-trawl-pottrap" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Fujian Zhangzhou Red Swimming Crab FIP profile here.**</a>
 
 [**<< Back to O2 fishery improvement projects**] (/what-we-do/fishery-improvement-projects/)
