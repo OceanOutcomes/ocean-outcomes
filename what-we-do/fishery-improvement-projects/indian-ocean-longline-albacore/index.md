@@ -25,7 +25,7 @@ The Indian Ocean Albacore Tuna Longline FIP aims to improve fishing practices fo
 |||
 | ---: | --- |
 | FIP Status: | Prospective FIP (<a href="">tracked fully on FisheryProgress.org</a>) |
-| Project Launch: | December 2018 |
+| Project Launch: | January 2019 |
 | Location: | Indian Ocean |
 | Participants: | Ocean Outcomes, Bumble Bee Foods, LLC, FCF Fishery Company, Ltd. |
 | Species: | Albacore tuna (*Thunnus alalunga*) |
