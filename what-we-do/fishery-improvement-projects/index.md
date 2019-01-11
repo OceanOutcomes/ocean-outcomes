@@ -25,8 +25,10 @@ Our fishery improvement projects work addresses the full range of major fishery 
 
   * [East China Sea and Yellow Sea Squid FIP] (/what-we-do/fishery-improvement-projects/east-china-sea-and-yellow-sea-squid/)
   * [Fujian Zhangzhou Red Swimming Crab FIP] (/what-we-do/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/)
+  * [Indian Ocean Albacore Tuna Longline FIP] (/what-we-do/fishery-improvement-projects/indian-ocean-longline-albacore/)  
   * [Miyagi Onagawa Coho Salmon AIP] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/)
   * [Nachi Katsuura Albacore Longline FIP] (/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline/)
+  * [South Pacific Albacore and Yellowfin Tuna Longline FIP] (/what-we-do/fishery-improvement-projects/south-pacific-longline-albacore-yellowfin/) 
   * [Tokyo Bay Sea Perch FIP] (/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch/)
   * [Tomamae Giant Pacific Octopus FIP] (/what-we-do/fishery-improvement-projects/tomamae-giant-pacific-octopus/)
   * [Western Kamchatka Salmon FIP] (/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/)
