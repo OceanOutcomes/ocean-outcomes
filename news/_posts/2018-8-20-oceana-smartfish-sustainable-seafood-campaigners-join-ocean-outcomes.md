@@ -4,7 +4,7 @@ title: Three Leading Entrepreneurs and Ocean Campaigners Join Ocean Outcomes to 
 date: 2018-8-20
 teaser-text: SmartFish Founder and CEO, a top Oceana fisheries campaigner, and an intrepid entrepreneur contribute valuable experience to Ocean Outcomes’ continued growth and leadership in the sustainable seafood and ocean conservation movements.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/hoyt-courtney-nicole-join-ocean-outcomes.jpg
-featured: TRUE
+featured: FALSE
 ---
 *Hoyt and Courtney at the Seaweb Seafood Summit in Barcelona, Spain.*
 
