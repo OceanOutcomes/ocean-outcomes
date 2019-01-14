@@ -24,7 +24,7 @@ The South Pacific Albacore and Yellowfin Tuna Longline FIP aims to improve fishi
 
 |||
 | ---: | --- |
-| FIP Status: | Prospective FIP (<a href="">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Prospective FIP (<a href="https://fisheryprogress.org/fip-profile/south-pacific-albacore-yellowfin-tuna-longline">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | January 2019 |
 | Location: | South Pacific Ocean |
 | Participants: | Ocean Outcomes, Bumble Bee Foods, LLC, FCF Fishery Company, Ltd. |
@@ -36,6 +36,6 @@ The South Pacific Albacore and Yellowfin Tuna Longline FIP aims to improve fishi
 
 [**For any recent news on this fishery project visit our blog.**] (/news/) 
 
-<a href="" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the South Pacific Albacore and Yellowfin Tuna Longline FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/south-pacific-albacore-yellowfin-tuna-longline" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the South Pacific Albacore and Yellowfin Tuna Longline FIP profile here.**</a>
 
 [**<< Back to O2 fishery improvement projects**] (/what-we-do/fishery-improvement-projects/)
