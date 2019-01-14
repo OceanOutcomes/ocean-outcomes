@@ -7,16 +7,16 @@
     link-text: Learn More
     link-url: /what-we-do/services/
 
-- featured: FALSE
+- featured: TRUE
   language: en
-  heading: Stories of Success
-  title: Reenvisioning the World’s Largest Chum Salmon Fishery
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chumsalmonstoryhero.png
+  heading: Fishery Improvement Projects
+  title: Our goal? More sustainable fisheries.
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-sns.jpg
   link:
-    link-text: Learn more
+    link-text: Featured FIP: Fujian Zhangzhou Red Swimming Crab FIP
     link-url: /what-we-do/success-stories/hokkaido-chum/
     
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: We're Hiring!
   title: Do you care as much about sustainable fisheries as we do?
