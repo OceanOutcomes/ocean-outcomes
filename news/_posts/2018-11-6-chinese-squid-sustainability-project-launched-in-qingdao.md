@@ -4,7 +4,7 @@ title: Global Squid Sustainability Efforts Take Leap Forward
 date: 2018-11-6
 teaser-text: Squids are one of the most loved seafoods, but compared with many species, squid sustainability efforts are lagging. Given squid account for about 5% of global fishery landings, it’s encouraging to see that change.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/east-china-sea-and-yellow-sea-squid-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###After three years of work, large-scale Chinese squid project becomes public and implementation phases begin
 
