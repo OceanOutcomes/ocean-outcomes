@@ -3,7 +3,7 @@ layout: news
 title: Bumble Bee Foods and FCF Partner with Ocean Outcomes to Improve Longline Tuna Fisheries
 date: 2019-1-15
 teaser-text: Major initiative to improve fishing practices of the albacore longline tuna fisheries in the Indian Ocean and Western and Central Pacific Ocean now underway.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/south-pacific-longline-albacore-yellowfin-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/indian-ocean-longline-albacore-hero.jpg
 featured: TRUE
 ---
 ###Initiative to launch FIPs in key albacore fisheries
