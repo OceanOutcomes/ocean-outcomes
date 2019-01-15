@@ -14,7 +14,7 @@ featured: TRUE
 
 ###A positive transformation of tuna management and tuna fishing practices is gaining momentum
 
-A positive transformation of tuna management and tuna fishing practices is gaining momentum, especially in the purse seine sector, but not all harvesting sectors are as far along. Recent catch sector engagement initiatives – such as the Global FIP Alliance for Sustainable Tuna (GFAST) – have made progress in addressing the challenges of international management of tuna fisheries, but there is clearly an opportunity to increase participation from Northeast Asian longline fleets.
+A positive transformation of tuna management and tuna fishing practices is gaining momentum, especially in the purse seine sector, but not all harvesting sectors are as far along. Recent catch sector engagement initiatives – such as the <a href="https://www.globaltunafips.org/" target="_blank">Global FIP Alliance for Sustainable Tuna (GFAST)</a> – have made progress in addressing the challenges of international management of tuna fisheries, but there is clearly an opportunity to increase participation from Northeast Asian longline fleets.
 
 **“This bold step by Bumble Bee, FCF and their supplying longline vessels blazes a trail for key tuna catchers to join the sustainable tuna movement,” said Daniel Suddaby, who is leading the project for Ocean Outcomes.**
 
@@ -30,4 +30,4 @@ As a next step in the initiative, project partners are formalizing both the [Ind
 
 **Additional Resources:**
 
-[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/JFS+FIP+Launch+Announcement+November+2018+-+FINAL.pdf)
+[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bumble+Bee+FIP+Project+Intent+Announcement+-+January+2019.pdf)
