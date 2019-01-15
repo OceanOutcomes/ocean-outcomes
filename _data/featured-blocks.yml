@@ -9,11 +9,11 @@
 
 - featured: TRUE
   language: en
-  heading: Fishery and Aquaculture Improvement
+  heading: Fishery Improvement Projects (FIP)
   title: Our goal? More sustainable fisheries.
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-sns.jpg
   link:
-    link-text: View Fishery Improvement Projects (FIPs)
+    link-text: View FIPs
     link-url: /what-we-do/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/
     
 - featured: FALSE
