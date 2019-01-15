@@ -10,10 +10,10 @@
 - featured: TRUE
   language: en
   heading: Fishery and Aquaculture Improvement
-  title: Our goal? More sustainable fisheries; more sustainable fish farms.
+  title: Our goal? More sustainable fisheries and more sustainable fish farms.
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-sns.jpg
   link:
-    link-text: View FIPs and AIPs
+    link-text: View Fishery Improvement Projects (FIPs) and Aquaculture Improvement Projects (AIPs)
     link-url: /what-we-do/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/
     
 - featured: FALSE
