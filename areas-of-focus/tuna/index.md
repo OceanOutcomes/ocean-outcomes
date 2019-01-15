@@ -8,9 +8,9 @@ teaser-text: Tuna, one of the highest valued and most sought after species, is s
 subtitle: Tuna fisheries are some of the most important but challenging fisheries to sustainably manage.
 ---
 
-##A sustainable future for tuna rests on our ability to change the way we consume, fish, and manage tuna resources.
+##A sustainable future for tuna rests on our ability to change the way we fish and manage tuna resources.
 
-According to the FAO, roughly 7.7 million tonnes of tuna and tuna-like species were caught in 2013—a staggering increase from catches in the 1950s when fewer than 0.6 million tons of tuna were caught. Tuna considered principal market tuna species—that is albacore, bigeye, bluefin (three species), skipjack and yellowfin—accounted for about 70 perfect of the tuna caught in 2013, the majority of which was harvested from the Pacific. Skipjack, the most plentiful and productive principal market tuna, accounts for about 66 percent of principal tuna catch, followed by yellowfin and bigeye (about 25 and 10 percent, respectively). Among the seven principal tuna species, 41 percent of stocks were estimated to be fished at biologically unsustainable levels.
+According to the FAO, roughly 7.7 million tonnes of tuna and tuna-like species were caught in 2013—a staggering growth in catches from the 1950s when fewer than 0.6 million tons of tuna were caught. Tuna considered principal market tuna species—that is albacore, bigeye, bluefin (three species), skipjack and yellowfin—accounted for about 70 perfect of the tuna caught, the majority of which was harvested from the Pacific. Skipjack, the most plentiful and productive principal market tuna, accounts for about 66 percent of principal tuna catch, followed by yellowfin and bigeye (about 25 and 10 percent, respectively). This growth in catch hasn’t always been matched by improved management; among the seven principal tuna species, 41 percent of stocks were estimated to be fished at biologically unsustainable levels.
 
 Tuna fishing takes place in national waters as well as on the high seas, where ineffective international management makes sustainable fishing a challenge. Tuna fisheries management takes place via multi-national cooperation delivered through treaty systems and regional fisheries management organizations (RFMOs). While these systems can potentially be effective at defining policy, their member countries often lack the ability to implement or ensure compliance at local, national, and ocean levels, putting tuna resources at risk. 
 
@@ -22,7 +22,7 @@ A RFMO is an international body made up of countries that share a practical and/
 
 ----
 
-Despite these challenges, positive transformation of tuna management is gaining momentum, especially in the canned tuna fisheries (which primarily target skipjack and albacore tunas). This includes the adoption of improved management strategies through Harvest Control Rules, collaborative work through programs such as the United Nation Food and Agriculture Organization’s <a href="http://www.fao.org/in-action/commonoceans/en/" target="_blank">Areas Beyond National Jurisdiction program</a> which trains local tuna managers on best practices, and a growing consumer awareness regarding the critically endangered status of select tuna populations.
+Despite these challenges, positive transformation of tuna management is gaining momentum, especially in the canned tuna fisheries (which primarily target skipjack and albacore tunas). This includes the adoption of improved management strategies through Harvest Control Rules, collaborative work through programs such as the United Nation Food and Agriculture Organization’s [Areas Beyond National Jurisdiction program which trains local tuna managers on best practices] (/news/tuna-management-workshop-fiji/), and a growing consumer awareness regarding the critically endangered status of select tuna populations.
 
 ---
 ##Tuna Fishery Improvement Projects:
@@ -34,6 +34,7 @@ Despite these challenges, positive transformation of tuna management is gaining 
 ---
 ##Stories from the Field: Tuna
 
+* [Bumble Bee Foods and FCF Partner with Ocean Outcomes to Improve Longline Tuna Fisheries] (/news/bumble-bee-fcf-O2-albacore-tuna-project-announcement/)
 * [Experts Responsible for World’s Largest Tuna Fisheries Come Together to Work Towards More Sustainable Management] (/news/tuna-management-workshop-fiji/)
 * [Sixth Tuna Management Workshop Takes Best Practices to West Africa Through Two Days of Hands-on Trainings] (/news/tuna-management-workshop-senegal/)
 * [Japan Looks to Improve Key Tuna Fisheries as Part of Blossoming Sustainable Seafood Movement] (/news/nachi-katsuura-albacore-fip-launch/)
