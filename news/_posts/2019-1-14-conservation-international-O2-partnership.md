@@ -24,10 +24,10 @@ Already, Conservation International has co-created assessment tools for evaluati
 
 Conservation International and Ocean Outcomes have been on the ground together in Costa Rica, working to understand and advance improvement of socioeconomic and environmental viability of queen croaker fisheries in the Gulf of Nicoya. They are also in Suriname, assessing the actions needed to improve the sustainability of small-scale finfish fisheries. Currently, both organizations are developing joint projects in Mexico and the Galápagos Islands, among others.
 
-Find out more information about Conservation International’s work in sustainable fisheries <a href="https://www.conservation.org/How/Pages/Transforming-wild-fisheries-and-fish-farming.aspxm" target="_blank">here</a>. 
+Find out more information about Conservation International’s work in sustainable fisheries <a href="https://www.conservation.org/How/Pages/Transforming-wild-fisheries-and-fish-farming.aspx" target="_blank">here</a>. 
 
 ----
 
 **Additional Resources:**
 
-[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Conservation+International+and+Ocean+Outcomes+Partnership+PR+FINAL.pdf)
+[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Conservation-International-and-Ocean-Outcomes-Partnership-PR-FINAL.pdf)
