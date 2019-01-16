@@ -30,4 +30,4 @@ Find out more information about Conservation International’s work in sustainab
 
 **Additional Resources:**
 
-[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Conservation+International+and+Ocean+Outcomes+Partnership+PR+FINAL.pdf)
+[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Conservation-International-and-Ocean-Outcomes-Partnership-PR-FINAL.pdf)
