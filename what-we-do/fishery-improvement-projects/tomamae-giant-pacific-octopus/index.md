@@ -3,7 +3,7 @@ layout: page
 title: Tomamae Giant Pacific Octopus FIP
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/tomamae-giant-pacific-octopus-hero.jpg
-subtitle:
+subtitle: A joint project of Ocean Outcomes and Seafood Legacy
 weight: 
 teaser-text:
 ---
@@ -28,7 +28,7 @@ In Tomamae-cho, Hokkaido, about 10% of the population of 3,200 are employed in t
 | FIP Status: | Prospective FIP (<a href="https://fisheryprogress.org/fip-profile/japan-tomamae-giant-pacific-octopus-barrel-flowing">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | February 2018 |
 | Location: | Tomamae, Hokkaido, Japan |
-| Participants: | Ocean Outcomes, a group of barrel flowing fishermen at the Tomamae branch of Kita-Rumoi Fisheries Cooperative |
+| Participants: | Ocean Outcomes, Seafood Legacy, a group of barrel flowing fishermen at the Tomamae branch of Kita-Rumoi Fisheries Cooperative |
 | Species: | North Pacific Giant Octopus (*Enteroctopus dofleini*) |
 | Gear Type: | Barrel flowing fishing (樽流し、tarunagashi) |
 | Volume: | 51 mt - *Based on the fishery catch data provided by the Kita-Rumoi Fisheries Cooperative, which manages the fishery, the average annual catch from 2010 to 2016 in this region was 51 mt.* |
