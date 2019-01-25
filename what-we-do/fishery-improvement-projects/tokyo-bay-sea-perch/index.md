@@ -77,7 +77,7 @@ The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fi
 | FIP Status: | Comprehensive FIP (<a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | November 2016 |
 | Location: | Tokyo Bay, Chiba Prefecture, Japan |
-| Participants: | Ocean Outcomes, Kaiko Bussan, Seafood Legacy|
+| Participants: | Ocean Outcomes, Seafood Legacy, Kaiko Bussan |
 | Species: | Japanese sea perch (*Lateolabrax japonicus*) |
 | Gear Type: | mid-scale purse seine |
 | Volume: | 279 mt - *Based on catch data from the Funabashi Fisheries Cooperative, UoA sea perch harvests averaged 436 mt per year from 2003 to 2014, while client (Kaiko Bussan) harvests averaged 279 mt per year from 2007 to 2014. The client catch therefore represents about 64% of UoA catch. Data taken from pre-assessment report.* |
