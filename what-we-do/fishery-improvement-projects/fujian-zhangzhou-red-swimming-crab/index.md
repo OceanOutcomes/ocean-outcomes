@@ -3,7 +3,7 @@ layout: page
 title: Fujian Zhangzhou Red Swimming Crab FIP
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/fujian-zhangzhou-red-swimming-crab-hero.jpg
-subtitle:
+subtitle: A joint project of Ocean Outcomes and Tao Ran
 weight: 
 teaser-text:
 ---
@@ -28,7 +28,7 @@ China’s Fujian Province is the leading fishing region in China for a ‘red sw
 | FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/china-fujian-zhangzhou-red-swimming-crab-bottom-trawl-pottrap">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | 7/1/2016 |
 | Location: | Minnan-Taiwan Bank, located in the southern part of Taiwan Strait at the boundary between the East and South China Seas |
-| Participants: | Ocean Outcomes, National Fisheries Institute (NFI), China Aquatic Products Processing and Marketing Alliance (CAPPMA), and Zhangzhou Aquatic Products Processing and Marketing Alliance (ZAPPMA). Participation from other key stakeholders under negotiation. |
+| Participants: | Ocean Outcomes, Tao Ran, National Fisheries Institute (NFI), China Aquatic Products Processing and Marketing Alliance (CAPPMA), and Zhangzhou Aquatic Products Processing and Marketing Alliance (ZAPPMA). Participation from other key stakeholders under negotiation. |
 | Species: | Red swimming crab (*Portunus haanii*) and three-spot swimming crab (*Portunus sanguinolentus*) |
 | Gear Type: | Bottom trawl and pot |
 | Volume: | ~40,000 mt - *The Zhangzhou Fisheries Statistics Yearbook indicates the annual crab harvest in Zhangzhou from 2009 to 2014 varies from about 55,000 to 60,000 metric tons and an estimated 60-65% of these are in the ‘red swimming crab group’, putting the approximate RSC harvest at 30,000-40,000 mt.* |
