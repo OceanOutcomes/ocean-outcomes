@@ -5,7 +5,7 @@ landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chinesefisherieshero.jpg
 weight: 1
 teaser-text: In addition to accounting for ⅓ of the world’s seafood production, China as a country consumes more seafood than the next 10 countries combined. Ensuring sustainable Chinese fisheries and aquaculture at this scale will be no easy task. 
-subtitle: China as a country consumes more seafood than the next 10 countries combined.
+subtitle: China as a country consumes more seafood than the next 10 countries combined. To ensure this seafood is produced and consumed sustainably, we’re working closely with a local Chinese NGO and company to implement scientifically-rigorous Chinese sustainable fisheries and seafood initiatives.
 ---
 
 ##China’s seafood production, consumption, aquaculture operations, and commercial fishing fleets are staggering in size.
@@ -21,7 +21,9 @@ Despite the size of the Chinese seafood industry and the unique status seafood h
 
 This includes increasing consumer and business awareness regarding the fisheries crisis, bolstering in-country capacity and initiatives, exploring solutions towards more sustainable practices with government and industry leaders, and developing and implementing fishery and aquaculture improvement projects.
 
-To most effectively accelerate sustainable seafood outcomes in China, and ensure those outcomes are durable, we work closely with Tao Ran, a Chinese-registered seafood consultancy. Tao Ran, founded with the support of O2, is our primary partner for our China work, and collaboratively we fund, design, test, and implement a variety of sustainable seafood initiatives across the region. These include, demonstration level conservation projects in key ecoregions to protect important spawning grounds, fishery and aquaculture improvement projects to instruct management policies, and engaging Chinese industry and other supply chain actors towards improved practices. 
+We implement our work in China through close partnerships with a local NGO named Qingdao Marine Conservation Society (QMCS) and Tao Ran, a local environmental services organization. Both these entities were established with O2 support, and the partnership arrangement between O2 and these entities provides a flexible avenue to access domestic Chinese funding, operate within China legally, while maninting a strong, accountable, and international team approach to our sustainable fisheries and seafood work in China.
+
+This ensures our initiatives in the region are effective and our outcomes durable. Working with QMCS and Tao Ran, we collaboratively fund, design, test and implement a variety of sustainable seafood and fisheries projects throughout China. These include, demonstration level conservation projects in key ecoregions to protect important spawning grounds, fishery and aquaculture improvement projects to instruct management policies, and engaging Chinese industry and other supply chain actors towards improved practices. 
 
 Without a significant, concerted, and locally-led push for reform, it’s likely overfishing, irresponsible aquaculture, and habitat loss and degradation in China will continue.
 
