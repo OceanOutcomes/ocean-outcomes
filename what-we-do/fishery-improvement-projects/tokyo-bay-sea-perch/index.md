@@ -3,7 +3,7 @@ layout: page
 title: Tokyo Bay Sea Perch FIP
 landing-image:
 hero-image:
-subtitle:
+subtitle: A joint project of Ocean Outcomes and Seafood Legacy
 weight: 
 teaser-text:
 ---
