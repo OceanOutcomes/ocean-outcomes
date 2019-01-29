@@ -14,22 +14,6 @@
   bio: |
     A founding member of O2, Perry has primary responsibility for O2’s IT environment, systems, internal project management workflows, communication strategies, websites, and brand across O2’s programs and geographies. This includes; creating and managing systems for facilitating collaboration, communication, and information gathering among a diverse group of team members and fishery stakeholders and; facilitating the translation of technical information into effective communications collateral to drive interest and investment in sustainable fisheries work. Drawing on 15 plus years of experience as an Alaskan commercial fisherman, he is a regular contributor to O2’s program development. Prior to O2, he worked for Apple and Wild Salmon Center, giving him unique, creative, and customer-facing experience with both corporate tech industry clients and conservation constituencies. Staying true to his roots, he continues to work in his family’s commercial fishing operation in Bristol Bay, Alaska each summer.
 
-- name: Fenjie Chen
-  contractor: true
-  title: Fisheries Program Manager, Tao Ran
-  email: fenjie@oceanoutcomes.org
-  image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/fenjiestaffphoto.jpg
-  bio: |
-    Fenjie implements O2’s fishery improvement projects and conducts various research tasks in China. This includes managing the red swimming crab FIP in Fujian, supporting the development of tuna FIPs and conducting assessments for fisheries in East Asia on behalf of the Monterey Bay Aquarium. Fenjie’s previous experience includes positions with the Marine Environment and Fishery Resources Monitoring Center in southern China and with ChinaBlue. He has assessed a variety of regional marine fisheries on behalf of the World Bank, among others. With a passion for Chinese fisheries, fisheries management, and marine ecology, Fenjie holds a B.Sc. from Shanghai Ocean University in China and a M.Sc. in fisheries science from Hokkaido University in Japan. He is fluent in Mandarin, English, and Japanese and enjoys keeping ornamental fish, karate, and skating in his spare time.
-    
-- name: Zelin Chen
-  contractor: true
-  title: Intern, Tao Ran
-  email: 
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/zelinstaffphoto.jpg
-  bio: |
-    With four years of training in fisheries science, resource management, and biology, Zelin is enthusiastic about fish and fishery management. As a graduate student of the School of Marine & Environmental Affairs at the University of Washington, his academic interest is focused on sustainable fisheries, fisheries stock assessment, and the management strategies of small-scale fisheries. His graduate training provides him with critical and holistic thinking in approaching fisheries from a diversity of perspectives. Zelin is conducting his thesis project on China's coastal crab fisheries and their development of a quota-based fisheries management system. As part of this work he is supporting Ocean Outcomes with research and analysis of Chinese fishery improvement projects.
-
 - name: Jocelyn Drugan, PhD
   contractor: false
   title: Analytics Team Director and Fisheries Scientist
@@ -37,14 +21,6 @@
   image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/jocelynstaffphoto.jpg
   bio: |
     With over 14 years of fisheries science experience, Jocelyn is passionate about maintaining healthy fish populations and aquatic ecosystems. She completed her B.S. in Ecology & Evolutionary Biology at Yale University and her Ph.D. in Aquatic & Fishery Sciences at the University of Washington, writing a dissertation on population genetics and eco-evolutionary dynamics in salmon. After graduating, she developed seascape genetic simulation models for groundfish as a postdoctoral research associate at the NOAA Alaska Fisheries Science Center in Seattle. At O2, Jocelyn ensures the scientific integrity of O2’s fisheries assessments and fishery improvement plans. In 2002, Jocelyn was a Fulbright Fellow based in Shimizu, Japan, taking the opportunity to learn about tuna sashimi production and eat lots of sushi. She grew up in San Diego, California and speaks both Mandarin Chinese and Japanese, and enjoys reading, running and playing the beautiful game of soccer (and futsal too).
- 
-- name: Lu Fang
-  contractor: true
-  title: Fisheries and Aquaculture Analyst, Tao Ran
-  email: 
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/lustaffphoto.jpg
-  bio: |
-    Lu’s passion for healthier oceans motives her exploration of sustainable fisheries projects and initiatives to protect marine ecosystems. She has conveyed the principles of sustainable seafood to consumers as a Marine Stewardship Council volunteer and has developed sustainable Chinese fishery project proposals which integrate databases and fishery business as a Blue Pioneers Program fellow at Monterey Bay Aquarium. With O2, Lu supports the implementation of fishery and aquaculture improvement projects (FIPs/AIPs) throughout Japan and China. Lu holds a MSc. from Tokyo University of Marine Science and Technology in fisheries analytics and a Bachelor degree in fisheries science from Ocean University of China. She is fluent in Chinese, English, and Japanese, and enjoys traveling and photography in her spare time.
  
 - name: Anna Gabis
   contractor: false
@@ -77,14 +53,6 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/ivanstaffphoto.jpg
   bio: |
     Iván grew up in central Mexico and completed his graduate program coursework in Marine Sciences at the Marine Science and Limnology Institute of the National University of Mexico. He has more than 10 years of experience working directly with fishers and seafood buyers to design and implement sustainable fisheries projects. At O2, he leads the partnership with the Monterey Bay Aquarium Seafood Watch Program; researching and writing Seafood Watch Reports for wild fisheries in the U.S. and Latin America. Prior to joining O2 in 2015, Iván lived in Washington DC, where he worked as an independent fishery management consultant for organizations such as WWF (working on several reports and fishery assessments on rights based management and fish conservation in Latin America) and the Monterey Bay Aquarium. Iván enjoys many things, but has a special affinity for outdoor activities such as hiking, diving and playing soccer! 
-
-- name: Shunji Murakami
-  contractor: true
-  title: Vice President and COO, Seafood Legacy
-  email: shunji@oceanoutcomes.org
-  image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/shunjistaffphoto.jpg
-  bio: |
-    Shunji leads the strategic development and implementation of O2’s Japan work. He maintains strong relationships with Japanese fishery communities, seafood business, and key Japanese NGOs, working closely with these stakeholders to co-develop solutions that lead to improved fishing practices and improved fishery-based livelihoods. Responsible for the launch Japan's first ever FIP and AIP, he has pioneered the improvement model in Japan. He has served as a moderator and panelist on numerous domestic and international sustainable seafood forums such as the SeaWeb Seafood Summit, the Tokyo Sustainable Seafood Symposium, and the Japan fishery policy councils, among others. Previously, Shunji led the Japan program for Wild Salmon Center where he worked with the Hokkaido government and local fisheries on chum salmon fisheries improvements. Other past positions include work for Patagonia Japan and freelance contributions to various fly fishing magazines, such as “Fly Fisher” and "Ecocolo" in Japan.
     
 - name: Jie-hyun Park
   contractor: false
@@ -101,14 +69,6 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/hoytstaffphoto.jpg
   bio: |
     Hoyt has worked for more than 20 years to ensure that oceans and those who depend on them thrive. At O2, he is working to scale the sustainable seafood movement by developing collaborative approaches that accelerate improvement in fisheries and aquaculture. Hoyt founded—and now serves as Board President of—The SmartFish Group, a triple impact seafood enterprise that incentivizes responsible artisanal fishing in Mexico. A Visiting Fellow at Stanford’s Center for Ocean Solutions, a Pew Marine Conservation Fellow, and a member of the IUCN MTSG, he holds an AB in Biology and English from Bowdoin College, a PhD in Evolutionary Ecology from the University of California, Santa Cruz, and a Launching New Ventures certificate from Harvard University. Hoyt’s experience as a captain, diver, fisherman, cameraman, and seafood entrepreneur contribute to his successful development of community–based conservation solutions. Hoyt and his wife and daughters divide their time between La Paz, Mexico and Madrid, Spain.
-    
-- name: Fang Qing
-  contractor: true
-  title: Fang Qing, Sustainability Director, Tao Ran
-  email: 
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/qingstaffphoto.jpg
-  bio: |
-    Qing is an accomplished veteran of the Chinese sustainable seafood industry. He has worked for the China Aquatic Products Processing and Marketing Alliance (CAPPMA) to help ensure that only legal and traceable seafood products were exported to the European Union in compliance with EU IUU Regulations. While with the Chinese Fishery Bureau of Ministry of Agriculture, he supported management of China's distant water fisheries under secondment, and he has consulted on fisheries and aquaculture for the World Wildlife Fund (WWF) and the Marine Stewardship Council (MSC). Qing currently works for Qingdao Tao Ran Environmental Science and Technology Co. Ltd where he leads market development and farm engagement efforts for Aquaculture Stewardship Council (ASC) in China. Qing has a degree in Ecology from The Ocean University of China.
     
 - name: Kathryn Read
   contractor: false
@@ -133,14 +93,6 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/danielstaffphoto.jpg
   bio: |
     Daniel’s 20 years of experience in fisheries and marine conservation is driven by a passion for fisheries, the ocean, and marine life. He has become an expert in tuna and sustainable market tools that drive change in fisheries and seafood supply chains. At O2 he is responsible for expanding O2’s portfolio of work, including tuna. Prior to O2, Daniel spent six years at World Wide Fund for Nature’s (WWF) global fisheries initiative (Smart Fishing Initiative), most recently as Deputy Leader. There he lead WWF global engagement in tuna fisheries and provided strategic direction to WWF International on seafood engagement. His past experience also includes a role as Senior Fisheries Certification Manager for the Marine Stewardship Council. Daniel holds a B.Sc in Biology from the University of London and an M.Sc. in Conservation from University College London.He is a keen climber and hiker, and enjoys getting out into the wild as much as he can.
-
-- name: Songlin Wang
-  contractor: true
-  title: CEO, Tao Ran and Chair of Qingdao Marine Conservation Society
-  email: songlin@oceanoutcomes.org
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/songlinstaffphoto.jpg
-  bio: |
-    Songlin is a professional and strategic leader in the field of seafood sustainability and marine conservation in China. His career includes work for The Nature Conservancy, Worldwide Fund for Nature-WWF, and The Paulson Institute, among others. He has planned, led, and coordinated a number of large scale sustainable fisheries and aquaculture projects and wetlands conservation projects. His efforts helped guide the first Marine Stewardship Council (MSC) certification of a Chinese fishery and created enabling conditions for the first two Chinese fish farms to be certified by the Aquaculture Stewardship Council (ASC). Songlin established O2’s China Program in late 2015, Tao Ran Environmental Science and Technology Co. Ltd (Tao Ran) in 2016, and Qingdao Marine Conservation Society (QMCS) in 2017. Trained first as a marine ecologist at the Ocean University of China, and then an environmental manager at Yale, Songlin excels at exploring conservation solutions from political, market, and scientific angles. He is fluent in Mandarin and English and in his spare time enjoys reading, traveling, sports, and keeping ornamental freshwater fish.
 
 - name: Nicole Williams
   contractor: false
