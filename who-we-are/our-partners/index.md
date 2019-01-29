@@ -3,8 +3,8 @@ layout: page
 weight: 3
 title: Our Partners
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/past-initiatives-hover.jpg
-teaser-text:
-subtitle: 
+teaser-text: Our partnerships are a flexible and effective avenue to implement our work, leverage domestic support, all while maintaining a strong, accountable, and international team approach to our sustainable fisheries and seafood initiatives.
+subtitle: Our on-the-ground sustainable fisheries and seafood initiatives are implemented in close collaboration with the below partners.
 ---
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/seafood-legacy-partners.png"><h2>Seafood Legacy</h2>
 
