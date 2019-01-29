@@ -5,7 +5,7 @@ subtitle: Do you care as much about sustainable fisheries as we do? Here are a f
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
 teaser-text: An estimated 3 billion people worldwide depend on seafood as their primary source of protein. Seafood plays a vital role in food security, ocean health, and local economies. Here’s what you can do to get involved and support more sustainable fisheries.
-weight: 4
+weight: 5
 ---
 ##Career and volunteer opportunities
 
