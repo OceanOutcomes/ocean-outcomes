@@ -57,4 +57,4 @@ We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-w
 
 ##Meet Seafood Legacy
 
-<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/shunjistaffphoto1.jpg" width="320" height="320"> About Seafood Legacy paragraph here.
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/seafood-legacy-logo.png" width="320" height="320"> About Seafood Legacy paragraph here.
