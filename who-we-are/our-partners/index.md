@@ -13,7 +13,7 @@ About Seafood Legacy here. <a href="https://seafoodlegacy.com/" target="_blank">
 ----
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/smartfish-logo-partners.png"><h2>SmartFish</h2>
 
-About SmartFish here. <a href="https://smartfish.mx/" target="_blank">www.smartfish.mx/</a>
+SmartFish Rescate de Valor, AC is a non-profit organization founded in 2013 with the mission of fostering a market for environmentally sustainable and socially responsible seafood in Mexico. To catalyze supply of environmentally sustainable and socially responsible seafood, SmartFish incubates artisanal fisher cooperatives to optimize their fishing, handling, processing and commercial capacities, thereby rescuing the value of their landings. To generate demand for sustainable seafood, SmartFish recently launched a buyer engagement project to assist large buyers, namely retail companies, to analyze their supply chains and develop and implement sustainable sourcing policies. SmartFish’s buyer engagement model is based on the experience of the members of the Conservation Alliance for Seafood solutions. <a href="https://smartfish.mx/" target="_blank">www.smartfish.mx/</a>
 
 ----
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/tao-ran-logo-partners.png"><h2>Tao Ran</h2>
