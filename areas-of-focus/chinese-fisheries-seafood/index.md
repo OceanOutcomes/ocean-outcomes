@@ -5,7 +5,7 @@ landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chinesefisherieshero.jpg
 weight: 1
 teaser-text: In addition to accounting for ⅓ of the world’s seafood production, China as a country consumes more seafood than the next 10 countries combined. Ensuring sustainable Chinese fisheries and aquaculture at this scale will be no easy task. 
-subtitle: China as a country consumes more seafood than the next 10 countries combined.
+subtitle: China as a country consumes more seafood than the next 10 countries combined. To ensure this seafood is produced and consumed sustainably, we’re working closely with a local Chinese NGO and company to implement scientifically-rigorous Chinese sustainable fisheries and seafood initiatives.
 ---
 
 ##China’s seafood production, consumption, aquaculture operations, and commercial fishing fleets are staggering in size.
@@ -21,7 +21,9 @@ Despite the size of the Chinese seafood industry and the unique status seafood h
 
 This includes increasing consumer and business awareness regarding the fisheries crisis, bolstering in-country capacity and initiatives, exploring solutions towards more sustainable practices with government and industry leaders, and developing and implementing fishery and aquaculture improvement projects.
 
-To most effectively accelerate sustainable seafood outcomes in China, and ensure those outcomes are durable, we work closely with Tao Ran, a Chinese-registered seafood consultancy. Tao Ran, founded with the support of O2, is our primary partner for our China work, and collaboratively we fund, design, test, and implement a variety of sustainable seafood initiatives across the region. These include, demonstration level conservation projects in key ecoregions to protect important spawning grounds, fishery and aquaculture improvement projects to instruct management policies, and engaging Chinese industry and other supply chain actors towards improved practices. 
+We implement this work through close partnerships with a local NGO named Qingdao Marine Conservation Society (QMCS) and Tao Ran, a local environmental services organization. Both these entities were established with O2 support, and the partnership arrangement between O2 and these entities provides a flexible avenue to access domestic Chinese funding, operate within China legally, while maintaining a strong, accountable, and international team approach to our sustainable fisheries and seafood work in the region.
+
+This ensures our initiatives are effective and our outcomes durable. Working with QMCS and Tao Ran, we collaboratively fund, design, test and implement a variety of sustainable seafood and fisheries projects throughout China. These include, demonstration level conservation projects in key ecoregions to protect important spawning grounds, fishery and aquaculture improvement projects to instruct management policies, and engaging Chinese industry and other supply chain actors towards improved practices. 
 
 Without a significant, concerted, and locally-led push for reform, it’s likely overfishing, irresponsible aquaculture, and habitat loss and degradation in China will continue.
 
@@ -45,6 +47,10 @@ Without a significant, concerted, and locally-led push for reform, it’s likely
 
 ---
 
+##Meet Qingdao Marine Conservation Society
+
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/QMCS-logo.png"> Qingdao Marine Conservation Society (QMCS), a Chinese nonprofit, was founded by former Ocean Outcomes China Program Director Songlin Wang in 2017. QMCS is dedicated to promoting coastal and marine ecosystem conservation and advancing the sustainable seafood movement in China through scientific research, public and industry education, and the international exchange of information and knowledge. In addition to partnering with O2 in implementing a number of FIPs, QMCS conducts seafood sustainability ratings in collaboration with Monterey Bay Aquarium Seafood Watch and is developing a China Seafood Sustainability Assessment and Education Program, which takes full consideration of China's uniquely rich seafood heritages and nascent sustainable seafood movement status. QMCS staff and members including marine ecologists, seafood experts, aquarium managers, educators, journalists, as well as sea and fish loving Chinese citizens.
+
 ##Meet Tao Ran 
 
-<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/songlinstaffphoto1.jpg" width="320" height="320"> Qingdao Tao Ran Environmental Science and Technology Co. Ltd (Tao Ran) was established by former Ocean Outcomes China Program Director Songlin Wang in 2016. Tao Ran provides professional strategic planning and management services to organisations dedicated to the conservation and management of aquatic environmental resources. The firm works in partnership with fisheries, the aquaculture industry and nonprofits to move the Chinese seafood industry towards a sustainable future. In addition to fishery and aquaculture improvement partnerships with Ocean Outcomes, Tao Ran works closely with the Aquaculture Stewardship Council to grow the number of Chinese farms and species certified by ASC.
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/tao-ran-logo.png"> Qingdao Tao Ran Environmental Science and Technology Co. Ltd (Tao Ran) was established by former Ocean Outcomes China Program Director Songlin Wang in 2016. Tao Ran provides professional strategic planning and management services to organisations dedicated to the conservation and management of aquatic environmental resources. The firm works in partnership with fisheries, the aquaculture industry and nonprofits to move the Chinese seafood industry towards a sustainable future. In addition to fishery and aquaculture improvement partnerships with Ocean Outcomes, Tao Ran works closely with the Aquaculture Stewardship Council to grow the number of Chinese farms and species certified by ASC.
