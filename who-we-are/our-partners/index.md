@@ -13,7 +13,7 @@ Qingdao Marine Conservation Society (QMCS), a Chinese nonprofit, was founded by 
 ----
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/seafood-legacy-partners.png"><h2>Seafood Legacy</h2>
 
-About Seafood Legacy here. <a href="https://seafoodlegacy.com/" target="_blank">www.seafoodlegacy.com</a>
+Seafood Legacy is a social venture based in Tokyo which provides sustainable seafood consulting services. Seafood is a symbol of the connections between marine ecosystems, marine economics, and regional communities, and Seafood Legacy’s purpose is to ensure that it remains abundant for future generations. <a href="https://seafoodlegacy.com/" target="_blank">www.seafoodlegacy.com</a>
 
 ----
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/smartfish-logo-partners.png"><h2>SmartFish</h2>
