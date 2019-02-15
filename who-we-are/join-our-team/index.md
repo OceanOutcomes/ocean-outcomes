@@ -9,12 +9,7 @@ weight: 5
 ---
 ##Career and volunteer opportunities
 
-> **Current openings:**  
-  
-> *Asia Tuna Improvement Manager*  
-> O2 is seeking qualified candidates to fulfill a dedicated full time contract role which provides a unique opportunity to be at the forefront of sustainable tuna management and to help improve Northeast Asian fishing practices so that vessels harvesting tuna can ultimately meet MSC standards for sustainability. Working closely with O2 leadership and partners in Northeast Asia, the Asian Tuna Improvement Manager will lead and coordinate outreach efforts with commercial fisheries and key NGOs in the region, with a particular emphasis on tuna catching vessels owned by companies based both in Taiwan, Province of China and in China and WWF offices. Sound interesting? [View full description and apply] (https://ocean-outcomes.workable.com/jobs/828398).
-
-Not your cup of tea? We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share.
+We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood, and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share.
 
 -----
 ##Contribute to improving fisheries
