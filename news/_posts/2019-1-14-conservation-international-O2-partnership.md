@@ -4,7 +4,7 @@ title: Conservation International, Ocean Outcomes Seek a More Sustainable Global
 date: 2019-1-14
 teaser-text: New global partnership will leverage experience and expertise to shift fisheries in developing regions of the world toward more environmentally sustainable, socially responsible and economically viable models.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/conservation-international-O2-partnership-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###We're excited to announce a global partnership with Conservation International which will work to establish a more sustainable seafood supply chain.
 
