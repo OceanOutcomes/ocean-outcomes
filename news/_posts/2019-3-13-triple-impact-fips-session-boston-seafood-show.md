@@ -16,4 +16,4 @@ Beginning in 2018 we teamed with Conservation International, SmartFish AC and Wi
 
 We have been [piloting this new model successfully in Mexico, Costa Rica, and beyond] (/news/conservation-international-O2-partnership/), and are now sharing how this approach works and how it has led to higher value for fishers and stronger seafood supply chains. 
 
-Want to learn more? [Get in touch] (/contact) or join us in Boston, at Seafood Expo North America, to learn more at our panel titled<a href="https://www.seafoodexpo.com/north-america/session/triple-impact-fips-finding-and-capturing-value-to-accelerate-fisheries-improvement/" target="_blank">“*Triple Impact FIPs: Improving Fisheries’ Social, Economic and Environmental Performance*"</a>.
+Want to learn more? [Get in touch] (/contact) or join us this month in Boston, at Seafood Expo North America, to learn more at our panel titled <a href="https://www.seafoodexpo.com/north-america/session/triple-impact-fips-finding-and-capturing-value-to-accelerate-fisheries-improvement/" target="_blank">“*Triple Impact FIPs: Improving Fisheries’ Social, Economic and Environmental Performance*"</a>.
