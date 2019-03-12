@@ -4,7 +4,7 @@ title: Ocean Outcomes Japan Merges With Seafood Legacy to Form Leading Japanese 
 date: 2019-2-15
 teaser-text: Through this new partnership, our two organizations will collaborate closely to develop, execute, and deliver sustainable seafood, fisheries, and aquaculture initiatives both in Japan and across the greater Northeast Asian region.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/O2-SFL-merger-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###To most effectively lead the sustainable seafood movement in Japan, we are excited to announce we have joined forces with Seafood Legacy by merging Ocean Outcomes’ Japan Program with Seafood Legacy.
 
