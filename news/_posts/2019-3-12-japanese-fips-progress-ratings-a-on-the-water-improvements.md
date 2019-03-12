@@ -12,14 +12,16 @@ The first Fishery Improvement Project (FIP) in Japan, the [Tokyo Bay Sea Perch F
 
 As a result of this work, Sustainable Fisheries Partnership and fisheryprogress.org awarded both projects an “A - Advanced Progress” rating, which confirms the projects are making publicly-verifiable improvements to fishing practices on the water.
 
-In the Tokyo Bay Sea Perch FIP, the fishery is now;
-- Catch sampling to verify the fishery’s limited impact on endangered, threatened, or protected (ETP) species;
-- Voluntarily limiting fishing on spawning stocks during spawning season to allow stocks to recover; and,
-- Working towards a transition to a maximum sustainable yield (MSY) precautionary management strategy through roundtable meetings with the local Chiba Prefectural government and the national Fisheries Research and Education Agency of Japan (FRA).
+In the Tokyo Bay Sea Perch FIP, the fishery is now;  
 
-In the Nachi Katsuura Albacore Longline FIP, the fishery is now;
-- Confirming sharks are not targeted, finned, and any accidentally caught sharks are released alive by cutting fishing lines; 
-- Confirming stock status of bigeye tuna, yellowfin tuna, and the baitfish Japanese pilchard are above their respective biologically-based limits, meaning these primary stock statuses are healthy; and 
-- Tracking the fishery’s limited interaction with sea turtles and seabirds.
+ - Catch sampling to verify the fishery’s limited impact on endangered, threatened, or protected (ETP) species;
+ - Voluntarily limiting fishing on spawning stocks during spawning season to allow stocks to recover; and,
+ - Working towards a transition to a maximum sustainable yield (MSY) precautionary management strategy through roundtable meetings with the local Chiba Prefectural government and the national Fisheries Research and Education Agency of Japan (FRA).
+
+In the Nachi Katsuura Albacore Longline FIP, the fishery is now;  
+
+ - Confirming sharks are not targeted, finned, and any accidentally caught sharks are released alive by cutting fishing lines; 
+ - Confirming stock status of bigeye tuna, yellowfin tuna, and the baitfish Japanese pilchard are above their respective biologically-based limits, meaning these primary stock statuses are healthy; and 
+ - Tracking the fishery’s limited interaction with sea turtles and seabirds.
 
 Both projects, in line with global best practices, are tracked publicly and audited independently on <a href="https://www.fisheryprogress.org" target="_blank">www.fisheryprogress.org</a>.
