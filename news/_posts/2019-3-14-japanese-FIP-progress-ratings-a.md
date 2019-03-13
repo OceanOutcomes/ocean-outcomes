@@ -21,8 +21,8 @@ In the Tokyo Bay Sea Perch FIP, the fishery is now;
 In the Nachi Katsuura Albacore Longline FIP, the fishery is now;  
 
  - Confirming sharks are not targeted, finned, and any accidentally caught sharks are released alive by cutting fishing lines; 
- - Confirming stock status of bigeye tuna, yellowfin tuna, and the baitfish Japanese pilchard are above their respective biologically-based limits, meaning these primary stock statuses are healthy; and 
- - Tracking the fishery’s limited interaction with sea turtles and seabirds; and,
+ - Confirming that stock status of the other species commonly caught or used as bait (bigeye tuna, yellowfin tuna, and the baitfish Japanese pilchard) are above their respective biologically-based limits, and that the fishery is not likely having significant negative impacts on the populations; 
+ - Tracking the fishery’s limited interaction with sea turtles and seabirds; and, 
  - Continuing to cooperate with management authorities on development and implementation of more precautionary fishery management objectives. 
 
 Both projects, in line with global best practices, are tracked publicly and audited independently on <a href="https://www.fisheryprogress.org" target="_blank">www.fisheryprogress.org</a>.
