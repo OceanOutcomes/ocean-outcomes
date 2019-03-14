@@ -64,6 +64,7 @@ The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fi
 ##Project News and Additional Resources
 
 * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/TokyoBayPreassessment2016.pdf" target="_blank">Funabashi Fisheries Cooperative Sea Perch Purse Seine Fishery MSC Pre-assessment Report</a>
+* [Improvement Efforts Lead to More Sustainable Fishing Practices in Japanese Sea Perch and Tuna Fisheries] (/news/japanese-FIP-progress-ratings-a/)
 * [First-Ever Fishery Improvement Project Launched in Japan] (/news/tokyo-bay-fishery-improvement-launch/)
 * [Tokyo Bay Sea Perch FIP Product Hits Japanese Supermarkets] (/news/seiyu-sells-fip-product/)
 * [Building Traceability into Japanese Fisheries] (/news/traceability-solutions-seafood-japan/)
