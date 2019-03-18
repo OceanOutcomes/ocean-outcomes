@@ -28,6 +28,8 @@ teaser-text:
 
 <h2>Overview</h2>
 
+<a href="https://seafoodlegacy.com/cases/tokyobay_seaperch/" target="_blank">詳しく知る（株式会社シーフードレガシーのページへ移動します）</a>
+
 Tokyo Bay is one of the leading commercial and recreational fishing regions in Japan for Japanese sea perch (*Lateolabrax japonicus*), a historically and culturally important fish used for edomae sushi, the style of sushi created during the late Edo-period (late 19th century) that influenced the nigiri sushi that is common today. 
 
 While archaeological sites show that species such as sea perch were consumed in the Tokyo Bay region as far back as 300 BC, commercial sea perch fishing in Tokyo Bay expanded during the Edo Period (1600-1850s) with new technology, gear, and techniques to match a growing demand. The present day mid-scale purse seine commercial sea perch fishery is permitted by the Chiba Prefecture government and the majority of the sea perch purse seine vessels fishing in Tokyo Bay are managed by the Funabashi Fisheries Cooperative. While fishing is permitted year-round, peak season is during the summer. 

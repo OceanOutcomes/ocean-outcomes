@@ -28,6 +28,8 @@ teaser-text:
 
 <h2>Overview</h2>
 
+<a href="https://seafoodlegacy.com/cases/nachikatsuura_longline_fip/" target="_blank">詳しく知る（株式会社シーフードレガシーのページへ移動します）</a>
+
 By volume Nachi Katsuura is one of the most significant ports for longline tuna production in Japan, accounting for the largest landings of fresh tuna in Japan. On an annual basis, roughly 430 Japanese long line vessels catch ~10,000 metric tons of albacore, much of which passes through Nachi Katsuura port in the Wakayama Prefecture.
 
 The Nachi Katsuura Albacore Longline FIP involves No. 78 Kaiou Maru, an offshore longline harvester that offloads at Nachi Katsuura port and Yamasa Wakiguchi Co., a regional tuna wholesaler. Yamasa Wakiguchi Co., the FIP client, sourced approximately 590 metric tons of albacore tuna from offshore longline fisheries in 2017-2018, including tuna caught by No. 78 Kaiou Maru.
