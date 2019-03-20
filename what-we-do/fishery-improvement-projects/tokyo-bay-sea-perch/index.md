@@ -28,7 +28,7 @@ teaser-text:
 
 <h2>Overview</h2>
 
-<a href="https://seafoodlegacy.com/cases/tokyobay_seaperch/" target="_blank">詳しく知る（株式会社シーフードレガシーのページへ移動します）</a>
+<a href="https://seafoodlegacy.com/cases/tokyobay_seaperch/" target="_blank">日本語での詳細はこちら（株式会社シーフードレガシーのページへ移動します）</a>
 
 Tokyo Bay is one of the leading commercial and recreational fishing regions in Japan for Japanese sea perch (*Lateolabrax japonicus*), a historically and culturally important fish used for edomae sushi, the style of sushi created during the late Edo-period (late 19th century) that influenced the nigiri sushi that is common today. 
 
