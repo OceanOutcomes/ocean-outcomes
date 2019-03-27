@@ -21,7 +21,7 @@ Meanwhile, two Russian conservation groups, Sakhalin Environment Watch (SEW) and
 
 ![Satellite Images of IUU and Poaching in Russia] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/satelliteinfractions.jpg)
 
-With IUU curbed, and with technical support from O2 staff, the Northeast Sakhalin salmon fishery was able to achieve [Marine Stewardship Council (MSC) certification] (http://www.msc.org/track-a-fishery/fisheries-in-the-program/certified/pacific/sakhalin_island_northheast_trap_net_pink_salmon/sakhalin_island_northheast_trap_net_pink_salmon). It was an important validation of the fishery and also helped build value for the individual fishing companies; new business connections with were also made as a result.
+With IUU curbed, and with technical support from O2 staff, the Northeast Sakhalin salmon fishery was able to achieve Marine Stewardship Council (MSC) certification. It was an important validation of the fishery and also helped build value for the individual fishing companies; new business connections with were also made as a result.
 
 Decreased in-river poaching, coupled with increased accountability in commercial fisheries, contributed to a dramatic bump in salmon returns in NE Sakhalin, returns which have now leveled off and remain at a stable level. This is in sharp contrast to other regions of Sakhalin where pink salmon returns have dramatically declined in recent years. 
 
