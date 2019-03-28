@@ -38,7 +38,7 @@ As a first step in the project, Ocean Outcomes collaborated with Kaiko Bussan to
 
 <a href="http://www.daidenmaru.com" target="_blank">Kaiko Bussan, Inc. website</a>
 
-<a href="http://www.seafoodlegacy.com/ja/" target="_blank">Seafood Legacy Co., Ltd. website</a>
+<a href="https://seafoodlegacy.com/" target="_blank">Seafood Legacy Co., Ltd. website</a>
 
 <a href="http://www.seiyu.co.jp" target="_blank">Seiyu GK website</a>
 
