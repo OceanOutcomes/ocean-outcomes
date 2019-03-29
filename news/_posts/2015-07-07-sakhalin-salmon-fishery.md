@@ -8,7 +8,7 @@ hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/ne
 featured: FALSE
 ---
 
-Earlier this week MRAG Americas suspended the Marine Stewardship Council (MSC) certificate for the [Northeast Sakhalin Island Pink Salmon Fishery] (https://www.msc.org/track-a-fishery/fisheries-in-the-program/certified/pacific/sakhalin_island_northheast_trap_net_pink_salmon/assessment-downloads). We want to give you the backstory, it illustrates a lot about the challenges and opportunities in nurturing sustainable fisheries outside the US and Western Europe.
+Earlier this week MRAG Americas suspended the Marine Stewardship Council (MSC) certificate for the Northeast Sakhalin Island Pink Salmon Fishery. We want to give you the backstory, it illustrates a lot about the challenges and opportunities in nurturing sustainable fisheries outside the US and Western Europe.
 
 Our team has been working with this fishery for more than a decade. When we first started, poachers had infiltrated all parts of the Northeast Sakhalin watershed, holing up for weeks in hidden camps near spawning grounds while they methodically worked to strip female salmon of their eggs. A team of concerned and passionate citizens-- both home-grown and from abroad-- came together in a shared sense of duty to stop the destruction. Vladimir Smirnov, a local fishermen and community leader, made a personal commitment to protect the region’s wild nature and fisheries, knowing that it was not just the right decision for nature, but the right decision for his business.
 
