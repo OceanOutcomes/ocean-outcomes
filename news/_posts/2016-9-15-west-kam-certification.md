@@ -25,7 +25,7 @@ Since 2008, four Russian salmon fisheries and Sea of Okhotsk pollock have receiv
 
 > **“The key is that commercial fishermen are leading these efforts,” says Caouette. “They are doing the hard work to meet sustainability requirements, and they’re seeing a return on their investment.”**
 
-A growing alignment of environmental and business interests has helped drive this change. Hundreds of grocery and food-service companies in North America and Europe – from Walmart to Whole Foods to IKEA – have made commitments to sell sustainable seafood and are looking for certified, sustainable products. Several companies, including Nestle, High Liner Foods, Gorton’s Seafood, Albion, and Fishin’ Co., have also invested in <a href="http://salmonfippartnership.org/" target="_blank">partnerships</a> with conservation groups and fisheries to increase the global supply of sustainable wild salmon.
+A growing alignment of environmental and business interests has helped drive this change. Hundreds of grocery and food-service companies in North America and Europe – from Walmart to Whole Foods to IKEA – have made commitments to sell sustainable seafood and are looking for certified, sustainable products. Several companies, including [Nestle, High Liner Foods, Gorton’s Seafood, Albion, and Fishin’ Co., have also invested in partnerships] (/what-we-do/past-initiatives/salmon-fip-partnership/) with conservation groups and fisheries to increase the global supply of sustainable wild salmon.
 
 > **"Sustainability is a growing worldwide phenomenon,” says Andrei Bokov, Chief Technologist for Vityaz-Avto and Delta. “More and more seafood companies are looking for new sources of sustainable seafood, and Russia can meet this demand.”**
 
@@ -49,6 +49,6 @@ Additional resources:
 
 <a href="https://drive.google.com/drive/folders/0B4Gx7d8EWmmJTExvQnpwYkxYbjQ" target="_blank">View media photos</a> 
 
-<a href="https://www.msc.org/track-a-fishery/fisheries-in-the-program/in-assessment/pacific/va-delta-kamchatka-salmon/" target="_blank">Marine Stewardship Council website</a> 
+<a href="https://www.msc.org" target="_blank">Marine Stewardship Council website</a> 
 
 <a href="http://www.iisd.org/sites/default/files/publications/ssi-blue-economy-2016.pdf" target="_blank">State of Sustainability Initiatives report</a> 
