@@ -38,7 +38,7 @@ As harvest volume of internationally recognized species such as Pacific Bluefin 
 
 <a href="http://www.seiyu.co.jp" target="_blank">Seiyu GK website</a>
 
-<a href="http://www.seafoodlegacy.com/ja/" target="_blank">Seafood Legacy Co., Ltd. website</a>
+<a href="https://seafoodlegacy.com/" target="_blank">Seafood Legacy Co., Ltd. website</a>
 
 <a href="http://www.kaki-marukin.com/" target="_blank">Marukin Co., Ltd. website</a>
 

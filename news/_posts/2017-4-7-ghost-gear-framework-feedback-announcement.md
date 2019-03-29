@@ -23,7 +23,7 @@ Ghost gear, sometimes called *abandoned, lost and discarded fishing gear*, is fi
 
 >“The framework presents 10 stakeholder groups with recommended approaches to combat ghost gear, each with an accompanying case study on how this has been achieved in practice. These include net recycling programs, derelict gear removal initiatives, and fishing management policy adjustments, among others. We really hope this will help the broader industry see change is both possible and practical.”
 
-<a href="http://www.ghostgear.org/best-practice-consultation" target="_blank">The draft framework is currently available for review and feedback on the GGGI website</a>, before it is finalized and adopted later this year. GGGI is working with Ocean Outcomes (O2) to seek feedback from all fishery stakeholders affected by ghost gear. A series of webinars will also be held. 
+<a href="https://www.ghostgear.org/resources" target="_blank">The draft framework is currently available for review and feedback on the GGGI website</a>, before it is finalized and adopted later this year. GGGI is working with Ocean Outcomes (O2) to seek feedback from all fishery stakeholders affected by ghost gear. A series of webinars will also be held. 
 
 To participate in a webinar or learn more about the best practice framework visit <a href="http://www.ghostgear.org/" target="_blank">www.ghostgear.org</a>.
 
