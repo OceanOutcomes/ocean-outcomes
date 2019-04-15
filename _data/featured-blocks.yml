@@ -52,14 +52,14 @@
     link-text: 詳細はこちら
     link-url: https://ocean-outcomes.workable.com/jobs/681426
   
-- featured: FALSE
-  language: ru
-  heading: We're Hiring!
-  title: Do you care as much about sustainable fisheries as we do?
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japan-coordinator-hires-featured.jpg
+- featured: TRUE
+  language: zh
+  heading: Ocean Outcomes, Tao Ran and QMCS Partnership
+  title: We implement our Chinese fishery improvement initiatives through a close, collaborative partnership with a local Chinese NGO named Qingdao Marine Conservation Society (QMCS) and Tao Ran, a local environmental services organization. Together, we collaboratively fund, design, test and implement a variety of sustainable seafood and fisheries projects throughout China.
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-hiring.jpg
   link:
-    link-text: Learn more
-    link-url: who-we-are/join-our-team/
+    link-text: Learn more about this work
+    link-url: /areas-of-focus/chinese-fisheries-seafood/
     
       
 - featured: FALSE
