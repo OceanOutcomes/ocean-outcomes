@@ -36,11 +36,11 @@
 
 - featured: TRUE
   language: jp
-  heading: Ocean Outcomes and Seafood Legacy Partnership
-  title: We implement our Japanese fishery improvement initiatives through a close, collaborative partnership with Seafood Legacy, the leading consulting firm specializing in sustainable seafood in Japan. Together, we develop, execute, and deliver sustainable seafood, fisheries, and aquaculture initiatives across Japan.
+  heading: 株式会社シーフードレガシーとのパートナーシップ
+  title: オーシャン・アウトカムズはサステナブル・シーフードに特化した日本のコンサルティング企業、株式会社シーフードレガシーと連携して漁業改善に取り組んでいます。私たちはともに日本の持続可能な水産物、漁業、養殖業を実現していきます。
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-sns.jpg
   link:
-    link-text: For information about this work in Japanese, please visit Seafood Legacy’s website
+    link-text: 日本での活動について知りたい方はこちら
     link-url: https://seafoodlegacy.com/
 
 - featured: FALSE
