@@ -37,10 +37,10 @@
 - featured: TRUE
   language: jp
   heading: 株式会社シーフードレガシーとのパートナーシップ
-  title: オーシャン・アウトカムズはサステナブル・シーフードに特化した日本のコンサルティング企業、株式会社シーフードレガシーと連携して漁業改善に取り組んでいます。私たちはともに日本の持続可能な水産物、漁業、養殖業を実現していきます。
+  title: オーシャン・アウトカムズはサステナブル・シーフードに特化した日本のコンサルティング企業、株式会社シーフードレガシーと連携して漁業改善に取り組んでいます。私たちは日本の持続可能な水産物、漁業、養殖業を実現していきます。
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-sns.jpg
   link:
-    link-text: 日本での活動について知りたい方はこちら
+    link-text: 日本での活動について知る
     link-url: https://seafoodlegacy.com/
 
 - featured: FALSE
