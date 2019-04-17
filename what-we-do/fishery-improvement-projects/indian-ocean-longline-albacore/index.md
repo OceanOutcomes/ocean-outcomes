@@ -20,6 +20,12 @@ The Indian Ocean Albacore Tuna Longline FIP aims to improve fishing practices fo
 
 ---
 
+##Project News and Additional Resources:
+
+* [Bumble Bee Foods and FCF Partner with Ocean Outcomes to Improve Longline Tuna Fisheries] (/news/bumble-bee-fcf-O2-albacore-tuna-project-announcement/)
+
+---
+
 ##Fishery Improvement Project Information:
 
 |||
@@ -33,8 +39,6 @@ The Indian Ocean Albacore Tuna Longline FIP aims to improve fishing practices fo
 | Volume: | To be determined as FIP develops. |
 
 ---
-
-[**For any recent news on this fishery project visit our blog.**] (/news/) 
 
 <a href="https://fisheryprogress.org/fip-profile/prospective-indian-ocean-albacore-tuna-longline" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Indian Ocean Albacore Tuna Longline FIP profile here.**</a>
 
