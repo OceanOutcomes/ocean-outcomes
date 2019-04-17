@@ -22,7 +22,7 @@ By volume, China is the largest squid fishing and processing country in the worl
 
 ---
 
-##Project News and Additional Resources
+##Project News and Additional Resources:
 
 * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/O2+Chinese+JFS+Fishery+Improvement+Scoping+Report+-+December+Revised+2018+FINAL.pdf" target="_blank">Chinese Japanese Flying Squid (JFS) Fisheries Improvement Scoping Report</a>
 * [Global Squid Sustainability Efforts Take Leap Forward] (/news/chinese-squid-sustainability-project-launched-in-qingdao/)
