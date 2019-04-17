@@ -34,14 +34,14 @@
     link-text: Get the latest
     link-url: http://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a
 
-- featured: FALSE
+- featured: TRUE
   language: jp
-  heading: Ocean Outcomes ソーシャルメデイア
-  title: O2のSNSで持続可能な水産業の最新情報をご確認ください。 
+  heading: 株式会社シーフードレガシーとのパートナーシップ
+  title: オーシャン・アウトカムズはサステナブル・シーフードに特化した日本のコンサルティング企業、株式会社シーフードレガシーと連携して漁業改善に取り組んでいます。私たちは日本の持続可能な水産物、漁業、養殖業を実現していきます。
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-sns.jpg
   link:
-    link-text: ぜひフォローしてください！
-    link-url: https://www.facebook.com/oceanoutcomes
+    link-text: 日本での活動について知る
+    link-url: https://seafoodlegacy.com/
 
 - featured: FALSE
   language: jp
@@ -52,14 +52,14 @@
     link-text: 詳細はこちら
     link-url: https://ocean-outcomes.workable.com/jobs/681426
   
-- featured: FALSE
-  language: ru
-  heading: We're Hiring!
-  title: Do you care as much about sustainable fisheries as we do?
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japan-coordinator-hires-featured.jpg
+- featured: TRUE
+  language: zh
+  heading: Ocean Outcomes (简称O2)与青岛市海洋生态研究会、道然的合作关系
+  title: O2通过与就地合作伙伴，位于中国的本土非政府组织-青岛市海洋生态研究会、立足于中国环保服务的机构-道然，合作开展当地的渔业改进项目。三方在一系列可持续海鲜与渔业项目的筹资、设计、试验和执行上展开合作，共同推动中国本土渔业迈向可持续发展未来。
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-hiring.jpg
   link:
-    link-text: Learn more
-    link-url: who-we-are/join-our-team/
+    link-text: 了解更多
+    link-url: /areas-of-focus/chinese-fisheries-seafood/
     
       
 - featured: FALSE
