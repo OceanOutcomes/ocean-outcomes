@@ -21,7 +21,7 @@ China’s Fujian Province is the leading fishing region in China for a ‘red sw
 
 ---
 
-##Project News and Additional Resources
+##Project News and Additional Resources:
 
 * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/O2+Fujian+Zhangzhou+Red+Swimming+Crab+Fisheries+Improvement+Scoping+Report+2018.pdf" target="_blank">Fujian Zhangzhou Red Swimming Crab Fisheries Improvement Scoping Report</a>
 * [Leading Seafood Industry Groups Launch First Sustainable Crab Project in China] (/news/national-fisheries-institute-O2-CAPPMA-O2-launch-crab-seafood-project-china/)
