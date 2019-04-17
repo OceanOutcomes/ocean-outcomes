@@ -20,6 +20,12 @@ The South Pacific Albacore and Yellowfin Tuna Longline FIP aims to improve fishi
 
 ---
 
+##Project News and Additional Resources:
+
+* [Bumble Bee Foods and FCF Partner with Ocean Outcomes to Improve Longline Tuna Fisheries] (/news/bumble-bee-fcf-O2-albacore-tuna-project-announcement/)
+
+---
+
 ##Fishery Improvement Project Information:
 
 |||
@@ -33,8 +39,6 @@ The South Pacific Albacore and Yellowfin Tuna Longline FIP aims to improve fishi
 | Volume: | To be determined as FIP develops. |
 
 ---
-
-[**For any recent news on this fishery project visit our blog.**] (/news/) 
 
 <a href="https://fisheryprogress.org/fip-profile/south-pacific-albacore-yellowfin-tuna-longline" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the South Pacific Albacore and Yellowfin Tuna Longline FIP profile here.**</a>
 
