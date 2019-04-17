@@ -9,7 +9,7 @@ teaser-text:
 ---
 ##Overview
 
-*This project was initially developed and implemented by Ocean Outcomes and is now managed and maintained by <a href="mailto:4SeaSolutions@gmail.com">ForSea Solutions</a>.* 
+*This project was initially developed and implemented by Ocean Outcomes and is now managed and maintained by <a href="https://www.forseasolutions.com/">ForSea Solutions</a>.* 
 
 The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the western coast of the Kamchatka Peninsula in Russia. The FIP includes coastal trap net and inriver beach seines fished by the clients for coho and sockeye salmon returning to the Vorovskaya, Opala, Golygina, and Koshegochek rivers; coho to the Ozernaya river; and sockeye to the Kol river from July to September. The fishery is managed for region-wide escapement goals, and catches have been high in recent years.
 
@@ -27,6 +27,16 @@ The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the wester
 
 ---
 
+##Project News and Additional Resources:
+
+* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">Pre-assessment for Western Kamchatka Salmon Fishery</a>
+* [Russian Fisheries Look to Corner a Piece of the Growing Sustainable Seafood Market] (/news/west-kam-certification/)
+* [West Kamchatka Salmon Fisheries Near MSC Sustainability Certification] (/news/west-kam-comment-period/)
+* [Russian Fisheries Make Strides on Road to Sustainability] (/news/russian-commerical-fisheries-make-strides/)
+* [West Kamchatka Salmon Fisheries Continue on Path to Sustainability] (/news/kamchatka-continues-improvement/)
+
+---
+
 ##Fishery Improvement Project Information:
 
 |||
@@ -41,8 +51,6 @@ The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the wester
 | Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamPreassessment2014.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WestKamWorkplan2016.pdf" target="_blank">Workplan</a> |
 
 ---
-
-[**For any recent news on this fishery project visit our blog.**] (/news/) 
 
 <a href="http://fisheryprogress.org/fip-profile/western-kamchatka-salmon-beach-seinetrap-net" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Western Kamchatka Salmon FIP profile here.**</a>
 

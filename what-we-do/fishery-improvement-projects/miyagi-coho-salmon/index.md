@@ -23,6 +23,14 @@ The first project of its kind in Japan, the Miyagi Onagawa Coho Salmon Aquacultu
 
 ---
 
+##Project News and Additional Resources:
+
+* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonPreassessment2017.xlsx" target="_blank">Miyagi Coho Salmon Pre-assessment 2017</a>
+* [Miyagi Onagawa Coho Salmon AIP Product Hits Japanese Supermarkets] (/news/seiyu-sells-aip-product/)
+* [Seiyu to Support Japan's First Aquaculture Improvement Project] (/news/seiyu-to-support-miyagi-aquaculture-improvement/)
+
+---
+
 ##Aquaculture Improvement Project Information:
 
 |||
@@ -36,7 +44,5 @@ The first project of its kind in Japan, the Miyagi Onagawa Coho Salmon Aquacultu
 | Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonPreassessment2017.xlsx" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonAIPWorkplan2017.pdf" target="_blank">Workplan</a> |
 
 ---
-
-[**For any recent news on this fishery project visit our blog.**] (/news/) 
 
 [**<< Back to O2 fishery improvement projects**] (/what-we-do/fishery-improvement-projects/)

@@ -21,6 +21,15 @@ China’s Fujian Province is the leading fishing region in China for a ‘red sw
 
 ---
 
+##Project News and Additional Resources:
+
+* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/O2+Fujian+Zhangzhou+Red+Swimming+Crab+Fisheries+Improvement+Scoping+Report+2018.pdf" target="_blank">Fujian Zhangzhou Red Swimming Crab Fisheries Improvement Scoping Report</a>
+* [Leading Seafood Industry Groups Launch First Sustainable Crab Project in China] (/news/national-fisheries-institute-O2-CAPPMA-O2-launch-crab-seafood-project-china/)
+* [Agreement Clears Way for Launch of China’s First Comprehensive Marine FIP] (/news/national-fisheries-institute-O2-CAPPMA-sign-mou/)
+* [O2 and CAPPMA Commit to a More Sustainable Future for Chinese Seafood Industry on World Oceans Day] (/news/agreement-with-CAPPMA-sustainable-seafood-china/)
+
+---
+
 ##Fishery Improvement Project Information:
 
 |||
@@ -35,8 +44,6 @@ China’s Fujian Province is the leading fishing region in China for a ‘red sw
 | Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/O2+Fujian+Zhangzhou+Red+Swimming+Crab+Fisheries+Improvement+Scoping+Report+2018.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+O2+5-YR+RSC+FIP+WORK+PLAN+V1.0+14+AUG+2018.pdf" target="_blank">Workplan</a> |
 
 ---
-
-[**For any recent news on this fishery project visit our blog.**] (/news/) 
 
 <a href="https://fisheryprogress.org/fip-profile/china-fujian-zhangzhou-red-swimming-crab-bottom-trawl-pottrap" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Fujian Zhangzhou Red Swimming Crab FIP profile here.**</a>
 
