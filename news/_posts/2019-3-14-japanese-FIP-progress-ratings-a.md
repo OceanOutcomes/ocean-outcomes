@@ -4,7 +4,7 @@ title: Improvement Efforts Lead to More Sustainable Fishing Practices in Japanes
 date: 2019-3-14
 teaser-text: As a result of over two years of work in Japan by Ocean Outcomes, Seafood Legacy, and partners, FIPs are beginning to have a positive impact on the water.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/japanese-FIP-progress-ratings-a-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###As a result of over two years of work in Japan by Ocean Outcomes, Seafood Legacy, and partners, FIPs are beginning to have a positive impact on the water.
 
