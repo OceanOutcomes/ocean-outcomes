@@ -23,21 +23,28 @@ In Tomamae-cho, Hokkaido, about 10% of the population of 3,200 are employed in t
 
 ---
 
+##Project News and Additional Resources:
+
+* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/JapanPPA_Hokkaido_SeaofJapan+FINAL+180618.pdf" target="_blank">Japanese MSC Project Pre-Assessment for: Selected west coast of Hokkaido (Sea of Japan) Fisheries</a>
+* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FIP+Scoping+Document+-+Tomamae+Octopus.pdf" target="_blank">Comprehensive FIP Scoping Document: Tomamae Giant Pacific Octopus Fishery</a>
+* [New FIP to Improve Giant Octopus Fishery in Northern Japan] (/news/giant-octopus-fip-launched-in-japan/)
+
+---
+
 ##Fishery Improvement Project Information:
 
 |||
 | ---: | --- |
-| FIP Status: | Prospective FIP (<a href="https://fisheryprogress.org/fip-profile/japan-tomamae-giant-pacific-octopus-barrel-flowing">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/japan-tomamae-giant-pacific-octopus-barrel-flowing">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | February 2018 |
 | Location: | Tomamae, Hokkaido, Japan |
-| Participants: | Ocean Outcomes, Seafood Legacy, a group of barrel flowing fishermen at the Tomamae branch of Kita-Rumoi Fisheries Cooperative |
+| Participants: | Ocean Outcomes, Seafood Legacy, a group of barrel flowing fishermen at the Tomamae branch of Kita-Rumoi Fisheries Cooperative, Wakkanai Fisheries Research Institute |
 | Species: | North Pacific Giant Octopus (*Enteroctopus dofleini*) |
 | Gear Type: | Barrel flowing fishing (樽流し、tarunagashi) |
 | Volume: | 51 mt - *Based on the fishery catch data provided by the Kita-Rumoi Fisheries Cooperative, which manages the fishery, the average annual catch from 2010 to 2016 in this region was 51 mt.* |
+| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/JapanPPA_Hokkaido_SeaofJapan+FINAL+180618.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FIP+Scoping+Document+-+Tomamae+Octopus.pdf" target="_blank">Scoping Document</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/ENG_JPN+Tomamae+Octopus+Workplan+-%E8%8B%AB%E5%89%8D%E3%83%9F%E3%82%BA%E3%83%80%E3%82%B3%E6%B4%BB%E5%8B%95%E8%A8%88%E7%94%BB.xlsx" target="_blank">Workplan</a> |
 
 ---
-
-[**For any recent news on this fishery project visit our blog.**] (/news/) 
 
 <a href="https://fisheryprogress.org/fip-profile/japan-tomamae-giant-pacific-octopus-barrel-flowing" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Tomamae Giant Pacific Octopus FIP profile here.**</a>
 
