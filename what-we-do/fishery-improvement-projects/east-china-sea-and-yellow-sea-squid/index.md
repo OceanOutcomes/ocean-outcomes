@@ -39,7 +39,7 @@ By volume, China is the largest squid fishing and processing country in the worl
 | Location: | East China Sea and Yellow Sea, China|
 | Owners/Leads: | Ocean Outcomes, Tao Ran, China Aquatic Products Processing and Marketing Alliance (CAPPMA) |
 | Participants: | Sea Farms Ltd., PanaPesca, Quirch Foods, Seachill |
-| Supporters: | Marks & Spencer, Tesco, Sainsbury's |
+| Supporters: | Marks & Spencer, Tesco, Sainsbury’s, Sysco, Kroger, Royal Caribbean, Fujian Dongshan County Shunfa Aquatic Product Co., Ltd. |
 | Species: | Japanese flying squid (*Todarodes pacificus*) |
 | Gear Type: | Trawl |
 | Volume: | ~5,000 mt |
