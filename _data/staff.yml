@@ -1,7 +1,7 @@
 - name: Lucy Bernard
   contractor: false
   title: Founder and Vice President, Finance and Operations
-  email: lucy@oceanoutcomes.org
+  email:
   image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/lucystaffphoto.jpg
   bio: |
     Lucy has more than 25 years of experience with organizational development, management, fundraising, and fostering social, economic and environmental change. At O2, she is responsible for ensuring an efficient and effective financial and operational platform. She was instrumental in the forging and founding of O2, and was the financial and operational architect and implementer of its establishment as an independent nonprofit organization. Prior to O2, she spent a decade with Wild Salmon Center, as the Director of Grant Programs and then as Deputy Director for State of the Salmon. Over the years Lucy has collaborated with a number of outstanding organizations and community leaders to develop and fund innovative projects to address environmental, social and economic challenges, including facilitating the founding of the National Day Laborer Organizing Network. She holds a B.S. in Biology from Cornell University, is fluent in Spanish and enjoys various outdoor pursuits with family and friends.
@@ -9,7 +9,7 @@
 - name: Perry Broderick
   contractor: false
   title: Communications and Systems Director
-  email: perry@oceanoutcomes.org
+  email:
   image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/perrystaffphoto.jpg
   bio: |
     A founding member of O2, Perry has primary responsibility for O2’s IT environment, systems, internal project management workflows, communication strategies, websites, and brand across O2’s programs and geographies. This includes; creating and managing systems for facilitating collaboration, communication, and information gathering among a diverse group of team members and fishery stakeholders and; facilitating the translation of technical information into effective communications collateral to drive interest and investment in sustainable fisheries work. Drawing on 15 plus years of experience as an Alaskan commercial fisherman, he is a regular contributor to O2’s program development. Prior to O2, he worked for Apple and Wild Salmon Center, giving him unique, creative, and customer-facing experience with both corporate tech industry clients and conservation constituencies. Staying true to his roots, he continues to work in his family’s commercial fishing operation in Bristol Bay, Alaska each summer.
@@ -17,7 +17,7 @@
 - name: Jocelyn Drugan, PhD
   contractor: false
   title: Analytics Team Director and Fisheries Scientist
-  email: jocelyn@oceanoutcomes.org
+  email:
   image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/jocelynstaffphoto.jpg
   bio: |
     With over 14 years of fisheries science experience, Jocelyn is passionate about maintaining healthy fish populations and aquatic ecosystems. She completed her B.S. in Ecology & Evolutionary Biology at Yale University and her Ph.D. in Aquatic & Fishery Sciences at the University of Washington, writing a dissertation on population genetics and eco-evolutionary dynamics in salmon. After graduating, she developed seascape genetic simulation models for groundfish as a postdoctoral research associate at the NOAA Alaska Fisheries Science Center in Seattle. At O2, Jocelyn ensures the scientific integrity of O2’s fisheries assessments and fishery improvement plans. In 2002, Jocelyn was a Fulbright Fellow based in Shimizu, Japan, taking the opportunity to learn about tuna sashimi production and eat lots of sushi. She grew up in San Diego, California and speaks both Mandarin Chinese and Japanese, and enjoys reading, running and playing the beautiful game of soccer (and futsal too).
@@ -25,7 +25,7 @@
 - name: Anna Gabis
   contractor: false
   title: Accountant
-  email: anna@oceanoutcomes.org
+  email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/annastaffphoto.jpg
   bio: |
     Anna Gabis, CPA, provides accounting support for Ocean Outcomes. She began her accounting career with Primorsky Zavod in the Russian Far East, and has extensive experience in non-profit accounting, cash management, financial forecasting, budgeting and auditing having worked in senior accounting roles in a number of not-for-profit organizations, a CPA firm, and private companies. Anna holds a Bachelor of Science degree in accounting from Portland State University.
@@ -33,7 +33,7 @@
 - name: Dick Jones
   contractor: false
   title: President and CEO
-  email: dj@oceanoutcomes.org
+  email:
   image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/dickstaffphoto.jpg
   bio: |
     Dick is a recognized leader in global seafood sustainability. He has 30 years of experience in the seafood industry, including 13 years overseeing seafood operations at HEB Grocery Co. and Whole Foods Market. Over the past 10 years he has honed his expertise in sustainable seafood initiatives through leading Ocean Outcomes as its President and CEO, founding seafood sustainability consultancy Resiliensea, Inc., and directing the major buyer engagement program at Sustainable Fisheries Partnership. He has extensive knowledge of the seafood supply chain, including global sourcing, merchandising, marketing and product/brand development, and is proficient in all global standards, certifications and eco-labels that are available to the seafood industry today.
@@ -41,7 +41,7 @@
 - name: Rich Lincoln
   contractor: false
   title: Founder and Senior Advisor
-  email: rich@oceanoutcomes.org
+  email:
   image: http://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/richstaffphoto.jpg
   bio: |
     Rich has 40 years of varied global experience in fisheries research, management, policy, and sustainability. Rich led O2’s formation as founding Executive Director, and now plays an instrumental role in O2’s fisheries management and other expert consulting services. His prior positions included International Policy Director for the Marine Stewardship Council, Program Director at Wild Salmon Center and various fisheries research, management and policy roles with the Washington Department of Fish and Wildlife. These included bilateral chair of the Pacific Salmon Commission's Fraser River Panel and developing co-management plans with Pacific Northwest treaty Indian tribes. Rich advised UN-FAO’s development of fisheries ecolabelling guidelines, is a member of the U.S. Pacific Fisheries Management Council, and its U.S. Commissioner designee to the newly formed North Pacific Fisheries Commission. Rich enjoys surfing, surf fishing, wildlife viewing, hiking, gardening and culinary concoctions.
@@ -49,7 +49,7 @@
 - name: Iván Martínez-Tovar
   contractor: false
   title: Associate Fisheries Scientist
-  email: ivan@oceanoutcomes.org
+  email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/ivanstaffphoto.jpg
   bio: |
     Iván grew up in central Mexico and completed his graduate program coursework in Marine Sciences at the Marine Science and Limnology Institute of the National University of Mexico. He has more than 10 years of experience working directly with fishers and seafood buyers to design and implement sustainable fisheries projects. At O2, he leads the partnership with the Monterey Bay Aquarium Seafood Watch Program; researching and writing Seafood Watch Reports for wild fisheries in the U.S. and Latin America. Prior to joining O2 in 2015, Iván lived in Washington DC, where he worked as an independent fishery management consultant for organizations such as WWF (working on several reports and fishery assessments on rights based management and fish conservation in Latin America) and the Monterey Bay Aquarium. Iván enjoys many things, but has a special affinity for outdoor activities such as hiking, diving and playing soccer! 
@@ -57,7 +57,7 @@
 - name: Jie-hyun Park
   contractor: false
   title: Korea Program Director
-  email: jhpark@oceanoutcomes.org
+  email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/jiehyunstaffphoto.jpg
   bio: |
     Jie-hyun is responsible for the development and implementation of O2’s Korea program. Her experience is broad—from Marine Protected Area development in Antarctic Oceans, to anti-IUU fishing initiative implementation—she has been a leading sustainable fisheries campaigner with many groups including Antarctic Southern Ocean Coalition, Greenpeace East Asia, WWF Korea, among others. She is viewed as a catalyst for several important Korean sustainable fisheries achievements, including developing Korea's support for an MPA network in the Southern Ocean, unveiling and reporting on Korea's distant water fleet's IUU fishing activities, and most recently, creating Korea’s IUU fishing regulations and generating Korean industry commitments to work towards sustainable tuna. Through these experiences, she brings a wealth of connections to Korea’s high-level government officials, politicians, academics, media, business and civil society.
@@ -65,7 +65,7 @@
 - name: Hoyt Peckham, PhD
   contractor: false
   title: Chief Innovation Officer
-  email: hoyt@oceanoutcomes.org
+  email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/hoytstaffphoto.jpg
   bio: |
     Hoyt has worked for more than 20 years to ensure that oceans and those who depend on them thrive. At O2, he is working to scale the sustainable seafood movement by developing collaborative approaches that accelerate improvement in fisheries and aquaculture. Hoyt founded—and now serves as Board President of—The SmartFish Group, a triple impact seafood enterprise that incentivizes responsible artisanal fishing in Mexico. A Visiting Fellow at Stanford’s Center for Ocean Solutions, a Pew Marine Conservation Fellow, and a member of the IUCN MTSG, he holds an AB in Biology and English from Bowdoin College, a PhD in Evolutionary Ecology from the University of California, Santa Cruz, and a Launching New Ventures certificate from Harvard University. Hoyt’s experience as a captain, diver, fisherman, cameraman, and seafood entrepreneur contribute to his successful development of community–based conservation solutions. Hoyt and his wife and daughters divide their time between La Paz, Mexico and Madrid, Spain.
@@ -73,7 +73,7 @@
 - name: Courtney J. Sakai, APR
   contractor: false
   title: Vice President, Business Development
-  email: courtney@oceanoutcomes.org
+  email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/courtneystaffphoto.jpg
   bio: |
     Courtney is an accomplished nonprofit and association executive, an award-winning PR and public affairs practitioner, and has demonstrated success formulating and leading large-scale, transformative policy initiatives. At O2, she is responsible for leading fundraising efforts, including initiating and expanding relationships with foundations, development agencies, and NGOs. Prior to O2, she spent 15 years at Oceana in senior-level management and program positions where she led numerous successful ocean and fisheries campaigns, including an international trade initiative on fishing subsidy reform that resulted in action by the World Trade Organization, Trans-Pacific Partnership, and United Nations. She has been a formal advisor to the U.S. Government on trade and environment; Vice President of the Coalition of Services Industries, and served on the staffs of California Governor Pete Wilson, including as Deputy Assistant Secretary in the California Resources Agency. She holds a B.A. in economics from Smith College and is a graduate of the California Executive Fellowship. 
@@ -81,7 +81,7 @@
 - name: Daniel Suddaby
   contractor: false
   title: Vice President, Strategy and Impact
-  email: daniel@oceanoutcomes.org
+  email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/danielstaffphoto.jpg
   bio: |
     Daniel’s 20 years of experience in fisheries and marine conservation is driven by a passion for fisheries, the ocean, and marine life. He has become an expert in tuna and sustainable market tools that drive change in fisheries and seafood supply chains. At O2 he is responsible for expanding O2’s portfolio of work, including tuna. Prior to O2, Daniel spent six years at World Wide Fund for Nature’s (WWF) global fisheries initiative (Smart Fishing Initiative), most recently as Deputy Leader. There he lead WWF global engagement in tuna fisheries and provided strategic direction to WWF International on seafood engagement. His past experience also includes a role as Senior Fisheries Certification Manager for the Marine Stewardship Council. Daniel holds a B.Sc in Biology from the University of London and an M.Sc. in Conservation from University College London.He is a keen climber and hiker, and enjoys getting out into the wild as much as he can.
@@ -89,7 +89,7 @@
 - name: Nicole Williams
   contractor: false
   title: Business Development and Finance Associate
-  email: nicole@oceanoutcomes.org
+  email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/nicolestaffphoto.jpg
   bio: |
     Nicole provides support for O2’s administrative and financial activities, business development, and the establishment and maintenance of O2’s corporate entities and partnerships. Nicole brings seven years of experience with international wildlife conservation organizations, which included managing program finances and grants for Wildlife Conservation Society and Panthera. In addition, she is a successful entrepreneur and small business owner, having established two retail roller skate shops from the ground up. Nicole is a world renowned roller derby athlete and five time world champion who actively competes at the highest level of the sport. She previously volunteered with the national governing body and currently serves on the Board of Directors for USA Roller Derby. Nicole holds a B.Sc. from SUNY College of Environmental Science and Forestry. She enjoys traveling internationally, backpacking, cycling, and tending to her small urban farm.
@@ -97,7 +97,7 @@
 - name: Ross Wanless
   contractor: false
   title: Asia Tuna Manager
-  email: ross@oceanoutcomes.org
+  email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/rossstaffphoto.jpg
   bio: |
     Ross has been an active leader in global tuna fisheries policy development and worked closely with fisheries improvement projects in South Africa for more than 10 years. He has experience as a fisheries observer, field biologist, highly published research scientist, and multi-tasking coordinator of multiple national and international programmes. He has extensive and direct experience with Asian tuna longline fisheries,  and less directly with purse seine fisheries. He has achieved significant success in working with the South Korean Bluefin tuna fleet, overseeing a programme of work to improve their fishing practices, and facilitating this fleet to become fully compliant with the Indian Ocean Tuna Commission’s (IOTC) seabird bycatch mitigation regulations.
