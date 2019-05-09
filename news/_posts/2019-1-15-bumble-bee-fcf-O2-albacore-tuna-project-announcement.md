@@ -24,7 +24,7 @@ Bumble Bee sources its albacore tuna through FCF, a Taiwanese-founded company th
 
 **“We know sustainable tuna fisheries require robust harvest strategies. And we know transparent monitoring of fishery impacts is critical for addressing any negative effects on surrounding ecosystems. These FIPs will work towards both those goals,” said Suddaby.**
 
-As a next step in the initiative, project partners are formalizing both the [Indian Ocean Albacore Tuna Longline FIP] (/what-we-do/fishery-improvement-projects/indian-ocean-longline-albacore/) and the [South Pacific Albacore and Yellowfin Tuna Longline FIP] (/what-we-do/fishery-improvement-projects/south-pacific-longline-albacore-yellowfin/). As part of that process they are developing FIP workplans and recruiting FIP participants.
+As a next step in the initiative, project partners are formalizing both the [Indian Ocean Albacore Tuna Longline FIP] (/what-we-do/fishery-improvement-projects/indian-ocean-longline-albacore/) and the [South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP] (/what-we-do/fishery-improvement-projects/south-pacific-longline-albacore-yellowfin/). As part of that process they are developing FIP workplans and recruiting FIP participants.
 
 ----
 
