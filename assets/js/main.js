@@ -195,11 +195,11 @@ $(document).ready(function() {
       });
 
       // Share Button on news pages
-      new Share('.share-button', {
-        title: 'Share'
-      });
-      // Make share button active always
-      $('.social.load').addClass('active');
+      // new Share('.share-button', {
+      //   title: 'Share'
+      // });
+      // // Make share button active always
+      // $('.social.load').addClass('active');
 
       this.toggleNewsletter();
       this.subscribeToNewsletter();
