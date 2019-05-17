@@ -42,7 +42,7 @@ Demand seafood, both fished and farmed, from sources which have minimal impact o
 -----
 ##Stay in touch
 
-[Subscribe to our sustainable seafood and fisheries newsletter] (http://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a) to get the latest from Ocean Outcomes delivered right to your inbox.
+[Subscribe to our sustainable seafood and fisheries newsletter] (https://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a) to get the latest from Ocean Outcomes delivered right to your inbox.
 
 [![Sustainable Seafood News]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/subscribe-to-sustainable-seafood-news.jpg)] (http://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/subscribe-to-sustainable-seafood-news.jpg)] (https://oceanoutcomes.us3.list-manage.com/subscribe?u=2b8e55c974a70064c5806011a&id=b067487a7a)

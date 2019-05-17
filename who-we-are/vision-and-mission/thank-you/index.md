@@ -6,7 +6,7 @@ weight:
 ---
 ##Read the latest on our blog
 
- * <a href="http://www.oceanoutcomes.org/news/">Ocean Outcomes Stories from the Field</a>
+ * <a href="https://www.oceanoutcomes.org/news/">Ocean Outcomes Stories from the Field</a>
 
 -----
 ##Connect online and spread the word 
