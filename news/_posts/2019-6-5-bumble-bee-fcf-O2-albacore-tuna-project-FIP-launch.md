@@ -26,7 +26,7 @@ Within five years, the FIP will work with the Western and Central Pacific Fisher
 
 **“This is not just an exciting development for large-scale improvements towards sustainability in tuna fishing, it’s also a bold and very forward-looking move from FCF and Bumble Bee. Without their commitment to a sustainable future, a project of this scale would not be possible,” added Ross Wanless, Asia Tuna Manager for O2.**
 
-This FIP is one of two projects between Bumble Bee, FCF and O2 focused on ensuring sustainable Chinese and Taiwanese longline fisheries; the other is in development for longline vessels in the Indian Ocean. The goal of both FIPs is to achieve a certifiable status by mid-2024.
+This FIP is one of two projects between Bumble Bee, FCF and O2 focused on ensuring sustainable Chinese and Taiwanese longline fisheries; [the other is in development for longline vessels in the Indian Ocean] (/what-we-do/fishery-improvement-projects/indian-ocean-longline-albacore/). The goal of both FIPs is to achieve a certifiable status by mid-2024.
 
 ----
 
