@@ -32,4 +32,4 @@ This FIP is one of two projects between Bumble Bee, FCF and O2 focused on ensuri
 
 **Additional Resources:**
 
-[Download a PDF of this announcement.] (www.google.com)
+[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/BB+WCPO+FIP+Launch+Announcement+-+June+2019.pdf)
