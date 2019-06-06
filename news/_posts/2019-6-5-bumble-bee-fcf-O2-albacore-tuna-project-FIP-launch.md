@@ -1,14 +1,14 @@
 ---
 layout: news
-title: New Tuna FIP to Drive Improvements on Hundreds of Chinese and Taiwanese Longline Vessels
+title: New Tuna FIP to Drive Improvements on Hundreds of Chinese and Chinese Taipei Longline Vessels
 date: 2019-6-5
 teaser-text: Project to expand observer coverage, improve fishery data and help inform science-based management strategies.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/bumble-bee-fcf-O2-albacore-tuna-project-FIP-launch-hero.jpg
 featured: TRUE
 ---
-###Project to Drive Improvements on Hundreds of Chinese and Taiwanese Longline Vessels
+###Project to Drive Improvements on Hundreds of Chinese and Chinese Taipei Longline Vessels
 
-**June 5, 2019** – Bumble Bee Foods, LLC, FCF Fishery Company, Ltd., Clover Leaf Seafoods and Ocean Outcomes have launched a new longline tuna fishery improvement project (FIP) focused on improving fishing practices for approximately 200 Chinese and Taiwanese longline albacore and yellowfin tuna fishing vessels in the Western and Central Pacific Ocean. A primary focus of the FIP is to improve data collection by increasing electronic observer coverage of vessels over time, with a long-term goal of 100 percent coverage. Expanding observer coverage will help drive the fisheries towards the Marine Stewardship Council (MSC) standard.
+**June 5, 2019** – Bumble Bee Foods, LLC, FCF Fishery Company, Ltd., Clover Leaf Seafoods and Ocean Outcomes have launched a new longline tuna fishery improvement project (FIP) focused on improving fishing practices for approximately 200 Chinese and Chinese Taipei longline albacore and yellowfin tuna fishing vessels in the Western and Central Pacific Ocean. A primary focus of the FIP is to improve data collection by increasing electronic observer coverage of vessels over time, with a long-term goal of 100 percent coverage. Expanding observer coverage will help drive the fisheries towards the Marine Stewardship Council (MSC) standard.
 
 **“FCF is proud to start working with a large section of the longline industry to improve data, reporting, and bycatch mitigation” said Fong Lee, Sustainability Officer at FCF. “As a leading tuna supplier globally, we’re uniquely positioned to support practical and durable solutions towards sustainable tuna.”**
 
@@ -26,7 +26,7 @@ Within five years, the FIP will work with the Western and Central Pacific Fisher
 
 **“This is not just an exciting development for large-scale improvements towards sustainability in tuna fishing, it’s also a bold and very forward-looking move from FCF and Bumble Bee. Without their commitment to a sustainable future, a project of this scale would not be possible,” added Ross Wanless, Asia Tuna Manager for O2.**
 
-This FIP is one of two projects between Bumble Bee, FCF and O2 focused on ensuring sustainable Chinese and Taiwanese longline fisheries; [the other is in development for longline vessels in the Indian Ocean] (/what-we-do/fishery-improvement-projects/indian-ocean-longline-albacore/). The goal of both FIPs is to achieve a certifiable status by mid-2024.
+This FIP is one of two projects between Bumble Bee, FCF and O2 focused on ensuring sustainable Chinese and Chinese Taipei longline fisheries; [the other is in development for longline vessels in the Indian Ocean] (/what-we-do/fishery-improvement-projects/indian-ocean-longline-albacore/). The goal of both FIPs is to achieve a certifiable status by mid-2024.
 
 ----
 
