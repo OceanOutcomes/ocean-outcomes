@@ -34,7 +34,7 @@ Despite these challenges, positive transformation of tuna management is gaining 
 ---
 ##Stories from the Field: Tuna
 
-* [New Tuna FIP to Drive Improvements on Hundreds of Chinese and Taiwanese Longline Vessels] (/news/bumble-bee-fcf-O2-albacore-tuna-project-FIP-launch/)
+* [New Tuna FIP to Drive Improvements on Hundreds of Chinese and Chinese Taipei Longline Vessels] (/news/bumble-bee-fcf-O2-albacore-tuna-project-FIP-launch/)
 * [Improvement Efforts Lead to More Sustainable Fishing Practices in Japanese Sea Perch and Tuna Fisheries] (/news/japanese-FIP-progress-ratings-a/)
 * [Bumble Bee Foods and FCF Partner with Ocean Outcomes to Improve Longline Tuna Fisheries] (/news/bumble-bee-fcf-O2-albacore-tuna-project-announcement/)
 * [Experts Responsible for World’s Largest Tuna Fisheries Come Together to Work Towards More Sustainable Management] (/news/tuna-management-workshop-fiji/)
