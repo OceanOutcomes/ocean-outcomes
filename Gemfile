@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby '2.3.6'
+ruby '2.6.3'
 
 gem "jekyll", "2.5.3"
 gem "bourbon"
