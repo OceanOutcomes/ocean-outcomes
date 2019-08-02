@@ -23,7 +23,7 @@ branches:
   - master
   - live
 jdk:
-  - oraclejdk11
+  - oraclejdk12
 env:
   global:
   - secure: Q6mCAiVmO14syG10GKW0mEotPEUhAIfLKa2dzgRUDIoIhC2tl359WoO1skqBm5mthmzVz2BXwL2q5MRWFBn/ml41q96b1Fx/RR+WWj0+yfN8lMFNZrREI9g49PaL4Za5ByoMkiPuP0AHx+NXwJq6HAgFLRyKsLMJ0pFGjKYatR4=
