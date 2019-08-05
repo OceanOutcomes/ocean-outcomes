@@ -37,7 +37,9 @@ end
 
 desc "Generate and publish site to stage.oceanoutcomes.org on Amazon S3."
 task :stage => [:build] do
-  system 'bundle exec s3_website push --config-dir=_stage_config'
+  system 'bundle exec s3_website install'
+  java -cp $(bundle show s3_website)/*.jar s3.website.Push --config-dir=_stage_config
+  # system 'bundle exec s3_website push --config-dir=_stage_config'
 end
 
 # Run development tasks on separate threads
