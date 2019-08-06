@@ -1,4 +1,6 @@
-language: ruby
+language: 
+ - ruby
+ - java
 # use container-based infrastructure to speed up build
 # see http://docs.travis-ci.com/user/workers/container-based-infrastructure/
 sudo: false
