@@ -9,7 +9,7 @@ sudo: false
 cache: bundler
 
 rvm:
-- 2.5.4
+- 2.5.3
 before_script:
 - bundle exec sass -r sass-globbing --update assets/sass:assets/css
 - bundle exec jekyll build
@@ -19,8 +19,7 @@ before_script:
 script:
 - casperjs test ./_scripts/phantom_tests.js
 after_success:
-- s3_website push
-# - "./_scripts/travis_deploy.sh"
+- "./_scripts/travis_deploy.sh"
 
 branches:
   only:
