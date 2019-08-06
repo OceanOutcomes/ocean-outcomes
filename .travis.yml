@@ -19,6 +19,10 @@ before_script:
 script:
 - casperjs test ./_scripts/phantom_tests.js
 after_success:
+- brew install jenv
+- brew tap caskroom/versions
+- brew cask install java8
+- jenv shell 8.0
 - "./_scripts/travis_deploy.sh"
 branches:
   only:
