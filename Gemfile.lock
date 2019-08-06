@@ -9,13 +9,13 @@ GEM
     addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
     aws-eventstream (1.0.3)
-    aws-sdk (2.11.324)
-      aws-sdk-resources (= 2.11.324)
-    aws-sdk-core (2.11.324)
+    aws-sdk (2.11.326)
+      aws-sdk-resources (= 2.11.326)
+    aws-sdk-core (2.11.326)
       aws-sigv4 (~> 1.0)
       jmespath (~> 1.0)
-    aws-sdk-resources (2.11.324)
-      aws-sdk-core (= 2.11.324)
+    aws-sdk-resources (2.11.326)
+      aws-sdk-core (= 2.11.326)
     aws-sigv4 (1.1.0)
       aws-eventstream (~> 1.0, >= 1.0.2)
     bitters (1.8.0)
@@ -36,7 +36,7 @@ GEM
     colored (1.2)
     colorize (0.8.1)
     concurrent-ruby (1.1.4)
-    configure-s3-website (2.3.0)
+    configure-s3-website (1.7.5)
       aws-sdk (~> 2)
       deep_merge (~> 1.0.0)
     deep_merge (1.0.1)
@@ -119,9 +119,9 @@ GEM
       ffi (~> 1.0)
     redcarpet (3.5.0)
     ruby_dep (1.5.0)
-    s3_website (3.4.0)
+    s3_website (2.16.0)
       colored (= 1.2)
-      configure-s3-website (= 2.3.0)
+      configure-s3-website (= 1.7.5)
       dotenv (~> 1.0)
       thor (~> 0.18)
     safe_yaml (1.0.5)
@@ -155,12 +155,12 @@ DEPENDENCIES
   jekyll-i18n
   neat
   rake (~> 10)
-  s3_website (>= 3.4.0)
+  s3_website (~> 2.16.0)
   sass (= 3.4.22)
   sass-globbing
 
 RUBY VERSION
-   ruby 2.5.1p57
+   ruby 2.3.8p459
 
 BUNDLED WITH
    1.17.3
