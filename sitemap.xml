@@ -6,216 +6,502 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
   <loc>https://www.oceanoutcomes.org/</loc>
-  <lastmod>2016-03-24T22:00:57+00:00</lastmod>
+  <lastmod>2019-08-08T23:14:37+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/ru/</loc>
-  <lastmod>2016-03-01T21:55:36+00:00</lastmod>
+  <lastmod>2019-05-17T05:07:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/jp/</loc>
-  <lastmod>2016-02-26T16:32:46+00:00</lastmod>
+  <lastmod>2019-05-17T05:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/zh/</loc>
+  <lastmod>2019-05-17T05:07:27+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/who-we-are/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/who-we-are/our-team/</loc>
-  <lastmod>2016-03-16T17:31:37+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/who-we-are/advisors/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/who-we-are/vision-and-mission/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/who-we-are/our-team/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/who-we-are/our-partners/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/who-we-are/board/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/who-we-are/join-our-team/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/what-we-do/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/what-we-do/our-work/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/what-we-do/services/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/what-we-do/testimonials/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/what-we-do/success-stories/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/initiatives/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/what-we-do/past-initiatives/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/initiatives/japanese-fisheries/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/areas-of-focus/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/initiatives/russian-fisheries/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/areas-of-focus/chinese-fisheries-seafood/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/initiatives/iuu/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/areas-of-focus/japanese-fisheries-seafood/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/initiatives/supply-chain/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/areas-of-focus/korean-fisheries-seafood/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/areas-of-focus/russian-fisheries-seafood/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/areas-of-focus/tuna/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/news/</loc>
-  <lastmod>2016-03-24T22:00:57+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/contact/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/initiatives/supply-chain/tracker/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/news/bumble-bee-fcf-O2-albacore-tuna-project-FIP-launch/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/news/astoria-to-boston/</loc>
-  <lastmod>2016-03-24T22:59:26+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/news/bear-predation-effects/</loc>
-  <lastmod>2016-03-24T22:00:57+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/ru/what-we-do/</loc>
-  <lastmod>2016-03-01T21:55:36+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/ru/what-is-a-fip/</loc>
-  <lastmod>2016-03-01T21:55:36+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/ru/salmon-fip-partnership/</loc>
-  <lastmod>2016-03-01T21:55:36+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/news/giant-octopus-fip-launched-in-japan/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/ru/contact/</loc>
-  <lastmod>2016-03-01T21:55:36+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/jp/what-we-do/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/jp/what-is-a-fip/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/jp/hokkaido-success/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/jp/ne-sakhalin-success/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
+  <lastmod>2019-05-17T05:07:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/jp/contact/</loc>
-  <lastmod>2016-02-26T16:32:46+00:00</lastmod>
+  <lastmod>2019-05-17T05:07:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/what-we-do/success-stories/hokkaido-chum/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/zh/contact/</loc>
+  <lastmod>2019-05-17T05:07:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/who-we-are/board/finances/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/east-china-sea-and-yellow-sea-squid/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/indian-ocean-longline-albacore/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/south-pacific-longline-albacore-yellowfin/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/tomamae-giant-pacific-octopus/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/what-we-do/services/rapid-assessments/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/what-we-do/success-stories/western-kamchatka-salmon/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/what-we-do/success-stories/sakhalin-anti-iuu/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/initiatives/japanese-fisheries/rapid-assessments/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/what-we-do/success-stories/hokkaido-chum/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/initiatives/iuu/summary/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/what-we-do/past-initiatives/salmon-fip-partnership/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/initiatives/iuu/cts/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/what-we-do/past-initiatives/observers/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/initiatives/iuu/observers/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/what-we-do/past-initiatives/tracker/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/initiatives/supply-chain/partnership/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/news/chinese-squid-sustainability-project-launched-in-qingdao/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.oceanoutcomes.org/initiatives/supply-chain/lets-talk/</loc>
-  <lastmod>2016-03-01T21:40:01+00:00</lastmod>
+  <loc>https://www.oceanoutcomes.org/news/national-fisheries-institute-O2-CAPPMA-O2-launch-crab-seafood-project-china/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/national-fisheries-institute-O2-CAPPMA-sign-mou/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/agreement-with-CAPPMA-sustainable-seafood-china/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/iuu-china-policy-expansion-announcement/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/chinese-sustainable-seafood-part-one/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/japanese-FIP-progress-ratings-a/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/O2-seafood-legacy-merger-partnership/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/seiyu-sells-aip-product/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/nachi-katsuura-albacore-fip-launch/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/seiyu-to-support-miyagi-aquaculture-improvement/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/unagi-seafood-festival-japan/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/iuu-seafood-imports-to-japan/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/traceability-solutions-seafood-japan/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/seiyu-sells-fip-product/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/tokyo-bay-fishery-improvement-launch/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/news/japan-developments/</loc>
-  <lastmod>2016-03-08T18:06:57+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/news/happy-holidays-2015/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/news/sound-science-sustainable-fisheries/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/news/dj-joins-as-executive-director/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/news/iki-island-bluefin-tuna-fisherman-lament/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/news/rfe-produces-high-volumes/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/news/sakhalin-salmon-fishery/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/news/interview-with-djones/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/news/fishery-improvement-needed/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/news/russia-record-catches/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
-</url>
-<url>
-  <loc>https://www.oceanoutcomes.org/news/kamchatka-continues-improvement/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/news/expanding-sustainability-markets/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/sustainable-oyster-workshop-south-korea/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/seafood-colab-finalist-korean-oyster/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/korea-program-launches-news-coverage/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/west-kam-certification/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/sakhalin-hatchery-reform/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/west-kam-comment-period/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/new-fishery-management-kamchatka/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/russian-commerical-fisheries-make-strides/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/rfe-produces-high-volumes/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/sakhalin-salmon-fishery/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/russia-record-catches/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/kamchatka-continues-improvement/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/tuna-management-workshop-fiji/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/bumble-bee-fcf-O2-albacore-tuna-project-announcement/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/tuna-management-workshop-senegal/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/tuna-management-workshop-bali/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/tuna-management-workshop-sri-lanka/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/triple-impact-fips-session-boston-seafood-show/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/conservation-international-O2-partnership/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/oceana-smartfish-sustainable-seafood-campaigners-join-ocean-outcomes/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/committing-to-socially-responsible-seafood/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/whole-foods-global-vp-joins-board/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/ghost-gear-framework-feedback-announcement/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/board-of-directors-launch-announcement/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/randy-retirement-announcement/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/astoria-to-boston/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/bear-predation-effects/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/happy-holidays-2015/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/sound-science-sustainable-fisheries/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/dj-joins-as-executive-director/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/interview-with-djones/</loc>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.oceanoutcomes.org/news/fishery-improvement-needed/</loc>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/news/involving-commercial-fishermen/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:31+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.oceanoutcomes.org/news/ocean-outcomes-launches/</loc>
-  <lastmod>2016-03-01T21:40:00+00:00</lastmod>
+  <lastmod>2019-08-08T19:02:32+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+
+
 </urlset>
