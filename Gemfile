@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby '2.5.4'
+ruby '2.3.8'
 
 gem "jekyll", "2.5.3"
 gem "bourbon"
@@ -9,7 +9,7 @@ gem "bitters"
 gem "sass","3.4.22"
 gem "sass-globbing"
 gem "i18n"
-gem "s3_website", "~> 2.8.3"
+gem "s3_website", "~> 2.16.0"
 gem "rake", "~> 10"
 gem 'html-proofer'
 gem "jekyll-email-protect", "~> 1.0.3"

@@ -1,4 +1,6 @@
-language: ruby
+language: 
+ - ruby
+ - java
 # use container-based infrastructure to speed up build
 # see http://docs.travis-ci.com/user/workers/container-based-infrastructure/
 sudo: false
@@ -7,8 +9,9 @@ sudo: false
 cache: bundler
 
 rvm:
-- 2.5.4
+- 2.3.8
 before_script:
+- gem install bundler # Makes Travis use updated bundler gem
 - bundle exec sass -r sass-globbing --update assets/sass:assets/css
 - bundle exec jekyll build
 - npm install -g casperjs
@@ -18,10 +21,13 @@ script:
 - casperjs test ./_scripts/phantom_tests.js
 after_success:
 - "./_scripts/travis_deploy.sh"
+
 branches:
   only:
   - master
   - live
+jdk:
+  - openjdk8
 env:
   global:
   - secure: Q6mCAiVmO14syG10GKW0mEotPEUhAIfLKa2dzgRUDIoIhC2tl359WoO1skqBm5mthmzVz2BXwL2q5MRWFBn/ml41q96b1Fx/RR+WWj0+yfN8lMFNZrREI9g49PaL4Za5ByoMkiPuP0AHx+NXwJq6HAgFLRyKsLMJ0pFGjKYatR4=
