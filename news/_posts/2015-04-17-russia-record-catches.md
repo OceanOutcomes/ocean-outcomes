@@ -24,8 +24,6 @@ After years of research which established squid population biomass to be in the 
 
 Russian sources:
 
-[Russian Center of Fish Monitoring] (http://www.fish.gov.ru)
-
 [FishNews.ru] (http://fishnews.ru/news/25303)
 
 [AgroChart.ru] (http://www.agrochart.com/ru/)
