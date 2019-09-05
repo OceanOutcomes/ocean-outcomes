@@ -16,6 +16,4 @@ Commercial salmon fishing in the RFE takes place on Sakhalin Island, the Kamchat
 
 Sakhalin fishermen, who have only harvested 14,500 tons of salmon so far this season, are still hopeful for a big pink return. Scientists in the region postulate abnormal hydrological conditions are causing a delay in salmon returns, but they still anticipate a harvest of 70,000 - 80,000 tons, the majority of which should be caught in the coming weeks.
 
-More information on this story can be found on Russia’s Federal Fisheries Agency (Rosrybolovstvo) [website] (http://fish.gov.ru/press-tsentr/novosti/6073-shtab-lososevoj-putiny-2015-dobyto-bolee-169-tys-tonn-tikhookeanskikh-lososej).
-
 *For comparison purposes 2013 catch data are used instead of 2014 data, as pink salmon, a significant volume of RFE salmon production, are only caught in substantial numbers every other year.*
