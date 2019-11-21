@@ -8,11 +8,11 @@ featured: TRUE
 ---
 ### High-impact potential
 
-**21 November 2019** – Ocean Outcomes is the newest portfolio member of The Draper Richards Kaplan Foundation and the first organization working in ocean conservation supported by the global venture philanthropy firm.
+**21 November 2019** – Ocean Outcomes is the newest portfolio member of the Draper Richards Kaplan Foundation and the first organization working in ocean conservation supported by the global venture philanthropy firm.
 
-The Foundation invests exclusively in high-impact potential organizations, reviewing hundreds of opportunities annually, but selecting only a handful in which to invest. The Foundation chose Ocean Outcomes as an investee given the potential impact of a new economics-driven approach to small-scale fisheries reform that Ocean Outcomes and partners are developing.
+The DRK Foundation invests exclusively in high-impact potential organizations, reviewing hundreds of opportunities annually, but selecting only a handful in which to invest. The DRK Foundation chose Ocean Outcomes as an investee given the potential impact of a new economics-driven approach to small-scale fisheries reform that Ocean Outcomes and partners are developing.
 
-**“Small-scale fisheries provide half of the world’s wild caught seafood,” said Steve McCormick, Managing Director of the Foundation. “Yet aid, support and investment in the sector are just a fraction of what they need to be to ensure those fisheries – and the fishers whose livelihoods depend on them – are well-sustained. We were particularly attracted to Ocean Outcomes’ development of forward-thinking fishery improvement models commensurate with the sector’s significance and needs.”**
+**“Small-scale fisheries provide half of the world’s wild caught seafood,” said Steve McCormick, Managing Director of the DRK Foundation. “Yet aid, support and investment in the sector are just a fraction of what they need to be to ensure those fisheries – and the fishers whose livelihoods depend on them – are well-sustained. We were particularly attracted to Ocean Outcomes’ development of forward-thinking fishery improvement models commensurate with the sector’s significance and needs.”**
 
 ### Forward-thinking models to small-scale fisheries development
 
@@ -22,7 +22,7 @@ The $300,000 investment will help Ocean Outcomes finalize the components of the 
 
 **“We’re able to support the fishers with training and resources to conduct profitable businesses, but it’s also an investment assessment mechanism for development agencies and seafood companies hoping to improve supply,” said Ocean Outcomes President and CEO Dick Jones. “Add in that the entire approach incentivizes environmental and social improvement and it’s a real win-win-win solution.”**
 
-A key focus of the Foundation’s investments is entrepreneurial support and mentorship for social innovators. Steve – whose prior positions include guiding The Nature Conservancy for six years as its President and CEO and leading the Gordon and Betty Moore Foundation as its President – will join the Ocean Outcomes Board as its eighth member to help guide the organization towards fulfilling its mission.
+A key focus of the DRK Foundation’s investments is entrepreneurial support and mentorship for social innovators. Steve – whose prior positions include guiding The Nature Conservancy for six years as its President and CEO and leading the Gordon and Betty Moore Foundation as its President – will join the Ocean Outcomes Board as its eighth member to help guide the organization towards fulfilling its mission.
 
 ----
 
