@@ -1,3 +1,11 @@
+- name: Jada Tullos Anderson
+  contractor: false
+  title: Director, Fisheries and Aquaculture Finance
+  email:
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/staffphotoblank.jpg
+  bio: |
+    Bio here.
+
 - name: Lucy Bernard
   contractor: false
   title: Founder and Vice President, Finance and Operations
@@ -29,6 +37,14 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/annastaffphoto.jpg
   bio: |
     Anna Gabis, CPA, provides accounting support for Ocean Outcomes. She began her accounting career with Primorsky Zavod in the Russian Far East, and has extensive experience in non-profit accounting, cash management, financial forecasting, budgeting and auditing having worked in senior accounting roles in a number of not-for-profit organizations, a CPA firm, and private companies. Anna holds a Bachelor of Science degree in accounting from Portland State University.
+    
+- name: Neel Inamdar
+  contractor: false
+  title: Vice President, Fisheries and Aquaculture Finance
+  email:
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/staffphotoblank.jpg
+  bio: |
+    Bio here.
 
 - name: Dick Jones
   contractor: false
