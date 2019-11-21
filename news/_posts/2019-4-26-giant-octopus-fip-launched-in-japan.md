@@ -4,7 +4,7 @@ title: New FIP to Improve Giant Octopus Fishery in Northern Japan
 date: 2019-4-26
 teaser-text: After two years of conversation, site visits and scientific work, Japan’s third fishery improvement project (FIP) is now officially underway.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tomamae-octopus-fip-launch-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###After two years of conversation, site visits and scientific work, Japan’s third fishery improvement project (FIP) is now officially underway
 
