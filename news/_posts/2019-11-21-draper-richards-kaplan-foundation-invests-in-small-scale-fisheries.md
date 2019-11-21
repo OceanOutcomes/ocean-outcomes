@@ -28,4 +28,4 @@ A key focus of the DRK Foundation’s investments is entrepreneurial support and
 
 **Additional Resources:**
 
-[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/DRKF+Invests+in+O2+Press+Release+-+Fall+2019.pdf)
+[Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/DRK+Foundation+Invests+in+O2+Press+Release+-+Fall+2019.pdf)
