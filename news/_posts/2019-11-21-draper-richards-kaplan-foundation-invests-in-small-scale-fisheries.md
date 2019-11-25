@@ -12,7 +12,7 @@ featured: TRUE
 
 DRK Foundation invests exclusively in high-impact potential organizations, reviewing hundreds of opportunities annually, but selecting only a handful in which to invest. DRK Foundation chose Ocean Outcomes as an investee given the potential impact of a new economics-driven approach to small-scale fisheries reform that Ocean Outcomes is developing.
 
-**“Small-scale fisheries provide half of the world’s wild caught seafood,” said Steve McCormick, Managing Director of DRK Foundation. “Yet aid, support and investment in the sector are just a fraction of what they need to be to ensure those fisheries – and the fishers whose livelihoods depend on them – are well-sustained. We were particularly attracted to Ocean Outcomes’ development of forward-thinking fishery improvement models commensurate with the sector’s significance and needs.”**
+**“Small-scale fisheries provide half of the world’s wild caught seafood,” said Steve McCormick, Managing Director at DRK Foundation. “Yet aid, support and investment in the sector are just a fraction of what they need to be to ensure those fisheries – and the fishers whose livelihoods depend on them – are well-sustained. We were particularly attracted to Ocean Outcomes’ development of forward-thinking fishery improvement models commensurate with the sector’s significance and needs.”**
 
 ### Forward-thinking models to small-scale fisheries development
 
