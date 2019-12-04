@@ -3,7 +3,7 @@ layout: page
 title: Tuna
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/tuna-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/tunahero.jpg
-weight: 6
+weight: 2
 teaser-text: Tuna, one of the highest valued and most sought after species, is seeing record global catches, but tuna continues to face sustainability challenges without collaborative international management.
 subtitle: Tuna fisheries are some of the most important but challenging fisheries to sustainably manage.
 ---
