@@ -25,16 +25,6 @@ The UBC team included research members that completed an analogous <a href="http
 
 ----
 
-**Media Contacts:**
-
-Brian Caouette, VP Strategy and Programs   
-<a href="mailto:brian@oceanoutcomes.org">brian@oceanoutcomes.org</a>  
-+1-503.504.0050
-
-Perry Broderick, IT/Communications Manager   
-<a href="mailto:perry@oceanoutcomes.org">perry@oceanoutcomes.org</a>  
-+1-503.758.6893
-
 **Additional Resources:**
 
 <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/New+study+reveals+high+risk+of+illegal+seafood+imports+entering+Japanese+market+2017.pdf" target="blank">Download a PDF of this announcement</a>.
