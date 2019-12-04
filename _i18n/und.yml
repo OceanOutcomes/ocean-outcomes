@@ -23,7 +23,6 @@ und:
   ### Top level menu item
   what-we-do: "What We Do"
   #### Sub-menu items
-  fishery-improvement-projects: "Fishery Improvement Projects"
   services: "Client Services"
   testimonials: "Testimonials"
   success-stories: "Success Stories"
@@ -33,6 +32,7 @@ und:
   areas-of-focus: "Areas of Focus"
   #### Sub-menu items
   chinese-fisheries-seafood: "China"
+  fishery-improvement-projects: "Fishery Improvement Projects (FIP)"
   japanese-fisheries-seafood: "Japan"
   korean-fisheries-seafood: "Korea"
   russian-fisheries-seafood: "Russia"
