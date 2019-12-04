@@ -23,4 +23,4 @@ A collaborative industry-based initiative of Ocean Outcomes and leading seafood 
 
 ---
 
-This pan-Pacific partnership stewarded a number of regional [Fishery Improvement Projects (FIPs)] (/what-we-do/fishery-improvement-projects/) in Russia to address serious sustainability challenges, including overfishing, poaching, bycatch and hatchery impacts. 
+This pan-Pacific partnership stewarded a number of regional [Fishery Improvement Projects (FIPs)] (/areas-of-focus/fishery-improvement-projects/) in Russia to address serious sustainability challenges, including overfishing, poaching, bycatch and hatchery impacts. 
