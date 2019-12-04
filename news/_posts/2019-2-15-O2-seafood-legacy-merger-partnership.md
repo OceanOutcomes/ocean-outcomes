@@ -18,7 +18,7 @@ This includes, for example, in the [Tokyo Bay Sea Perch FIP] (/what-we-do/fisher
 
 **“Seafood Legacy and Ocean Outcomes have helped us drive Japanese fishery and aquaculture improvements through FIPs and AIPs, both of which are newer concepts in Japan. We applaud this new partnership, which will even better support sustainable seafood in our country,” said Kumie Wama, VP for Corporate Affairs at Seiyu GK.**
 
-Other joint projects include the [Miyagi Onagawa Coho Salmon AIP] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/), and the [Tomamae Giant Pacific Octopus FIP] (/what-we-do/fishery-improvement-projects/tomamae-giant-pacific-octopus/), as well as a number of buyer and industry engagement initiatives with partners such as Seiyu, a Japanese subsidiary of Walmart.
+Other joint projects include the [Miyagi Onagawa Coho Salmon AIP] (/areas-of-focus/fishery-improvement-projects/miyagi-coho-salmon/), and the [Tomamae Giant Pacific Octopus FIP] (/areas-of-focus/fishery-improvement-projects/tomamae-giant-pacific-octopus/), as well as a number of buyer and industry engagement initiatives with partners such as Seiyu, a Japanese subsidiary of Walmart.
 
 Together, Ocean Outcomes and Seafood Legacy will continue to lead the sustainable seafood movement in Japan, transitioning Japanese seafood producers and suppliers towards global best practices.
 
