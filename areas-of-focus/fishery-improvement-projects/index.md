@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fishery Improvement Projects
+title: Fishery Improvement Projects (FIP)
 subtitle: Our goal? More sustainable fisheries.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
 weight: 1
@@ -23,15 +23,15 @@ Our fishery improvement work addresses the full range of major fishery challenge
 
 ----
 
-  * [East China Sea and Yellow Sea Squid FIP] (/what-we-do/fishery-improvement-projects/east-china-sea-and-yellow-sea-squid/)
-  * [Fujian Zhangzhou Red Swimming Crab FIP] (/what-we-do/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/)
-  * [Indian Ocean Albacore Tuna Longline FIP] (/what-we-do/fishery-improvement-projects/indian-ocean-longline-albacore/)  
-  * [Miyagi Onagawa Coho Salmon AIP] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/)
-  * [Nachi Katsuura Albacore Longline FIP] (/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline/)
-  * [South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP] (/what-we-do/fishery-improvement-projects/south-pacific-longline-albacore-yellowfin/) 
-  * [Tokyo Bay Sea Perch FIP] (/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch/)
-  * [Tomamae Giant Pacific Octopus FIP] (/what-we-do/fishery-improvement-projects/tomamae-giant-pacific-octopus/)
-  * [Western Kamchatka Salmon FIP] (/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/)
+  * [East China Sea and Yellow Sea Squid FIP] (/areas-of-focus/fishery-improvement-projects/east-china-sea-and-yellow-sea-squid/)
+  * [Fujian Zhangzhou Red Swimming Crab FIP] (/areas-of-focus/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/)
+  * [Indian Ocean Albacore Tuna Longline FIP] (/areas-of-focus/fishery-improvement-projects/indian-ocean-longline-albacore/)  
+  * [Miyagi Onagawa Coho Salmon AIP] (/areas-of-focus/fishery-improvement-projects/miyagi-coho-salmon/)
+  * [Nachi Katsuura Albacore Longline FIP] (/areas-of-focus/fishery-improvement-projects/nachi-katsurra-albacore-longline/)
+  * [South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP] (/areas-of-focus/fishery-improvement-projects/south-pacific-longline-albacore-yellowfin/) 
+  * [Tokyo Bay Sea Perch FIP] (/areas-of-focus/fishery-improvement-projects/tokyo-bay-sea-perch/)
+  * [Tomamae Giant Pacific Octopus FIP] (/areas-of-focus/fishery-improvement-projects/tomamae-giant-pacific-octopus/)
+  * [Western Kamchatka Salmon FIP] (/areas-of-focus/fishery-improvement-projects/western-kamchatka-salmon/)
 
 ----
 

@@ -45,4 +45,4 @@ The first project of its kind in Japan, the Miyagi Onagawa Coho Salmon Aquacultu
 
 ---
 
-[**<< Back to O2 fishery improvement projects**] (/what-we-do/fishery-improvement-projects/)
+[**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)

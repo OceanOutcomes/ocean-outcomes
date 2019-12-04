@@ -87,4 +87,4 @@ While Wakiguchi-san’s goal for the FIP is an unconditional pass of the Marine 
 
 <a href="https://fisheryprogress.org/fip-profile/japan-albacore-tuna-longline" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Nachi Katsuura Albacore Longline FIP profile here.**</a>
 
-[**<< Back to O2 fishery improvement projects**] (/what-we-do/fishery-improvement-projects/)
+[**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)

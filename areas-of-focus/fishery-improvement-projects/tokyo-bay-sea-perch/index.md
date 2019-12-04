@@ -90,4 +90,4 @@ The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fi
 
 <a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Tokyo Bay Sea Perch FIP profile here.**</a>
 
-[**<< Back to O2 fishery improvement projects**] (/what-we-do/fishery-improvement-projects/)
+[**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)

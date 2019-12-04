@@ -54,4 +54,4 @@ The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the wester
 
 <a href="http://fisheryprogress.org/fip-profile/western-kamchatka-salmon-beach-seinetrap-net" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Western Kamchatka Salmon FIP profile here.**</a>
 
-[**<< Back to O2 fishery improvement projects**] (/what-we-do/fishery-improvement-projects/)
+[**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)

@@ -33,10 +33,10 @@ We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-w
 ---
 ##O2 and Seafood Legacy Japanese Fishery Improvement Projects:
 
-* [Miyagi Onagawa Coho Salmon AIP] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/)
-* [Nachi Katsuura Albacore Longline FIP] (/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline/)
-* [Tokyo Bay Sea Perch FIP] (/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch/)
-* [Tomamae Giant Pacific Octopus FIP] (/what-we-do/fishery-improvement-projects/tomamae-giant-pacific-octopus/)
+* [Miyagi Onagawa Coho Salmon AIP] (/areas-of-focus/fishery-improvement-projects/miyagi-coho-salmon/)
+* [Nachi Katsuura Albacore Longline FIP] (/areas-of-focus/fishery-improvement-projects/nachi-katsurra-albacore-longline/)
+* [Tokyo Bay Sea Perch FIP] (/areas-of-focus/fishery-improvement-projects/tokyo-bay-sea-perch/)
+* [Tomamae Giant Pacific Octopus FIP] (/areas-of-focus/fishery-improvement-projects/tomamae-giant-pacific-octopus/)
 
 ---
 ##Stories from the Field: Japan

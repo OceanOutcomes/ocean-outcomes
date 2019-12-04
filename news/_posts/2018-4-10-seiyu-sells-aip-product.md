@@ -15,7 +15,7 @@ Seiyu, a subsidiary of Walmart, hopes the sales will increase Japanese awareness
 
 [The first project of its kind in Japan, the Miyagi Onagawa Coho Salmon AIP launched in the fall of 2017] (/news/seiyu-to-support-miyagi-aquaculture-improvement/). Since then, project partners Ocean Outcomes, Fisherman Japan, Marukin Co., Ltd., Seafood Legacy, and Seiyu have been working towards more sustainable fish farming practices. This includes monitoring the farms impact on surrounding ecosystems, evaluating the sustainability of the feed used, and developing farm policies relating to social responsibility.
 
-[View the online profile for more information on the project, including a full pre-assessment and aquaculture improvement workplan] (/what-we-do/fishery-improvement-projects/miyagi-coho-salmon/).
+[View the online profile for more information on the project, including a full pre-assessment and aquaculture improvement workplan] (/areas-of-focus/fishery-improvement-projects/miyagi-coho-salmon/).
 
 ---
 

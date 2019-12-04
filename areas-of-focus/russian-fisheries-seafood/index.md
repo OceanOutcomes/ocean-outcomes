@@ -27,7 +27,7 @@ We conduct rapid assessments ([see the Russian fishery summaries here] (/what-we
 ---
 ##Russian Fishery Improvement Projects:
 
-* [Western Kamchatka Salmon FIP] (/what-we-do/fishery-improvement-projects/western-kamchatka-salmon/)
+* [Western Kamchatka Salmon FIP] (/areas-of-focus/fishery-improvement-projects/western-kamchatka-salmon/)
 
 ---
 ##Stories from the Field: Russia

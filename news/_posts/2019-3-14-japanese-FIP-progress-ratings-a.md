@@ -8,7 +8,7 @@ featured: FALSE
 ---
 ###As a result of over two years of work in Japan by Ocean Outcomes, Seafood Legacy, and partners, FIPs are beginning to have a positive impact on the water.
 
-The first Fishery Improvement Project (FIP) in Japan, the [Tokyo Bay Sea Perch FIP] (/what-we-do/fishery-improvement-projects/tokyo-bay-sea-perch/), and the first tuna FIP in Japan, the [Nachi Katsuura Albacore Longline FIP] (/what-we-do/fishery-improvement-projects/nachi-katsurra-albacore-longline/), have recently made significant progress in their respective journeys towards sustainability.
+The first Fishery Improvement Project (FIP) in Japan, the [Tokyo Bay Sea Perch FIP] (/areas-of-focus/fishery-improvement-projects/tokyo-bay-sea-perch/), and the first tuna FIP in Japan, the [Nachi Katsuura Albacore Longline FIP] (/areas-of-focus/fishery-improvement-projects/nachi-katsurra-albacore-longline/), have recently made significant progress in their respective journeys towards sustainability.
 
 As a result of this work, Sustainable Fisheries Partnership and fisheryprogress.org awarded both projects an “A - Advanced Progress” rating, which confirms the projects are making publicly-verifiable improvements to fishing practices on the water.
 

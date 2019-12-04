@@ -8,7 +8,7 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
-The South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP aims to improve fishing practices for longline vessels operating in the Pacific Ocean that land albacore in Fiji and supply Bumble Bee Foods. Bumble Bee sources albacore tuna from these vessels through the Taiwanese-founded company FCF Fishery Company, Ltd. (FCF), much of which is canned and exported to North American markets. While the fishery’s target stocks are healthy and management is well-document and well-implemented, the fishery lacks independent observers, electronic monitoring, qualitative information about bycatch, and explicit harvest control rules and harvest strategies which are fundamental tools used to limit the risk of overfishing. This FIP is one of two projects between Bumble Bee, FCF and O2 focused on ensuring sustainable Chinese and Chinese Taipei longline fisheries; [the other is for longline vessels in the Indian Ocean] (/what-we-do/fishery-improvement-projects/indian-ocean-longline-albacore/). The goal of both FIPs is to achieve a certifiable status by mid-2024.
+The South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP aims to improve fishing practices for longline vessels operating in the Pacific Ocean that land albacore in Fiji and supply Bumble Bee Foods. Bumble Bee sources albacore tuna from these vessels through the Taiwanese-founded company FCF Fishery Company, Ltd. (FCF), much of which is canned and exported to North American markets. While the fishery’s target stocks are healthy and management is well-document and well-implemented, the fishery lacks independent observers, electronic monitoring, qualitative information about bycatch, and explicit harvest control rules and harvest strategies which are fundamental tools used to limit the risk of overfishing. This FIP is one of two projects between Bumble Bee, FCF and O2 focused on ensuring sustainable Chinese and Chinese Taipei longline fisheries; [the other is for longline vessels in the Indian Ocean] (/areas-of-focus/fishery-improvement-projects/indian-ocean-longline-albacore/). The goal of both FIPs is to achieve a certifiable status by mid-2024.
 
 ---
 
@@ -48,4 +48,4 @@ The South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longli
 
 <a href="https://fisheryprogress.org/fip-profile/western-and-central-pacific-albacore-and-yellowfin-tuna-longline" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP profile here.**</a>
 
-[**<< Back to O2 fishery improvement projects**] (/what-we-do/fishery-improvement-projects/)
+[**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)
