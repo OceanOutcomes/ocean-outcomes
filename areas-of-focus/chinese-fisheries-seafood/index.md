@@ -3,7 +3,7 @@ layout: page
 title: China
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/chinese-fisheries-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chinesefisherieshero.jpg
-weight: 1
+weight: 4
 teaser-text: In addition to accounting for ⅓ of the world’s seafood production, China as a country consumes more seafood than the next 10 countries combined. Ensuring sustainable Chinese fisheries and aquaculture at this scale will be no easy task. 
 subtitle: China as a country consumes more seafood than the next 10 countries combined. To ensure this seafood is produced and consumed sustainably, we’re working closely with a local Chinese NGO and company to implement scientifically-rigorous Chinese sustainable fisheries and seafood initiatives.
 ---
