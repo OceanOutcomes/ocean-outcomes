@@ -5,6 +5,7 @@ hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/he
 teaser-text: We are establishing a blended financing mechanism to provide upfront capital to fund improvements in fisheries by securing purchasing commitments from seafood buyers. This pioneering impact investment fund will promote sustainable marine ecosystems and fisheries management by aligning environmental, social and financial incentives.
 weight: 1
 ---
+###A pioneering impact investment fund
 
 We are establishing a blended financing mechanism to provide upfront capital to address the improvements needed in overexploited fisheries by securing purchasing commitments from seafood buyers.
 
