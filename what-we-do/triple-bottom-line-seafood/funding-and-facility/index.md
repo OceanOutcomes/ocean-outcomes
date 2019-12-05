@@ -3,7 +3,7 @@ layout: action
 title: Seafood and Fisheries Funding Facility
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/funding-facility-hero.jpg
 teaser-text: We are establishing a blended financing mechanism to provide upfront capital to fund improvements in fisheries by securing purchasing commitments from seafood buyers. This pioneering impact investment fund will promote sustainable marine ecosystems and fisheries management by aligning environmental, social and financial incentives.
-weight: 1
+weight: 2
 ---
 ###A pioneering impact investment fund
 
