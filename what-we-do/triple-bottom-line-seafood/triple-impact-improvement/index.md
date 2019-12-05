@@ -1,7 +1,7 @@
 ---
 layout: action
 title: Triple Impact Improvement
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/conservation-international-O2-partnership-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/conservation-international-O2-partnership-hero.jpg
 teaser-text: The plateau in certification represents a singular challenge for the sustainable seafood movement. We are reimagining the improvement model to build a triple bottom line (TBL) fishery approach to increase the viability and decrease the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance.
 weight: 2
 ---
