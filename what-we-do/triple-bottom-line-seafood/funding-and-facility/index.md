@@ -17,16 +17,16 @@ By combining funding from multiple sources to support improvements and securing 
 
 Using our [Triple Bottom Line Seafood (TBLS) approach] (/what-we-do/triple-bottom-line-seafood/triple-impact-improvement/) as a risk mitigation tool for fishery selection and investment, the Facility will increase the long-term sustainability of fisheries over the next decade in direct collaboration with the seafood industry.
 
+![Facility fund process graphic]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/Fund-financing-model-figure-web.png)
+*The Facility investment model becomes self-financing over time. © Ocean Outcomes*
+
 The Facility is a pioneering impact investment fund with the overarching objectives of promoting sustainable marine ecosystems and fisheries management by aligning environmental, social and financial incentives. The Facility will work with the seafood industry and impact investors to reform sustainable fisheries financing by engaging in the following activities:
 
   * Provide pre-financing and contract financing to eligible service providers to progress TBLS projects to certified sustainable seafood.  
   * Provide financing for small and medium size enterprises (SMEs) in the identified TBL fishery in need of investment to ensure product quality and improve access to markets.  
   * Leverage public funding with private capital.  
   * Support capacity building efforts amongst sustainable fisheries-oriented SMEs in key geographies.
-
-![Facility fund process graphic]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/Fund-financing-model-figure-web.png)
-*The Facility investment model becomes self-financing over time. © Ocean Outcomes*
 
 -----
 
