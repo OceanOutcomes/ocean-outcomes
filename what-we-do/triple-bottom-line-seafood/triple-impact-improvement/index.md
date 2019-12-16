@@ -15,7 +15,7 @@ Our triple bottom line (TBL) approach to improving fisheries can increase the vi
 By design, FIPs were created to drive improvement of fisheries’ environmental performance without explicit regard for their social or financial performance. We’re leading the integration of assessment and improvement of fisheries’ social and financial performance along with their environmental performance. We are reimagining the FIP model to build a triple bottom line (TBL) fishery approach to increase the viability and decrease the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance.
 
 ![Triple impact improvement process graphic]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/triple-impact-improvement-graphic.jpg)
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/triple-impact-improvement-graphic.png)
 *Investments in business development rescue value through improved business practices, from the operational to the administrative. In turn, this value is reinvested in improving or maintaining high levels of environmental and social performance. © Ocean Outcomes*
 
 Our TBL approach screens fisheries for improvement viability and then provides a structure for designing and implementing integrated improvement plans to account for social, economic and environmental outcomes. This will yield the following outputs for each fishery evaluated:
