@@ -9,12 +9,12 @@
 
 - featured: TRUE
   language: en
-  heading: Fishery Improvement Projects (FIP)
-  title: Our goal? More sustainable fisheries.
+  heading: Triple Bottom Line Seafood
+  title: We have created a positive fisheries feedback loop for people, planet and profit.
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-hiring.jpg
   link:
-    link-text: View FIPs
-    link-url: /areas-of-focus/fishery-improvement-projects/
+    link-text: Learn More
+    link-url: /what-we-do/triple-bottom-line-seafood/
     
 - featured: FALSE
   language: en
