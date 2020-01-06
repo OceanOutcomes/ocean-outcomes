@@ -2,30 +2,11 @@
 layout: page 
 title: Nachi Katsuura Albacore Longline FIP
 landing-image:
-hero-image:
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/nachi-katsurra-albacore-longline-hero.jpg
 subtitle: A joint project of Ocean Outcomes and Seafood Legacy
 weight: 
 teaser-text:
 ---
-
-<link rel="stylesheet" href="image-gallery/dist/image-gallery.css">
-
-<div class="image-gallery" style="max-width: 1000px">
-  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/nachi-katsuura-albacore-longline-fip/wakayama-albacore-tuna-profile-top.jpg">
-  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/nachi-katsuura-albacore-longline-fip/wakayama-albacore-tuna-profile-bottom.jpg">
-  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/nachi-katsuura-albacore-longline-fip/wakayama-albacore-tuna-profile-square-1.jpg">
-  <img src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/nachi-katsuura-albacore-longline-fip/wakayama-albacore-tuna-profile-square-2.jpg">
-</div>
-
-<script type="text/javascript">
-  var gallery = ImageGallery('.image-gallery', {
-    use: [
-      ImageGallery.LazyLoading,
-      ImageGallery.Responsive
-    ]
-  });
-</script>
-
 <h2>Overview</h2>
 
 <a href="https://seafoodlegacy.com/cases/nachikatsuura_longline_fip/" target="_blank">日本語での詳細はこちら（株式会社シーフードレガシーのページへ移動します）</a>
