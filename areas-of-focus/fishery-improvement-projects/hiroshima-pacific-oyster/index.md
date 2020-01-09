@@ -26,7 +26,7 @@ Summary description.
 ##Project News and Additional Resources:
 
 * <a href=" " target="_blank">Pacific Cupped Oyster Enhanced Fisheries in Hiroshima and Hiro Bays MSC Pre-assessment Report</a>
-* [First Oyster Fishery Improvement Project Launches in Japan] (/news/)
+* [First Oyster Fishery Improvement Project Launches in Japan] (/news/hiroshima-oyster-fip-launch)
 
 ---
 
