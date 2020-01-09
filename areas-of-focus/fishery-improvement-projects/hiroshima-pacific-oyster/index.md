@@ -15,7 +15,7 @@ The unique topography, tidal currents and water temperatures in the marine areas
 
 The Hiroshima Pacific Oyster FIP will work to ensure environmental sustainability of participating FIP companies, which account for roughly 40% of the 20,000 tonnes produced annually by the fishery. Towards this goal, the FIP fishing companies worked with Seafood Legacy and Ocean Outcomes in 2019 to assess their environmental impacts on the marine environment and then developed a two year workplan to mitigate those impacts going forward. These include monitoring fishery impacts on benthic habitats; decreasing fishery interactions with endangered species, such as loggerhead turtles and the Indo-Pacific finless porpoise; transitioning fishery management to precautionary and science-based strategies; and routine project participant progress meetings.
 
-[![牡蠣を育む収穫する](https://img.youtube.com/watch?v=6ZgMJL0sLqE&feature=emb_logo)](https://www.youtube.com/watch?v=6ZgMJL0sLqE&feature=emb_logo)
+[![牡蠣を育む収穫する](http://img.youtube.com/vi/UpD0lWQQutQ/0.jpg)](http://www.youtube.com/watch?v=UpD0lWQQutQ)
 
 ---
 
