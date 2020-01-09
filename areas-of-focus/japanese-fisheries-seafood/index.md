@@ -42,7 +42,6 @@ We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-w
 ---
 ##Stories from the Field: Japan
 
-* [First Oyster Fishery Improvement Project Launches in Japan] (/news/hiroshima-oyster-fip-launch)
 * [New FIP to Improve Giant Octopus Fishery in Northern Japan] (/news/giant-octopus-fip-launched-in-japan/)
 * [Improvement Efforts Lead to More Sustainable Fishing Practices in Japanese Sea Perch and Tuna Fisheries] (/news/japanese-FIP-progress-ratings-a/)
 * [Ocean Outcomes Japan Merges With Seafood Legacy to Form Leading Japanese Sustainable Seafood and Fisheries Partnership] (/news/O2-seafood-legacy-merger-partnership/)
