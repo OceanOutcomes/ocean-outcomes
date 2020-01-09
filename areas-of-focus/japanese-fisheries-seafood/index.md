@@ -33,6 +33,7 @@ We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-w
 ---
 ##O2 and Seafood Legacy Japanese Fishery Improvement Projects:
 
+* [Hiroshima Pacific Oyster FIP] (/areas-of-focus/fishery-improvement-projects/hiroshima-pacific-oyster/)
 * [Miyagi Onagawa Coho Salmon AIP] (/areas-of-focus/fishery-improvement-projects/miyagi-coho-salmon/)
 * [Nachi Katsuura Albacore Longline FIP] (/areas-of-focus/fishery-improvement-projects/nachi-katsurra-albacore-longline/)
 * [Tokyo Bay Sea Perch FIP] (/areas-of-focus/fishery-improvement-projects/tokyo-bay-sea-perch/)
