@@ -8,9 +8,8 @@ featured: TRUE
 ---
 ###The anticipated demand for seafood at the upcoming 2020 Tokyo Olympic and Paralympic games continues to drive the growth of sustainable seafood and fisheries initiatives in Japan.
 
-<a href="" target="_blank">(日本語版を読む)</a>
-
-Today, the <a href="https://jccu.coop/eng/" target="_blank">Japanese Consumers' Co-operative Union (JCCU)</a>, fishing and processing company <a href="https://www.kurahasij.co.jp/" target="_blank">Kurahashijima Kaisan</a>, and the organizations <a href="http://www.seafoodlegacy.com/" target="_blank">Seafood Legacy</a> and Ocean Outcomes (O2) announced the launch of a new [fishery improvement project (FIP) in Hiroshima] (/areas-of-focus/fishery-improvement-projects/hiroshima-pacific-oyster/) which will transition roughly 40% of the 20,000 tonnes of oysters produced in the region to more environmentally friendly methods.
+Today, the <a href="https://jccu.coop/eng/" target="_blank">Japanese Consumers' Co-operative Union (JCCU)</a>, fishing and processing company <a href="https://www.kurahasij.co.jp/" target="_blank">Kurahashijima Kaisan</a>, and the organizations <a href="http://www.seafoodlegacy.com/" target="_blank">Seafood Legacy</a> and Ocean Outcomes (O2) announced the launch of a new [fishery improvement project (FIP) in Hiroshima] (/areas-of-focus/fishery-improvement-projects/hiroshima-pacific-oyster/) which will transition roughly 40% of the 20,000 tonnes of oysters produced in the region to more environmentally friendly methods 
+<a href="" target="_blank">(日本語版を読む)</a>.
 
 The unique topography, tidal currents and water temperatures in the marine areas of Hiroshima Prefecture make it an ideal location for oyster farming and fishing. The region accounts for approximately two thirds of Japan’s oyster production, much of which supplies JCCU, Japan’s largest consumer organization comprised of 29 million members.
 
