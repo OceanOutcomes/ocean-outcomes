@@ -10,6 +10,7 @@ featured: TRUE
 
 ####The anticipated demand for seafood at the upcoming 2020 Tokyo Olympic and Paralympic games continues to drive the growth of sustainable seafood and fisheries initiatives in Japan.  
 
+
 Today, the <a href="https://jccu.coop/eng/" target="_blank">Japanese Consumers' Co-operative Union (JCCU)</a>, fishing and processing company <a href="https://www.kurahasij.co.jp/" target="_blank">Kurahashijima Kaisan</a>, and the organizations <a href="http://www.seafoodlegacy.com/" target="_blank">Seafood Legacy</a> and Ocean Outcomes (O2) announced the launch of a new [fishery improvement project (FIP) in Hiroshima] (/areas-of-focus/fishery-improvement-projects/hiroshima-pacific-oyster/) which will transition roughly 40% of the 20,000 tonnes of oysters produced in the region to more environmentally friendly methods.
 
 The unique topography, tidal currents and water temperatures in the marine areas of Hiroshima Prefecture make it an ideal location for oyster farming and fishing. The region accounts for approximately two thirds of Japan’s oyster production, much of which supplies JCCU, Japan’s largest consumer organization comprised of 29 million members.
@@ -22,7 +23,9 @@ alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
 
 Those involved in the oyster fisheries have always focused on quality and safety, but with the Olympics on the horizon, participating project companies want to ensure their oysters are also produced and seen as eco-friendly.
 
-Towards this goal, the FIP fishing companies worked with Seafood Legacy and Ocean Outcomes in 2019 to assess their environmental impacts on the marine environment and then developed a workplan to mitigate those impacts going forward. These include monitoring fishery impacts on benthic habitats; decreasing fishery interactions with endangered species, such as loggerhead turtles and the Indo-Pacific finless porpoise; transitioning fishery management to precautionary and science-based strategies; and routine project participant progress meetings.
+Towards this goal, the FIP fishing companies worked with Seafood Legacy and Ocean Outcomes in 2019 to assess their environmental impacts on the marine environment and then developed a workplan to mitigate those impacts going forward. 
+
+These include monitoring fishery impacts on benthic habitats; decreasing fishery interactions with endangered species, such as loggerhead turtles and the Indo-Pacific finless porpoise; transitioning fishery management to precautionary and science-based strategies; and routine project participant progress meetings.
 
 ![Hiroshima FIP oyster production] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/hiroshima-pacific-oyster-hero.jpg) *The Hiroshima Prefecture is renowned for its oysters, accounting for roughly two thirds of Japan's oyster production. © Seafood Legacy*
 
