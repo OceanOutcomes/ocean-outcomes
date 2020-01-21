@@ -25,7 +25,7 @@ Towards this goal, the FIP fishing companies worked with Seafood Legacy and Ocea
 
 These include monitoring fishery impacts on benthic habitats; decreasing fishery interactions with endangered species, such as loggerhead turtles and the Indo-Pacific finless porpoise; transitioning fishery management to precautionary and science-based strategies; and routine project participant progress meetings.
 
-![Hiroshima FIP oyster production] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/hiroshima-pacific-oyster-hero.jpg) *The Hiroshima Prefecture is renowned for its oysters, accounting for roughly two thirds of Japan's oyster production. © Seafood Legacy*
+![Hiroshima FIP oyster production] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/hiroshima-pacific-oyster-hero.jpg) *The Hiroshima region is renowned for its oysters, accounting for roughly two thirds of Japan's oyster production. © Seafood Legacy*
 
 After completing the improvement work, the participating companies will seek Marine Stewardship Council certification so JCCU can sell Hiroshima oyster product to consumers in Japan using the blue MSC logo. 
 
