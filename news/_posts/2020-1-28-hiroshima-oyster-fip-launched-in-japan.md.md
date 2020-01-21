@@ -3,12 +3,12 @@ layout: news
 title: First Oyster Fishery Improvement Project Launches in Japan
 date: 2020-1-28
 teaser-text: Japan’s largest consumers' organization and partners to work towards sustainable oyster production in advance of 2020 Tokyo Olympics.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tomamae-octopus-fip-launch-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/hiroshima-pacific-oyster-launch-hero.jpg
 featured: TRUE
 ---
 <a href="" target="_blank">(日本語版を読む)</a>
 
-####The anticipated demand for seafood at the upcoming 2020 Tokyo Olympic and Paralympic games continues to drive the growth of sustainable seafood and fisheries initiatives in Japan.
+####The anticipated demand for seafood at the upcoming 2020 Tokyo Olympic and Paralympic games continues to drive the growth of sustainable seafood and fisheries initiatives in Japan.  
 
 Today, the <a href="https://jccu.coop/eng/" target="_blank">Japanese Consumers' Co-operative Union (JCCU)</a>, fishing and processing company <a href="https://www.kurahasij.co.jp/" target="_blank">Kurahashijima Kaisan</a>, and the organizations <a href="http://www.seafoodlegacy.com/" target="_blank">Seafood Legacy</a> and Ocean Outcomes (O2) announced the launch of a new [fishery improvement project (FIP) in Hiroshima] (/areas-of-focus/fishery-improvement-projects/hiroshima-pacific-oyster/) which will transition roughly 40% of the 20,000 tonnes of oysters produced in the region to more environmentally friendly methods.
 
@@ -18,7 +18,9 @@ The unique topography, tidal currents and water temperatures in the marine areas
 alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
 *Video footage from fishing company Kurahashijima Kaisan shows oyster harvesting methods.*
 
-Established in 1962, the Hiroshima oyster fishery is the oldest in Japan. Those involved in the oyster fisheries have always focused on quality and safety, but with the Olympics on the horizon, participating project companies want to ensure their oysters are also produced and seen as eco-friendly.
+###Established in 1962, the Hiroshima oyster fishery is the oldest in Japan. 
+
+Those involved in the oyster fisheries have always focused on quality and safety, but with the Olympics on the horizon, participating project companies want to ensure their oysters are also produced and seen as eco-friendly.
 
 Towards this goal, the FIP fishing companies worked with Seafood Legacy and Ocean Outcomes in 2019 to assess their environmental impacts on the marine environment and then developed a workplan to mitigate those impacts going forward. These include monitoring fishery impacts on benthic habitats; decreasing fishery interactions with endangered species, such as loggerhead turtles and the Indo-Pacific finless porpoise; transitioning fishery management to precautionary and science-based strategies; and routine project participant progress meetings.
 
