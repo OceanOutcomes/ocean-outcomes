@@ -11,9 +11,9 @@ teaser-text:
 
 <a href="https://seafoodlegacy.com/cases/hiroshima_oyster_fip/" target="_blank">日本語での詳細はこちら（株式会社シーフードレガシーのページへ移動します）</a>
 
-The unique topography, tidal currents and water temperatures in the marine areas of Hiroshima Prefecture make it an ideal location for oyster farming and fishing. The region accounts for two thirds of Japan’s oyster production, much of which supplies the Japanese Consumers' Co-operative Union (JCCU), Japan’s largest consumer organization comprised of 29 million members. Since the oyster fisheries’ establishment in 1962, those involved in the oyster fisheries have always focused on quality and safety, but oyster companies now also want to ensure their oysters are produced and seen as eco-friendly. 
+The unique topography, tidal currents and water temperatures in the marine areas of Hiroshima Prefecture make it an ideal location for oyster farming and fishing. The region accounts for two thirds of Japan’s oyster production, or 20,000 tonnes annually, much of which supplies the Japanese Consumers' Co-operative Union (JCCU), Japan’s largest consumer organization comprised of 29 million members. Since the oyster fisheries’ establishment in 1962, those involved in the oyster fisheries have always focused on quality and safety, but oyster companies now also want to ensure their oysters are produced and seen as eco-friendly. 
 
-The Hiroshima Pacific Oyster FIP will work to ensure environmental sustainability of participating FIP companies, which account for roughly 40% of the 20,000 tonnes produced annually by the fishery. Towards this goal, the FIP fishing companies worked with Seafood Legacy and Ocean Outcomes in 2019 to assess their environmental impacts on the marine environment and then developed a workplan to mitigate those impacts going forward. These include monitoring fishery impacts on benthic habitats; decreasing fishery interactions with endangered species, such as loggerhead turtles and the Indo-Pacific finless porpoise; transitioning fishery management to precautionary and science-based strategies; and routine project participant progress meetings.
+The Hiroshima Pacific Oyster FIP will work to ensure environmental sustainability of participating FIP companies. Towards this goal, the FIP fishing companies worked with Seafood Legacy and Ocean Outcomes in 2019 to assess their environmental impacts on the marine environment and then developed a workplan to mitigate those impacts going forward. These include monitoring fishery impacts on benthic habitats; decreasing fishery interactions with endangered species, such as loggerhead turtles and the Indo-Pacific finless porpoise; transitioning fishery management to precautionary and science-based strategies; and routine project participant progress meetings.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UpD0lWQQutQ" target="_blank"><img src="http://img.youtube.com/vi/UpD0lWQQutQ/0.jpg" 
 alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
@@ -33,6 +33,7 @@ alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
 
 * <a href="https://www.kurahasij.co.jp/" target="_blank">Fishery client Kurahashijima Kaisan Co., Ltd. website</a>
 * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/SS-F_TMP_RPT_preassMSC_SCSHeading_Hiroshima_093018.pdf" target="_blank">Pacific Cupped Oyster Enhanced Fisheries in Hiroshima and Hiro Bays MSC Pre-assessment Report</a>
+* [First Oyster Fishery Improvement Project Launches in Japan] (/news/hiroshima-oyster-fip-launched-in-japan/)
 
 ---
 
@@ -40,15 +41,17 @@ alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP |
+| FIP Status: | Comprehensive FIP (<a href=" ">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | January 2020 |
 | Location: | Hiroshima and Hiro Bays, Hiroshima Prefecture, Japan |
 | Participants: | Ocean Outcomes, Seafood Legacy, Kurahashijima Kaisan Co., Ltd., Japanese Consumers' Co-operative Union (JCCU) |
 | Species: | Pacific oyster (*Crassostrea gigas*) |
 | Gear Type: | Hanging, box net |
 | Volume: | 820-860 tonnes - *The five companies involved in the FIP produce a combined 820-860 tonnes of Pacific oysters per year. The fishery as a whole produces roughly 20,000 tonnes.* |
-| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/SS-F_TMP_RPT_preassMSC_SCSHeading_Hiroshima_093018.pdf" target="_blank">Pre-assessment</a> |
+| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/SS-F_TMP_RPT_preassMSC_SCSHeading_Hiroshima_093018.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WEBSITE+VERSION+JCCU+Hiroshima+Oyster+Workplan+-%E5%BA%83%E5%B3%B6%E3%82%AB%E3%82%AD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%94%BB.xlsx" target="_blank">Workplan</a> |
 
 ---
+
+<a href=" " target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Hiroshima Pacific Oyster FIP profile here.**</a>
 
 [**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)
