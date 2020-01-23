@@ -10,7 +10,7 @@ featured: TRUE
 
 Today, the <a href="https://jccu.coop/eng/" target="_blank">Japanese Consumers' Co-operative Union (JCCU)</a>, fishing and processing company <a href="https://www.kurahasij.co.jp/" target="_blank">Kurahashijima Kaisan</a>, and the organizations <a href="http://www.seafoodlegacy.com/" target="_blank">Seafood Legacy</a> and Ocean Outcomes (O2) announced the launch of a new [fishery improvement project (FIP) in Japan’s largest oyster producing region] (/areas-of-focus/fishery-improvement-projects/hiroshima-pacific-oyster/) <a href="" target="_blank">(日本語版を読む)</a>.
 
-The unique topography, tidal currents and water temperatures in the marine areas of Hiroshima Prefecture make it an ideal location for oyster farming and fishing. The region accounts for approximately two thirds of Japan’s oyster production — or 20,000 tonnes annually — much of which supplies JCCU, Japan’s largest consumer organization comprised of 29 million members.
+The unique topography, tidal currents and water temperatures in the marine areas of Hiroshima Prefecture make it an ideal location for oyster farming and fishing. The region accounts for approximately two thirds of Japan’s oyster production — or 20,000 tonnes annually — some of which supplies JCCU, Japan’s largest consumer organization comprised of 29 million members.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UpD0lWQQutQ" target="_blank"><img src="http://img.youtube.com/vi/UpD0lWQQutQ/0.jpg" 
 alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
