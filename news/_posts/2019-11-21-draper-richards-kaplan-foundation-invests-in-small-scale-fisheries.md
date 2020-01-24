@@ -4,7 +4,7 @@ title: Draper Richards Kaplan Foundation Invests in Ocean Outcomes
 date: 2019-11-21
 teaser-text: Three year investment and new Board member to help accelerate solutions for small-scale fishing.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/DRKF-invests-in-O2-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ### High-impact potential
 
