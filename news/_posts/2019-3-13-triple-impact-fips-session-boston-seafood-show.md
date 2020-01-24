@@ -3,7 +3,7 @@ layout: news
 title: Triple Impact FIPs - Improving Fisheries' Social, Economic and Environmental Performance
 date: 2019-3-13
 teaser-text: We’re leading a new approach to fishery improvement which provides better incentives and value for fisheries and helps strengthen and lower the risk for sustainable seafood supply.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/triple-impact-fips-session-boston-2019-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/funding-facility-hero.jpg
 featured: FALSE
 ---
 ###Fishery Improvement Projects (FIPs) are the sustainable seafood movement’s primary tool for incentivizing fisheries improvement, and they have yielded notable progress over the past twenty years.
