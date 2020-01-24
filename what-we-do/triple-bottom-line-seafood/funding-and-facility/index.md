@@ -11,10 +11,6 @@ We have established a blended financing mechanism to provide upfront capital to 
 
 By combining funding from multiple sources to support improvements and securing financing from the outset, the funding facility (Facility) ensures economies of scale, consistent standards and continued market access, thus optimizing the success of fisheries improvement initiatives and recovery.
 
-![Facility fund structure graphic]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/Fund-proposed-structure-figure-web.png)
-*The Facility improves the stability and scale of funding for fisheries improvement. © Ocean Outcomes*
-
 Using our [Triple Bottom Line Seafood (TBLS) approach] (/what-we-do/triple-bottom-line-seafood/triple-impact-improvement/) as a risk mitigation tool for fishery selection and investment, the Facility increases the long-term sustainability of fisheries in direct collaboration with the seafood industry.
 
 ![Facility fund process graphic]
