@@ -6,13 +6,13 @@ teaser-text: A paper published in Frontiers in Ecology and Environment highlight
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/catalyzing-fisheries-conservation-investment-hero.jpg
 featured: TRUE
 ---
-###A new approach to fisheries conservation investments
+###Catalyzing fisheries conservation investment
 
 A paper titled “Catalyzing fisheries conservation investment” published in *Frontiers in Ecology and Environment* highlights the need for new and innovative approaches to financing fisheries conservation to adequately address the environmental, social and economic needs of the world’s seafood sector. 
 
 The growing Ocean Outcomes team – which now includes fisheries finance experts from Wilderness Markets – and a cross section of leading industry firms are leading the development of one such solution.
  
-> [**Read more about Ocean Outcomes new blended financing mechanism which optimizes the success of fisheries improvement initiatives and generates returns on fisheries conservation investments.**] (/what-we-do/triple-bottom-line-seafood/funding-and-facility/)
+> [**Read more about our new blended financing mechanism which optimizes the success of fisheries improvement initiatives and generates returns on fisheries conservation investments.**] (/what-we-do/triple-bottom-line-seafood/funding-and-facility/)
  
 ###Fisheries underpin the livelihoods, food security and social fabric of coastal communities across the world. 
 
