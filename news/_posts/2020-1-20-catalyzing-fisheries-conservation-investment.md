@@ -12,7 +12,7 @@ A paper titled “Catalyzing fisheries conservation investment” published in *
 
 The growing Ocean Outcomes team – which now includes fisheries finance experts from Wilderness Markets – and a cross section of leading industry firms are leading the development of one such solution.
  
-[**Read more about Ocean Outcomes new blended financing mechanism which optimizes the success of fisheries improvement initiatives and generates returns on fisheries conservation investments.**] (/what-we-do/triple-bottom-line-seafood/funding-and-facility/)
+> [**Read more about Ocean Outcomes new blended financing mechanism which optimizes the success of fisheries improvement initiatives and generates returns on fisheries conservation investments.**] (/what-we-do/triple-bottom-line-seafood/funding-and-facility/)
  
 ###Fisheries underpin the livelihoods, food security and social fabric of coastal communities across the world. 
 
