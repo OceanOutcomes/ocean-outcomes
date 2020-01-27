@@ -10,7 +10,7 @@ featured: TRUE
 
 A paper titled “Catalyzing fisheries conservation investment” published in *Frontiers in Ecology and Environment* highlights the need for new and innovative approaches to financing fisheries conservation to adequately address the environmental, social and economic needs of the world’s seafood sector. 
 
-The growing Ocean Outcomes team – which now includes fisheries finance experts from Wilderness Markets – and a cross section of leading industry firms are leading the development of one such solution.
+**The growing Ocean Outcomes team are leading the development of one such solution.**
  
 > [**Read more about our new blended financing mechanism which optimizes the success of fisheries improvement initiatives and generates returns on fisheries conservation investments.**] (/what-we-do/triple-bottom-line-seafood/funding-and-facility/)
  
