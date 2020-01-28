@@ -4,7 +4,7 @@ title: New Tuna FIP to Drive Improvements on Hundreds of Chinese and Chinese Tai
 date: 2019-6-5
 teaser-text: Project to expand observer coverage, improve fishery data and help inform science-based management strategies.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/bumble-bee-fcf-O2-albacore-tuna-project-FIP-launch-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Project to Drive Improvements on Hundreds of Chinese and Chinese Taipei Longline Vessels
 
