@@ -8,7 +8,7 @@ featured: TRUE
 ---
 ###The anticipated demand for seafood at the upcoming 2020 Tokyo Olympic and Paralympic games continues to drive the growth of sustainable seafood and fisheries initiatives in Japan.
 
-Today, the <a href="https://jccu.coop/eng/" target="_blank">Japanese Consumers' Co-operative Union (JCCU)</a>, fishing and processing company <a href="https://www.kurahasij.co.jp/" target="_blank">Kurahashijima Kaisan</a>, and the organizations <a href="http://www.seafoodlegacy.com/" target="_blank">Seafood Legacy</a> and Ocean Outcomes (O2) announced the launch of a new [fishery improvement project (FIP) in Japan’s largest oyster producing region] (/areas-of-focus/fishery-improvement-projects/hiroshima-pacific-oyster/) <a href="" target="_blank">(日本語版を読む)</a>.
+Today, the <a href="https://jccu.coop/eng/" target="_blank">Japanese Consumers' Co-operative Union (JCCU)</a>, fishing and processing company <a href="https://www.kurahasij.co.jp/" target="_blank">Kurahashijima Kaisan</a>, and the organizations <a href="http://www.seafoodlegacy.com/" target="_blank">Seafood Legacy</a> and Ocean Outcomes (O2) announced the launch of a new [fishery improvement project (FIP) in Japan’s largest oyster producing region] (/areas-of-focus/fishery-improvement-projects/hiroshima-pacific-oyster/) (<a href="https://jccu.coop/info/newsrelease/2020/20200128_01.html" target="_blank">日本語版を読む</a>).
 
 The unique topography, tidal currents and water temperatures in the marine areas of Hiroshima Prefecture make it an ideal location for oyster farming and fishing. The region accounts for approximately two thirds of Japan’s oyster production — or 20,000 tonnes annually — some of which supplies JCCU, Japan’s largest consumer organization comprised of 29 million members.
 
@@ -36,4 +36,4 @@ This is the 4th fishery improvement project in Japan working towards MSC certifi
 
 [Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Hiroshima+Oyster+FIP+Launch+Press+Release+ENG+January+2019.pdf)
 
-<a href="" target="_blank">日本語版を読む</a>
+<a href="https://jccu.coop/info/newsrelease/2020/20200128_01.html" target="_blank">日本語版を読む</a>
