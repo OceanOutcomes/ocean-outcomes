@@ -46,7 +46,7 @@ alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
 | Location: | Hiroshima and Hiro Bays, Hiroshima Prefecture, Japan |
 | Participants: | Ocean Outcomes, Seafood Legacy, Kurahashijima Kaisan Co., Ltd., Japanese Consumers' Co-operative Union (JCCU) |
 | Species: | Pacific oyster (*Crassostrea gigas*) |
-| Gear Type: | Hanging, box net |
+| Gear Type: | Rope grown |
 | Volume: | 820-860 tonnes - *The five companies involved in the FIP produce a combined 820-860 tonnes of Pacific oysters per year. The fishery as a whole produces roughly 20,000 tonnes.* |
 | Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/SS-F_TMP_RPT_preassMSC_SCSHeading_Hiroshima_093018.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WEBSITE+VERSION+JCCU+Hiroshima+Oyster+Workplan+-%E5%BA%83%E5%B3%B6%E3%82%AB%E3%82%AD%E6%B4%BB%E5%8B%95%E8%A8%88%E7%94%BB.xlsx" target="_blank">Workplan</a> |
 
