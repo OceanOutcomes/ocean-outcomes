@@ -12,17 +12,19 @@ subtitle: Small scale fisheries underpin the livelihoods, food security and soci
 
 Countries such as Chile, Peru and Ecuador border the Humboldt Current System, which is home to roughly 20% of the total worldwide production of wild-capture of marine fish, including sardines, anchovies, hake, squid and tuna. Fish consumption in Latin America is growing at a staggering rate, expected to increase by 33% by 2030. Despite their importance to local economies and food security, disproportionately few sustainable seafood certifications and fishery improvement initiatives have focused on understanding the challenges and needs of Latin American small scale fisheries.
 
-Sustainable seafood efforts in the region to date have largely focused on policy- and market-based approaches, which have had success outside of Latin America. However, these approaches focus exclusively on fisheries’ environmental performance and rely on demand from northern markets, making them of limited use for the Latin American context.
+The majority of sustainable seafood efforts in the region to date have largely focused on policy- and market-based approaches, which have had success outside of Latin America. However, these approaches focus exclusively on fisheries’ environmental performance and rely on demand from northern markets, making them of limited use for the Latin American context.
 
 <img align="right" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/Vicious+cycle+circular+process.png" width="250" height="250">
 
 Throughout Latin America, marginalization, poor management and lack of investment leads many fishers to sell poorly handled, low quality fish for low prices to limited markets, which drives the need to catch ever more fish in riskier and environmentally harmful ways to make ends meet. This drives a vicious cycle of overfishing and jeopardizes the ocean life on which we all depend.
 
-##We are developing a new business driven approach to seafood production in Latin America to ensure social, financial, and environmental sustainability for small scale fisheries. 
+##We are building on a tried and tested business driven approach to seafood production in Latin America to ensure social, financial, and environmental sustainability for small scale fisheries. 
 
 [This approach focuses on harnessing untapped financing and increasing profitability in small scale fishing enterprises to improve livelihoods and ecosystem health; creating a positive feedback loop for people, planet and profit] (/what-we-do/triple-bottom-line-seafood/). 
 
-Working with core implementing partners on the ground, including SmartFish and Conservation International, as well as a broad range of relevant stakeholders, we’re piloting this new approach Guayana, Costa Rica and Mexico. As we complete initial assessment and scoping phases of the work and begin implementation phases, we’re expanding our approach in those countries and [building on our existing work in other Latin America countries to meet the needs of fisheries in Peru, Chile and beyond] (/what-we-do/services/). 
+This new, business development first model was originally developed by Dr. Hoyt Peckham and his team at SmartFish working with fisheries in Baja, Mexico. Building on their results and methodology, Hoyt joined Ocean Outcomes and we partnered with SmartFish to scale the approach across Latin America.
+
+Working with core implementing partners on the ground, including SmartFish and Conservation International, as well as a broad range of relevant stakeholders, we’re now piloting our triple bottom line seafood approach in Guayana, Costa Rica and Mexico. As we complete initial assessment and scoping phases of the work and begin implementation phases, we’re expanding our approach in those countries and [building on our existing work in other Latin America countries to meet the needs of fisheries in Peru, Chile and beyond] (/what-we-do/services/). 
 
 ---
 ##Stories from the Field: Latin America
