@@ -3,7 +3,7 @@ layout: page
 title: Salmon FIP Tracker
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/tracker-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/trackerhero.jpg
-weight: 5
+weight: 4
 subtitle: Tracking and verifying credible improvements in Pacific salmon fisheries.
 teaser-text: We developed the Salmon FIP Tracker to provide salmon fishery stakeholders with easily accessible information on the sustainability status of global salmon fisheries.
 ---
