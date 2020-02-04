@@ -30,7 +30,7 @@ The Indian Ocean Albacore Tuna Longline FIP aims to improve fishing practices fo
 
 |||
 | ---: | --- |
-| FIP Status: | Prospective FIP (<a href="https://fisheryprogress.org/fip-profile/prospective-indian-ocean-albacore-tuna-longline">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/indian-ocean-albacore-tuna-longline-bumble-beefcf">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | January 2019 |
 | Location: | Indian Ocean |
 | Participants: | Ocean Outcomes, Bumble Bee Foods, LLC, FCF Fishery Company, Ltd. |
@@ -40,6 +40,6 @@ The Indian Ocean Albacore Tuna Longline FIP aims to improve fishing practices fo
 
 ---
 
-<a href="https://fisheryprogress.org/fip-profile/prospective-indian-ocean-albacore-tuna-longline" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Indian Ocean Albacore Tuna Longline FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/indian-ocean-albacore-tuna-longline-bumble-beefcf" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Indian Ocean Albacore Tuna Longline FIP profile here.**</a>
 
 [**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)
