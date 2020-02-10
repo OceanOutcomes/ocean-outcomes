@@ -3,7 +3,7 @@ layout: news
 title: New Fishery Improvement Project Launched to Address Sustainability Gap in Indian Ocean Tuna Fisheries 
 date: 2020-2-11
 teaser-text: Bumble Bee Foods, FCF and Ocean Outcomes double down with second initiative focused on improving Chinese Taipei longline albacore fisheries.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/indian-ocean-longline-albacore-hero.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/bumble-bee-fcf-O2-indian-ocean-tuna-FIP-launch-release-hero.jpg
 featured: TRUE
 ---
 ###The first project of its kind in the region
