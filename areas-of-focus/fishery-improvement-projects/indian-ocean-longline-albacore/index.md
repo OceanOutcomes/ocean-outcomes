@@ -41,7 +41,7 @@ Seas Albacore Longline Fishery</a>
 | Participants: | Ocean Outcomes, Bumble Bee Foods, LLC, FCF Fishery Company, Ltd. |
 | Species: | Albacore tuna (*Thunnus alalunga*) |
 | Gear Type: | Longline |
-| Volume: | To be determined as FIP develops. |
+| Volume: | 6,000 metric tons |
 | Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/IO+BB+FCF+Albacore+Pre-assessment+2017.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+BB+IO+FIP+Scoping+Document.pdf" target="_blank">Scoping Document</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+BB+IO+FIP+Workplan+Nov19+for+fp.org.pdf" target="_blank">Workplan</a> |
 
 ---
