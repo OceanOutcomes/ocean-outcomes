@@ -16,12 +16,17 @@ The Indian Ocean Albacore Tuna Longline FIP aims to improve fishing practices fo
 
 * Convening fishery stakeholders to generate support, participation, and funding, including matching funds and in-kind contributions, for improvement efforts.
 * Reviewing and updating a 2018 pre-assessment of the fishery to identify priority environmental challenges, including a lack of information about fishery interactions with endangered, threatened, or protected (ETP) species.
-* Developing a FIP workplan to address the concerns found during the pre-assessment and pre-assessment update.
+* Developing and implementing a FIP workplan to address the concerns found during the pre-assessment and pre-assessment update.
+* Expanding coverage electronically to participating FIP vessels which will support effective fisheries management practices through better data collection, to be used to monitor fisheries, assess fish populations, and inform science-based management for target, bycatch and threatened species at the regional level.
 
 ---
 
 ##Project News and Additional Resources:
 
+* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/IO+BB+FCF+Albacore+Pre-assessment+2017.pdf" target="_blank">MSC Pre-Assessment Report for Bumble Bee and FCF Mauritius, Madagascar and High
+Seas Albacore Longline Fishery</a>
+* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+BB+IO+FIP+Scoping+Document.pdf" target="_blank">Scoping Document and Initial Workplan: Indian Ocean Albacore Tuna Longline Fishery Improvement Project</a>
+* [New Fishery Improvement Project Launched to Address Sustainability Gap in Indian Ocean Tuna Fisheries] (/news/bumble-bee-fcf-O2-indian-ocean-tuna-FIP-launch-release/)
 * [Bumble Bee Foods and FCF Partner with Ocean Outcomes to Improve Longline Tuna Fisheries] (/news/bumble-bee-fcf-O2-albacore-tuna-project-announcement/)
 
 ---
@@ -36,7 +41,8 @@ The Indian Ocean Albacore Tuna Longline FIP aims to improve fishing practices fo
 | Participants: | Ocean Outcomes, Bumble Bee Foods, LLC, FCF Fishery Company, Ltd. |
 | Species: | Albacore tuna (*Thunnus alalunga*) |
 | Gear Type: | Longline |
-| Volume: | To be determined as FIP develops. |
+| Volume: | 6,000 metric tons |
+| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/IO+BB+FCF+Albacore+Pre-assessment+2017.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+BB+IO+FIP+Scoping+Document.pdf" target="_blank">Scoping Document</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+BB+IO+FIP+Workplan+Nov19+for+fp.org.pdf" target="_blank">Workplan</a> |
 
 ---
 

@@ -4,7 +4,7 @@ title: First Oyster Fishery Improvement Project Launches in Japan
 date: 2020-1-28
 teaser-text: Japan’s largest consumers' organization and partners to work towards sustainable oyster production in advance of 2020 Tokyo Olympics.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/hiroshima-pacific-oyster-launch-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###The anticipated demand for seafood at the upcoming 2020 Tokyo Olympic and Paralympic games continues to drive the growth of sustainable seafood and fisheries initiatives in Japan.
 
