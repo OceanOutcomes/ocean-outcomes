@@ -8,7 +8,7 @@ featured: TRUE
 ---
 ###Despite challenging environment, large scale project in China will continue
 
-**March 17, 2020 Washington, DC ** – The National Fisheries Institute’s Red Crab Council will continue to fund and support its [Fisheries Improvement Project (FIP) in China] (/areas-of-focus/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/). The comprehensive FIP is focused on improving crab production in Fujian Province, the leading harvesting region in China for red crab.
+**March 17, 2020 Washington, DC** – The National Fisheries Institute’s Red Crab Council will continue to fund and support its [Fisheries Improvement Project (FIP) in China] (/areas-of-focus/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/). The comprehensive FIP is focused on improving crab production in Fujian Province, the leading harvesting region in China for red crab.
 
 >**“For so many reasons the operating climate around red crab, from a trade perspective, is challenging these days,” said Newport International President Anjan Tharakan, the NFI Red Crab Council Chair. “It would be easy to see why companies might say they don’t want to participate in this work right now. But not one company did. This is a committed group.”**
 
@@ -24,9 +24,7 @@ The NFI Red Crab Council funds the work by assessing a fee on each of its member
 
 The status of the Fujian Red Crab FIP is updated biannually on fisheryprogress.org. Its 2019 work focused on implementation of catch, biological and effort data collection, harvest strategy evaluation, and lost fishing gear assessment.
 
->**“Extensive time and research have gone into planning this complex Fisheries Improvement Project,” said NFI President, John Connelly. “The NFI Red Crab Council grew out of the most successful pre-competitive crab sustainability collaboration to date, in the original NFI Crab Council. And now with this collaboration between CAPPMA, O2, and the NFI Red Crab Council, coupled with the Chinese government’s renewed focus on Red Crab sustainability, opportunity is ripe to begin implementing this work.”**
-
-**The NFI Red Crab Council is the leading precompetitive collaboration effort focused solely on the sustainability of Red Swimming Crab. The Council is committed to collaborating on Red Crab Fisheries Improvement Projects globally.**
+*The <a href="http://www.committedtocrab.org/" target="_blank">NFI Red Crab Council</a> is the leading precompetitive collaboration effort focused solely on the sustainability of Red Swimming Crab. The Council is committed to collaborating on Red Crab Fisheries Improvement Projects globally.*
 
 ----
 
