@@ -4,7 +4,7 @@ title: A New Approach to Fisheries Conservation Investments
 date: 2020-1-20
 teaser-text: A paper published in Frontiers in Ecology and Environment highlights obstacles in fisheries conservation and underscores the need for new approaches to fisheries investments.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/catalyzing-fisheries-conservation-investment-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Catalyzing fisheries conservation investment
 
