@@ -1,11 +1,11 @@
-- featured: FALSE
+- featured: TRUE
   language: en
-  heading: Client Services
+  heading: Featured Fishery Improvement Project
   title: If you’re working in sustainable seafood, we can help you deliver on your goals.
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-services.jpg
   link:
     link-text: Learn More
-    link-url: /what-we-do/services/
+    link-url: /areas-of-focus/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/
 
 - featured: TRUE
   language: en
