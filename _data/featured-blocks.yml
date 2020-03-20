@@ -1,4 +1,4 @@
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Featured Fishery Improvement Project
   title: If you’re working in sustainable seafood, we can help you deliver on your goals.
@@ -59,7 +59,7 @@
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-hiring.jpg
   link:
     link-text: 了解更多
-    link-url: /areas-of-focus/chinese-fisheries-seafood/
+    link-url: http://www.qmcs.org.cn
     
       
 - featured: FALSE
