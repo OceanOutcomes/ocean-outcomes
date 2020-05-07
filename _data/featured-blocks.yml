@@ -9,6 +9,15 @@
 
 - featured: TRUE
   language: en
+  heading: Request for Information (RFI): Digital Solutions to Track and Process Key Data Elements and Enhance Seafood Supply Chain Transparency in Artisanal and Industrial Fisheries
+  title: seeks to identify relevant software and technology options to track Key Data Elements (KDEs) and enhance seafood supply chain transparency as part of its Triple Impact Fisheries Improvement model and sustainable seafood financing model.
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
+  link:
+    link-text: Learn More
+    link-url: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/O2+Digital+Solutions+RFI+2020.pdf
+
+- featured: FALSE
+  language: en
   heading: Triple Bottom Line Seafood
   title: We have created a positive fisheries feedback loop for people, planet and profit.
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
