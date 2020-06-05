@@ -2,13 +2,13 @@
 layout: news
 title: Ocean Outcomes and Blue Finance Become First Grant Recipients of Convergence’s Asia Natural Capital Window 
 date: 2020-6-8
-teaser-text: Three year investment and new Board member to help accelerate solutions for small-scale fishing.
+teaser-text: Ocean Outcomes has received a new feasibility study grant for developing a pioneering Sustainable Seafood Fund that aims to change the way Fishery Improvement Projects (FIPs) are funded in the Asia-Pacific.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/convergence-funds-ocean-outcomes-and-blue-finance-hero.jpg
 featured: TRUE
 ---
-### Working towards United Nations Sustainable Development Goal 14: Life below Water
+### Working towards United Nations Sustainable Development Goal 14: Life Below Water
 
-**8 June 2020** – With funding from the RS Group for its Asia Natural Capital Design Funding Window, Convergence awards Blue Finance and Ocean Outcomes (O2) design-stage grants for blended finance solutions targeting Sustainable Development Goal 14: Life below Water. 
+**8 June 2020** – With funding from the RS Group for its Asia Natural Capital Design Funding Window, Convergence awards Blue Finance and Ocean Outcomes (O2) design-stage grants for blended finance solutions targeting Sustainable Development Goal 14: Life Below Water. 
 
 Blue Finance receives a proof of concept grant for the Blended Blue Finance Facility (BBFF) for the effective management of several Marine Protected Areas (MPAs) in Southeast Asia. O2 is awarded a feasibility study grant for developing a pioneering Sustainable Seafood Fund that aims to change the way Fishery Improvement Projects (FIPs) are funded in the Asia-Pacific.
 
