@@ -9,7 +9,7 @@ weight: 2
 
 The Sustainable Seafood Fund concept under review is a pioneering impact investment framework with the overarching objective of promoting sustainable marine ecosystems and fisheries management by aligning environmental, social and financial incentives.
 
-Ocean Outcomes has been at the forefront for many years of the development of a rigorous global FIP approach and we continue to actively engage in addressing the barriers and challenges that fisheries face in today’s world. The lack of significant, long-term financing for fisheries in transition is one of these barriers. It is simply not possible to increase the pace and scale of change required without a transformation in thinking about how we pay for the costs of change.
+For many years Ocean Outcomes has been at the forefront of the development of a rigorous global FIP approach and we continue to actively engage in addressing the barriers and challenges that fisheries face in today’s world. The lack of significant, long-term financing for fisheries in transition is one of these barriers. It is simply not possible to increase the pace and scale of change required without a transformation in thinking about how we pay for the costs of change.
 
 ![Facility fund process graphic]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/Fund-financing-model-figure-web.png)
