@@ -17,7 +17,13 @@ For many years Ocean Outcomes has been at the forefront of the development of a 
 
 This innovative approach is based on the <a href="https://seafoodsustainability.org/industry/business-case/" target="_blank">business case for seafood companies</a> to invest in the long-term viability of their seafood supplies, thus reducing supply chain volatility and risk thereof, while enhancing business value and protecting reputations.
 
-Under the Fund’s proposed model, industry partners would commit to supporting these fisheries through a volume-based fee. Partners would then benefit from the long-term, secure supply of sustainably sourced seafood. The Fund would establish a return-making financing mechanism enabling it to pool private sector capital to finance FIP projects, reduce transaction costs, achieve economies of scale, link fisheries to markets via offtake fee agreements and promote the integration of environmental, social and financial outcomes within FIP projects. 
+Under the Fund’s proposed model, industry partners would commit to supporting these fisheries through a volume-based fee. Partners would then benefit from the long-term, secure supply of sustainably sourced seafood. The Fund would establish a return-making financing mechanism enabling it to pool private sector capital to finance FIP projects, reduce transaction costs, achieve economies of scale, link fisheries to markets via offtake fee agreements and promote the integration of environmental, social and financial outcomes within FIP projects.
+
+---
+##Stories from the Field: Sustainable Seafood Fund
+
+* [Ocean Outcomes and Blue Finance Become First Grant Recipients of Convergence’s Asia Natural Capital Window
+] (/news/convergence-funds-ocean-outcomes-and-blue-finance/)
 
 -----
 
