@@ -1,6 +1,6 @@
 ---
 layout: action
-title: Sustainable Fisheries Fund
+title: Sustainable Seafood Fund
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/funding-facility-hero.jpg
 teaser-text: We are working to create new and innovative ways to finance the transition to sustainable fisheries by examining the feasibility of a blended financing mechanism to provide upfront capital to address the improvements needed in overexploited and unsustainable fisheries. The Sustainable Seafood Fund (the Fund) is being developed to be a pioneering mechanism to combine funding from multiple sources to support fishery improvements, providing a unique opportunity for leading companies to mainstream sustainability into their business models.
 weight: 2
@@ -13,7 +13,7 @@ For many years Ocean Outcomes has been at the forefront of the development of a 
 
 ![Facility fund process graphic]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/Fund-financing-model-figure-web.png)
-*The Facility investment model becomes self-financing over time. © Ocean Outcomes*
+*The Fund investment model becomes self-financing over time. © Ocean Outcomes*
 
 This innovative approach is based on the <a href="https://seafoodsustainability.org/industry/business-case/" target="_blank">business case for seafood companies</a> to invest in the long-term viability of their seafood supplies, thus reducing supply chain volatility and risk thereof, while enhancing business value and protecting reputations.
 
