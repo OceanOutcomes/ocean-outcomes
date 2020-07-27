@@ -46,6 +46,14 @@
   bio: |
     Anna Gabis, CPA, provides accounting support for Ocean Outcomes. She began her accounting career with Primorsky Zavod in the Russian Far East, and has extensive experience in non-profit accounting, cash management, financial forecasting, budgeting and auditing having worked in senior accounting roles in a number of not-for-profit organizations, a CPA firm, and private companies. Anna holds a Bachelor of Science degree in accounting from Portland State University.
     
+- name: Stephen Hall PhD
+  contractor: false
+  title: Interim CEO
+  email:
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/sephenbiophoto.jpg
+  bio: |
+    Stephen is a leading researcher and public speaker on sustainability, food security and international development and he has extensive senior leadership experience with several international organisations. At Avalerion Capital, he provides boutique advisory and support services to develop sustainability strategy and leadership in organizations to help drive systemic change. Previously he was Director General of WorldFish, an international research institute devoted to reducing hunger and poverty by improving fisheries and aquaculture. Other leadership roles include CEO of the Australian Institute of Marine Science (AIMS) and Professor of Marine Biology at Flinders University, Australia. Recognised as a leading scientist in his field, he has contributed to over 80 scientific publications on fisheries ecology and environmental issues. In 2004 Stephen was awarded a Pew Fellowship in Marine Conservation and in 2005 he was awarded the Australian Public Service Medal for leadership of AIMS.
+    
 - name: Neel Inamdar
   contractor: false
   title: Vice President, Fisheries and Aquaculture Finance
@@ -53,14 +61,6 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/neelstaffphoto.jpg
   bio: |
     Neel Inamdar leads Ocean Outcomes’ Sustainable Fisheries Finance and Aquaculture initiative. Neel has over 20 years experience with value chains spanning fisheries and agriculture through real estate and tourism and in emerging markets ranging from Indonesia to Kenya. An experienced emerging markets investor, he has successfully created and structured a range of impact investments and investment vehicles, representing institutional investors, lenders, private equity, owners, management and communities in different capacities. With a recent focus on sustainable ocean ecosystems, he is continuing to develop appropriate investment solutions to facilitate impact capital at scale for a healthy planet. Neel is a graduate of Cornell University.
-    
-- name: Dick Jones
-  contractor: false
-  title: President and CEO
-  email:
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/dickstaffphoto.jpg
-  bio: |
-    Dick is a recognized leader in global seafood sustainability. He is a third generation fishmonger, starting full-time in the seafood industry in 1986, including 13 years overseeing seafood operations at HEB Grocery Co. and Whole Foods Market. Over the past 10 years he has honed his expertise in sustainable seafood initiatives through leading Ocean Outcomes as its President and CEO, founding seafood sustainability consultancy Resiliensea, Inc., and directing the major buyer engagement program at Sustainable Fisheries Partnership. He has extensive knowledge of the seafood supply chain, including global sourcing, merchandising, marketing and product/brand development, and is proficient in all global standards, certifications and eco-labels that are available to the seafood industry today.
     
 - name: Rich Lincoln
   contractor: false
