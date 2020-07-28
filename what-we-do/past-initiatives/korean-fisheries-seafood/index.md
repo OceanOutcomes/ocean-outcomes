@@ -8,7 +8,7 @@ teaser-text: Perhaps overshadowed by the enormity of Chinese fishing capacity, o
 subtitle: Despite it's size and population, Korea still produces and consumes more seafood than most any country on earth.
 ---
 
-##Korea is a top ten producer of seafood and the world’s fifth most seafood loving region—only China, Japan, the United States, and the European Union consume more seafood annually.
+##South Korea is a top ten producer of seafood and the world’s fifth most seafood loving region—only China, Japan, the United States, and the European Union consume more seafood annually.
 
 In fact, Korean seafood consumption is disproportionate for the country’s size, as Koreans consume 58.9 kilograms of seafood per capita (by comparison US per capita seafood consumption was 6.8 kilograms in 2013). Additionally, Korea is a top five tuna producer and Korean distant water fleets catch a significant portion of the world’s tuna supply, much of which is exported to the US and the EU. 
 
