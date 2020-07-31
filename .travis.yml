@@ -10,6 +10,8 @@ cache: bundler
 
 rvm:
 - 2.3.8
+before_install:
+- gem install bundler
 before_script:
 - gem install bundler # Makes Travis use updated bundler gem
 - bundle exec sass -r sass-globbing --update assets/sass:assets/css
