@@ -9,7 +9,7 @@ gem "bitters"
 gem "sass","3.4.22"
 gem "sass-globbing"
 gem "i18n"
-gem "s3_website", "~> 2.16.0"
+gem "s3_website", "~> 3.4.0"
 gem "rake", "~> 10"
 gem 'html-proofer'
 gem "jekyll-email-protect", "~> 1.0.3"
