@@ -36,7 +36,7 @@ The first project of its kind in Japan, the Miyagi Onagawa Coho Salmon Aquacultu
 
 |||
 | ---: | --- |
-| Project Launch: | June 2017 |
+| Project Launch: | June 2017 (ASC Certification Acquired in June 2020)|
 | Location: | Onagawa, Miyagi Prefecture, Japan |
 | Participants: | Ocean Outcomes, Seafood Legacy, Marukin Co., Ltd. Fisherman Japan |
 | Species: | Coho salmon (*Oncorhynchus kisutch*) |
