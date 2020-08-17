@@ -2,12 +2,14 @@
 layout: action
 title: Sustainable Seafood Fund
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/funding-facility-hero.jpg
-teaser-text: We are working to create new and innovative ways to finance the transition to sustainable fisheries by examining the feasibility of a blended financing mechanism to provide upfront capital to address the improvements needed in overexploited and unsustainable fisheries. The Sustainable Seafood Fund (the Fund) is being developed to be a pioneering mechanism to combine funding from multiple sources to support fishery improvements, providing a unique opportunity for leading companies to mainstream sustainability into their business models.
+teaser-text: We are working to create new and innovative ways to finance the blue economy and support the transition to sustainable fisheries via a blended financing mechanism to provide upfront capital to address the improvements needed in overexploited and unsustainable fisheries. The Sustainable Seafood Fund (the Fund) is being developed to be a pioneering mechanism to combine funding from multiple sources to support fishery improvements, providing a unique opportunity for leading companies to mainstream sustainability into their business models.
 weight: 2
 ---
 ###A pioneering Blue Economy Impact Investment Model
 
-The Sustainable Seafood Fund concept is a pioneering blue economy impact investment framework with the overarching objective of promoting sustainable marine ecosystems and fisheries management by aligning environmental, social and financial incentives.
+The Sustainable Seafood Fund concept is a pioneering blue economy impact investment model  with the overarching objective of promoting sustainable marine ecosystems and fisheries management by aligning environmental, social and financial incentives.
+
+We believe that this approach will ensure economies of scale, consistent standards and continued market access, optimizing the success of fishery improvement initiatives. It also aims to improve the stability and scale of funding required for sustainable blue economies in wild capture fisheries.
 
 Ocean Outcomes has been at the forefront of the development of a rigorous global Fishery Improvement approach and we continue to actively engage in addressing the barriers and challenges that fisheries face in today’s world. The lack of significant, long-term financing for fisheries in transition is one of these barriers. It is simply not possible to increase the pace and scale of change required without a transformation in thinking about how we pay for the costs of change.
 
