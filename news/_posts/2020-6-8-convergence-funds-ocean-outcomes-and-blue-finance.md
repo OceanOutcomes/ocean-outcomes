@@ -2,7 +2,7 @@
 layout: news
 title: Ocean Outcomes and Blue Finance Become First Grant Recipients of Convergence’s Asia Natural Capital Window 
 date: 2020-6-8
-teaser-text: Ocean Outcomes has received a new feasibility study grant for developing a pioneering Sustainable Seafood Fund that aims to change the way Fishery Improvement Projects (FIPs) are funded in the Asia-Pacific.
+teaser-text: Ocean Outcomes has received a new feasibility study grant for developing a pioneering Sustainable Seafood Fund that aims to change the way fishery improvedment is funded in the Asia-Pacific.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/convergence-funds-ocean-outcomes-and-blue-finance-hero.jpg
 featured: TRUE
 ---
@@ -10,7 +10,7 @@ featured: TRUE
 
 **8 June 2020** – With funding from the RS Group for its Asia Natural Capital Design Funding Window, Convergence awards Blue Finance and Ocean Outcomes (O2) design-stage grants for blended finance solutions targeting Sustainable Development Goal 14: Life Below Water. 
 
-Blue Finance receives a proof of concept grant for the Blended Blue Finance Facility (BBFF) for the effective management of several Marine Protected Areas (MPAs) in Southeast Asia. O2 is awarded a feasibility study grant for developing a pioneering Sustainable Seafood Fund that aims to change the way Fishery Improvement Projects (FIPs) are funded in the Asia-Pacific.
+Blue Finance receives a proof of concept grant for the Blended Blue Finance Facility (BBFF) for the effective management of several Marine Protected Areas (MPAs) in Southeast Asia. O2 is awarded a feasibility study grant for developing a pioneering Sustainable Seafood Fund that aims to change the way fishery improvedment is funded in the Asia-Pacific.
 
 **“We are delighted to use our design funding program as a true market accelerator to support Blue Finance and O2, both presenting promising and scalable blended finance solutions to attract greater private and public sector investment towards projects focused on natural capital across the Asia-Pacific,” says Joan Larrea, Chief Executive Officer at Convergence.**
 
