@@ -24,8 +24,8 @@ Under the Fund’s proposed model, industry partners would commit to supporting 
 ---
 ###Stories from the Field: Sustainable Seafood Fund
 
-* [Ocean Outcomes and Blue Finance Become First Grant Recipients of Convergence’s Asia Natural Capital Window
-] (/news/convergence-funds-ocean-outcomes-and-blue-finance/)
+* [Ocean Outcomes and Blue Finance Become First Grant Recipients of Convergence’s Asia Natural Capital Window] (/news/convergence-funds-ocean-outcomes-and-blue-finance/)
+* [A New Approach to Fisheries Conservation Investments] (/news/catalyzing-fisheries-conservation-investment/)
 
 -----
 
