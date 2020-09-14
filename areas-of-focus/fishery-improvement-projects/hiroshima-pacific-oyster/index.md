@@ -33,6 +33,7 @@ alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
 
 * <a href="https://www.kurahasij.co.jp/" target="_blank">Fishery client Kurahashijima Kaisan Co., Ltd. website</a>
 * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/SS-F_TMP_RPT_preassMSC_SCSHeading_Hiroshima_093018.pdf" target="_blank">Pacific Cupped Oyster Enhanced Fisheries in Hiroshima and Hiro Bays MSC Pre-assessment Report</a>
+* <a href="https://main-hookandnetmag-hookandnet.content.pugpig.com/2020/03/27/2020-04oysterfip1/content.html" target="_blank">Japan’s Latest Fishery Improvement Project (FIP) Launches in the Country's Oldest and Largest Oyster-producing Region</a>
 * [First Oyster Fishery Improvement Project Launches in Japan] (/news/hiroshima-oyster-fip-launched-in-japan/)
 
 ---

@@ -7,6 +7,15 @@
     link-text: Learn More
     link-url: /areas-of-focus/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/
 
+- featured: FALSE
+  language: en
+  heading: Request for Information
+  title: We are seeking to identify relevant software and technology solutions to track Key Data Elements (KDEs) and enhance seafood supply chain transparency in artisanal and industrial fisheries.
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-japan-tuna-auction.jpg
+  link:
+    link-text: Learn More
+    link-url: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/O2+Digital+Solutions+RFI+2020.pdf
+
 - featured: TRUE
   language: en
   heading: Triple Bottom Line Seafood
