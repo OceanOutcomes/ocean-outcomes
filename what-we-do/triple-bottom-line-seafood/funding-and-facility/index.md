@@ -13,7 +13,7 @@ We believe that this approach will ensure economies of scale, consistent standar
 
 Ocean Outcomes has been at the forefront of developing innovative and rigorous approaches to increase the social, economic and environmental benefits of fisheries. And we continue to actively engage in addressing the barriers and challenges that fisheries face in today’s world. The lack of significant, long-term financing for fisheries in transition is one of these barriers. It is simply not possible to increase the pace and scale of change required without a transformation in thinking about how we pay for the costs of change.
 
-![Facility fund process graphic]
+![Sustainable Fisheries Fund process graphic]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/Fund-financing-model-figure-web.png)
 *The Fund investment model becomes self-financing over time. © Ocean Outcomes*
 
@@ -24,8 +24,6 @@ Under the Fund’s proposed model, industry partners would commit to supporting 
 ###Proposed key socio-economic and environmental impact metrics
 
 The Fund will track and work towards impact across the following indicators. These indicators are strategically mapped to overlap with indicators from the Sustainable Development Goals from the United Nations and the Global Environmental Facility.
-
-*Table 1. Key socio-economic and environmental impact indicators for the Sustainable Fisheries Fund.*
 
 | **Socio-economic:** |
 |:-----------------|
@@ -42,6 +40,10 @@ The Fund will track and work towards impact across the following indicators. The
 | Decrease negative impacts on other species caught |
 | Decrease in negative impacts on habitat  |
 | Proportion of fishers in portfolio certified or reaching certifiable standard by major environmental or social standard  |
+
+![Sustainable Fisheries Fund impact metrics]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/SFF+Key+Impact+Metrics+2020.png)
+*Key socio-economic and environmental impact indicators for the Sustainable Fisheries Fund. © Ocean Outcomes*
 
 Key environmental metrics are those that indicate whether fisheries in the Fund are moving towards improved stock health and management, and decreased impacts on other species and the ecosystem. Key socio-economic measures are those that will indicate whether the people involved with the fishery are treated more ethically and equitably than when the project began.
 
