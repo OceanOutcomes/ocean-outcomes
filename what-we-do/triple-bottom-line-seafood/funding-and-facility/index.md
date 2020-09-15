@@ -41,13 +41,9 @@ The Fund will track and work towards impact across the following indicators. The
 - Decrease in negative impacts on habitat  
 - Proportion of fishers in portfolio certified or reaching certifiable standard by major environmental or social standard  
 
----
-
 <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/SFF+Key+Impact+Metrics+2020.png" target="_blank">![Sustainable Fisheries Fund impact metrics]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/SFF+Key+Impact+Metrics+2020.png)</a>
 *Key socio-economic and environmental impact indicators for the Sustainable Fisheries Fund. © Ocean Outcomes*
-
----
 
 Key environmental metrics are those that indicate whether fisheries in the Fund are moving towards improved stock health and management, and decreased impacts on other species and the ecosystem. Key socio-economic measures are those that will indicate whether the people involved with the fishery are treated more ethically and equitably than when the project began.
 
