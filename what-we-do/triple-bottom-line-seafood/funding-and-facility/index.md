@@ -25,6 +25,22 @@ Under the Fund’s proposed model, industry partners would commit to supporting 
 
 The Fund will track and work towards impact across the following indicators. These indicators are strategically mapped to overlap with indicators from the Sustainable Development Goals from the United Nations and the Global Environmental Facility.
 
+**Socio-economic:** 
+* Increase in number of fisher engaged in more sustainable fisheries  
+* Increase in number of female fishers engaged in more sustainable fisheries  
+* Increase in proportion of females in management-level positions 
+* Fisher profit remains stable or increases 
+
+**Environmental:**
+* Increased number of assessed stocks  
+* Decrease in number ofstocks overfished or showing a negative health trend  
+* Increase in the amount of stocks managed more sustainably (over life of SFF)  
+* Decrease negative impacts on other species caught  
+* Decrease in negative impacts on habitat  
+* Proportion of fishers in portfolio certified or reaching certifiable standard by major environmental or social standard  
+
+---
+
 | **Socio-economic:** |
 |:-----------------|
 | Increase in number of fisher engaged in more sustainable fisheries   |
@@ -41,9 +57,13 @@ The Fund will track and work towards impact across the following indicators. The
 | Decrease in negative impacts on habitat  |
 | Proportion of fishers in portfolio certified or reaching certifiable standard by major environmental or social standard  |
 
+---
+
 <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/SFF+Key+Impact+Metrics+2020.png" target="_blank">![Sustainable Fisheries Fund impact metrics]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/SFF+Key+Impact+Metrics+2020.png)</a>
 *Key socio-economic and environmental impact indicators for the Sustainable Fisheries Fund. © Ocean Outcomes*
+
+---
 
 Key environmental metrics are those that indicate whether fisheries in the Fund are moving towards improved stock health and management, and decreased impacts on other species and the ecosystem. Key socio-economic measures are those that will indicate whether the people involved with the fishery are treated more ethically and equitably than when the project began.
 
