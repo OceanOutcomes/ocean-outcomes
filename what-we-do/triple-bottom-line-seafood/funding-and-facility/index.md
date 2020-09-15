@@ -26,18 +26,18 @@ Under the Fund’s proposed model, industry partners would commit to supporting 
 The Fund will track and work towards impact across the following indicators. These indicators are strategically mapped to overlap with indicators from the Sustainable Development Goals from the United Nations and the Global Environmental Facility.
 
 **Socio-economic:**  
-* Increase in number of fisher engaged in more sustainable fisheries  
-* Increase in number of female fishers engaged in more sustainable fisheries  
-* Increase in proportion of females in management-level positions 
-* Fisher profit remains stable or increases 
+ * Increase in number of fisher engaged in more sustainable fisheries
+ * Increase in number of female fishers engaged in more sustainable fisheries
+ * Increase in proportion of females in management-level positions
+ * Fisher profit remains stable or increases
 
 **Environmental:**  
-* Increased number of assessed stocks  
-* Decrease in number ofstocks overfished or showing a negative health trend  
-* Increase in the amount of stocks managed more sustainably (over life of SFF)  
-* Decrease negative impacts on other species caught  
-* Decrease in negative impacts on habitat  
-* Proportion of fishers in portfolio certified or reaching certifiable standard by major environmental or social standard  
+ * Increased number of assessed stocks
+ * Decrease in number ofstocks overfished or showing a negative health trend
+ * Increase in the amount of stocks managed more sustainably (over life of SFF)
+ * Decrease negative impacts on other species caught
+ * Decrease in negative impacts on habitat
+ * Proportion of fishers in portfolio certified or reaching certifiable standard by major environmental or social standard
 
 ---
 
