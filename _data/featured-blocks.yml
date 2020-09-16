@@ -18,12 +18,12 @@
 
 - featured: TRUE
   language: en
-  heading: Triple Bottom Line Seafood
-  title: We have created a positive fisheries feedback loop for people, planet and profit.
+  heading: Sustainable Fisheries Fund
+  title: We are working to create new and innovative ways to finance the blue economy and support the transition to sustainable fisheries.
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
   link:
     link-text: Learn More
-    link-url: /what-we-do/triple-bottom-line-seafood/
+    link-url: /what-we-do/triple-bottom-line-seafood/funding-and-facility/
     
 - featured: FALSE
   language: en
