@@ -27,7 +27,7 @@ The Fund will track and work towards impact across the following indicators. The
 
 **Socio-economic:**  
 
-- Increase in number of fisher engaged in more sustainable fisheries  
+- Increase in number of fishers engaged in more sustainable fisheries  
 - Increase in number of female fishers engaged in more sustainable fisheries  
 - Increase in proportion of females in management-level positions  
 - Fisher profit remains stable or increases  
