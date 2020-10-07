@@ -36,7 +36,7 @@ The Fund will track and work towards impact across the following indicators. The
 
 - Increased number of assessed stocks  
 - Decrease in number of stocks overfished or showing a negative health trend  
-- Increase in the amount of stocks managed more sustainably (over life of SFF)  
+- Increase in the amount of stocks managed more sustainably (over life of SSF)  
 - Decrease negative impacts on other species caught  
 - Decrease in negative impacts on habitat  
 - Proportion of fishers in portfolio certified or reaching certifiable standard by major environmental or social standard  
