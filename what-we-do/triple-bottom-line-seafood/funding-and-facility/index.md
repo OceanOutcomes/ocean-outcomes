@@ -50,6 +50,7 @@ Key environmental metrics are those that indicate whether fisheries in the Fund 
 ---
 ###Stories from the Field: Sustainable Seafood Fund
 
+* <a href="https://www.sustainability-times.com/environmental-protection/a-shift-in-financing-can-make-our-fisheries-more-sustainable/" target="_blank">A Shift in Financing Can Make Our Fisheries More Sustainable</a>
 * [Ocean Outcomes and Blue Finance Become First Grant Recipients of Convergence’s Asia Natural Capital Window] (/news/convergence-funds-ocean-outcomes-and-blue-finance/)
 * [A New Approach to Fisheries Conservation Investments] (/news/catalyzing-fisheries-conservation-investment/)
 
