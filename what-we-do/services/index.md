@@ -1,11 +1,11 @@
 ---
 layout: page 
-title: Client Services
+title: Partner Services
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
 hero-image:
-subtitle: Helping forward-thinking groups deliver on sustainable seafood commitments.
+subtitle: We help forward-thinking companies, investors, NGOs and others deliver on their sustainable seafood and fisheries improvement goals.
 weight: 2
-teaser-text: Whether you are a fisherman, seafood buyer, seafood processor, or NGO working in seafood, the environmental and business case for sustainability has never been stronger. Let us help.
+teaser-text: Whether you are leading a fisheries project, buying seafood, investing in fisheries reform, or part of an initiative or NGO in the seafood sector, the environmental and business case for sustainability has never been stronger. Let us help deliver the impact you seek.
 ---
 
 <div class="map-section">
@@ -14,45 +14,45 @@ teaser-text: Whether you are a fisherman, seafood buyer, seafood processor, or N
   </div>
 </div>
 
-##  If you’re working in sustainable seafood, we can help you deliver on your goals.
+##  Working in fisheries improvement or sustainable seafood? We can help you deliver on your goals.
 
-Our ever-expanding portfolio of work spans the globe. We’ve developed salmon escapement management strategies in Japan, mapped out supply chains of the highest valued seafood species in China, designed curriculum for a tuna management workshop in Ghana, led anti-poaching initiatives in the Russian Far East, provided fishery risk analysis for seafood business partners, and assisted corporate hotels in implementing sustainable seafood sourcing policies. Key areas of expertise include:
-
-----
-
-##### Improvement Projects - FIPs and AIPs
- 
-As an organization founded on helping commercial fisheries and aquaculture operations become more sustainable, we know Fishery Improvement Projects (FIP) and Aquaculture Improvement Projects (AIP). Our improvement work includes the design, launch, and implementation of both basic and comprehensive fishery improvement projects, as well as aquaculture improvement projects. This includes assessment, stakeholder mapping and convening, work plan development and implementation, project public relations, and certification guidance.
+Our ever-expanding portfolio of environmental and socioeconomic fisheries improvement work spans the globe. We’ve developed salmon escapement management strategies in Japan, mapped out supply chains of the highest valued seafood species in China, designed and led curricula for tuna harvest strategy workshops in West Africa, Indonesia and Fiji, led anti-poaching initiatives in the Russian Far East, provided fishery risk analysis for seafood business partners, and assisted corporate hotels in implementing sustainable seafood sourcing policies. Key areas of expertise include:
 
 ----
 
-##### Fishery Assessments 
+##### Fishery Improvement Projects - FIPs and AIPs
  
-Get a clear and science-backed understanding of any fishery, against any of the leading certification standards. We conduct Seafood Watch assessments, Marine Stewardship Council pre-assessments, and have [developed our own Rapid Assessment method] (/what-we-do/services/rapid-assessments/) as a time and cost efficient method for evaluating a fishery’s ecological sustainability and identifying major sustainability issues.
+As an organization founded on improving commercial fisheries and aquaculture operations, we are experts in the design and application of [Fishery Improvement Projects (FIPs) and Aquaculture Improvement Projects (AIPs)] (/areas-of-focus/fishery-improvement-projects/). This includes traditional projects focused on environmental sustainability, but also triple bottom line projects which support socioeconomic sustainability as well. Our fishery improvement work includes assessment, stakeholder mapping and convening, work plan development and implementation, project public relations, FisheryProgress.org reporting and certification guidance.
 
 ----
 
-##### Supply Chain Analysis 
+##### Environmental, Financial and Social Fishery Assessment
  
-From point of harvest to point of consumption, and everything in between, our supply chain analysis process clearly maps fishery stakeholders and stakeholder contributions, strengths and weaknesses, bottlenecks in the system, and makes recommendations for improvements in efficiencies and sustainable practices.
+Get a clear and science-backed understanding of the environmental and socioeconomic status of any fishery, against any of the leading certification standards. We conduct Seafood Watch assessments, Marine Stewardship Council pre-assessments, and have developed our own Rapid Assessment methodology to support [triple bottom line improvements] (/what-we-do/triple-bottom-line-seafood/). We are uniquely positioned to evaluate a fishery’s financial, environmental and social sustainability quickly and efficiently, helping to identify challenges and building the foundation for durable intervention.
 
 ----
 
-##### Stakeholder Convenings 
+##### Supply Chain and Value Chain Analysis
+
+From point of harvest to point of consumption, and everything in between, our supply chain and value analysis processes clearly map fishery stakeholders and stakeholder contributions, strengths and weaknesses, bottlenecks in the system, production best practices, opportunities for increased profit and makes recommendations for improvements in efficiencies and sustainable practices.
+
+----
+
+##### Stakeholder Engagement
  
-Getting stakeholders to the table and facilitating a constructive results-oriented discussion can be half the battle. Through fishermen and seafood buyer exchanges, fishery stakeholder workshop facilitation and development, buyer partnership facilitation, and transnational government meeting coordination, we get the right players at the table and develop solutions that stick.  
+Getting stakeholders to the table and facilitating a constructive results-oriented discussion can be half the battle. Through fishermen and seafood buyer exchanges, fishery stakeholder workshop development and facilitation, buyer partnership facilitation, transnational governmental meeting design, and international consultation strategy design, we can help you engage your key audiences and develop solutions that stick.  
 
 ----
 
 ##### Fisheries Management and Policy Analysis 
 
-With a high level of complexity, fisheries management and policy issues often need to be addressed from many different angles. Our wide ranging expertise allows us to provide creative and practical advice to a variety of fishery issues, whether that means for example, applying stock identification tools to complex mixed stock fishery issues, designing precautionary management approaches in response to data uncertainties, designing fishery monitoring plans to collect basic catch and biological data, evaluating the implications of artificial production strategies for wild capture fisheries and populations, or delivering expert advice on certification systems. 
+With a high level of complexity, fisheries management and policy issues often need to be addressed from many different angles. Our wide ranging expertise allows us to provide creative and practical advice on a variety of fishery issues, whether that means for example, applying stock identification tools to evaluate impacts of fish culture programs on wild stocks and fisheries, designing precautionary management approaches in response to data uncertainties, designing fishery monitoring plans to collect catch and biological data, evaluating the implications of artificial production strategies for wild capture fisheries and populations, delivering expert advice on certification, or recommending legislative approaches for reducing ghost fishing impacts.
 
 ----
 
 ##### Strategic Consultation 
 
-Leave the development and implementation of sustainable practices to the experts. We develop sustainable sourcing policies, bycatch reduction strategies, comprehensive risk analysis reports, anti-IUU and traceability solutions, and fisheries management strategies.
+Leave the development and implementation of environmental and socioeconomic fishery improvement to the experts. We develop sustainable sourcing policies, bycatch reduction strategies, comprehensive risk analysis reports, anti-IUU and traceability solutions and organizational strategy analysis, to name a few. We can support you as you work to address the breadth of environmental and socioeconomic challenges facing many of the world's fisheries. No project is too complicated or too small.
 
 ----
 
