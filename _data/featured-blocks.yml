@@ -1,11 +1,11 @@
-- featured: FALSE
+- featured: TRUE
   language: en
-  heading: Featured Fishery Improvement Project
-  title: If you’re working in sustainable seafood, we can help you deliver on your goals.
+  heading: Working in sustainable seafood or fisheries improvement?
+  title: We can help you deliver on your goals.
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-services.jpg
   link:
-    link-text: Learn More
-    link-url: /areas-of-focus/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/
+    link-text: Learn How
+    link-url: /what-we-do/services/
 
 - featured: FALSE
   language: en
@@ -16,7 +16,7 @@
     link-text: Learn More
     link-url: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/O2+Digital+Solutions+RFI+2020.pdf
 
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Sustainable Seafood Fund
   title: We are working to create new and innovative ways to finance the blue economy and support the transition to sustainable fisheries.
