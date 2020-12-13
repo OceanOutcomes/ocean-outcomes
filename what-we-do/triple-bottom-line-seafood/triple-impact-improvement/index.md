@@ -14,7 +14,7 @@ It has done this primarily through [Fishery Improvement Projects (FIPs)] (/areas
 
 To address these limitations and to maximize the success of FIPs, Ocean Outcomes, SmartFish AC, Wilderness Markets and Conservation International’s Oceans program broadened the FIP model beyond environmental considerations to include fisheries’ social and financial dimensions by developing a <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Fisheries+Evaluation+Framework+1.0.pdf" target="_blank">Triple Impact Fisheries Evaluation Framework</a>.
 
-####The Framework increases the viability and decreases the risk of the traditional fisheries improvement process, representing an opportunity for all working in seafood.
+###The Framework increases the viability and decreases the risk of the traditional fisheries improvement process, representing an opportunity for all working in seafood.
 
 [![Download the Triple Impact Fisheries Evaluation Framework]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Download-the-Framework-Thumbnail.png)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Fisheries+Evaluation+Framework+1.0.pdf)
@@ -25,7 +25,7 @@ By design, FIPs were created to drive improvement of fisheries’ environmental 
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/triple-impact-improvement-graphic.png)
 *The Framework lays out a path forward for improving business practices, from the operational to the administrative. It provides a structure for designing and implementing integrated improvement plans to account for social, economic and environmental outcomes. © Ocean Outcomes*
 
-####The Framework evaluates needs, plan improvements and monitors and publicly reports progress against the environmental, social and financial dimensions of sustainability.
+###The Framework evaluates needs, plan improvements and monitors and publicly reports progress against the environmental, social and financial dimensions of sustainability.
 
 It is built around three tools:  
 
