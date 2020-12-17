@@ -37,6 +37,11 @@ It is built around three tools:
 
 Although the Framework is built around these three tools, it can also be used with alternatives; implementers should choose the assessment tools most relevant and useful for their contexts. However, in accordance with best practices, we recommend that implementers use tools for assessing environmental and social performance that meet international standards.
 
+Below we present case study examples of successful Framework pilot projects in fisheries around the globe. These examples demonstrate the Framework’s ability to empower local organizations and those working in FIPs to maximize their impact by including social and financial improvement in their work.
+
+[![Triple Impact Case Study 1 - Baja Mexico]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+1+-+Baja+Mexico.png)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+1+-+Baja+Mexico.pdf)
+
 -----
 
 [<< Back to Triple Impact Seafood] (/what-we-do/triple-bottom-line-seafood/)
