@@ -9,7 +9,7 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
-<a href="https://seafoodlegacy.com/cases/tokyobay_seaperch/" target="_blank">日本語での詳細はこちら（株式会社シーフードレガシーのページへ移動します）</a>
+<a href="https://seafoodlegacy.com/project/tokyobayfip_seaperch/" target="_blank">日本語での詳細はこちら（株式会社シーフードレガシーのページへ移動します）</a>
 
 Tokyo Bay is one of the leading commercial and recreational fishing regions in Japan for Japanese sea perch (*Lateolabrax japonicus*), a historically and culturally important fish used for edomae sushi, the style of sushi created during the late Edo-period (late 19th century) that influenced the nigiri sushi that is common today. 
 
@@ -17,7 +17,7 @@ While archaeological sites show that species such as sea perch were consumed in 
 
 Purse seine vessels which are participants of the Tokyo Bay Sea Perch FIP are significant players in the region’s industry and account for 10-15% of the total Chiba Prefecture sea perch catch. These fishermen, led by FIP client company Kaiko Bussan, abide by voluntary conservation practices including setting non-fishing days during spawning season and limiting soak times. While the local fishery research agency in Chiba prefecture conducts stock evaluations, prefecture-wide science-based fishery management plans and objectives are lacking, which increases risk of overfishing and stock depletion. Specific deficiencies include the lack of harvest control rules used to reduce harvest when stock abundance is declining, and the lack of fishery reference points based on maximum sustainable yield (MSY) or other appropriate proxy. In addition, the formal decision making process is not very transparent and inclusive of stakeholders.
 
-The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fishery, its effects and sea perch stocks, improve fish management practices, work to maintain overall sea perch stock abundance in Tokyo Bay, and distinguish the sea perch fishery in the growing sustainable seafood marketplace.
+The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fishery, its effects and sea perch stocks, improve fish management practices, work to maintain overall sea perch stock abundance in Tokyo Bay, and distinguish the sea perch fishery in the growing sustainable seafood marketplace. <a href="https://seafoodlegacy.com/en/project/tokyobayfip_seaperch/" target="_blank">To see the most current and any additional project information, visit the FIP profile on our partner Seafood Legacy's website.</a>
 
 <img align="right" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/tokyo-bay-sea-perch-fip/sea-perch-production-value-graph.png" width="500" height="268" style="margin:10px">
 
