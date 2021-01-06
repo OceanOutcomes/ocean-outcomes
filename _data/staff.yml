@@ -46,25 +46,9 @@
   bio: |
     Anna Gabis, CPA, provides accounting support for Ocean Outcomes. She began her accounting career with Primorsky Zavod in the Russian Far East, and has extensive experience in non-profit accounting, cash management, financial forecasting, budgeting and auditing having worked in senior accounting roles in a number of not-for-profit organizations, a CPA firm, and private companies. Anna holds a Bachelor of Science degree in accounting from Portland State University.
     
-- name: Stephen Hall, PhD
-  contractor: false
-  title: Interim CEO
-  email:
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/sephenbiophoto.jpg
-  bio: |
-    Stephen is a leading researcher and public speaker on sustainability, food security and international development and he has extensive senior leadership experience with several international organisations. At Avalerion Capital, he provides boutique advisory and support services to develop sustainability strategy and leadership in organizations to help drive systemic change. Previously he was Director General of WorldFish, an international research institute devoted to reducing hunger and poverty by improving fisheries and aquaculture. Other leadership roles include CEO of the Australian Institute of Marine Science (AIMS) and Professor of Marine Biology at Flinders University, Australia. Recognised as a leading scientist in his field, he has contributed to over 80 scientific publications on fisheries ecology and environmental issues. In 2004 Stephen was awarded a Pew Fellowship in Marine Conservation and in 2005 he was awarded the Australian Public Service Medal for leadership of AIMS.
-    
-- name: Neel Inamdar
-  contractor: false
-  title: Vice President, Fisheries and Aquaculture Finance
-  email:
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/neelstaffphoto.jpg
-  bio: |
-    Neel Inamdar leads Ocean Outcomes’ Sustainable Fisheries Finance and Aquaculture initiative. Neel has over 20 years experience with value chains spanning fisheries and agriculture through real estate and tourism and in emerging markets ranging from Indonesia to Kenya. An experienced emerging markets investor, he has successfully created and structured a range of impact investments and investment vehicles, representing institutional investors, lenders, private equity, owners, management and communities in different capacities. With a recent focus on sustainable ocean ecosystems, he is continuing to develop appropriate investment solutions to facilitate impact capital at scale for a healthy planet. Neel is a graduate of Cornell University.
-    
 - name: Rich Lincoln
   contractor: false
-  title: Founder and Senior Advisor
+  title: Chief Executive Officer
   email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/richstaffphoto.jpg
   bio: |
@@ -77,14 +61,6 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/ivanstaffphoto.jpg
   bio: |
     Iván grew up in central Mexico and completed his graduate program coursework in Marine Sciences at the Marine Science and Limnology Institute of the National University of Mexico. He has more than 15 years of experience working directly with fishers and seafood buyers to design and implement sustainable fisheries projects, including with O2 where he develops projects across Latin America. At O2, he also leads the partnership with the Monterey Bay Aquarium Seafood Watch Program, researching and writing Seafood Watch Reports for wild fisheries in the U.S. and Latin America. Prior to joining O2 in 2015, Iván worked as an independent fishery management consultant for organizations such as WWF (working on several reports and fishery assessments on rights based management and fish conservation in Latin America) and the Monterey Bay Aquarium. Iván enjoys many things, but has a special affinity for outdoor activities such as hiking, diving and playing soccer! 
-    
-- name: Hoyt Peckham, PhD
-  contractor: false
-  title: Chief Innovation Officer
-  email:
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/hoytstaffphoto.jpg
-  bio: |
-    Hoyt has worked for more than 20 years to ensure that oceans and those who depend on them thrive. At O2, he is working to scale the sustainable seafood movement by developing collaborative approaches that accelerate improvement in fisheries and aquaculture. Hoyt founded—and now serves as Board President of—The SmartFish Group, a triple impact seafood enterprise that incentivizes responsible artisanal fishing in Mexico. A Visiting Fellow at Stanford’s Center for Ocean Solutions, a Pew Marine Conservation Fellow, and a member of the IUCN MTSG, he holds an AB in Biology and English from Bowdoin College, a PhD in Evolutionary Ecology from the University of California, Santa Cruz, and a Launching New Ventures certificate from Harvard University. Hoyt’s experience as a captain, diver, fisherman, cameraman, and seafood entrepreneur contribute to his successful development of community–based conservation solutions. Hoyt and his wife and daughters divide their time between La Paz, Mexico and Madrid, Spain.
   
 - name: Kathryn Read
   contractor: false
@@ -117,3 +93,19 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/rossstaffphoto.jpg
   bio: |
     Ross has been an active leader in global tuna fisheries policy development and worked closely with fisheries improvement projects in South Africa for more than 10 years. He has experience as a fisheries observer, field biologist, highly published research scientist, and multi-tasking coordinator of multiple national and international programmes. He has extensive and direct experience with Asian tuna longline fisheries,  and less directly with purse seine fisheries. He has achieved significant success in working with the South Korean Bluefin tuna fleet, overseeing a programme of work to improve their fishing practices, and facilitating this fleet to become fully compliant with the Indian Ocean Tuna Commission’s (IOTC) seabird bycatch mitigation regulations.
+    
+- name: Hoyt Peckham, PhD
+  contractor: true
+  title: Wildlife Conservation Society
+  email:
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/hoytstaffphoto.jpg
+  bio: |
+    Hoyt has worked for more than 20 years to ensure that oceans and those who depend on them thrive. In close partnership with Ocean Outcomes, he is working to scale the sustainable seafood movement by developing collaborative approaches that accelerate improvement in fisheries and aquaculture. Hoyt founded—and now serves as Board President of—The SmartFish Group, a triple impact seafood enterprise that incentivizes responsible artisanal fishing in Mexico. A Visiting Fellow at Stanford’s Center for Ocean Solutions, a Pew Marine Conservation Fellow, and a member of the IUCN MTSG, he holds an AB in Biology and English from Bowdoin College, a PhD in Evolutionary Ecology from the University of California, Santa Cruz, and a Launching New Ventures certificate from Harvard University. Hoyt’s experience as a captain, diver, fisherman, cameraman, and seafood entrepreneur contribute to his successful development of community–based conservation solutions. Hoyt and his wife and daughters divide their time between La Paz, Mexico and Madrid, Spain.
+    
+- name: Songlin Wang
+  contractor: true
+  title: Tao Ran and Chair of Qingdao Marine Conservation Society
+  email:
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/songlinstaffphoto.jpg
+  bio: |
+    Songlin is a professional and strategic leader in the field of seafood sustainability and marine conservation in China. His career includes work for Ocean Outcomes, The Nature Conservancy, Worldwide Fund for Nature-WWF, and The Paulson Institute, among others. He has planned, led, and coordinated a number of large scale sustainable fisheries and aquaculture projects and wetlands conservation projects. His efforts helped guide the first Marine Stewardship Council (MSC) certification of a Chinese fishery and created enabling conditions for the first two Chinese fish farms to be certified by the Aquaculture Stewardship Council (ASC). Songlin established O2’s China Program in late 2015, Tao Ran Environmental Science and Technology Co. Ltd (Tao Ran) in 2016, and Qingdao Marine Conservation Society (QMCS) in 2017. Trained first as a marine ecologist at the Ocean University of China, and then an environmental manager at Yale, Songlin excels at exploring conservation solutions from political, market, and scientific angles. He is fluent in Mandarin and English and in his spare time enjoys reading, traveling, sports, and keeping ornamental freshwater fish.
