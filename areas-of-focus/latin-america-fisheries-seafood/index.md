@@ -37,7 +37,3 @@ Working with core implementing partners on the ground, including SmartFish and C
 * [Committing to Socially Responsible Seafood] (/news/committing-to-socially-responsible-seafood/)
 
 ---
-
-##Meet O2's Chief Innovation Officer
-
-<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/hoytstaffphoto1.jpg" width="320" height="320">Hoyt is an expert in Latin American fisheries and seafood, having worked for more than 20 years to ensure that oceans and those who depend on them thrive. At O2, he is working to scale the sustainable seafood movement by developing collaborative approaches that accelerate improvement in fisheries and aquaculture. Hoyt founded—and now serves as Board President of—The SmartFish Group, a triple impact seafood enterprise that incentivizes responsible artisanal fishing in Mexico. A Visiting Fellow at Stanford’s Center for Ocean Solutions, a Pew Marine Conservation Fellow, and a member of the IUCN MTSG, he holds an AB in Biology and English from Bowdoin College, a PhD in Evolutionary Ecology from the University of California, Santa Cruz, and a Launching New Ventures certificate from Harvard University. Hoyt’s experience as a captain, diver, fisherman, cameraman, and seafood entrepreneur contribute to his successful development of community–based conservation solutions. Hoyt and his wife and daughters divide their time between La Paz, Mexico and Madrid, Spain.
