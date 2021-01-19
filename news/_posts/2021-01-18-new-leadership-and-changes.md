@@ -2,12 +2,13 @@
 layout: news
 title: New Leadership and Changes at Ocean Outcomes
 date: 2021-01-18
-teaser-text: A letter from our Board of Directors.
+teaser-text: With great enthusiasm we announce that the Board of Directors has selected Rich Lincoln to lead Ocean Outcomes as President and CEO.
+sub-title: A letter from our Board of Directors.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/ocean-outcomes-launches-hero.jpg
 featured: TRUE
 ---
 
-Dear friends and colleagues,
+###Dear friends and colleagues,
 
 Despite these challenging times, Ocean Outcomes (O2) is celebrating a special milestone: six years since we launched as an independent organization dedicated to improving sustainability of fisheries globally.
 
@@ -28,6 +29,7 @@ A significant element of O2’s success has resulted from driving important seaf
 Looking ahead, O2 will be increasing its focus on its key strengths – high quality and impactful demonstration of the best ideas in the fishery improvement space. This means providing support and expertise to partners globally to scale improvement results, and working to increase the efficiency and value of supply chain investments in sustainability.
 
 We have identified four focal arenas for O2’s work that build on our strong foundation and best leverage our capacity and strengths. These include leading and supporting the sustainable seafood and fisheries improvement movements and aligned stakeholders in: 
+
   * tuna and distant water fisheries;   
   * China and the greater Northeast Asia region;   
   * small scale fisheries and triple impact approaches to improvement; and,   
