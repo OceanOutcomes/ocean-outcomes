@@ -45,6 +45,9 @@ Below we present case study examples of successful Framework pilot projects in f
 [![Triple Impact Case Study 2 - Guyana]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+2+-+Guyana.png)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+2+-+Guyana.pdf)
 
+[![Triple Impact Case Study 3 - Abalobi]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+3+-+Abalobi.png)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+3+-+Abalobi.pdf)
+
 -----
 
 [<< Back to Triple Impact Seafood] (/what-we-do/triple-bottom-line-seafood/)
