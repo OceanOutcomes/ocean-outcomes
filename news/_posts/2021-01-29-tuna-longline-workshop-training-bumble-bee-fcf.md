@@ -2,7 +2,7 @@
 layout: news
 title: Training Tuna Vessel Owners on Best Practices in Fiji and Taiwan
 date: 2021-1-29
-teaser-text: Workshops train dozens of vessel managers and operators on how to reduce fishery interactions with non-target and protected species through gear modifications and better fishing techniques.
+teaser-text: Workshops train dozens of vessel owners and operators on how to reduce fishery interactions with non-target and protected species.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tuna-longline-workshop-trainings-hero.png
 featured: TRUE
 ---
@@ -12,7 +12,7 @@ An understanding and implementation of longline tuna fishing best practices is f
 
 As part of the South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP and the Indian Ocean Albacore Tuna Longline FIP, FCF and partners conducted two workshops in 2020 to train participating FIP vessels on ways to modify fishing techniques to improve sustainability outcomes.
 
-On 25-26 February 2020, FCF and FIP partners held a workshop in Fiji to train 12 companies participating in the Indian Ocean FIP and on 16 December 2020 in Taiwan for 11 companies participating in the Western and Central Pacific FIP.
+On 25-26 February 2020, FCF and FIP partners held a workshop in Fiji to train 12 companies participating in the Western and Central Pacific FIP and on 16 December 2020 in Taiwan for 11 companies participating in the Indian Ocean FIP.
 
 ![Longline tuna companies]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/longline-vessel-owners-training.png)
@@ -22,9 +22,11 @@ On 25-26 February 2020, FCF and FIP partners held a workshop in Fiji to train 12
 
 The training included a review of the regional rules by the international bodies, the Western and Central Pacific Fisheries Commission (WCPFC) and Indian Ocean Tuna Commission (IOTC). These rules cover the common non-target bycatch and endangered, protected and threatened species encountered in standard longline operations, notably sea turtles, sharks, rays and seabirds. It also covered the Marine Stewardship Council standard and a review and discussion of the fisheries’ opportunities for improvement identified in prior MSC pre-assessments.
 
-A core focus of both workshops was training skippers on basic longine gear modifications and fishing techniques that can effectively reduce the bycatch of certain species. This included:
+A core focus of both workshops was training skippers on basic longline gear best practices and fishing techniques that can effectively reduce the bycatch of certain species. This included:
 
 * Using wide circle hooks which reduce the accidental capture of sea turtles by minimizing the likelihood of a hook getting deeply hooked and which offer a greater probability of safe dehooking.  
+
+* Use of monofilament leads that enable sharks to bite through and escape if accidentally hooked.  
 
 * Setting hooks deeper in the water column by using longer drop lines to avoid interactions with shallow water and surface bycatch species, such as seabirds.  
 
@@ -38,7 +40,7 @@ A core focus of both workshops was training skippers on basic longine gear modif
 
 ###Training for vessel owners and operators through workshops such as these are an important step towards environmental sustainability.
 
-Generating an awareness and understanding of best practice are core action items in the first years of both FIP workplans. An understanding of these gear modification techniques, RFMO regulations and safe handling and release measures will help FIP-participating vessels deliver on their commitment to adopt improvements in fishing operations.
+Generating an awareness and understanding of best practice are core action items in the first years of both FIP workplans. An understanding of the positive impact maintaining the use of specific gear can have, RFMO regulations and safe handling and release measures will help FIP-participating vessels deliver on their commitment to adopt improvements in fishing operations.
 
 These improvements will help to reduce bycatch and ultimately minimize the impact of the two fisheries on the pelagic ecosystem as both FIPs work towards the Marine Stewardship Council standard.
 
