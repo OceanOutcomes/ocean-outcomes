@@ -26,6 +26,7 @@ The South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longli
 
 * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/WCP+Albacore+and+Yellowfin+Pre-assessment+3167R01B_MASTER_FINAL.pdf" target="_blank">MSC Pre-Assessment Report Bumble Bee Seafoods albacore and yellowfin longline tuna</a>
 * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+BB+WCPO+FIP+Scoping+Document+May19.pdf" target="_blank">Scoping Document and Initial Workplan: South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline Fishery Improvement Project</a>
+* [Training Tuna Vessel Owners on Best Practices in Fiji and Taiwan] (/news/tuna-longline-workshop-training-bumble-bee-fcf/)
 * [New Tuna FIP to Drive Improvements on Hundreds of Chinese and Chinese Taipei Longline Vessels] (/news/bumble-bee-fcf-O2-albacore-tuna-project-FIP-launch/)
 * [Bumble Bee Foods and FCF Partner with Ocean Outcomes to Improve Longline Tuna Fisheries] (/news/bumble-bee-fcf-O2-albacore-tuna-project-announcement/)
 

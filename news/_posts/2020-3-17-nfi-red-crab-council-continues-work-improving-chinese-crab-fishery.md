@@ -4,7 +4,7 @@ title: NFI Red Crab Council Remains Committed to Improving Chinese Crab Fishery
 date: 2020-3-17
 teaser-text: Despite challenging environment, large scale Fisheries Improvement Project in China with over 1000 vessels will continue.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/NFI+Red+Crab+Council+FIP+Release+March+2020+hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Despite challenging environment, large scale project in China will continue
 

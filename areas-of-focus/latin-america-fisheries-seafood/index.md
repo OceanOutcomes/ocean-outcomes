@@ -29,6 +29,8 @@ Working with core implementing partners on the ground, including SmartFish and C
 ---
 ##Stories from the Field: Latin America
 
+
+* [New Global Platform Connects Small-scale Fishers to Improve Sustainability, Livelihoods] (/news/new-platform-to-support-small-scale-fishers-launches/)
 * [A New Approach to Fisheries Conservation Investments] (/news/catalyzing-fisheries-conservation-investment/)
 * [Draper Richards Kaplan Foundation Invests in Ocean Outcomes] (/news/draper-richards-kaplan-foundation-invests-in-small-scale-fisheries/)
 * [Triple Impact FIPs - Improving Fisheries' Social, Economic and Environmental Performance] (/news/triple-impact-fips-session-boston-seafood-show/)
@@ -38,6 +40,6 @@ Working with core implementing partners on the ground, including SmartFish and C
 
 ---
 
-##Meet O2's Chief Innovation Officer
+##Meet SmartFish
 
-<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/hoytstaffphoto1.jpg" width="320" height="320">Hoyt is an expert in Latin American fisheries and seafood, having worked for more than 20 years to ensure that oceans and those who depend on them thrive. At O2, he is working to scale the sustainable seafood movement by developing collaborative approaches that accelerate improvement in fisheries and aquaculture. Hoyt founded—and now serves as Board President of—The SmartFish Group, a triple impact seafood enterprise that incentivizes responsible artisanal fishing in Mexico. A Visiting Fellow at Stanford’s Center for Ocean Solutions, a Pew Marine Conservation Fellow, and a member of the IUCN MTSG, he holds an AB in Biology and English from Bowdoin College, a PhD in Evolutionary Ecology from the University of California, Santa Cruz, and a Launching New Ventures certificate from Harvard University. Hoyt’s experience as a captain, diver, fisherman, cameraman, and seafood entrepreneur contribute to his successful development of community–based conservation solutions. Hoyt and his wife and daughters divide their time between La Paz, Mexico and Madrid, Spain.
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/smartfish-logo-partners.png"> SmartFish Rescate de Valor, AC is a non-profit organization founded in 2013 with the mission of fostering a market for environmentally sustainable and socially responsible seafood in Mexico. To catalyze supply of environmentally sustainable and socially responsible seafood, SmartFish incubates artisanal fisher cooperatives to optimize their fishing, handling, processing and commercial capacities, thereby rescuing the value of their landings. To generate demand for sustainable seafood, SmartFish recently launched a buyer engagement project to assist large buyers, namely retail companies, to analyze their supply chains and develop and implement sustainable sourcing policies. SmartFish’s buyer engagement model is based on the experience of the members of the Conservation Alliance for Seafood solutions. <a href="https://smartfish.mx/" target="_blank">www.smartfish.mx/</a>

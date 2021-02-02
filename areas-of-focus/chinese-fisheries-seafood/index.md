@@ -38,6 +38,7 @@ Without a significant, concerted, and locally-led push for reform, it’s likely
 ---
 ##Stories from the Field: China
 
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165783620303453" target="_blank">Reproductive Dynamics of a Swimming Crab (*Monomia haanii*) in the World’s Crab Basket</a>
 * [NFI Red Crab Council Remains Committed to Improving Chinese Crab Fishery] (/news/nfi-red-crab-council-continues-work-improving-chinese-crab-fishery/)
 * [Global Squid Sustainability Efforts Take Leap Forward] (/news/chinese-squid-sustainability-project-launched-in-qingdao/)
 * [Leading Seafood Industry Groups Launch First Sustainable Crab Project in China] (/news/national-fisheries-institute-O2-CAPPMA-O2-launch-crab-seafood-project-china/)
