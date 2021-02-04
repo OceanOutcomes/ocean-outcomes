@@ -29,6 +29,8 @@ Working with core implementing partners on the ground, including SmartFish and C
 ---
 ##Stories from the Field: Latin America
 
+
+* [New Global Platform Connects Small-scale Fishers to Improve Sustainability, Livelihoods] (/news/new-platform-to-support-small-scale-fishers-launches/)
 * [A New Approach to Fisheries Conservation Investments] (/news/catalyzing-fisheries-conservation-investment/)
 * [Draper Richards Kaplan Foundation Invests in Ocean Outcomes] (/news/draper-richards-kaplan-foundation-invests-in-small-scale-fisheries/)
 * [Triple Impact FIPs - Improving Fisheries' Social, Economic and Environmental Performance] (/news/triple-impact-fips-session-boston-seafood-show/)
@@ -37,3 +39,7 @@ Working with core implementing partners on the ground, including SmartFish and C
 * [Committing to Socially Responsible Seafood] (/news/committing-to-socially-responsible-seafood/)
 
 ---
+
+##Meet SmartFish
+
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/smartfish-logo-partners.png"> SmartFish Rescate de Valor, AC is a non-profit organization founded in 2013 with the mission of fostering a market for environmentally sustainable and socially responsible seafood in Mexico. To catalyze supply of environmentally sustainable and socially responsible seafood, SmartFish incubates artisanal fisher cooperatives to optimize their fishing, handling, processing and commercial capacities, thereby rescuing the value of their landings. To generate demand for sustainable seafood, SmartFish recently launched a buyer engagement project to assist large buyers, namely retail companies, to analyze their supply chains and develop and implement sustainable sourcing policies. SmartFish’s buyer engagement model is based on the experience of the members of the Conservation Alliance for Seafood solutions. <a href="https://smartfish.mx/" target="_blank">www.smartfish.mx/</a>

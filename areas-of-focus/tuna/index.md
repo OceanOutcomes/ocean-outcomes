@@ -34,6 +34,7 @@ Despite these challenges, positive transformation of tuna management is gaining 
 ---
 ##Stories from the Field: Tuna
 
+* [Training Tuna Vessel Owners on Best Practices in Fiji and Taiwan] (/news/tuna-longline-workshop-training-bumble-bee-fcf/)
 * [New Fishery Improvement Project Launched to Address Sustainability Gap in Indian Ocean Tuna Fisheries] (/news/bumble-bee-fcf-O2-indian-ocean-tuna-FIP-launch-release/)
 * [New Tuna FIP to Drive Improvements on Hundreds of Chinese and Chinese Taipei Longline Vessels] (/news/bumble-bee-fcf-O2-albacore-tuna-project-FIP-launch/)
 * [Improvement Efforts Lead to More Sustainable Fishing Practices in Japanese Sea Perch and Tuna Fisheries] (/news/japanese-FIP-progress-ratings-a/)

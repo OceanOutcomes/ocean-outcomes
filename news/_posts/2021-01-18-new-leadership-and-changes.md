@@ -5,7 +5,7 @@ date: 2021-01-18
 teaser-text: With great enthusiasm we announce that the Board of Directors has selected Rich Lincoln to lead Ocean Outcomes as President and CEO.
 subtitle: A letter from our Board of Directors.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/ocean-outcomes-launches-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 
 ###Dear friends and colleagues,

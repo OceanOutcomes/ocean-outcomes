@@ -4,7 +4,7 @@ title: Ocean Outcomes and Blue Finance Become First Grant Recipients of Converge
 date: 2020-6-8
 teaser-text: Ocean Outcomes has received a new feasibility study grant for developing a pioneering Sustainable Seafood Fund that aims to change the way fishery improvement is funded in the Asia-Pacific.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/convergence-funds-ocean-outcomes-and-blue-finance-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ### Working towards United Nations Sustainable Development Goal 14: Life Below Water
 
