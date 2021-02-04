@@ -10,9 +10,9 @@ featured: TRUE
 
 An understanding and implementation of longline tuna fishing best practices is foundational to ensuring sustainable tuna fisheries. Training vessel owners and operators on these best practices is one way to ensure tuna fisheries reduce their impact on the marine environment and other non-target species.
 
-As part of the South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP and the Indian Ocean Albacore Tuna Longline FIP, FCF and partners conducted two workshops in 2020 to train participating FIP vessels on ways to modify fishing techniques to improve sustainability outcomes. Alongside best practice fishing techniques FCF also held workshops to introduce the FCF social audit program and conduct audits with the FIP vessel participants.
+As part of the South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP and the Indian Ocean Albacore Tuna Longline FIP, FCF, Bumble Bee and partners conducted two workshops in 2020 to train participating FIP vessels on ways to modify fishing techniques to improve sustainability outcomes. Alongside best practice fishing techniques FCF and Bumble Bee also held workshops to introduce the FCF social audit program and conduct audits with the FIP vessel participants.
 
-On 24-25 February 2020, FCF and FIP partners held a workshop in Fiji to train 12 companies participating in the Western and Central Pacific FIP and on 16 December 2020 in Taiwan for 9 companies participating in the Indian Ocean FIP.
+On 24-25 February 2020, FCF, Bumble Bee and FIP partners held a workshop in Fiji to train 12 companies participating in the Western and Central Pacific FIP and on 16 December 2020 in Taiwan for 9 companies participating in the Indian Ocean FIP.
 
 ![Longline tuna companies]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/longline-vessel-owners-training.png)
