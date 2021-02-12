@@ -24,6 +24,12 @@ A RFMO is an international body made up of countries that share a practical and/
 
 Despite these challenges, positive transformation of tuna management is gaining momentum, especially in the canned tuna fisheries (which primarily target skipjack and albacore tunas). This includes the adoption of improved management strategies through Harvest Control Rules, collaborative work through programs such as the United Nation Food and Agriculture Organization’s [Areas Beyond National Jurisdiction program which trains local tuna managers on best practices] (/news/tuna-management-workshop-fiji/), and a growing consumer awareness regarding the critically endangered status of select tuna populations.
 
+----
+
+**NGO Tuna Forum**
+
+Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org/" target="_blank">NGO Tuna Forum</a>. The Forum brings together NGOs and others that work comprehensively on global tuna sustainability issues that fall within one or more of the following core focus areas: RFMO Management and Advocacy; Market-based Mechanisms for Improving Sustainability; and, On the Water Research, Activities and Improvements.
+
 ---
 ##Tuna Fishery Improvement Projects:
 
