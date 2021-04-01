@@ -4,7 +4,7 @@ title: Training Tuna Vessel Owners on Best Practices in Fiji and Taiwan
 date: 2021-1-29
 teaser-text: Workshops train dozens of vessel owners and operators on how to reduce fishery interactions with non-target and protected species.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/tuna-longline-workshop-trainings-hero.png
-featured: TRUE
+featured: FALSE
 ---
 ###Despite a challenging 2020, progress continued on two large scale tuna longline Fishery Improvement Projects in the Western and Central Pacific and Indian Oceans.
 
