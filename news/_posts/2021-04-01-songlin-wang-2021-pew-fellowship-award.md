@@ -8,7 +8,7 @@ featured: TRUE
 ---
 ###QMCS President and Ocean Outcomes Strategic Advisor selected as recipient of 2021 Pew fellowship
 
-Wang Songlin, a core partner of Ocean Outcomes and founder and president of the Qingdao Marine Conservation Society, has been selected by The Pew Charitable Trusts as a recipient of the 2021 <a href="https://www.pewtrusts.org/en/projects/marine-fellows" target="_blank">Pew fellowship in marine conservation</a>. Ocean Outcomes will support Songlin in the fellowship as the grant host.
+Songlin Wang, a core partner of Ocean Outcomes and founder and president of the Qingdao Marine Conservation Society, has been selected by The Pew Charitable Trusts as a recipient of the 2021 <a href="https://www.pewtrusts.org/en/projects/marine-fellows" target="_blank">Pew fellowship in marine conservation</a>. Ocean Outcomes will support Songlin in the fellowship as the grant host.
 
 As one of nine international conservation researchers awarded the fellowship this year, Songlin will receive $150,000 over the next three years to support the effective conservation and management of the Bohai Bay Eelgrass Bed, China’s largest eelgrass habitat.
 
