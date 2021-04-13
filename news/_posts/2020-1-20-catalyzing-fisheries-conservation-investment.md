@@ -22,7 +22,7 @@ Overfishing and harmful fishing practices persist, reducing fish populations and
 
 Authored by leading researchers in the field, the paper argues that to date, a lack of private sector investment and investment vehicles which generate financial returns have limited the effectiveness of fisheries conservation initiatives. 
 
-###[This paper validates and supports the new fisheries finance approaches we’ve developed.] (/what-we-do/triple-bottom-line-seafood/funding-and-facility/)
+###[This paper validates and supports the new fisheries finance approaches we’ve developed.] (/what-we-do/triple-bottom-line-seafood/)
 
 According to the authors, new investment models operating at the nexus of science, management, seafood and finance could help fisheries produce “substantially more seafood while supporting healthier fish populations and increased economic opportunities for fishing communities.”
 
