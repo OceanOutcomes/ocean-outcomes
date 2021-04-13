@@ -28,7 +28,7 @@ The first project of its kind in Japan, the Miyagi Onagawa Coho Salmon Aquacultu
 * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/MiyagiCohoSalmonPreassessment2017.xlsx" target="_blank">Miyagi Coho Salmon Pre-assessment 2017</a>
 * [Miyagi Onagawa Coho Salmon AIP Product Hits Japanese Supermarkets] (/news/seiyu-sells-aip-product/)
 * [Seiyu to Support Japan's First Aquaculture Improvement Project] (/news/seiyu-to-support-miyagi-aquaculture-improvement/)
-* <a href="https://seafoodlegacy.com/english/3725/" target="_blank">Japan’s First ASC Certified Coho Salmon Enters Retail and E-Commerce Market</a>
+* <a href="https://seafoodlegacy.com/wp-content/uploads/2020/12/ENGCohoSalmonASC_FINAL.pdf" target="_blank">Japan’s First ASC Certified Coho Salmon Enters Retail and E-Commerce Market</a>
 
 ---
 
