@@ -77,14 +77,6 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/nicolestaffphoto.jpg
   bio: |
     Nicole is responsible for O2’s operations and financial activities. Having served O2 for a few years as Finance and Business Development Manager, she also brings additional years of program management experience with Wildlife Conservation Society and Panthera. In addition, she is a successful entrepreneur and small business owner, having established two retail roller skate shops from the ground up. Nicole is a world renowned roller derby athlete and seven time world champion. She previously volunteered with the national governing body and currently serves on the Board of Directors for USA Roller Derby and her local Neighborhood Association. Nicole holds a B.Sc. from SUNY College of Environmental Science and Forestry. She enjoys advocating for social and environmental justice, traveling internationally, backpacking, and tending to her small urban farm.
-    
-- name: Ross Wanless, PhD
-  contractor: false
-  title: Asia Tuna Manager
-  email:
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/rossstaffphoto.jpg
-  bio: |
-    Ross has been an active leader in global tuna fisheries policy development and worked closely with fisheries improvement projects in South Africa for more than 10 years. He has experience as a fisheries observer, field biologist, highly published research scientist, and multi-tasking coordinator of multiple national and international programmes. He has extensive and direct experience with Asian tuna longline fisheries,  and less directly with purse seine fisheries. He has achieved significant success in working with the South Korean Bluefin tuna fleet, overseeing a programme of work to improve their fishing practices, and facilitating this fleet to become fully compliant with the Indian Ocean Tuna Commission’s (IOTC) seabird bycatch mitigation regulations.
   
 - name: Lucy Bernard
   contractor: true
