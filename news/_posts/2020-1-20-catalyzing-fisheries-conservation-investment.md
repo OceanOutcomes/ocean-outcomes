@@ -12,7 +12,7 @@ A paper titled “Catalyzing fisheries conservation investment” published in *
 
 **The growing Ocean Outcomes team are leading the development of one such solution.**
  
-> [**Read more about our new blended financing mechanism which optimizes the success of fisheries improvement initiatives and generates returns on fisheries conservation investments.**] (/what-we-do/triple-bottom-line-seafood/funding-and-facility/)
+> [**Read more about our business-driven, triple impact approach to the challenges facing many of the world’s small scale fishers. This approach focuses on harnessing untapped financing and increasing profitability in small scale fishing enterprises to improve livelihoods and ecosystem health; creating a positive feedback loop for people, planet and profit.**] (/what-we-do/triple-bottom-line-seafood/)
  
 ###Fisheries underpin the livelihoods, food security and social fabric of coastal communities across the world. 
 
@@ -22,7 +22,7 @@ Overfishing and harmful fishing practices persist, reducing fish populations and
 
 Authored by leading researchers in the field, the paper argues that to date, a lack of private sector investment and investment vehicles which generate financial returns have limited the effectiveness of fisheries conservation initiatives. 
 
-###[This paper validates and supports the new fisheries finance approaches we’ve developed.] (/what-we-do/triple-bottom-line-seafood/funding-and-facility/)
+###[This paper validates and supports the new fisheries finance approaches we’ve developed.] (/what-we-do/triple-bottom-line-seafood/)
 
 According to the authors, new investment models operating at the nexus of science, management, seafood and finance could help fisheries produce “substantially more seafood while supporting healthier fish populations and increased economic opportunities for fishing communities.”
 

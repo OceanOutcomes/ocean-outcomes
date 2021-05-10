@@ -42,4 +42,4 @@ As harvest volume of internationally recognized species such as Pacific Bluefin 
 
 <a href="http://www.kaki-marukin.com/" target="_blank">Marukin Co., Ltd. website</a>
 
-<a href="http://www.fishermanjapan.com/" target="_blank">Fisherman Japan website</a>
+<a href="https://fishermanjapan.com/" target="_blank">Fisherman Japan website</a>
