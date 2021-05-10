@@ -5,7 +5,7 @@ hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/ne
 teaser-text: View case study examples where Ocean Outcomes and partners are successfully piloting the Triple Impact Fisheries Evaluation Framework in fisheries around the globe. These examples demonstrate the Framework’s ability to empower local organizations and those working in FIPs to maximize their impact by including social and financial improvement in their work.
 weight: 5
 ---
-###The Triple Impact Fisheries Evaluation Framework empowers local organizations and those working in fishery improvement to maximize their impact by including social and fnancial improvement in their work.
+###The Triple Impact Fisheries Evaluation Framework empowers local organizations and those working in fishery improvement to maximize their impact by including social and financial improvement in their work.
 
 **Select a case study below to learn more.**
 
