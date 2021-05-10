@@ -2,7 +2,7 @@
 layout: action
 title: Triple Impact Fisheries Evaluation Framework
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/conservation-international-O2-partnership-hero.jpg
-teaser-text: The plateau in certification represents a singular challenge for the sustainable seafood movement. We have reimagined the improvement model and built a Triple Impact Fisheries Evaluation Framework to increase the viability and decrease the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance. The Triple Impact Evaluation Framework is based on three tools—the Environmental Rapid
+teaser-text: The plateau in certification represents a singular challenge for the sustainable seafood movement. We have reimagined the improvement model and built a Triple Impact Fisheries Evaluation Framework to increase the viability and decrease the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance. The Triple Impact Evaluation Framework is based on three tools: the Environmental Rapid
 Assessment (ERA), Social Responsibility Assessment Tool for the Seafood Sector (SRA) and Financial Rapid Assessment (FRA).
 
 weight: 1
