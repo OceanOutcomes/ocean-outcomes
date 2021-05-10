@@ -38,7 +38,7 @@ It is built around three tools:
   * [Social Responsibility Assessment Tool for the Seafood Sector (SRA)] (/what-we-do/triple-bottom-line-seafood/social-rapid-assessment)
   * [Financial Rapid Assessment (FRA)] (/what-we-do/triple-bottom-line-seafood/financial-rapid-assessment)
 
-###The Framework is open-source, modular and agnostic
+###The Framework is open-source, modular and agnostic.
 
 Although the Framework is built around these three tools, it can also be used with alternatives; implementers should choose the assessment tools most relevant and useful for their contexts. However, in accordance with best practices, we recommend that implementers use tools for assessing environmental and social performance that meet international standards.
 
