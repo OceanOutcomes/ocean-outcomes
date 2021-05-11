@@ -16,11 +16,11 @@ The tool uses basic tenets of organizational capacity development, similar to as
 
 The FRA evaluates capacity indicators within three principles: 
 
-  * (1) Organizational Capacity,  
-  * (2) Operational Capacity, and  
-  * (3) Current Market Position.  
+  * (1) Organizational capacity  
+  * (2) Operational capacity  
+  * (3) Current market position  
 
-###The FRA provides an objective way to rapidly and efficiently quantify the key business attributes (organizational capacity and operational capacity) of a Seafood Enterprise.
+###The FRA provides an objective way to rapidly and efficiently quantify the key business attributes of a Seafood Enterprise.
 
 Ensuring that seafood enterprises have support from civil society, access to good logistics and infrastructure for market access, and strong partnerships with local businesses will reduce the risks associated with fishery improvement and contribute to the durability of improvement.
 
