@@ -1,4 +1,4 @@
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals.
@@ -7,14 +7,14 @@
     link-text: Learn How
     link-url: /what-we-do/services/
 
-- featured: FALSE
+- featured: TRUE
   language: en
-  heading: Request for Information
-  title: We are seeking to identify relevant software and technology solutions to track Key Data Elements (KDEs) and enhance seafood supply chain transparency in artisanal and industrial fisheries.
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-japan-tuna-auction.jpg
+  heading: Triple Impact Fisheries Evaluation Framework
+  title: Maximizing the impact of environmental initiatives by integrating social and financial improvement into fisheries sustainability.
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
   link:
     link-text: Learn More
-    link-url: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/O2+Digital+Solutions+RFI+2020.pdf
+    link-url: /what-we-do/triple-bottom-line-seafood/
 
 - featured: FALSE
   language: en
