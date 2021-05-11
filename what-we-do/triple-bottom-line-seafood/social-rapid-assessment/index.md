@@ -12,9 +12,9 @@ The SRA is a diagnostic or rapid assessment tool for assessing risk of social is
 
 The SRA covers three main principles: 
 
-  * (1) Protect human rights, dignity and access to resources;  
-  * (2) Ensure equality and equitable opportunity to benefit; and  
-  * (3) Improve food, nutrition and livelihood security.  
+  * (1) Protect human rights, dignity and access to resources  
+  * (2) Ensure equality and equitable opportunity to benefit  
+  * (3) Improve food, nutrition and livelihood security  
 
 Each social responsibility principle comprises a set of components, performance indicators (PIs) and scoring guideposts (SGs).
 
