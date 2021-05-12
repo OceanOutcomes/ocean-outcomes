@@ -40,6 +40,7 @@ Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org
 ---
 ##Stories from the Field: Tuna
 
+* [Now Addressing Social Needs in Fishery Improvement] (/news/fisheryprogress-social-policy-fishery-improvement-projects/)
 * [Training Tuna Vessel Owners on Best Practices in Fiji and Taiwan] (/news/tuna-longline-workshop-training-bumble-bee-fcf/)
 * [New Fishery Improvement Project Launched to Address Sustainability Gap in Indian Ocean Tuna Fisheries] (/news/bumble-bee-fcf-O2-indian-ocean-tuna-FIP-launch-release/)
 * [New Tuna FIP to Drive Improvements on Hundreds of Chinese and Chinese Taipei Longline Vessels] (/news/bumble-bee-fcf-O2-albacore-tuna-project-FIP-launch/)

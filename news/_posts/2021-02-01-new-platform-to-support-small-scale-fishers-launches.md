@@ -4,7 +4,7 @@ title: New Global Platform Connects Small-scale Fishers to Improve Sustainabilit
 date: 2021-02-01
 teaser-text: Ocean Outcomes and a global coalition of partners launch interactive, multilingual platform to bring together fishers, fishworkers and fishing communities.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/funding-facility-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 
 ###Interactive, multilingual platform to bring together fishers, fishworkers and fishing communities
