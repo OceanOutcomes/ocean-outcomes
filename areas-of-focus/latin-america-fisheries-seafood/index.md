@@ -29,7 +29,7 @@ Working with core implementing partners on the ground, including SmartFish and C
 ---
 ##Stories from the Field: Latin America
 
-
+* [Now Addressing Social Needs in Fishery Improvement] (/news/fisheryprogress-social-policy-fishery-improvement-projects/)
 * [New Global Platform Connects Small-scale Fishers to Improve Sustainability, Livelihoods] (/news/new-platform-to-support-small-scale-fishers-launches/)
 * [A New Approach to Fisheries Conservation Investments] (/news/catalyzing-fisheries-conservation-investment/)
 * [Draper Richards Kaplan Foundation Invests in Ocean Outcomes] (/news/draper-richards-kaplan-foundation-invests-in-small-scale-fisheries/)
