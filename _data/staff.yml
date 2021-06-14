@@ -1,11 +1,3 @@
-- name: Jada Tullos Anderson
-  contractor: false
-  title: Director, Fisheries and Aquaculture Finance
-  email:
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/jadastaffphoto.jpg
-  bio: |
-    Jada specializes in projects integrating market-based solutions into sustainable development. A graduate of Texas A&M and the Nicholas School of the Environment at Duke University, she has been employed by Fortune 500 companies, environmental consulting groups, as well as local and international nonprofits. She has worked with organizations like the Overseas Private Investment Corporation, providing input on environmental risks of investments, and with Kiva, giving strategic recommendations to partners as well as performing field audits of microfinance groups. As part of the Wilderness Markets team for the past six years, she led research and provided recommendations for fishery value chain development in more than a dozen fisheries in seven countries. At Ocean Outcomes, she is part of the team leading the initiative to develop, refine and scale triple-impact fishery improvement models.
-
 - name: Perry Broderick
   contractor: false
   title: Communications and Systems Director
@@ -78,9 +70,17 @@
   bio: |
     Nicole is responsible for O2’s operations and financial activities. Having served O2 for a few years as Finance and Business Development Manager, she also brings additional years of program management experience with Wildlife Conservation Society and Panthera. In addition, she is a successful entrepreneur and small business owner, having established two retail roller skate shops from the ground up. Nicole is a world renowned roller derby athlete and seven time world champion. She previously volunteered with the national governing body and currently serves on the Board of Directors for USA Roller Derby and her local Neighborhood Association. Nicole holds a B.Sc. from SUNY College of Environmental Science and Forestry. She enjoys advocating for social and environmental justice, traveling internationally, backpacking, and tending to her small urban farm.
   
+- name: Jada Tullos Anderson
+  contractor: True
+  title: Wildlife Conservation Society
+  email:
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/jadastaffphoto.jpg
+  bio: |
+    Jada specializes in projects integrating market-based solutions into sustainable development. A graduate of Texas A&M and the Nicholas School of the Environment at Duke University, she has been employed by Fortune 500 companies, environmental consulting groups, as well as local and international nonprofits. She has worked with organizations like the Overseas Private Investment Corporation, providing input on environmental risks of investments, and with Kiva, giving strategic recommendations to partners as well as performing field audits of microfinance groups. As part of the Wilderness Markets team for the past six years, she led research and provided recommendations for fishery value chain development in more than a dozen fisheries in seven countries. She is part of the team leading the initiative to develop, refine and scale triple-impact fishery improvement models.
+
 - name: Lucy Bernard
   contractor: true
-  title: Lucy Bernard, Founder and Senior Advisor, Finance and Organizational Management
+  title: Founder and Senior Advisor, Finance and Organizational Management
   email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/lucystaffphoto.jpg
   bio: |
