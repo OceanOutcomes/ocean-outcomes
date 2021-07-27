@@ -4,7 +4,7 @@ title: Songlin Wang Awarded Pew Fellowship to Support the Conservation of Chinaâ
 date: 2021-04-01
 teaser-text: QMCS President and Ocean Outcomes Strategic Advisor selected as recipient of 2021 fellowship
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/songlin-wang-2021-pew-fellow-hero.png
-featured: TRUE
+featured: FALSE
 ---
 ###QMCS President and Ocean Outcomes Strategic Advisor selected as recipient of 2021 Pew fellowship
 
