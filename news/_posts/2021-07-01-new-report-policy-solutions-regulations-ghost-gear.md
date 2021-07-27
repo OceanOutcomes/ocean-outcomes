@@ -2,7 +2,7 @@
 layout: news
 title: New Report Offers Policy Solutions for More Effective Action on Abandoned, Lost and Discarded Fishing Gear
 date: 2021-07-06
-teaser-text: “Ghost Gear Legislation Analysis” Finds Current Government Action on Ghost Gear Inadequate
+teaser-text: “Ghost Gear Legislation Analysis” report finds current government action on ghost gear inadequate and provides practical recommendations to improve.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/ghost-gear-legislation-analysis-report-hero.jpg
 featured: TRUE
 ---
@@ -21,7 +21,7 @@ Other highly ranked strategies include passing new or amended legislation, devel
 
 **“Some of our most beloved marine species are threatened by ghost gear, including sea turtles and dolphins. Entanglement can cause prolonged suffering, long-term physiological impacts, and even death across the world's oceans,” said Leigh Henry, director wildlife policy, wildlife conservation, World Wildlife Fund. “Preventing these plastics from strangling our wildlife and our oceans requires firm government commitment, and strong laws provide the cornerstone in the foundation for success."**
 
-**“This comprehensive report clearly identifies the importance for regionally and locally specific gap analyses to identify key issues creating ghost gear impacts and the factors limiting their resolution,” said Rich Lincoln, Ocean Outcomes CEO. “Such analyses can determine whether and how legislative approaches may be needed as part of integrated action plans that include a suite of tailored solutions. GGGI’s Best Practice Framework provides the basis for effectively identifying and implementing these urgently needed actions.” **
+**“This comprehensive report clearly identifies the importance for regionally and locally specific gap analyses to identify key issues creating ghost gear impacts and the factors limiting their resolution,” said Rich Lincoln, Ocean Outcomes CEO. “Such analyses can determine whether and how legislative approaches may be needed as part of integrated action plans that include a suite of tailored solutions. GGGI’s Best Practice Framework provides the basis for effectively identifying and implementing these urgently needed actions.”**
 
 The report also includes an overview of current legislation, including international instruments and conventions, non-binding guidelines and resolutions, regional fisheries management organizations, and management measures in place. It showcases model practices through case study examples from countries around the world such as the laws for shellfish pots in Washington (USA), the Marine Living Resources Act in Norway, the Common Fisheries Policy in the EU, and the Ghost Gear Fund in Canada.
 
