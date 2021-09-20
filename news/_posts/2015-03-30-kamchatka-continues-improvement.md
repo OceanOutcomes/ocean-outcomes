@@ -19,5 +19,3 @@ These developments on Kamchatka stem from years of work led by Ocean Outcomes, W
 While progress has been made to improve the status of fisheries across the region, much work remains to help increase transparency and strengthen management of these globally significant fisheries. 
 
 For more information on these fisheries, visit Ocean Outcomes’ [Salmon FIP Tracker] (/what-we-do/past-initiatives/tracker/). 
-
-[The full MSC press release can be viewed here] (https://www.msc.org/media-centre/press-releases/russian-fishing-companies-vityaz-avto-and-delta-enter-msc-assessment-for-salmon-).
