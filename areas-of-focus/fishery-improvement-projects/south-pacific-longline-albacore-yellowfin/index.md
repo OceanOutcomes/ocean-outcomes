@@ -8,6 +8,8 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
+*This project was initially developed and implemented by Ocean Outcomes and is now managed and maintained by <a href="http://keytraceability.com/" target="_blank">Key Traceability</a>.*
+
 The South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP aims to improve fishing practices for longline vessels operating in the Pacific Ocean that land albacore in Fiji and supply Bumble Bee Foods. Bumble Bee sources albacore tuna from these vessels through the Taiwanese-founded company FCF Fishery Company, Ltd. (FCF), much of which is canned and exported to North American markets. While the fishery’s target stocks are healthy and management is well-document and well-implemented, the fishery lacks independent observers, electronic monitoring, qualitative information about bycatch, and explicit harvest control rules and harvest strategies which are fundamental tools used to limit the risk of overfishing. This FIP is one of two projects between Bumble Bee, FCF and O2 focused on ensuring sustainable Chinese and Chinese Taipei longline fisheries; [the other is for longline vessels in the Indian Ocean] (/areas-of-focus/fishery-improvement-projects/indian-ocean-longline-albacore/). The goal of both FIPs is to achieve a certifiable status by mid-2024.
 
 ---
@@ -39,7 +41,7 @@ The South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longli
 | FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/western-and-central-pacific-albacore-and-yellowfin-tuna-longline">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | January 2019 |
 | Location: | South Pacific Ocean |
-| Participants: | Ocean Outcomes, Bumble Bee Foods, LLC, FCF Fishery Company, Ltd., Clover Leaf Seafoods |
+| Participants: | Ocean Outcomes, Key Traceability, Bumble Bee Foods, LLC, FCF Fishery Company, Ltd., Clover Leaf Seafoods |
 | Species: | Albacore tuna (*Thunnus alalunga*), Yellowfin tuna (*Thunnus albacares*) |
 | Gear Type: | Longline |
 | Volume: | 15,000 metric tons |
