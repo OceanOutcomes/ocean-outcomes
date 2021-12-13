@@ -29,7 +29,7 @@ To support these goals, Ocean Outcomes is excited to announce Doohyun Park — a
 
 With partnerships, on the ground capacity and tuna projects now in China, Taiwan, Japan and South Korea, Ocean Outcomes is scoping a higher level regional strategy to address sustainability needs in other, overlapping high seas fisheries, such as for small pelagics and squid.
 
-**“We have worked collaboratively with FCF and Bumble Bee, helping them achieve their FIP and MSC certification needs, and are advising Bumble Bee and others on tuna sustainability in the region,” said Suddaby. “We believe these successes can be replicated and scaled. Our goal is to bring together companies engaged in tuna and high seas fisheries, to jointly overcome the challenges with these fisheries.”**
+**“We have worked collaboratively with FCF and Bumble Bee, helping them implement their FIP and MSC certification needs, and are advising Bumble Bee and others on tuna sustainability in the region,” said Suddaby. “We believe these successes can be replicated and scaled. Our goal is to bring together companies engaged in tuna and high seas fisheries, to jointly overcome the challenges with these fisheries.”**
 
 ----
 
