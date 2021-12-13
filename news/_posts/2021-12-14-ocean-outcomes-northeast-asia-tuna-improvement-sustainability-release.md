@@ -10,7 +10,7 @@ featured: TRUE
 
 **December 14, 2021** — Ocean Outcomes has received a new three year $1.9 million dollar investment to scale up its sustainable tuna initiatives across Northeast Asia. The investment will drive further change in longline tuna management and production and support the development of a high seas fisheries strategy to replicate improvement successes in like-fisheries.
 
-**“We have already brought about 10% of Northeast Asian longline tuna vessels into projects working towards improved practices for the first time,” said Daniel Suddaby, VP of Strategy and Impact at Ocean Outcomes. “This includes helping one of the world’s largest tuna traders, FCF, move their entire supply chain into FIPs and MSC certification. Our vision, with generous support from the Moore Foundation, is to build on this success, tripling the number of vessels in improvement projects in the region.”**
+**“We have already brought about 10% of Northeast Asian longline tuna vessels into projects working towards improved practices for the first time,” said Daniel Suddaby, VP of Strategy and Impact at Ocean Outcomes. “This includes helping one of the world’s largest tuna traders, FCF, move their entire supply chain into certification. Our vision, with generous support from the Moore Foundation, is to build on this success, tripling the number of vessels in improvement projects in the region.”**
 
 ###A regional approach towards tuna sustainability
 
