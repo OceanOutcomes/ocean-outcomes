@@ -45,6 +45,7 @@ While Wakiguchi-san’s goal for the FIP is an unconditional pass of the Marine 
 ##Project News and Additional Resources:
 
 * <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/NachiKatsuuraAlbacoreLonglineTunaPreassessment2017.pdf" target="_blank">MSC Pre-assessment Update for Wakayama Tuna Longline Fishery</a>
+* [Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia] (/news/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release/)
 * [Improvement Efforts Lead to More Sustainable Fishing Practices in Japanese Sea Perch and Tuna Fisheries] (/news/japanese-FIP-progress-ratings-a/)
 * [Japan Looks to Improve Key Tuna Fisheries as Part of Blossoming Sustainable Seafood Movement] (/news/nachi-katsuura-albacore-fip-launch/)
 * [Opportunities for Sustainable Fisheries in Japan] (/news/japan-developments/)
