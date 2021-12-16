@@ -16,7 +16,7 @@ featured: TRUE
 
 In addition to increasing the number of vessels adhering to best practices — such as increases in observer coverage and the adoption of bycatch mitigation techniques — Ocean Outcomes will build a foundation for greater impact in the region at a management level. This will be accomplished by focusing on growing existing projects, partnerships and on the ground capacity in China and Japan, while also establishing new vehicles for change in South Korea. The focus of the work includes:
 
-  * Supporting the development of improved national fishery management in China, Taiwan, Japan and South Korea  
+  * Supporting the development of improved national fishery management in mainland China, Japan, South Korea and Taiwan
   
   * Establishing better catch and bycatch monitoring systems on hundreds of longline tuna vessels currently engaged in Fishery Improvement Projects (FIPs) and MSC certification  
   * Facilitating collaborative mechanisms to harmonize tuna improvement actions among involved large-scale tuna companies in the region
@@ -27,7 +27,7 @@ To support these goals, Ocean Outcomes is excited to announce Doohyun Park — a
 
 **“Korean tuna and high seas fisheries fleets produce staggering amounts of seafood, and with such production comes challenges and a responsibility to ensure sustainable practice,” said Park. “If upstream supply chains want to meet their sustainable tuna sourcing goals, we must work closely with the catching sector in Korea to help collaboratively solve these challenges.”**
 
-With partnerships, on the ground capacity and tuna projects now in China, Taiwan, Japan and South Korea, Ocean Outcomes is scoping a higher level regional strategy to address sustainability needs in other, overlapping high seas fisheries, such as for small pelagics and squid.
+With partnerships, on the ground capacity and tuna projects now in mainland China, Japan, South Korea and Taiwan, Ocean Outcomes is scoping a higher level regional strategy to address sustainability needs in other, overlapping high seas fisheries, such as for small pelagics and squid.
 
 **“We have worked collaboratively with FCF and Bumble Bee, helping them implement their FIP and MSC certification needs, and are advising Bumble Bee and others on tuna sustainability in the region,” said Suddaby. “We believe these successes can be replicated and scaled. Our goal is to bring together companies engaged in tuna and high seas fisheries, to jointly overcome the challenges with these fisheries.”**
 
