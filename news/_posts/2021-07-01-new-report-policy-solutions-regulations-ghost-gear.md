@@ -4,7 +4,7 @@ title: New Report Offers Policy Solutions for More Effective Action on Abandoned
 date: 2021-07-06
 teaser-text: “Ghost Gear Legislation Analysis” report finds current government action on ghost gear inadequate and provides practical recommendations for improvement.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/ghost-gear-legislation-analysis-report-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 
 ###New report provides practical recommendations for governments seeking to address ghost gear
