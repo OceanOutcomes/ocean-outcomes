@@ -5,7 +5,7 @@ landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanesefisherieshero.jpg
 weight: 3
 teaser-text: Few countries in the world are more important to the future of the global fisheries and the sustainability of global seafood supplies than Japan. Bottom line, sustainable fisheries will not be possible without Japan playing a constructive role.
-subtitle: Few countries in the world are more important to the future of the global fisheries and the sustainability of global seafood supplies than Japan. To ensure sustainable seafood supply chains in Japan, we’re working closely with Seafood Legacy, a Japanese sustainable seafood and fishery consultancy, to develop and implement scientifically-rigorous sustainable fisheries and seafood initiatives.
+subtitle: Few countries in the world are more important to the future of the global fisheries and the sustainability of global seafood supplies than Japan. To ensure sustainable seafood supply chains in Japan, we’re working closely with Seafood Legacy and UMITO Partners — two Japanese consulting firms specializing in sustainable seafood and fisheries — to develop and implement scientifically-rigorous sustainable fisheries and seafood initiatives.
 ---
 
 ##If you want to witness a display of marine abundance and diversity unrivaled nearly anywhere on planet earth head straight to the heart of Tokyo, grab your rubber boots and take a stroll through the cavernous Toyosu fish market.
@@ -18,9 +18,9 @@ For the average Japanese consumer, this has meant higher prices at the market an
 
 This includes buyer engagement programs, exploring solutions towards more sustainable practices with government, industry, and fishery leaders, and developing and implementing fishery and aquaculture improvement projects.
 
-We implement this work through close partnership with Seafood Legacy, a Japanese consulting firm specializing in sustainable seafood and fisheries. The partnership arrangement between O2 and Seafood Legacy provides a flexible and effective avenue to implement our joint projects and access domestic Japanese funding, while maintaining a strong, accountable, and international team approach to our sustainable fisheries and seafood work in the region.
+We implement this work through close partnership with Seafood Legacy and UMITO Partners, two Japanese consulting firms specializing in sustainable seafood and fisheries. The partnership arrangement between O2,Seafood Legacy and UMITO Partners provides a flexible and effective avenue to implement our joint projects and access domestic Japanese funding, while maintaining a strong, accountable, and international team approach to our sustainable fisheries and seafood work in the region.
 
-This ensures our initiatives are effective and our outcomes durable. Working with Seafood Legacy, we collaboratively fund, design, test and implement a variety of sustainable seafood and fisheries projects throughout Japan. These include, fishery and aquaculture improvement projects to improve management policies and revitalize fishing communities and engaging Japanese industry and other supply chain actors towards developing and implementing sustainable policy. 
+This ensures our initiatives are effective and our outcomes durable. Working with Seafood Legacy and UMITO Partners, we collaboratively fund, design, test and implement a variety of sustainable seafood and fisheries projects throughout Japan. These include, fishery and aquaculture improvement projects to improve management policies and revitalize fishing communities and engaging Japanese industry and other supply chain actors towards developing and implementing sustainable policy. 
 
 ---
 ##Sustainable Fisheries in Japan
@@ -31,7 +31,7 @@ To learn more about the complex issues facing Japanese fisheries see our report 
 We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-we-do/services/rapid-assessments/)) of strategically important fishery species to better articulate the fisheries landscape and to clearly map out the potential for fishery improvement and third party certification of fisheries targeting these species. These assessments will help inform policy, management, funding, and the direction of sustainable seafood work across the globe.
 
 ---
-##O2 and Seafood Legacy Japanese Fishery Improvement Projects:
+##O2, Seafood Legacy and UMITO Partners Japanese Fishery Improvement Projects:
 
 * [Hiroshima Pacific Oyster FIP] (/areas-of-focus/fishery-improvement-projects/hiroshima-pacific-oyster/)
 * [Miyagi Onagawa Coho Salmon AIP] (/areas-of-focus/fishery-improvement-projects/miyagi-coho-salmon/)
@@ -64,3 +64,7 @@ We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-w
 ##Meet Seafood Legacy
 
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/seafood-legacy-logo.png"> Seafood Legacy is a Tokyo-based social venture established in 2015 specializing in sustainable seafood and fisheries. Seafood Legacy provides sustainable seafood consulting services to marine-related businesses, producers and NGOs to strengthen the connections of marine ecosystems, economies and local communities. Seafood Legacy designs regional solutions which meet international standards and are tailored to the unique Japanese environment via a non-competitive platform designed to solve mutual issues facing various stakeholders. <a href="https://seafoodlegacy.com/" target="_blank">www.seafoodlegacy.com</a>
+
+##Meet UMITO Partners
+
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/umito-partners-logo.png"> UMITO Partners is a Japanese seafood improvement organization established in 2021 by former Ocean Outcomes Japan Program Director Shunji Murakami. UMITO supports fisheries, aquaculture operations, chefs and others working in Japanese seafood to develop and implement sustainability projects. <a href="https://umitopartners.com/" target="_blank">www.umitopartners.com</a>
