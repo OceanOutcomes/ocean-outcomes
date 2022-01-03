@@ -3,7 +3,7 @@ layout: page
 title: Hiroshima Pacific Oyster FIP
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/hiroshima-pacific-oyster-hero.jpg
-subtitle: A joint project of Ocean Outcomes and Seafood Legacy
+subtitle: A joint project of Ocean Outcomes, Seafood Legacy and UMITO Partners
 weight: 
 teaser-text:
 ---
@@ -45,7 +45,7 @@ alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
 | FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/japan-hiroshima-pacific-oyster-rope-grown">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | January 2020 |
 | Location: | Hiroshima and Hiro Bays, Hiroshima Prefecture, Japan |
-| Participants: | Ocean Outcomes, Seafood Legacy, Kurahashijima Kaisan Co., Ltd., Japanese Consumers' Co-operative Union (JCCU) |
+| Participants: |  Ocean Outcomes, Seafood Legacy, UMITO Partners, Kurahashijima Kaisan Co., Ltd., Japanese Consumers' Co-operative Union (JCCU) |
 | Species: | Pacific oyster (*Crassostrea gigas*) |
 | Gear Type: | Rope grown |
 | Volume: | 820-860 tonnes - *The five companies involved in the FIP produce a combined 820-860 tonnes of Pacific oysters per year. The fishery as a whole produces roughly 20,000 tonnes.* |

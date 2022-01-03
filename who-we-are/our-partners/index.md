@@ -24,3 +24,8 @@ SmartFish Rescate de Valor, AC is a non-profit organization founded in 2013 with
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/tao-ran-logo-partners.png"><h2>Tao Ran</h2>
 
 Qingdao Tao Ran Environmental Science and Technology Co. Ltd (Tao Ran) was established by former Ocean Outcomes China Program Director Songlin Wang in 2016. Tao Ran provides professional strategic planning and management services to organisations dedicated to the conservation and management of aquatic environmental resources. The firm works in partnership with fisheries, the aquaculture industry and nonprofits to move the Chinese seafood industry towards a sustainable future. In addition to fishery and aquaculture improvement partnerships with Ocean Outcomes, Tao Ran works closely with the Aquaculture Stewardship Council to grow the number of Chinese farms and species certified by ASC.
+
+----
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/umito-partners-partners.png"><h2>UMITO Partners</h2>
+
+UMITO Partners is a Japanese seafood improvement organization established in 2021 by former Ocean Outcomes Japan Program Director Shunji Murakami. UMITO supports fisheries, aquaculture operations, chefs and others working in Japanese seafood to develop and implement sustainability projects. <a href="https://www.umitopartners.com/" target="_blank">www.umitopartners.com</a>
