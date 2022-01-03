@@ -3,7 +3,7 @@ layout: page
 title: Miyagi Onagawa Coho Salmon AIP
 landing-image:
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/miyagi-coho-salmon-hero.jpg
-subtitle: A joint project of Ocean Outcomes and Seafood Legacy
+subtitle: A joint project of Ocean Outcomes, Seafood Legacy and UMITO Partners
 weight: 
 teaser-text:
 ---
@@ -38,7 +38,7 @@ The first project of its kind in Japan, the Miyagi Onagawa Coho Salmon Aquacultu
 | ---: | --- |
 | Project Launch: | June 2017 (ASC Certification Acquired in June 2020)|
 | Location: | Onagawa, Miyagi Prefecture, Japan |
-| Participants: | Ocean Outcomes, Seafood Legacy, Marukin Co., Ltd. Fisherman Japan |
+| Participants: | Ocean Outcomes, Seafood Legacy, UMITO Partners, Marukin Co., Ltd. Fisherman Japan |
 | Species: | Coho salmon (*Oncorhynchus kisutch*) |
 | Gear Type: | aquaculture, open net pen |
 | Volume: | ~465 mt - *The farm reports annual production of about 130,000 coho salmon, or roughly 465 mt assuming each fish weighs about 3.6 kg (3.6 kg estimate taken from NOAA).* |
