@@ -8,7 +8,7 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
-*This project was initially developed and implemented by Ocean Outcomes and is now managed and maintained by <a href="http://keytraceability.com/" target="_blank">Key Traceability</a>.*
+*This project was initially developed and implemented by Ocean Outcomes and is now managed and maintained by Key Traceability. <a href="http://keytraceability.com/" target="_blank">View current and any additional project information on the Key Traceability website</a>.*
 
 The Indian Ocean Albacore Tuna Longline FIP aims to improve fishing practices for longline vessels operating in the Indian Ocean that land albacore and supply Bumble Bee Foods. Bumble Bee sources albacore tuna from these vessels through the Taiwanese-founded company FCF Fishery Company, Ltd. (FCF), who acts as a broker for the fishing vessels, with Bumble Bee exporting the product to North American markets. While the target stock is healthy and management is well-document and well-implemented, the fishery lacks explicit harvest control rules and harvest strategies, which are fundamental tools to limit the risk of overfishing. Additionally, the fishery lacks independent observers, electronic monitoring, and qualitative information about bycatch, making the fishery’s effects on the surrounding ecosystem difficult to assess. This FIP is one of two projects between Bumble Bee, FCF and O2 focused on ensuring sustainable Chinese and Chinese Taipei longline fisheries; [the other is for longline vessels in the Pacific Ocean] (/areas-of-focus/fishery-improvement-projects/south-pacific-longline-albacore-yellowfin/). The goal of both FIPs is to achieve a certifiable status by mid-2024.
 
