@@ -9,6 +9,8 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
+*This project was initially developed and implemented by Ocean Outcomes and is now managed and maintained by <a href="https://umitopartners.com/" target="_blank">UMITO Partners</a>.* 
+
 <a href="https://seafoodlegacy.com/project/wakayamafip_albacoretuna/" target="_blank">日本語での詳細はこちら（株式会社シーフードレガシーのページへ移動します）</a>
 
 By volume Nachi Katsuura is one of the most significant ports for longline tuna production in Japan, accounting for the largest landings of fresh tuna in Japan. On an annual basis, roughly 430 Japanese long line vessels catch ~10,000 metric tons of albacore, much of which passes through Nachi Katsuura port in the Wakayama Prefecture.
