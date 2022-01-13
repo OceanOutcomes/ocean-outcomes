@@ -9,9 +9,9 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
-<a href="https://seafoodlegacy.com/project/hokkaidofip_octopus/" target="_blank">日本語での詳細はこちら（株式会社シーフードレガシーのページへ移動します）</a>
+*This project was initially developed and implemented by Ocean Outcomes and is now managed and maintained by UMITO Partners. <a href="https://umitopartners.com/" target="_blank">View current and any additional project information on the UMITO Partner website</a>.* 
 
-In Tomamae-cho, Hokkaido, about 10% of the population of 3,200 are employed in the fishing industry (2010 census). As with the trends for Japan as a whole, the fishing industry in Tomamae is in decline, experiencing a reduction in catches, an aging of the workforce, and a lack of new interest in the industry. The Tomamae Giant Pacific Octopus FIP aims to revitalize the region’s fisheries by improving sustainability of fishing practices through the establishment of a science-based management plan for the octopus fishery, which is managed by the Kita-Rumoi Fisheries Cooperative. In addition to the environmental work, the group of barrel drift fishermen involved in the FIP want to use the project as a vehicle to generate further interest and investment in the region’s fisheries. <a href="https://seafoodlegacy.com/en/project/hokkaidofip_octopus/" target="_blank">To see the most current and any additional project information, visit the FIP profile on our partner Seafood Legacy's website.</a>
+In Tomamae-cho, Hokkaido, about 10% of the population of 3,200 are employed in the fishing industry (2010 census). As with the trends for Japan as a whole, the fishing industry in Tomamae is in decline, experiencing a reduction in catches, an aging of the workforce, and a lack of new interest in the industry. The Tomamae Giant Pacific Octopus FIP aims to revitalize the region’s fisheries by improving sustainability of fishing practices through the establishment of a science-based management plan for the octopus fishery, which is managed by the Kita-Rumoi Fisheries Cooperative. In addition to the environmental work, the group of barrel drift fishermen involved in the FIP want to use the project as a vehicle to generate further interest and investment in the region’s fisheries.
 
 ---
 

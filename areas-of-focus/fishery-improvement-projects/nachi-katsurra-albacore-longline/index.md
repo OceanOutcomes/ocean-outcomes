@@ -9,7 +9,7 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
-<a href="https://seafoodlegacy.com/project/wakayamafip_albacoretuna/" target="_blank">日本語での詳細はこちら（株式会社シーフードレガシーのページへ移動します）</a>
+*This project was initially developed and implemented by Ocean Outcomes and is now managed and maintained by UMITO Partners. <a href="https://umitopartners.com/" target="_blank">View current and any additional project information on the UMITO Partner website</a>.* 
 
 By volume Nachi Katsuura is one of the most significant ports for longline tuna production in Japan, accounting for the largest landings of fresh tuna in Japan. On an annual basis, roughly 430 Japanese long line vessels catch ~10,000 metric tons of albacore, much of which passes through Nachi Katsuura port in the Wakayama Prefecture.
 
@@ -19,7 +19,7 @@ Wakiguchi-san, who founded and runs the wholesale company, is a leading seafood 
 
 In 2012, an MSC pre-assessment of tuna species targeted by two Japanese longliners was conducted for albacore, bigeye, yellowfin, and pacific bluefin tunas. In 2017 that pre-assessment was updated and concluded that the albacore and yellowfin tuna components of the fishery could be considered “well-positioned for certification” contingent on several key improvements. These include adopting harvest control rules for the northern albacore tuna stock, expanding on-board observer coverage to collect information on catches of non-target species such as sharks, billfish, seabirds and turtles, and implementing measures to reduce those non-target catches where necessary.
 
-While Wakiguchi-san’s goal for the FIP is an unconditional pass of the Marine Stewardship Council, the Nachi Katsuura Albacore Longline FIP is also working to bring about greater positive change throughout the entire region by growing to include additional fishing boats, processors, and wholesalers, and improvement measures which work to protect additional tuna species. <a href="https://seafoodlegacy.com/en/project/wakayamafip_albacoretuna/" target="_blank">To see the most current and any additional project information, visit the FIP profile on our partner Seafood Legacy's website.</a>
+While Wakiguchi-san’s goal for the FIP is an unconditional pass of the Marine Stewardship Council, the Nachi Katsuura Albacore Longline FIP is also working to bring about greater positive change throughout the entire region by growing to include additional fishing boats, processors, and wholesalers, and improvement measures which work to protect additional tuna species.
 
 <img align="right" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/nachi-katsuura-albacore-longline-fip/recommendation17_Albacore_Figure3.png" style="margin:10px">
 
