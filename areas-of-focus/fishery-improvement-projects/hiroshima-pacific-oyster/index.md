@@ -9,6 +9,8 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
+*This project was initially developed and implemented by Ocean Outcomes and is now managed and maintained by <a href="https://umitopartners.com/" target="_blank">UMITO Partners</a>.* 
+
 <a href="https://seafoodlegacy.com/project/hiroshimafip_pacificoyster/" target="_blank">日本語での詳細はこちら（株式会社シーフードレガシーのページへ移動します）</a>
 
 The unique topography, tidal currents and water temperatures in the marine areas of Hiroshima Prefecture make it an ideal location for oyster farming and fishing. The region accounts for two thirds of Japan’s oyster production, or 20,000 tonnes annually, some of which supplies the Japanese Consumers' Co-operative Union (JCCU), Japan’s largest consumer organization comprised of 29 million members. Since the oyster fisheries’ establishment in 1962, those involved in the oyster fisheries have always focused on quality and safety, but oyster companies now also want to ensure their oysters are produced and seen as eco-friendly. 
