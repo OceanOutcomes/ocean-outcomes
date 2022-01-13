@@ -29,6 +29,7 @@ Working with core implementing partners on the ground, including SmartFish and C
 ---
 ##Stories from the Field: Latin America
 
+* [Advancing Community Based Fishery Improvement Projects in Costa Rica] (/news/sustainable-fisheries-costa-rica-progress-highlights-index/)
 * [Now Addressing Social Needs in Fishery Improvement] (/news/fisheryprogress-social-policy-fishery-improvement-projects/)
 * [New Global Platform Connects Small-scale Fishers to Improve Sustainability, Livelihoods] (/news/new-platform-to-support-small-scale-fishers-launches/)
 * [A New Approach to Fisheries Conservation Investments] (/news/catalyzing-fisheries-conservation-investment/)
