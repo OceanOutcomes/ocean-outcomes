@@ -3,7 +3,7 @@ layout: news
 title: Advancing Community Based Fishery Improvement Projects in Costa Rica
 date: 2022-1-18
 teaser-text: We are working with Conservation International Costa Rica and local harvester associations across Costa Rica to help advance projects which support environmental sustainability and socioeconomic prosperity.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/unagi-festival-2.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/costa-rica-cfip-2021-update-10.png
 featured: TRUE
 ---
 
@@ -33,7 +33,7 @@ To wrap-up 2021, our small scale fisheries team visited three of these projects,
 
 ![Meeting with the fishing association COOPREPOMAR]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/costa-rica-cfip-2021-update-4.png)
-*Generating a science based understanding of the needs and opportunities for local fishing communities is core to the success of any sustainable fisheries efforts in the region. In this photo, members of the fishing association COOPREPOMAR meet with Ocean Outcomes and CI-CR to discuss the progress of the C-FIP action plan.*
+*Generating a science based understanding of the needs and opportunities for local fishing communities is core to the success of any sustainable fisheries efforts in the region. In this photo, members of the fishing association COOPREPOMAR meet with Ocean Outcomes and Conservation International Costa Rica to discuss the progress of the C-FIP action plan.*
 
 ![Ice machine at the ASOPECUPACHI processing facility on Chira Island]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/costa-rica-cfip-2021-update-5.png)
