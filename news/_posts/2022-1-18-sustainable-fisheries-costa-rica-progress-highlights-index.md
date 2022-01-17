@@ -9,7 +9,7 @@ featured: TRUE
 
 ###We are working with Conservation International Costa Rica and local harvester associations across Costa Rica to help advance projects which support environmental sustainability and socioeconomic prosperity.
 
-These projects — initiated in late 2020 and early 2021 — span Costa Rica’s western coast and focus on fisheries and farms producing a variety of seafood, such as snapper (pargo mancha), weakfish (cabrilla reyna), and white shrimp (camarón blanco). Unlike many traditional sustainability initiatives, which focus primarily on environmental indicators, our work in Costa Rica also incorporates socioeconomic improvement. 
+These projects — initiated in late 2020 and early 2021 — span Costa Rica’s western coast and focus on fisheries and farms producing a variety of seafood, such as snapper (pargo mancha), weakfish (corvina reyna), and white shrimp (camarón blanco). Unlike many traditional sustainability initiatives, which focus primarily on environmental indicators, our work in Costa Rica also incorporates socioeconomic improvement. 
 
 This approach to small scale fisheries sustainability — [which we describe in more detail here] (/what-we-do/triple-bottom-line-seafood/) — evaluates needs, plans improvements and monitors progress against environmental, social and financial sustainability indicators.
 
@@ -45,7 +45,7 @@ To wrap-up 2021, our small scale fisheries team visited three of these projects,
 
 ![Shrimp harvesters on the northern part of the Gulf of Nicoya]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/costa-rica-cfip-2021-update-7.png)
-*Shrimp harvesters on the northern part of the Gulf of Nicoya agreed to work with Ocean Outcomes and Conservation International Costa Rica to implement improvement work. Currently, there are four different farms participating and the work has led to less use of energy and medication (antibiotics), translating to savings for the harvesters.*
+*Shrimp harvesters on the northern part of the Gulf of Nicoya agreed to work with Ocean Outcomes and Conservation International Costa Rica to implement improvement work. Currently, there are three different farms participating and the work has led to less use of energy and medication (antibiotics), translating to savings for the harvesters.*
 
 ![Mangrove rehabilitation projects]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/costa-rica-cfip-2021-update-8.png)
@@ -65,6 +65,6 @@ To wrap-up 2021, our small scale fisheries team visited three of these projects,
 
 ![Across Costa Rica there are an estimated 10,000 number of seafood harvesters]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/costa-rica-cfip-2021-update-12.png)
-*Across Costa Rica there are an estimated 10,000 number of seafood harvesters, such as this one pictured in San Juanillo. Socioeconomic and environmental approaches to fisheries sustainability helps ensure local livelihoods continue to thrive while at the same time we collectively work towards conservation goals.*
+*Across Costa Rica there are an estimated 6,000 number of seafood harvesters, such as this one pictured in San Juanillo. Socioeconomic and environmental approaches to fisheries sustainability helps ensure local livelihoods continue to thrive while at the same time we collectively work towards conservation goals.*
 
 [Learn more about our triple impact fisheries improvement work here.] (/what-we-do/triple-bottom-line-seafood/)
