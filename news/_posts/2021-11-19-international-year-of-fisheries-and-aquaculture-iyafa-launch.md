@@ -4,7 +4,7 @@ title: Official Launch of IYAFA 2022
 date: 2021-11-19
 teaser-text: The United Nations General Assembly has declared 2022 the International Year of Artisanal Fisheries and Aquaculture. IYAFA 2022 is an opportunity to showcase the potential and diversity of small-scale artisanal fisheries and aquaculture.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/international-year-of-fisheries-and-aquaculture-iyafa-launch-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 
 ###Small in scale, big in value
