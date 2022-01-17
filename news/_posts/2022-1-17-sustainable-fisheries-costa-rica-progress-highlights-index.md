@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Advancing Community Based Fishery Improvement Projects in Costa Rica
-date: 2022-1-18
+date: 2022-1-17
 teaser-text: We are working with Conservation International Costa Rica and local harvester associations across Costa Rica to help advance projects which support environmental sustainability and socioeconomic prosperity.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/costa-rica-cfip-2021-update-10.png
 featured: TRUE
