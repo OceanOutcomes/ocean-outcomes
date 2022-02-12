@@ -4,7 +4,7 @@ title: Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia
 date: 2021-12-14
 teaser-text: New investments and added capacity in South Korea will build on successful initiatives to date.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release-hero.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###Tripling impact in the region
 
