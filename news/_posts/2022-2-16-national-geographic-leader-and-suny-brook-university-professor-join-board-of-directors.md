@@ -14,6 +14,7 @@ Gael has more than 20 years of experience working in Latin American conservation
 
 #####“Listening to — and working with — local communities, and especially with women, is how we will collectively be able to ensure a future with sustainable fisheries.” — Gael Almeida  
 
+
 Yong is a leading fisheries scientist, and a professor of marine science at Stony Brook University and adjunct professor at Shanghai Ocean University and Ocean University of China. In addition to his world class stock assessment expertise, vast record of peer reviewed publications and science based sustainable fisheries management co-design, Yong and his team facilitate the Marine Fisheries Partnership, an international fisheries policy and management exchange collaboration, and co-convene the Lenfest supported International Crustacean Fisheries Task Force using case study learning to advance crustacean fisheries research and management. Both initiatives instrumentally support advancement of sustainable fisheries approaches in China and other parts of Asia.
 
 #####“Linking scientific knowledge and international, collaborative initiatives with on the ground capacity and projects is our best path forward for moving fisheries towards sustainability.” — Dr. Yong Chen  
