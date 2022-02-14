@@ -6,11 +6,11 @@ teaser-text: Two new additions to our Board of Directors bolsters our ability to
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/national-geographic-leader-and-suny-brook-university-professor-join-board-of-directors.jpg
 featured: TRUE
 ---
-###We are extremely pleased to announce Gael Almeida of National Geographic Society and Dr. Yong Chen of Stony Brook University have joined the Ocean Outcomes Board of Directors.
+###We are extremely pleased to announce that Gael Almeida of National Geographic Society and Dr. Yong Chen of Stony Brook University have joined the Ocean Outcomes Board of Directors.
 
 Their additions expand our ability to deliver our science-based fisheries sustainability outcomes  in Northeast Asia and develop and implement community-based fishery improvement initiatives across Latin America.
 
-Gael has more than 20 years of experience working in Latin American conservation. As the Regional Lead for Latin America at National Geographic Society, her work includes seeking new projects; supporting Latin American researchers, conservationists, educators, and storytellers who receive funding; triggering collaborations among the network of Explorers and partners to create long-term changes in the region. Her experience supporting sustainable fisheries efforts in Mexico brings first hand knowledge and insights about small scale fishery communities and their needs in a key O2 focal geography.
+Gael has more than 20 years of experience working in Latin American conservation. As the Regional Lead for Latin America at National Geographic Society, her work includes seeking new projects; supporting Latin American researchers, conservationists, educators, and storytellers who receive funding; and triggering collaborations among the network of Explorers and partners to create long-term changes in the region. Her experience supporting sustainable fisheries efforts in Mexico brings first hand knowledge and insights about small scale fishery communities and their needs in a key O2 focal geography.
 
 ###“Listening to — and working with — local communities, and especially with women, is how we will collectively be able to ensure a future with sustainable fisheries.” — Gael Almeida  
 
