@@ -1,7 +1,7 @@
 ---
 layout: news
 title: National Geographic Lead and Professor of Marine Science Join O2 Board
-date: 2022-2-15
+date: 2022-2-16
 teaser-text: Two new additions to our Board of Directors bolsters our ability to deliver our Northeast Asian fisheries work and Latin America community-based fishery improvement initiatives.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/national-geographic-leader-and-suny-brook-university-professor-join-board-of-directors.jpg
 featured: TRUE
