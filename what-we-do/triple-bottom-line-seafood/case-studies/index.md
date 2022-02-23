@@ -18,6 +18,9 @@ weight: 5
 [![Triple Impact Case Study 3 - Abalobi]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+3+-+Abalobi.png)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+3+-+Abalobi.pdf)
 
+[![Triple Impact Case Study 4 - CFIPs]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+4+-+CFIPs.png)] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+4+-+CFIPs.pdf)
+
 -----
 
 [<< Back to Triple Impact Improvement] (/what-we-do/triple-bottom-line-seafood/)
