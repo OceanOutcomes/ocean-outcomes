@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved (We're hiring!)
+title: Get Involved (Hiring!)
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -13,7 +13,7 @@ We’re always interested in connecting with folks who are creative, motivated, 
 
 **Current opportunities:**  
 
-> **[Social Responsibility Expert / Scientist]** (https://apply.workable.com/ocean-outcomes/j/967484FB2D/)  
+> **[Social Responsibility Expert / Scientist] (https://apply.workable.com/ocean-outcomes/j/967484FB2D/)**  
 > *Help us tackle social responsibility issues in fisheries around the globe, ranging from small scale coastal fisheries to industrial tuna fisheries, through quality science and authentic engagement. O2 is hiring to expand our Analytics Team, which works on diverse projects including development of triple impact (environmental, social, financial) fishery improvement projects through O2’s [Triple Impact Fisheries Evaluation Framework] (/what-we-do/triple-bottom-line-seafood/), fishery sustainability assessments (e.g. based on Marine Stewardship Council, Aquaculture Stewardship Council, and Monterey Bay Aquarium Seafood Watch standards/ratings), policy evaluation (e.g. of fisheries governance, bycatch regulations, ghost fishing best practices), and other mission-aligned contract projects. This position will start as a one-year term with potential to extend. [View the full job description, requirements and responsibilities and apply here] (https://apply.workable.com/ocean-outcomes/j/967484FB2D/).* 
 
 -----
