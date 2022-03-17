@@ -9,13 +9,14 @@ weight: 5
 ---
 ##Career and volunteer opportunities
 
-**Current job openings:**  
+
+We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share.
+
+**Current opportunities:**  
 
 *Social Responsibility Expert / Scientist*  
 
 *Help us tackle social responsibility issues in fisheries around the globe, ranging from small scale coastal fisheries to industrial tuna fisheries, through quality science and authentic engagement. O2 is hiring to expand our Analytics Team, which works on diverse projects including development of triple impact (environmental, social, financial) fishery improvement projects through O2’s [Triple Impact Fisheries Evaluation Framework] (/what-we-do/triple-bottom-line-seafood/), fishery sustainability assessments (e.g. based on Marine Stewardship Council, Aquaculture Stewardship Council, and Monterey Bay Aquarium Seafood Watch standards/ratings), policy evaluation (e.g. of fisheries governance, bycatch regulations, ghost fishing best practices), and other mission-aligned contract projects. This position will start as a one-year term with potential to extend. [View the full job description, requirements and responsibilities and apply here] (https://apply.workable.com/ocean-outcomes/j/967484FB2D/).* 
-
-We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share.
 
 -----
 ##Contribute to improving fisheries
