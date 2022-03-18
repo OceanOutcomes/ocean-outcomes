@@ -24,7 +24,7 @@ The FRA evaluates capacity indicators within three principles:
 
 Ensuring that seafood enterprises have support from civil society, access to good logistics and infrastructure for market access, and strong partnerships with local businesses will reduce the risks associated with fishery improvement and contribute to the durability of improvement.
 
-<a href="https://drive.google.com/file/d/1I8ceYdIRWSeKaqH9sTTykHXDKrRLLa29/view" target="_blank">The FRA is publicly available online here.</a>
+<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/PUBLIC+-+Financial+Rapid+Assessment+FRA+Version+4.6+18March2022.pdf" target="_blank">The FRA is publicly available online here.</a>
 
 -----
 
