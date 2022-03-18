@@ -46,6 +46,6 @@ By volume, China is the largest squid fishing and processing country in the worl
 
 ---
 
-<a href="https://fisheryprogress.org/fip-profile/east-china-sea-and-yellow-sea-japanese-flying-squid-trawl-0" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the East China Sea and Yellow Sea Squid FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/inactive-east-china-sea-and-yellow-sea-japanese-flying-squid-trawl" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the East China Sea and Yellow Sea Squid FIP profile here.**</a>
 
 [**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)
