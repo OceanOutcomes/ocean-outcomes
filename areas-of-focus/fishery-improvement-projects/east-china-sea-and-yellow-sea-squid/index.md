@@ -34,12 +34,11 @@ By volume, China is the largest squid fishing and processing country in the worl
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/east-china-sea-and-yellow-sea-japanese-flying-squid-trawl-0">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/inactive-east-china-sea-and-yellow-sea-japanese-flying-squid-trawl">tracked fully on FisheryProgress.org</a>) (INACTIVE) |
 | Project Launch: | March 2018 |
 | Location: | East China Sea and Yellow Sea, China|
 | Owners/Leads: | Ocean Outcomes, Tao Ran, China Aquatic Products Processing and Marketing Alliance (CAPPMA) |
-| Participants: | Sea Farms Ltd., PanaPesca USA, Quirch Foods, Laberyrie Fine Foods, AquaStar, Ocean University, Shandong Shengyang Fishing Group Co. Ltd. |
-| Supporters: | Marks & Spencer, Sainsbury’s, Sysco |
+| Participants: | AquaStar, PanaPesca USA, Quirch Foods, Sea Farms Ltd. |
 | Species: | Japanese flying squid (*Todarodes pacificus*) |
 | Gear Type: | Trawl |
 | Volume: | ~5,000 mt |
@@ -47,6 +46,6 @@ By volume, China is the largest squid fishing and processing country in the worl
 
 ---
 
-<a href="https://fisheryprogress.org/fip-profile/east-china-sea-and-yellow-sea-japanese-flying-squid-trawl-0" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the East China Sea and Yellow Sea Squid FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/inactive-east-china-sea-and-yellow-sea-japanese-flying-squid-trawl" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the East China Sea and Yellow Sea Squid FIP profile here.**</a>
 
 [**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)
