@@ -34,7 +34,7 @@ By volume, China is the largest squid fishing and processing country in the worl
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/east-china-sea-and-yellow-sea-japanese-flying-squid-trawl-0">tracked fully on FisheryProgress.org</a>) (INACTIVE) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/inactive-east-china-sea-and-yellow-sea-japanese-flying-squid-trawl">tracked fully on FisheryProgress.org</a>) (INACTIVE) |
 | Project Launch: | March 2018 |
 | Location: | East China Sea and Yellow Sea, China|
 | Owners/Leads: | Ocean Outcomes, Tao Ran, China Aquatic Products Processing and Marketing Alliance (CAPPMA) |
