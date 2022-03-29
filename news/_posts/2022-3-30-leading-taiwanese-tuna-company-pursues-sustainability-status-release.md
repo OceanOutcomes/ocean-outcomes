@@ -2,7 +2,7 @@
 layout: news
 title: Leading Taiwanese Tuna Company Pursues Sustainability Status
 date: 2022-3-30
-teaser-text: Growing wave of projects across Northeast Asia present unique opportunities for all working in tuna.
+teaser-text: A growing wave of projects across Northeast Asia present unique opportunities for all working in tuna.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/leading-taiwanese-tuna-company-pursues-sustainability-status-release-hero.png
 featured: TRUE
 ---
