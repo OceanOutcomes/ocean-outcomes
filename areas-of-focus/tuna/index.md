@@ -40,6 +40,7 @@ Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org
 ---
 ##Stories from the Field: Tuna
 
+* [Leading Taiwanese Tuna Company Pursues Sustainability Status] (/news/leading-taiwanese-tuna-company-pursues-sustainability-status-release/)
 * [Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia] (/news/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release/)
 * [Now Addressing Social Needs in Fishery Improvement] (/news/fisheryprogress-social-policy-fishery-improvement-projects/)
 * [Training Tuna Vessel Owners on Best Practices in Fiji and Taiwan] (/news/tuna-longline-workshop-training-bumble-bee-fcf/)
