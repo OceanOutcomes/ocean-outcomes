@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Partner Services
+title: Services
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
 hero-image:
 subtitle: We help forward-thinking companies, investors, NGOs and others deliver on their sustainable seafood and fisheries improvement goals.
