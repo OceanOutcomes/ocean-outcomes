@@ -1,5 +1,5 @@
 ---
 layout: page-landing
-title: Where we work
+title: Where We Work
 weight: 3
 ---
