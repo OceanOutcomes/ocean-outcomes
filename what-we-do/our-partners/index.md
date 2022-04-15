@@ -1,7 +1,7 @@
 ---
 layout: page
-weight: 3
-title: Teams
+weight: 5
+title: Partnership & Collaborations
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/past-initiatives-hover.jpg
 teaser-text: Our partnerships are a flexible and effective avenue to implement our work, leverage domestic support, all while maintaining a strong, accountable, and international team approach to our sustainable fisheries and seafood initiatives.
 subtitle: Our on-the-ground sustainable fisheries and seafood initiatives are implemented in close collaboration with the below partners.
