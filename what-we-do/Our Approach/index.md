@@ -1,6 +1,6 @@
 ---
 layout: action-landing
-title: Triple Impact Improvement
+title: Our Approach
 weight: 1
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/triple-bottom-line-hover.jpg
 hero-image:
