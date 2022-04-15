@@ -1,5 +1,5 @@
 ---
 layout: page-landing
-title: Areas of Focus
+title: Where we work
 weight: 3
 ---
