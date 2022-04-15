@@ -14,29 +14,28 @@ und:
   ### Top level menu item
   who-we-are: "Who We Are"
   #### Sub-menu items
-  our-team: "Our Team"
-  our-partners: "Core Partners"
-  board: "Our Board"
-  vision-mission: "Vision & Mission"
+  our-team: "Team"
+  testimonials: "Testimonials"
+  board: "Board"
+  vision-mission: "Vision & Mission & Values"
   join-our-team: "Get Involved (Hiring!)"
 
   ### Top level menu item
   what-we-do: "What We Do"
   #### Sub-menu items
-  triple-bottom-line-seafood: "Triple Impact Improvement"
-  services: "Partner Services"
-  testimonials: "Testimonials"
-  success-stories: "Success Stories"
-  past-initiatives: "Past Work"
+  triple-bottom-line-seafood: "Our Approach"
+  services: "Services"
+  success-stories: "Small Scale Fisheries"
+  tuna: "Tuna & High Seas Fisheries"
+  our-partners: "Partnership & Collaborations"
   
   ### Top level menu item
   areas-of-focus: "Where We Work"
   #### Sub-menu items
   chinese-fisheries-seafood: "China"
-  fishery-improvement-projects: "Fishery Improvement Projects (FIP)"
-  japanese-fisheries-seafood: "Japan"
+  japanese-fisheries-seafood: "Northeast Asia"
   latin-america-fisheries-seafood: "Latin America"
-  tuna: "Tuna"
+
 
   ## News section
   news-section-heading: "Stories from the Field"
