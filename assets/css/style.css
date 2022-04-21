@@ -506,10 +506,10 @@ body {
   background: url(../images/what-we-do-header-bg.jpg) center center no-repeat;
   background-size: cover; }
 
-.landing .content-header.areas-of-focus,
+.landing .content-header.where-we-work,
 .landing .content-header.ruareas-of-focus,
 .landing .content-header.jpareas-of-focus,
-.content-page .content-header.areas-of-focus {
+.content-page .content-header.where-we-work {
   background: url(../images/areas-of-focus-header-bg.jpg) center center no-repeat;
   background-size: cover; }
 
