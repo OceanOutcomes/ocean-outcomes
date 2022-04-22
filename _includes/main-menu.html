@@ -6,17 +6,17 @@
   {% if node_depth == 2 and node.lang == page.lang %}
   {% if node.title != '404 Not Found' %}
 
-    {% capture primary %}{{primary | append: node_url | append: '|' | append: node.title | append: ','}}{% endcapture %}
+    {% capture primary %}{{primary | append: node_url | append: '|' | append: node.title | append: '\;'}}{% endcapture %}
   {% endif %}
   {% elsif node_depth == 3 and node.lang == page.lang %}
-    {% capture secondary %}{{secondary | append: node_url | append: '|' | append: node.title | append: ','}}
+    {% capture secondary %}{{secondary | append: node_url | append: '|' | append: node.title | append: '\;'}}
 {% endcapture %}
   {% endif %}
 {% endfor %}
 
 
-{% assign primary = primary | split: ',' %}
-{% assign secondary = secondary | split: ',' %}
+{% assign primary = primary | split: '\;' %}
+{% assign secondary = secondary | split: '\;' %}
 
 <ul class="main-menu">
   {% for parent in primary %}
