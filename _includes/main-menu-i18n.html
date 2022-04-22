@@ -8,8 +8,7 @@
     {% capture primary %}{{primary | append: node_url | append: '|' | append: node.title | append: ','}}{% endcapture %}
   {% endif %}
   {% elsif node_depth == 4 and node.lang == page.lang %}
-    {% capture secondary %}{{secondary | append: node_url | append: '|' | append: node.title | append: ','}}{%
-endcapture %}
+    {% capture secondary %}{{secondary | append: node_url | append: '|' | append: node.title | append: ','}}{% endcapture %}
   {% endif %}
 {% endfor %}
 
