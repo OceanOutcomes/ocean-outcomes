@@ -13,8 +13,8 @@ endcapture %}
   {% endif %}
 {% endfor %}
 
-{% assign primary = primary | split: ';' %}
-{% assign secondary = secondary | split: ';' %}
+{% assign primary = primary | split: '|' %}
+{% assign secondary = secondary | split: '|' %}
 <ul class="main-menu">
   <li class="top-level">
     {% case page.lang %}
