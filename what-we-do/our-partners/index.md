@@ -56,9 +56,9 @@ The Global Sustainable Seafood Initiative (GSSI) is a public-private partnership
 Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on the both Advisory Council and Board of the Alliance. <a href="https://solutionsforseafood.org/" target="_blank">www.solutionsforseafood.org</a>
 
 ----
-<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/QMCS-logo-partners.png"><h4>Conservation Alliance for Seafood Solutions</h4>
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/QMCS-logo-partners.png"><h4>Sea Pact</h4>
 
-Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on the both Advisory Council and Board of the Alliance. <a href="https://solutionsforseafood.org/" target="_blank">www.solutionsforseafood.org</a>
+Sea Pact is a group of leading North American Seafood Companies dedicated to driving stewardship and continuous improvement of social, economic, and environmental responsibility throughout the global seafood supply chain. Ocean Outcomes supports Sea Pact as one of three sustainability advisors. <a href="http://www.seapact.org/" target="_blank">www.seapact.org</a>
   
 ----
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/QMCS-logo-partners.png"><h4>Small-Scale Fisheries Resource and Collaboration Hub</h4>
