@@ -3,7 +3,7 @@ layout: page
 title: Services
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
 hero-image:
-subtitle: We help forward-thinking companies, investors, NGOs and others deliver on their sustainable seafood and fisheries improvement goals.
+subtitle: We help forward-thinking companies, investors, NGOs, seafood harvesters and others deliver on their sustainable seafood and fisheries improvement goals.
 weight: 2
 teaser-text: Whether you are leading a fisheries project, buying seafood, investing in fisheries reform, or part of an initiative or NGO in the seafood sector, the environmental and business case for sustainability has never been stronger. Let us help deliver the impact you seek.
 ---
@@ -14,7 +14,7 @@ teaser-text: Whether you are leading a fisheries project, buying seafood, invest
   </div>
 </div>
 
-##  Working in fisheries improvement or sustainable seafood? We can help you deliver on your goals.
+##Working in fisheries improvement or sustainable seafood? We can help you deliver on your goals.
 
 Our ever-expanding portfolio of environmental and socioeconomic fisheries improvement work spans the globe. We’ve developed salmon escapement management strategies in Japan, mapped out supply chains of the highest valued seafood species in China, designed and led curricula for tuna harvest strategy workshops in West Africa, Indonesia and Fiji, led anti-poaching initiatives in the Russian Far East, provided fishery risk analysis for seafood business partners, and assisted corporate hotels in implementing sustainable seafood sourcing policies. Key areas of expertise include:
 
@@ -22,13 +22,23 @@ Our ever-expanding portfolio of environmental and socioeconomic fisheries improv
 
 ##### Fishery Improvement Projects - FIPs and AIPs
  
-As an organization founded on improving commercial fisheries and aquaculture operations, we are experts in the design and application of [Fishery Improvement Projects (FIPs) and Aquaculture Improvement Projects (AIPs)] (/areas-of-focus/fishery-improvement-projects/). This includes traditional projects focused on environmental sustainability, but also triple bottom line projects which support socioeconomic sustainability as well. Our fishery improvement work includes assessment, stakeholder mapping and convening, work plan development and implementation, project public relations, FisheryProgress.org reporting and certification guidance.
+As an organization founded on improving commercial fisheries and aquaculture operations, we are experts in the design and application of Fishery Improvement Projects (FIPs) and Aquaculture Improvement Projects (AIPs). This includes traditional projects focused on environmental sustainability, but also triple bottom line projects which support socioeconomic sustainability as well. Our fishery improvement work includes assessment, stakeholder mapping and convening, work plan development and implementation, project public relations, FisheryProgress.org reporting and certification guidance.
 
 ----
 
 ##### Environmental, Financial and Social Fishery Assessment
  
-Get a clear and science-backed understanding of the environmental and socioeconomic status of any fishery, against any of the leading certification standards. We conduct Seafood Watch assessments, Marine Stewardship Council pre-assessments, and have developed our own Rapid Assessment methodology to support [triple bottom line improvements] (/what-we-do/triple-bottom-line-seafood/). We are uniquely positioned to evaluate a fishery’s financial, environmental and social sustainability quickly and efficiently, helping to identify challenges and building the foundation for durable intervention.
+Get a clear and science-backed understanding of the environmental and socioeconomic status of any fishery, against any of the leading certification standards. We conduct Seafood Watch assessments, Marine Stewardship Council pre-assessments, and have developed our own Rapid Assessment methodologies. We are uniquely positioned to evaluate a fishery’s financial, environmental and social sustainability quickly and efficiently, helping to identify challenges and building the foundation for durable intervention. Learn more about:  
+
+* [The Environmental Rapid Assessment (ERA)] (/what-we-do/services/environmental-rapid-assessment/): a publicly available tool for rapidly and affordably evaluating the environmental sustainability of wild capture fisheries.
+* [The Social Responsibility Assessment Tool for the Seafood Sector (SRA)] (/what-we-do/services/social-rapid-assessment/): useful as a diagnostic or rapid fishery assessment tool to assess risk of social issues.
+* [The Financial Rapid Assessment (FRA)] (/what-we-do/services/financial-rapid-assessment/): a globally applicable tool designed to rapidly assess the business capacity of seafood enterprises.
+
+----
+
+##### Triple Impact Fisheries Improvement
+
+We have reimagined the improvement model and built a [Triple Impact Fisheries Evaluation Framework] (/what-we-do/services/triple-impact-improvement/) to increase the viability and decrease the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance. Using the Framework, we can integrate environmental, social and economic dimensions of sustainability and improvement to increase the viability and decrease the risk of the traditional fisheries improvement processes, representing an opportunity for all working in seafood.
 
 ----
 
