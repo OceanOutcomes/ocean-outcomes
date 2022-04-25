@@ -53,7 +53,7 @@ The Global Sustainable Seafood Initiative (GSSI) is a public-private partnership
 ----
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/QMCS-logo-partners.png"><h4>NGO Tuna Forum</h4>
 
-Ocean Outcomes is a contributing member of the NGO Tuna Forum. The Forum brings together NGOs and others that work comprehensively on global tuna sustainability issues that fall within one or more of the following core focus areas: RFMO Management and Advocacy, Market-based Mechanisms for Improving Sustainability, and, On the Water Research, Activities and Improvements. <a href="https://ngotunaforum.org/" target="_blank">www.ngotunaforum.org</a>
+Ocean Outcomes is a contributing member of the NGO Tuna Forum. The Forum brings together NGOs and others that work comprehensively on global tuna sustainability issues that fall within one or more of the following core focus areas — RFMO Management and Advocacy, Market-based Mechanisms for Improving Sustainability, and, On the Water Research, Activities and Improvements. <a href="https://ngotunaforum.org/" target="_blank">www.ngotunaforum.org</a>
 ----
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/QMCS-logo-partners.png"><h4>Sea Pact</h4>
 
