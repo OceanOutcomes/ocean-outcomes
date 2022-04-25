@@ -3,9 +3,11 @@ layout: page
 weight: 5
 title: Partnership & Collaborations
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/past-initiatives-hover.jpg
-teaser-text: Our partnerships are a flexible and effective avenue to implement our work, leverage domestic support, all while maintaining a strong, accountable, and international team approach to our sustainable fisheries and seafood initiatives.
-subtitle: Our on-the-ground sustainable fisheries and seafood initiatives are implemented in close collaboration with the below partners.
+teaser-text: Our partnerships and participating in leading fora are a flexible and effective avenue to implement our work, leverage domestic support and engage international stakeholders, all while maintaining a strong, accountable, and international team approach to our sustainable fisheries and seafood initiatives.
+subtitle: Our technical team of creative problem solvers spans the globe and our growing network of partners in all the regions where we work ensures our co-developed solutions stick. We work closely with local partners on the ground and participate actively in leading alliances and initiatives to help develop and demonstrate game-changing solutions representing sustainable seafood’s best, biggest ideas.
 ---
+###Local Implementing Partners
+
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/QMCS-logo-partners.png"><h2>Qingdao Marine Conservation Society</h2>
 
 Qingdao Marine Conservation Society (QMCS), a Chinese nonprofit, was founded by former Ocean Outcomes China Program Director Songlin Wang in 2017. QMCS is dedicated to promoting coastal and marine ecosystem conservation and advancing the sustainable seafood movement in China through scientific research, public and industry education, and the international exchange of information and knowledge. In addition to partnering with O2 in implementing a number of FIPs, QMCS conducts seafood sustainability ratings in collaboration with Monterey Bay Aquarium Seafood Watch and is developing a China Seafood Sustainability Assessment and Education Program, which takes full consideration of China's uniquely rich seafood heritages and nascent sustainable seafood movement status. QMCS staff and members including marine ecologists, seafood experts, aquarium managers, educators, journalists, as well as sea and fish loving Chinese citizens. <a href="http://www.qmcs.org.cn/" target="_blank">www.qmcs.org.cn/</a>
@@ -29,3 +31,29 @@ Qingdao Tao Ran Environmental Science and Technology Co. Ltd (Tao Ran) was estab
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/umito-partners-partners.png"><h2>UMITO Partners</h2>
 
 UMITO Partners is a Japanese seafood improvement organization established in 2021 by former Ocean Outcomes Japan Program Director Shunji Murakami. UMITO supports fisheries, aquaculture operations, chefs and others working in Japanese seafood to develop and implement sustainability projects. <a href="https://www.umitopartners.com/" target="_blank">www.umitopartners.com</a>
+
+----
+
+###Membership and Alliances
+
+<h2>Conservation Alliance for Seafood Solutions</h2>
+
+----
+<h2>Global Ghost Gear Initiative</h2>
+
+----
+<h2>Global Sustainable Seafood Initiative</h2>
+
+----
+<h2>NGO Tuna Forum</h2>
+
+----
+<h2>Seafood Watch Partner</h2>
+
+----
+<h2>Sea Pact</h2>
+
+----
+<h2>Small-Scale Fisheries Resource and Collaboration Hub</h2>
+
+----
