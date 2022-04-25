@@ -51,15 +51,18 @@ The Global Ghost Gear Initiative (GGGI) is the world’s largest cross-sectorial
 The Global Sustainable Seafood Initiative (GSSI) is a public-private partnership working together to turn seafood into a driver for good to preserve oceans for future generations and drive forward more sustainable seafood for everyone. As part of the GSSI Global Partnership, Ocean Outcomes joins more than a hundred stakeholders in a pre-competitive effort to tackle the seafood industry’s complex, global sustainability challenges. <a href="https://www.ourgssi.org/" target="_blank">www.ourgssi.org</a>
 
 ----
-<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/QMCS-logo-partners.png"><h4>NGO Tuna Forum</h4>
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/QMCS-logo-partners.png"><h4>Conservation Alliance for Seafood Solutions</h4>
 
-Ocean Outcomes is a contributing member of the NGO Tuna Forum. The Forum brings together NGOs and others that work comprehensively on global tuna sustainability issues that fall within one or more of the following core focus areas — RFMO Management and Advocacy, Market-based Mechanisms for Improving Sustainability, and, On the Water Research, Activities and Improvements. <a href="https://ngotunaforum.org/" target="_blank">www.ngotunaforum.org</a>
+Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on the both Advisory Council and Board of the Alliance. <a href="https://solutionsforseafood.org/" target="_blank">www.solutionsforseafood.org</a>
+
 ----
-<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/QMCS-logo-partners.png"><h4>Sea Pact</h4>
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/QMCS-logo-partners.png"><h4>Conservation Alliance for Seafood Solutions</h4>
 
-Sea Pact is a group of leading North American Seafood Companies dedicated to driving stewardship and continuous improvement of social, economic, and environmental responsibility throughout the global seafood supply chain. Ocean Outcomes supports Sea Pact as one of three sustainability advisors. <a href="http://www.seapact.org/" target="_blank">www.seapact.org</a>
+Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on the both Advisory Council and Board of the Alliance. <a href="https://solutionsforseafood.org/" target="_blank">www.solutionsforseafood.org</a>
+  
 ----
 <img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/QMCS-logo-partners.png"><h4>Small-Scale Fisheries Resource and Collaboration Hub</h4>
 
 The Small-Scale Fisheries Resource and Collaboration Hub is an online, interactive, and multilingual platform for small-scale fishers, fish workers, and their communities and allies. It provides access to free tools and resources to strengthen small-scale fisheries governance and community development. The SSF Hub creates an opportunity to learn, share information, and enhance capacities for all small-scale fishery stakeholders. It aims to address small-scale fisheries governance and community development, to support the well-being of small-scale fishing communities and sustainable use of resources. Ocean Outcomes is part of the global coalition of partners working in and with small-scale fisheries which helped launch the SSF Hub. <a href="https://ssfhub.org/" target="_blank">www.ssfhub.org</a>
+
 ----
