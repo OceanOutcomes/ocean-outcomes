@@ -10,7 +10,7 @@ weight: 1
 
 ###The sustainable seafood movement has driven improvement of upwards of 30% of global seafood production.
 
-The movement has accomplished this primarily through [Fishery Improvement Projects (FIPs)] (/areas-of-focus/fishery-improvement-projects/) – multi-stakeholder interventions that leverage market forces. Unfortunately, despite the successes achieved to date, accumulating research identifies several limitations to the conventional FIP model. These include: a tendency to stall and backslide, lack of suitability for developing world and small-scale fisheries, uneven distribution of the costs and benefits of improvement throughout supply chains, and failure to accommodate social performance. This results in significant risk for stakeholders and the movement.
+The movement has accomplished this primarily through Fishery Improvement Projects (FIPs) – multi-stakeholder interventions that leverage market forces. Unfortunately, despite the successes achieved to date, accumulating research identifies several limitations to the conventional FIP model. These include: a tendency to stall and backslide, lack of suitability for developing world and small-scale fisheries, uneven distribution of the costs and benefits of improvement throughout supply chains, and failure to accommodate social performance. This results in significant risk for stakeholders and the movement.
 
 **Ignoring social impacts contradicts definitions of seafood sustainability which have evolved over the past 20 years to include fisher livelihoods.**
 
