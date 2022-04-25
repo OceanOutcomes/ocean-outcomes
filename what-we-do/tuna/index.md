@@ -21,8 +21,13 @@ Tuna fishing and high seas fisheries take place in national waters as well as on
 A RFMO is an international body made up of countries that share a practical and/or financial interest in managing and conserving fish stocks in a particular region. RFMOs are established by international agreements or treaties and can take different forms. Some focus on regulating fishing for a particular species or group of species. Others have a broader mandate, with responsibility to ensure that the fishery does not negatively affect the wider marine ecosystem and the species within it. *RFMOs face substantial challenges in decision-making, including a lack of political commitment, comprehensive compliance by members, as well as a lack of effective control of non-member activities.*
 
 ----
+##We are working with the world's largest tuna companies and leading tuna stakeholders globally to transform tuna and high seas fishing. 
 
-Despite these challenges, positive transformation of tuna management is gaining momentum, especially in the canned tuna fisheries (which primarily target skipjack and albacore tunas). This includes the adoption of improved management strategies through Harvest Control Rules, collaborative work through programs such as the United Nation Food and Agriculture Organization’s [Areas Beyond National Jurisdiction program which trains local tuna managers on best practices] (/news/tuna-management-workshop-fiji/), and a growing consumer awareness regarding the critically endangered status of select tuna populations.
+We do this through developing and implementing projects using new tools and technologies which reduce environmental impact, improve catching sector accountability and support the transition to best practice, science-based management strategies.
+
+Our partnerships with the world's largest tuna companies, on the ground capacity in core Northeast Asian tuna producing regions and team of fishery scientists uniquely positions Ocean Outcomes to effectively drive forward grassroots projects from the bottom-up, connecting that work with top-down investments in reform. Our expanding portfolio of tuna work has already brought a significant percentage of longline tuna vessels into projects working towards improved practices for the first time.
+
+Despite the challenges facing tuna and high seas fisheries, positive transformation is gaining momentum, especially in canned tuna fisheries (which primarily target skipjack and albacore tunas). This includes the adoption of improved management strategies through Harvest Control Rules, collaborative work through programs such as the United Nation Food and Agriculture Organization’s [Areas Beyond National Jurisdiction program which trains local tuna managers on best practices] (/news/tuna-management-workshop-fiji/), and a growing consumer awareness regarding the critically endangered status of select tuna populations.
 
 ----
 
