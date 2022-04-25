@@ -18,7 +18,7 @@ The SRA covers three main principles:
 
 Each social responsibility principle comprises a set of components, performance indicators (PIs) and scoring guideposts (SGs).
 
-###The Social Responsibility Assessment Tool for the Seafood Sector (SRA) is one of the three foundational components of the (Triple Impact Fisheries Evaluation Framework) [/what-we-do/services/triple-impact-improvement/].
+###The Social Responsibility Assessment Tool for the Seafood Sector (SRA) is one of the three foundational components of the [Triple Impact Fisheries Evaluation Framework] (/what-we-do/services/triple-impact-improvement/).
 
 Used by FisheryProgress.org, the SRA was built on the Monterey Framework, the United Nations Food and Agriculture Organization’s (FAO) Voluntary Guidelines for Securing Sustainable Small-Scale Fisheries, and other relevant protocols and frameworks within the fields of human rights, natural resource management and development.
 
