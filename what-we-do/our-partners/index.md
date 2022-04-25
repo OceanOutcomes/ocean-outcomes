@@ -43,7 +43,7 @@ Ocean Outcomes is a long-time contributing member of the Conservation Alliance f
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/gggi-logo-partners.png"><h4>Global Ghost Gear Initiative</h4>
 
-The Global Ghost Gear Initiative (GGGI) is the world’s largest cross-sectorial alliance committed to driving solutions to the problem of lost, abandoned and otherwise discarded fishing gear (ALDFG, also known as “ghost gea”). As a member of the GGGI, Ocean Outcomes had led a myriad projects for GGGI, including facilitating stakeholder workshops, piloting ghost gear prevention processes in Fishery Improvement Projects (FIPs), and developing analysis on the efficacy of regulations to prevent ALDFG, among others. <a href="https://www.ghostgear.org/" target="_blank">www.ghostgear.org</a>
+The Global Ghost Gear Initiative (GGGI) is the world’s largest cross-sectorial alliance committed to driving solutions to the problem of lost, abandoned and otherwise discarded fishing gear (ALDFG, also known as “ghost gear”). As a member of the GGGI, Ocean Outcomes had led a myriad projects for GGGI, including facilitating stakeholder workshops, piloting ghost gear prevention processes in Fishery Improvement Projects (FIPs), and developing analysis on the efficacy of regulations to prevent ALDFG, among others. <a href="https://www.ghostgear.org/" target="_blank">www.ghostgear.org</a>
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/gssi-logo-partners.png"><h4>Global Sustainable Seafood Initiative</h4>
