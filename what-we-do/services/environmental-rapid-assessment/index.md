@@ -2,7 +2,6 @@
 layout: action
 title: Environmental Rapid Assessment
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/russia-salmon-hatchery-success-hero.jpg
-teaser-text: The Environmental Rapid Assessment (ERA) is a publicly available tool for rapidly and affordably evaluating the environmental sustainability of wild capture fisheries. Based on international standards and best practices, it was co-developed by Ocean Outcomes, World Wildlife Fund and Sustainable Fisheries Partnership. The ERA provides a representative estimate of performance against the Marine Stewardship Council standard at substantially reduced effort and cost.
 weight: 2
 ---
 
@@ -28,7 +27,3 @@ The ERA draws heavily on concepts and definitions from the MSC and Monterey Bay 
   * (3) Management system  
 
 <a href="https://fisheryprogress.org/resources/launching-fip" target="_blank">The ERA is publicly available on FisheryProgress.org (listed as the Environmental Rapid Assessment Tool).</a>
-
------
-
-[<< Back to Triple Impact Improvement] (/what-we-do/triple-bottom-line-seafood/)
