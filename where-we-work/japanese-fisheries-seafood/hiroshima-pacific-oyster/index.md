@@ -54,5 +54,3 @@ alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
 ---
 
 <a href="https://fisheryprogress.org/fip-profile/japan-hiroshima-pacific-oyster-rope-grown" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Hiroshima Pacific Oyster FIP profile here.**</a>
-
-[**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)
