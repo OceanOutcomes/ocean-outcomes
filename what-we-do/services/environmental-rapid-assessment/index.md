@@ -9,7 +9,7 @@ weight: 2
 
 Based on international standards and best practices, it was co-developed by Ocean Outcomes, World Wildlife Fund and Sustainable Fisheries Partnership under the Oceans Seafood and Markets Initiative (OSMI). The ERA can be used to identify major gaps in environmental performance of fishery in a manner that is largely consistent with evaluation against the Marine Stewardship Council (MSC) standard, but with slight differences in approach and at substantially reduced effort and cost.
 
-###The ERA is one of the three foundational components of the Triple Impact Fisheries Evaluation Framework.
+###The ERA is one of the three foundational components of the (Triple Impact Fisheries Evaluation Framework) [/what-we-do/services/triple-impact-improvement/].
 
 The ERA can help achieve the following:
 
