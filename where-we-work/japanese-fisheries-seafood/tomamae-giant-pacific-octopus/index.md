@@ -47,5 +47,3 @@ In Tomamae-cho, Hokkaido, about 10% of the population of 3,200 are employed in t
 ---
 
 <a href="https://fisheryprogress.org/fip-profile/japan-tomamae-giant-pacific-octopus-barrel-flowing-0" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Tomamae Giant Pacific Octopus FIP profile here.**</a>
-
-[**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)
