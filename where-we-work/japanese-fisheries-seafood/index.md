@@ -33,11 +33,12 @@ We conduct rapid assessments ([see the Japanese fishery summaries here] (/what-w
 ---
 ##O2, Seafood Legacy and UMITO Partners Japanese Fishery Improvement Projects:
 
-* [Hiroshima Pacific Oyster FIP] (/areas-of-focus/fishery-improvement-projects/hiroshima-pacific-oyster/)
-* [Miyagi Onagawa Coho Salmon AIP] (/areas-of-focus/fishery-improvement-projects/miyagi-coho-salmon/)
-* [Nachi Katsuura Albacore Longline FIP] (/areas-of-focus/fishery-improvement-projects/nachi-katsurra-albacore-longline/)
-* [Tokyo Bay Sea Perch FIP] (/areas-of-focus/fishery-improvement-projects/tokyo-bay-sea-perch/)
-* [Tomamae Giant Pacific Octopus FIP] (/areas-of-focus/fishery-improvement-projects/tomamae-giant-pacific-octopus/)
+* [Hiroshima Pacific Oyster FIP] (/where-we-work/japanese-fisheries-seafood/hiroshima-pacific-oyster/)
+* [Miyagi Onagawa Coho Salmon AIP] (/where-we-work/japanese-fisheries-seafood/miyagi-coho-salmon/)
+* [Nachi Katsuura Albacore Longline FIP] (/where-we-work/japanese-fisheries-seafood/nachi-katsurra-albacore-longline/)
+* [Tokyo Bay Sea Perch FIP] (/where-we-work/japanese-fisheries-seafood/tokyo-bay-sea-perch/)
+* [Tomamae Giant Pacific Octopus FIP] (/where-we-work/japanese-fisheries-seafood/tomamae-giant-pacific-octopus/)
+* [Western Kamchatka Salmon FIP] (/where-we-work/japanese-fisheries-seafood/western-kamchatka-salmon/)
 
 ---
 ##Stories from the Field: Japan
