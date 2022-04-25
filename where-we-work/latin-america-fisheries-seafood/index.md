@@ -4,8 +4,8 @@ title: Latin America
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/latin-america-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/latin-america-fisheries-seafood-hero.jpg
 weight: 3
-teaser-text: Despite possessing some of the most productive marine ecosystems on earth, which support millions of fishers, disproportionately few sustainable seafood certifications and fishery improvement initiatives have focused on understanding the challenges and needs of Latin American small scale fisheries.
-subtitle: Small scale fisheries underpin the livelihoods, food security and social fabric of coastal communities across Latin America.
+teaser-text: Despite possessing some of the most productive marine ecosystems on earth, which support millions of fishers, disproportionately few sustainable seafood certifications and fishery improvement initiatives have focused on understanding the challenges and needs of Latin American small scale fisheries. We are working to change this.
+subtitle: Small scale fisheries underpin the livelihoods, food security and social fabric of coastal communities across Latin America. Dedicated, culturally- and context-relevant approaches which focus on the livelihoods and well-being of seafood harvesters are the starting point for fishery improvement and sustainable seafood in Latin America.
 ---
 
 ##Across Latin America the small scale fisheries sector directly employs millions of people and supports millions more who on these fisheries for food and livelihoods.
