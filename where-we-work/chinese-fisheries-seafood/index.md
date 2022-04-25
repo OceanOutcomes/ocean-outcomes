@@ -32,8 +32,8 @@ Without a significant, concerted, and locally-led push for reform, it’s likely
 ---
 ##O2 and Tao Ran Chinese Fishery Improvement Projects:
 
-* [East China Sea and Yellow Sea Squid FIP] (/areas-of-focus/fishery-improvement-projects/east-china-sea-and-yellow-sea-squid/)
-* [Fujian Zhangzhou Red Swimming Crab FIP] (/areas-of-focus/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/)
+* [East China Sea and Yellow Sea Squid FIP] (/where-we-work/chinese-fisheries-seafood/east-china-sea-and-yellow-sea-squid/)
+* [Fujian Zhangzhou Red Swimming Crab FIP] (/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/)
 
 ---
 ##Stories from the Field: China
