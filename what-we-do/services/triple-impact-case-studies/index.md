@@ -1,5 +1,5 @@
 ---
-layout: action
+layout: page
 title: Case Studies
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/convergence-funds-ocean-outcomes-and-blue-finance-hero.jpg
 teaser-text: View case study examples where Ocean Outcomes and partners are successfully piloting the Triple Impact Fisheries Evaluation Framework in fisheries around the globe. These examples demonstrate the Framework’s ability to empower local organizations and those working in FIPs to maximize their impact by including social and financial improvement in their work.
