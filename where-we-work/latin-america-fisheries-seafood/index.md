@@ -20,7 +20,7 @@ Throughout Latin America, marginalization, poor management and lack of investmen
 
 ##We are building on a tried and tested business driven approach to seafood production in Latin America to ensure social, financial and environmental sustainability for small scale fisheries.
 
-[This approach used the Triple Impact Fisheries Evaluation Framework to harness untapped financing and increasing profitability in small scale fishing enterprises to improve livelihoods and ecosystem health; creating a positive feedback loop for people, planet and profit.] (/what-we-do/services/triple-impact-improvement/)
+[This approach uses the Triple Impact Fisheries Evaluation Framework to harness untapped financing and increasing profitability in small scale fishing enterprises to improve livelihoods and ecosystem health; creating a positive feedback loop for people, planet and profit.] (/what-we-do/services/triple-impact-improvement/)
 
 This new, business development first model was originally developed by Dr. Hoyt Peckham and his team at SmartFish working with fisheries in Baja, Mexico. Building on their results and methodology, Ocean Outcomes and partners are scaling the approach across Latin America.
 
