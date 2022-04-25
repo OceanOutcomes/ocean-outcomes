@@ -51,5 +51,3 @@ Seas Albacore Longline Fishery</a>
 ---
 
 <a href="https://fisheryprogress.org/fip-profile/indian-ocean-albacore-tuna-longline-bumble-beefcf" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Indian Ocean Albacore Tuna Longline FIP profile here.**</a>
-
-[**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)
