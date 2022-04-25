@@ -38,7 +38,7 @@ Get a clear and science-backed understanding of the environmental and socioecono
 
 ##### Triple Impact Fisheries Improvement
 
-We have reimagined the improvement model and built a [Triple Impact Fisheries Evaluation Framework] (/what-we-do/services/triple-impact-improvement/) to increase the viability and decrease the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance. Using the Framework, we can integrate environmental, social and economic dimensions of sustainability and improvement to increase the viability and decrease the risk of the traditional fisheries improvement processes, representing an opportunity for all working in seafood.
+We have reimagined the improvement model and built a [Triple Impact Fisheries Evaluation Framework] (/what-we-do/services/triple-impact-improvement/) to increase the viability and decrease the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance. Using the Framework, we can integrate environmental, social and economic dimensions of sustainability and improvement to increase the viability and decrease the risk of the traditional fisheries improvement processes, representing an opportunity for all working in seafood ([view case studies highlighting the impact this approach produces] (/what-we-do/services/triple-impact-case-studies/)).
 
 ----
 
