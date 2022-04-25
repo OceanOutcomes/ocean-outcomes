@@ -2,8 +2,6 @@
 layout: action
 title: Triple Impact Fisheries Evaluation Framework
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/conservation-international-O2-partnership-hero.jpg
-teaser-text: The plateau in certification represents a singular challenge for the sustainable seafood movement. We have reimagined the improvement model and built a Triple Impact Fisheries Evaluation Framework to increase the viability and decrease the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance. The Triple Impact Fisheries Evaluation Framework is based on three tools, the Environmental Rapid Assessment, the Social Responsibility Assessment Tool for the Seafood Sector and the Financial Rapid Assessment.
-
 weight: 1
 ---
 
@@ -29,20 +27,16 @@ By design, FIPs were created to drive improvement of fisheries’ environmental 
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/triple-bottom-line-seafood/triple-impact-improvement-graphic.png)
 *The Framework lays out a path forward for improving business practices, from the operational to the administrative. It provides a structure for designing and implementing integrated improvement plans to account for social, economic and environmental outcomes. © Ocean Outcomes*
 
-###The Framework evaluates needs, plan improvements and monitors and publicly reports progress against the environmental, social and financial dimensions of sustainability.
+###The Framework evaluates needs, plans improvements and monitors and publicly reports progress against the environmental, social and financial dimensions of sustainability.
 
 It is built around three tools:  
 
-  * [Environmental Rapid Assessment (ERA)] (/what-we-do/triple-bottom-line-seafood/environmental-rapid-assessment)
-  * [Social Responsibility Assessment Tool for the Seafood Sector (SRA)] (/what-we-do/triple-bottom-line-seafood/social-rapid-assessment)
-  * [Financial Rapid Assessment (FRA)] (/what-we-do/triple-bottom-line-seafood/financial-rapid-assessment)
+  * [Environmental Rapid Assessment (ERA)] (/what-we-do/services/environmental-rapid-assessment/)
+  * [Social Responsibility Assessment Tool for the Seafood Sector (SRA)] (/what-we-do/services/social-rapid-assessment/)
+  * [Financial Rapid Assessment (FRA)] (/what-we-do/services/financial-rapid-assessment/)
 
 ###The Framework is open-source, modular and agnostic.
 
 Although the Framework is built around these three tools, it can also be used with alternatives; implementers should choose the assessment tools most relevant and useful for their contexts. However, in accordance with best practices, we recommend that implementers use tools for assessing environmental and social performance that meet international standards.
 
-[View case study examples where Ocean Outcomes and partners are successfully piloting the Triple Impact Fisheries Evaluation Framework in fisheries around the globe.] (/what-we-do/triple-bottom-line-seafood/case-studies)
-
------
-
-[<< Back to Triple Impact Improvement] (/what-we-do/triple-bottom-line-seafood/)
+[View case study examples where Ocean Outcomes and partners are successfully piloting the Triple Impact Fisheries Evaluation Framework in fisheries around the globe.] (/what-we-do/services/triple-impact-case-studies/)
