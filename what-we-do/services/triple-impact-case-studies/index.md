@@ -25,5 +25,3 @@ weight: 5
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+5+-+Del+Pacifico.png)] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+5+-+Del+Pacifico.pdf)
 
 -----
-
-[<< Back to Triple Impact Improvement] (/what-we-do/triple-bottom-line-seafood/)
