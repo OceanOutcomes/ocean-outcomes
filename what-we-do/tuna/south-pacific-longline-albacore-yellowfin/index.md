@@ -51,5 +51,3 @@ The South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longli
 ---
 
 <a href="https://fisheryprogress.org/fip-profile/western-and-central-pacific-albacore-and-yellowfin-tuna-longline" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP profile here.**</a>
-
-[**<< Back to O2 fishery improvement projects**] (/areas-of-focus/fishery-improvement-projects/)
