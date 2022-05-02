@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved (Hiring!)
+title: Get Involved
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -10,14 +10,6 @@ weight: 5
 ##Career and volunteer opportunities
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share.
-
-**Current opportunities:**  
-
-> **[Social Responsibility Expert / Scientist] (https://apply.workable.com/ocean-outcomes/j/967484FB2D/)**  
-> *Help us tackle social responsibility issues in fisheries around the globe, ranging from small scale coastal fisheries to industrial tuna fisheries, through quality science and authentic engagement. O2 is hiring to expand our Analytics Team, which works on diverse projects including development of triple impact (environmental, social, financial) fishery improvement projects through O2’s [Triple Impact Fisheries Evaluation Framework] (/what-we-do/triple-bottom-line-seafood/), fishery sustainability assessments (e.g. based on Marine Stewardship Council, Aquaculture Stewardship Council, and Monterey Bay Aquarium Seafood Watch standards/ratings), policy evaluation (e.g. of fisheries governance, bycatch regulations, ghost fishing best practices), and other mission-aligned contract projects. This position will start as a one-year term with potential to extend. [View the full job description, requirements and responsibilities and apply here] (https://apply.workable.com/ocean-outcomes/j/967484FB2D/).* 
-
-> **[Asia Fishery Improvement Manager] (https://apply.workable.com/ocean-outcomes/j/DC6A2FCFF6/)**  
-> *Help us shape and execute an exciting initiative to ensure that tuna stocks, and the oceans and people who depend on them can thrive. We are seeking qualified candidates to fulfill a dedicated full time contract position which provides a unique opportunity to be at the forefront of sustainable tuna improvement and to help change Northeast Asian fishing practices so that vessels harvesting tuna can ultimately meet and surpass MSC standards for sustainability. Working closely with O2 leadership and partners in Northeast Asia, the Asia Fishery Improvement Manager will lead and coordinate outreach efforts with commercial fisheries and key NGOs in the region, with a particular emphasis on tuna catching vessels owned by companies based in Taiwan, China and Japan. [View the full job description, requirements and responsibilities and apply here] (https://apply.workable.com/ocean-outcomes/j/DC6A2FCFF6/).* 
 
 -----
 ##Contribute to improving fisheries
