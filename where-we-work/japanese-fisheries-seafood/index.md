@@ -7,18 +7,17 @@ weight: 3
 teaser-text: We have always had a specific focus on Northeast Asia and a unique capacity and ability to accomplish work on the ground in the region. Our work across Northeast Asia includes seeding the sustainable fisheries movement in China, Japan, South Korea and Russia through a variety of partnerships, programs and projects, both past and current.
 subtitle: Few countries in the world are more important to the future of the global fisheries and the sustainability of global seafood supplies than those in Northeast Asia. Countries such as China, Japan, South Korea and Russia play an outsized role in seafood, and sustainable fisheries globally will not be possible without these countries playing a constructive role.
 ---
-
-###If you want to witness a display of marine abundance and diversity unrivaled nearly anywhere on planet earth head straight to the heart of Tokyo, grab your rubber boots and take a stroll through the cavernous Toyosu fish market.
+##If you want to witness a display of marine abundance and diversity unrivaled nearly anywhere on planet earth head straight to the heart of Tokyo, grab your rubber boots and take a stroll through the cavernous Toyosu fish market.
 
 Toyosu market stands at the center of a global seafood trade that reaches nearly every corner of the ocean, every fishing ground, and handles almost every conceivable seafood product, from wild Kamchatka sockeye salmon to giant tuna from the Mediterranean to Maine lobster — much of which passes through Chinese supply chains between point of production and eventual sale in Japan.
 
 Few countries have a bigger influence on global seafood markets, international fishery issues, and overall ocean health than those in Northeast Asia. Four of the top eight seafood consuming countries are in Northeast Asia — China, Japan, South Korea and Russia. However, domestic fisheries in these countries have been in decline for decades, a legacy of overfishing, degraded ecosystems, and negative socio-economic factors. A significant number of these fisheries are collapsed or over-fished according to the United Nations Fisheries and Agriculture Organization (UNFAO).
 
-![Seafood consumption of Northeast Asian countries] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/opportunities-seafood-china-hero.jpg *China, Japan, South Korea and Russia are some of the largest seafood consuming countries. © California Environmental Associates*
+![Seafood consumption of Northeast Asian countries] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/opportunities-seafood-china-hero.jpg) *China, Japan, South Korea and Russia are some of the largest seafood consuming countries. © California Environmental Associates*
 
 For the average Northeast Asian consumer, this has meant higher prices at the market and increasing difficulties in enjoying traditional food items. In Japan, as one example, “Unagi” (eel) saw a peak commercial catch of 3,387 metric tons in 1961 but that catch was reduced to a measly 71 tons in 2018. Meanwhile, the price of Unagi quadrupled in the last decade alone. For coastal communities and fishery cooperatives across Japan that have borne the brunt of the fishery crisis, the situation is even more severe; a whopping 800,000 Japanese jobs have been lost since the fishing industry’s peak in the 1960s.
 
-###Our work in Northeast Asia is focused around building local capacity for sustainability and partnering with that capacity to develop and implement sustainable seafood and fisheries initiatives.
+##Our work in Northeast Asia is focused around building local capacity for sustainability and partnering with that capacity to develop and implement sustainable seafood and fisheries initiatives.
 
 This includes buyer engagement programs, exploring solutions towards more sustainable practices with government, industry, and fishery leaders, and developing and implementing fishery and aquaculture improvement projects.
 
@@ -46,7 +45,7 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 ##Stories from the Field: Northeast Asia
 
 * [Leading Taiwanese Tuna Company Pursues Sustainability Status] (/news/leading-taiwanese-tuna-company-pursues-sustainability-status-release/)
-* [Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia} (/news/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release/)
+* [Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia] (/news/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release/)
 * [Songlin Wang Awarded Pew Fellowship to Support the Conservation of China’s Largest Eelgrass Habitat] (/news/songlin-wang-2021-pew-fellowship-award/)
 * [Training Tuna Vessel Owners on Best Practices in Fiji and Taiwan] (/news/tuna-longline-workshop-training-bumble-bee-fcf/)
 * [Now Addressing Social Needs in Fishery Improvement] (/news/fisheryprogress-social-policy-fishery-improvement-projects/)
@@ -83,4 +82,4 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 
 ---
 
-[Learn more about our partnerships and collaborations across Northeast Asia] (/what-we-do/our-partners/)
+##[Learn more about our partnerships and collaborations across Northeast Asia] (/what-we-do/our-partners/)
