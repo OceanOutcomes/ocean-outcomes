@@ -1,10 +1,10 @@
 ---
 layout: page
 weight: 5
-title: Partnership & Collaborations
+title: Partnerships & Collaborations
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/past-initiatives-hover.jpg
 teaser-text: Our local partnerships and participation in leading international fora are a flexible and effective avenue to implement our work, leverage domestic support and engage international stakeholders — all while maintaining a strong, accountable and international team approach to our sustainable fisheries and seafood initiatives.
-subtitle: Our technical team of creative problem solvers spans the globe and our growing network of partners in all the regions where we work ensures our co-developed solutions stick. We both work closely with local partners on the ground and participate actively in leading alliances and initiatives to help develop and demonstrate game-changing solutions representing sustainable seafood’s best, biggest ideas.
+subtitle: Our technical team of creative problem solvers spans the globe, and our growing network of partners in all the regions where we work ensures our co-developed solutions stick. We both work closely with local partners on the ground and participate actively in leading alliances and initiatives to help develop and demonstrate game-changing solutions representing sustainable seafood’s best, biggest ideas.
 ---
 ##Local Implementing Partners
 
