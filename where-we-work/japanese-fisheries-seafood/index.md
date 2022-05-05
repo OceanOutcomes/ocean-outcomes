@@ -5,13 +5,13 @@ landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanesefisherieshero.jpg
 weight: 3
 teaser-text: We have always had a specific focus on Northeast Asia and a unique capacity and ability to accomplish work on the ground in the region. Our work across Northeast Asia includes seeding the sustainable fisheries movement in China, Japan, South Korea and Russia through a variety of partnerships, programs and projects, both past and current.
-subtitle: Few countries in the world are more important to the future of the global fisheries and the sustainability of global seafood supplies than those in Northeast Asia. Countries such as China, Japan, South Korea and Russia play an outsized role in seafood, and sustainable fisheries globally will not be possible without these countries playing a constructive role.
+subtitle: Few countries in the world are more important to the future of global fisheries and the sustainability of global seafood supplies than those in Northeast Asia. Countries such as China, Japan, South Korea and Russia play an outsized role in seafood, and sustainable fisheries globally will not be possible without these countries playing a constructive role.
 ---
 ##If you want to witness a display of marine abundance and diversity unrivaled nearly anywhere on planet earth head straight to the heart of Tokyo, grab your rubber boots and take a stroll through the cavernous Toyosu fish market.
 
-Toyosu market stands at the center of a global seafood trade that reaches nearly every corner of the ocean, every fishing ground, and handles almost every conceivable seafood product, from wild Kamchatka sockeye salmon to giant tuna from the Mediterranean to Maine lobster — much of which passes through Chinese supply chains between point of production and eventual sale in Japan.
+Toyosu market stands at the center of a global seafood trade that reaches nearly every corner of the ocean, every fishing ground, and handles almost every conceivable seafood product, from wild Kamchatka sockeye salmon to giant tuna from the Mediterranean to Maine lobster — much of this seafood passes through Chinese supply chains between point of production and eventual sale in Japan.
 
-Few countries have a bigger influence on global seafood markets, international fishery issues, and overall ocean health than those in Northeast Asia. Four of the top eight seafood consuming countries are in Northeast Asia — China, Japan, South Korea and Russia. However, domestic fisheries in these countries have been in decline for decades, a legacy of overfishing, degraded ecosystems, and negative socio-economic factors. A significant number of these fisheries are collapsed or over-fished according to the United Nations Fisheries and Agriculture Organization (UNFAO).
+Few countries have a bigger influence on global seafood markets, international fishery issues, and overall ocean health than those in Northeast Asia. Four of the top eight seafood consuming countries are in Northeast Asia — China, Japan, South Korea and Russia. However, many domestic fisheries in these countries are in decline, a legacy of overfishing, degraded ecosystems, and negative socio-economic factors. A significant number of these fisheries are collapsed or over-fished according to the United Nations Fisheries and Agriculture Organization (UNFAO).
 
 ![Seafood consumption of Northeast Asian countries] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/opportunities-seafood-china-hero.jpg) *China, Japan, South Korea and Russia are some of the largest seafood consuming countries. © California Environmental Associates*
 
@@ -21,7 +21,7 @@ For the average Northeast Asian consumer, this has meant higher prices at the ma
 
 This includes buyer engagement programs, exploring solutions towards more sustainable practices with government, industry, and fishery leaders, and developing and implementing fishery and aquaculture improvement projects.
 
-We implement this work through close partnerships with local organizations in the region, such as Seafood Legacy and UMITO Partners in Japan and with a local NGO named Qingdao Marine Conservation Society (QMCS) and Tao Ran in China — both these entities were established with O2 support.
+We implement this work through close partnerships with local organizations in the region, such as Seafood Legacy and UMITO Partners in Japan and with a local NGO named Qingdao Marine Conservation Society (QMCS) and the consulting firm Tao Ran in China — both these entities were established with O2 support.
 
 Our local capacity development and partnership approach in the Northeast Asian countries where we work provides a flexible and effective avenue to implement our joint projects and access domestic funding, while maintaining a strong, accountable, and international team approach to our sustainable fisheries and seafood work in the region.
 
