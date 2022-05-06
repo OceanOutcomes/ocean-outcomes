@@ -1,9 +1,12 @@
 ---
-layout: action-landing
+layout: page
 title: Small Scale Fisheries
 weight: 3
-landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/success-stories-hover.jpg
-hero-image:
-teaser-text: At Ocean Outcomes, we work hand in hand with commercial fisheries to help them become more sustainable. These stories describe the successes we’ve had developing, implementing, and supporting improvement projects and the problems that are being addressed as a result of these efforts. 
-subtitle: At Ocean Outcomes, we work hand in hand with commercial fisheries to help them become more sustainable. These stories describe the successes we’ve had developing, implementing, and supporting improvement projects and the problems that are being addressed as a result of these efforts. 
+landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/convergence-funds-ocean-outcomes-and-blue-finance-hero.jpg
+teaser-text: Teaser text
+subtitle: Subtitle text
 ---
+##Heading
+
+Content
