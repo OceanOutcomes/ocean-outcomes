@@ -27,4 +27,21 @@ Content
 
 ---
 
-##[Learn more about our partnerships and collaborations advancing outcomes in small scale fisheries] (/what-we-do/our-partners/)
+##Select a case study below to learn more about how Ocean Outcomes and partners are successfully producing triple impact outcomes in small scale fisheries.
+
+[![Triple Impact Case Study 1 - Baja Mexico]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+1+-+Baja+Mexico.png)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+1+-+Baja+Mexico.pdf)
+
+[![Triple Impact Case Study 2 - Guyana]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+2+-+Guyana.png)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+2+-+Guyana.pdf)
+
+[![Triple Impact Case Study 3 - Abalobi]
+(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+3+-+Abalobi.png)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+3+-+Abalobi.pdf)
+
+[![Triple Impact Case Study 4 - CFIPs]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+4+-+CFIPs.png)] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+4+-+CFIPs.pdf)
+
+[![Triple Impact Case Study 5 - Del Pacifico]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+5+-+Del+Pacifico.png)] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+5+-+Del+Pacifico.pdf)
+
+-----
