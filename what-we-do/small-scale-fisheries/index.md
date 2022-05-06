@@ -4,9 +4,20 @@ title: Small Scale Fisheries
 weight: 3
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/convergence-funds-ocean-outcomes-and-blue-finance-hero.jpg
-teaser-text: Teaser text
-subtitle: Subtitle text
+teaser-text: We are advancing a business-driven, triple impact approach to the challenges facing many of the world’s small scale fisheries. This approach focuses on harnessing untapped financing and increasing profitability in small scale fishing enterprises to improve livelihoods and ecosystem health; creating a positive feedback loop for people, planet and profit.
+subtitle: To date, small scale fisheries are underserved and underrepresented fishery stakeholders in the global seafood environment and movement. New approaches and tools from Ocean Outcomes and partners are working to change this.
 ---
+##Small in scale, big in value
+
+Content
+
+----
+
+**What is a small scale?**
+
+According to the Food and Agriculture Organization of the United Nations, there is no universal definition of artisanal or small scale fisheries or aquaculture. In general, these terms describe fisheries and aquaculture that use relatively small production units with relatively low input and low output, and limited levels of technology and small capital investment. They are commonly managed on a family level, sometimes with a small group of employees, or at a community level. The fish are often sold in local markets but can also reach national and international markets.
+
+----
 ##Heading
 
 Content
