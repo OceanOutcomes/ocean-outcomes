@@ -53,7 +53,7 @@ The Global Sustainable Seafood Initiative (GSSI) is a public-private partnership
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/iyafa-logo-partners.png"><h4>International Year of Artisanal Fisheries and Aquaculture</h4>
 
-As an official supporter of the International Year of Artisanal Fisheries and Aquaculture (IYAFA2022), we are working together with other small scale fisheries stakeholders towards a world in which small-scale artisanal fishers, fish farmers and fish workers are fully recognized and empowered to continue their contributions for human well-being, food systems and poverty alleviation through the responsible and sustainable use of fisheries and aquaculture resources. <a href="https://www.fao.org/artisanal-fisheries-aquaculture-2022/home/en/" target="_blank">https://www.fao.org/artisanal-fisheries-aquaculture-2022>
+As an official supporter of the International Year of Artisanal Fisheries and Aquaculture (IYAFA2022), we are working together with other small scale fisheries stakeholders towards a world in which small-scale artisanal fishers, fish farmers and fish workers are fully recognized and empowered to continue their contributions for human well-being, food systems and poverty alleviation through the responsible and sustainable use of fisheries and aquaculture resources. <a href="https://www.fao.org/artisanal-fisheries-aquaculture-2022/home/en/" target="_blank">https://www.fao.org/artisanal-fisheries-aquaculture-2022</a>
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/ngo-tuna-forum-partners.png"><h4>NGO Tuna Forum</h4>
