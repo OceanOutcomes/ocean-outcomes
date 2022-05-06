@@ -51,6 +51,11 @@ The Global Ghost Gear Initiative (GGGI) is the world’s largest cross-sectorial
 The Global Sustainable Seafood Initiative (GSSI) is a public-private partnership working together to turn seafood into a driver for good to preserve oceans for future generations and drive forward more sustainable seafood for everyone. As part of the GSSI Global Partnership, Ocean Outcomes joins more than a hundred stakeholders in a pre-competitive effort to tackle the seafood industry’s complex, global sustainability challenges. <a href="https://www.ourgssi.org/" target="_blank">www.ourgssi.org</a>
 
 ----
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/iyafa-logo-partners.png"><h4>International Year of Artisanal Fisheries and Aquaculture</h4>
+
+As an official supporter of the International Year of Artisanal Fisheries and Aquaculture (IYAFA2022), we are working together with other small scale fisheries stakeholders towards a world in which small-scale artisanal fishers, fish farmers and fish workers are fully recognized and empowered to continue their contributions for human well-being, food systems and poverty alleviation through the responsible and sustainable use of fisheries and aquaculture resources. <a href="https://www.fao.org/artisanal-fisheries-aquaculture-2022/home/en/" target="_blank">https://www.fao.org/artisanal-fisheries-aquaculture-2022>
+
+----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/ngo-tuna-forum-partners.png"><h4>NGO Tuna Forum</h4>
 
 Ocean Outcomes is a contributing member of the NGO Tuna Forum. The Forum brings together NGOs and others that work comprehensively on global tuna sustainability issues that fall within one or more of the following core focus areas: RFMO Management and Advocacy, Market-based Mechanisms for Improving Sustainability, and, On the Water Research, Activities and Improvements. <a href="https://ngotunaforum.org/" target="_blank">www.ngotunaforum.org</a>
