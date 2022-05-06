@@ -1,6 +1,6 @@
 ---
 layout: action
-title: Triple Impact Case Studies
+title: Triple Impact Improvement Case Studies
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/convergence-funds-ocean-outcomes-and-blue-finance-hero.jpg
 weight: 5
 ---
