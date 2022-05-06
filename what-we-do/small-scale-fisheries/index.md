@@ -18,9 +18,11 @@ Content
 According to the Food and Agriculture Organization of the United Nations, there is no universal definition of artisanal or small scale fisheries or aquaculture. In general, these terms describe fisheries and aquaculture that use relatively small production units with relatively low input and low output, and limited levels of technology and small capital investment. They are commonly managed on a family level, sometimes with a small group of employees, or at a community level. The fish are often sold in local markets but can also reach national and international markets.
 
 ----
-##Heading
+##Locally led fishery improvement
 
-Content
+Our small scale fisheries work is based on the Triple Impact Fisheries Improvement Framework, an open-source, modular and agnostic tool for evaluating needs, planning improvements, monitoring and publicly reporting progress against the environmental, social and financial dimensions of fisheries.
+
+Through our triple impact approach and local partnerships, we develop and implement triple impact projects across a range of small scale fisheries, conditions and locations. As we do in all our work, we co-design our small scale fisheries initiatives with all affected stakeholders, taking into account the experiences and realities on the ground, while always continuing to learn and adapt to maximize impact.
 
 ---
 ##Stories from the Field: Small Scale Fisheries
