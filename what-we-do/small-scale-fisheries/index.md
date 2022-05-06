@@ -18,11 +18,19 @@ Content
 According to the Food and Agriculture Organization of the United Nations, there is no universal definition of artisanal or small scale fisheries or aquaculture. In general, these terms describe fisheries and aquaculture that use relatively small production units with relatively low input and low output, and limited levels of technology and small capital investment. They are commonly managed on a family level, sometimes with a small group of employees, or at a community level. The fish are often sold in local markets but can also reach national and international markets.
 
 ----
-##Locally led fishery improvement
+##Supporting small scale fisheries improvement
 
-Our small scale fisheries work is based on the Triple Impact Fisheries Improvement Framework, an open-source, modular and agnostic tool for evaluating needs, planning improvements, monitoring and publicly reporting progress against the environmental, social and financial dimensions of fisheries.
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/ssf-hub-logo-partners.png">
 
-Through our triple impact approach and local partnerships, we develop and implement triple impact projects across a range of small scale fisheries, conditions and locations. As we do in all our work, we co-design our small scale fisheries initiatives with all affected stakeholders, taking into account the experiences and realities on the ground, while always continuing to learn and adapt to maximize impact.
+Ocean Outcomes is part of the global coalition of partners working in and with small-scale fisheries which helped launch the <a href="https://ssfhub.org/" target="_blank">Small-Scale Fisheries Resource and Collaboration Hub</a>. The SSF Hub is an online, interactive, and multilingual platform for small-scale fishers, fish workers, and their communities and allies. It provides access to free tools and resources to strengthen small-scale fisheries governance and community development. The SSF Hub creates an opportunity to learn, share information, and enhance capacities for all small-scale fishery stakeholders. It aims to address small-scale fisheries governance and community development, to support the well-being of small-scale fishing communities and sustainable use of resources.
+
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/iyafa-logo-partners.png">
+
+As an official supporter of the <a href="https://www.fao.org/artisanal-fisheries-aquaculture-2022/home/en/" target="_blank">International Year of Artisanal Fisheries and Aquaculture (IYAFA2022)</a>, we are working together with other small scale fisheries stakeholders towards a world in which small-scale artisanal fishers, fish farmers and fish workers are fully recognized and empowered to continue their contributions for human well-being, food systems and poverty alleviation through the responsible and sustainable use of fisheries and aquaculture resources.
+
+Much of our small scale fisheries work is based on the [Triple Impact Fisheries Improvement Framework] (/what-we-do/services/triple-impact-improvement/), an open-source, modular and agnostic tool for evaluating needs, planning improvements, monitoring and publicly reporting progress against the environmental, social and financial dimensions of fisheries.
+
+Through our triple impact approach, international collaborations and local partnerships, we develop and implement triple impact projects across a range of small scale fisheries, conditions and locations. As we do in all our work, we co-design our small scale fisheries initiatives with all affected stakeholders, taking into account the experiences and realities on the ground, while always continuing to learn and adapt to maximize impact.
 
 ---
 ##Stories from the Field: Small Scale Fisheries
