@@ -10,3 +10,12 @@ subtitle: Subtitle text
 ##Heading
 
 Content
+
+---
+##Stories from the Field: Small Scale Fisheries
+
+* [Advancing Community Based Fishery Improvement Projects in Costa Rica] (/news/sustainable-fisheries-costa-rica-progress-highlights-index/)
+
+---
+
+##[Learn more about our partnerships and collaborations advancing outcomes in small scale fisheries] (/what-we-do/our-partners/)
