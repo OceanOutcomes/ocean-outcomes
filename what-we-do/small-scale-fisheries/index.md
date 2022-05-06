@@ -5,7 +5,7 @@ weight: 3
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/convergence-funds-ocean-outcomes-and-blue-finance-hero.jpg
 teaser-text: We are advancing a business-driven, triple impact approach to the challenges facing many of the world’s small scale fisheries. This approach focuses on harnessing untapped financing and increasing profitability in small scale fishing enterprises to improve livelihoods and ecosystem health; creating a positive feedback loop for people, planet and profit.
-subtitle: To date, small scale fisheries stakeholders are underserved and underrepresented in the global seafood environment and movement. New approaches and tools from Ocean Outcomes and partners are working to change this.
+subtitle: To date, small scale fisheries and their stakeholders are underserved and underrepresented in the global seafood environment and movement. New approaches and tools from Ocean Outcomes and partners are working to change this.
 ---
 ##Small in scale, big in value
 
