@@ -16,7 +16,7 @@ teaser-text: Whether you are leading a fisheries project, buying seafood, invest
 
 ##Working in fisheries improvement or sustainable seafood? We can help you deliver on your goals.
 
-Our ever-expanding portfolio of environmental and socioeconomic fisheries improvement work spans the globe. We’ve developed salmon escapement management strategies in Japan, mapped out supply chains of the highest valued seafood species in China, designed and led curricula for tuna harvest strategy workshops in West Africa, Indonesia and Fiji, led anti-poaching initiatives in the Russian Far East, provided fishery risk analysis for seafood business partners, and assisted corporate hotels in implementing sustainable seafood sourcing policies. Key areas of expertise include:
+Our ever-expanding portfolio of environmental and socioeconomic fisheries improvement work spans the globe. We’ve developed salmon escapement management strategies in Japan; mapped out supply chains of the highest valued seafood species in China; designed and led curricula for tuna harvest strategy workshops in West Africa, Indonesia and Fiji; led anti-poaching initiatives in the Russian Far East; provided fishery risk analysis for seafood business partners; and assisted corporate hotels in implementing sustainable seafood sourcing policies. Key areas of expertise include:
 
 ----
 
