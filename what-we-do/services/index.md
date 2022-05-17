@@ -48,7 +48,7 @@ From point of harvest to point of consumption, and everything in between, our su
 
 ----
 
-##### Stakeholder Engagement
+##### Stakeholder Engagement and Facilitation
  
 Getting stakeholders to the table and facilitating a constructive results-oriented discussion can be half the battle. Through fishermen and seafood buyer exchanges, fishery stakeholder workshop development and facilitation, buyer partnership facilitation, transnational governmental meeting design, and international consultation strategy design, we can help you engage your key audiences and develop solutions that stick.  
 
