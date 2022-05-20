@@ -25,7 +25,7 @@ We implement this work through close partnerships with a local NGO named Qingdao
 
 This ensures our initiatives are effective and our outcomes durable. Working with QMCS and Tao Ran, we collaboratively fund, design, test and implement a variety of sustainable seafood and fisheries projects throughout China. These include, demonstration level conservation projects in key ecoregions to protect important spawning grounds, fishery and aquaculture improvement projects to instruct management policies, and engaging Chinese industry and other supply chain actors towards improved practices. 
 
-Without a significant, concerted, and locally-led push for reform, it’s likely overfishing, irresponsible aquaculture, and habitat loss and degradation in China will continue.
+Without a significant, concerted, and locally-led push for reform, overfishing, irresponsible aquaculture, and habitat loss and degradation in China likely will continue.
 
 ![Japanese flying squid project participants] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/JFS+FIP+launch+group+photo+2018.jpg) *O2, Tao Ran, and partners celebrate the launch of a new project at the China Fisheries and Seafood Expo in Qingdao. © Ocean Outcomes*
 
