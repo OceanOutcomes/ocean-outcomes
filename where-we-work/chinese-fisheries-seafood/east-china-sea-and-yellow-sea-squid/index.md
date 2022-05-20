@@ -9,6 +9,8 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
+*Major changes in the nature of the fishery has led to the need for re-assessing the scope of improvements and work plan actions, and as such, this FIP is currently in ‘inactive’ status.*
+
 By volume, China is the largest squid fishing and processing country in the world. The East China Sea and Yellow Sea, fished by Korean, Japanese, and Chinese fishing vessels, are significant squid fishing grounds. It’s there that Chinese trawl, purse seine, and gillnet vessels target *Todarodes pacificus*, or Japanese flying squid (JFS) together with other finfish species. JFS are highly migratory, having a broad geographic distribution and inhabiting both the open ocean and coastal regions of Northeast Asia. While there is great diversity and scope of JFS fisheries across Northeast Asia, the East China Sea and Yellow Sea Squid FIP will initially focus on improving Chinese JFS trawl fisheries operating within Chinese jurisdictions in the East China and Yellow Seas. The primary markets for this product are the European Union, United States, Japan, and South Korea, although better supply chain analysis is needed to fully understand product flow and to elucidate any other squid species product mixing which might occur.
 
 ---
