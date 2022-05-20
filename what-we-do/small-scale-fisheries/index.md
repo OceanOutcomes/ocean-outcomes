@@ -15,7 +15,7 @@ In addition to dishenfranshisment, small-scale fisheries face a myriad socioecon
 
 ----
 
-**What is a small scale?**
+**What is a small-scale?**
 
 According to the Food and Agriculture Organization of the United Nations, there is no universal definition of artisanal or small-scale fisheries or aquaculture. In general, these terms describe fisheries and aquaculture that use relatively small production units with relatively low input and low output, and limited levels of technology and small capital investment. They are commonly managed on a family level, sometimes with a small group of employees, or at a community level. The fish are often sold in local markets but can also reach national and international markets.
 
