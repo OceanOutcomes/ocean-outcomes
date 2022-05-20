@@ -16,7 +16,7 @@ teaser-text: Whether you are leading a fisheries project, buying seafood, invest
 
 ##Working in fisheries improvement or sustainable seafood? We can help you deliver on your goals.
 
-Our ever-expanding portfolio of environmental and socioeconomic fisheries improvement work spans the globe. We’ve developed salmon escapement management strategies in Japan; mapped out supply chains of the highest valued seafood species in China; designed and led curricula for tuna harvest strategy workshops in West Africa, Indonesia and Fiji; led anti-poaching initiatives in the Russian Far East; provided fishery risk analysis for seafood business partners; and assisted corporate hotels in implementing sustainable seafood sourcing policies. Key areas of expertise include:
+Our ever-expanding portfolio of environmental and socioeconomic fisheries sustainability work spans the globe. We’ve developed salmon escapement management strategies in Japan; mapped out supply chains of the highest valued seafood species in China; designed and led curricula for tuna harvest strategy workshops in West Africa, Indonesia and Fiji; led anti-poaching initiatives in the Russian Far East; provided fishery risk analysis for seafood business partners; and assisted corporate hotels in implementing sustainable seafood sourcing policies. O2’s wide-ranging consulting services are based on deep knowledge and expertise, authentic collaboration skills, a strong customer service ethos, and high quality, value added deliverables shaped to have practical and strategic impact — all key ingredients for O2 to successfully support aligned partners in realizing sustainability outcomes from their investments. Key areas of expertise include:
 
 ----
 
@@ -62,7 +62,7 @@ With a high level of complexity, fisheries management and policy issues often ne
 
 ##### Strategic Consultation 
 
-Leave the development and implementation of environmental and socioeconomic fishery improvement to the experts. We develop sustainable sourcing policies, bycatch reduction strategies, comprehensive risk analysis reports, anti-IUU and traceability solutions and organizational strategy analysis, to name a few. We can support you as you work to address the breadth of environmental and socioeconomic challenges facing many of the world's fisheries. No project is too complicated or too small.
+Leave the development and implementation of environmental and socioeconomic fishery sustainability strategies to the experts. We develop sustainable sourcing policies, bycatch reduction strategies, comprehensive risk analysis reports, anti-IUU and traceability solutions and organizational strategy analysis, to name a few. We can support you as you work to address the breadth of environmental and socioeconomic challenges facing many of the world's fisheries. No project is too complicated or too small.
 
 ----
 
