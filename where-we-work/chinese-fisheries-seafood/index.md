@@ -32,7 +32,7 @@ Without a significant, concerted, and locally-led push for reform, overfishing, 
 ---
 ##O2 and Tao Ran Chinese Fishery Improvement Projects:
 
-* [East China Sea and Yellow Sea Squid FIP] (/where-we-work/chinese-fisheries-seafood/east-china-sea-and-yellow-sea-squid/)
+* [East China Sea and Yellow Sea Squid FIP (Inactive)] (/where-we-work/chinese-fisheries-seafood/east-china-sea-and-yellow-sea-squid/)
 * [Fujian Zhangzhou Red Swimming Crab FIP] (/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/)
 
 ---
@@ -57,4 +57,4 @@ Without a significant, concerted, and locally-led push for reform, overfishing, 
 
 ##Meet Tao Ran 
 
-<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/tao-ran-logo.png"> Qingdao Tao Ran Environmental Science and Technology Co. Ltd (Tao Ran) was established by former Ocean Outcomes China Program Director Songlin Wang in 2016. Tao Ran provides professional strategic planning and management services to organisations dedicated to the conservation and management of aquatic environmental resources. The firm works in partnership with fisheries, the aquaculture industry and nonprofits to move the Chinese seafood industry towards a sustainable future. In addition to fishery and aquaculture improvement partnerships with Ocean Outcomes, Tao Ran works closely with the Aquaculture Stewardship Council to grow the number of Chinese farms and species certified by ASC.
+<img align="left" src="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/tao-ran-logo.png"> Qingdao Tao Ran Environmental Science and Technology Co. Ltd (Tao Ran) was established by former Ocean Outcomes China Program Director Songlin Wang in 2016. Tao Ran provides professional strategic planning and management services to organizations dedicated to the conservation and management of aquatic environmental resources. The firm works in partnership with fisheries, the aquaculture industry and nonprofits to move the Chinese seafood industry towards a sustainable future. In addition to fishery and aquaculture improvement partnerships with Ocean Outcomes, Tao Ran works closely with the Aquaculture Stewardship Council to grow the number of Chinese farms and species certified by ASC.
