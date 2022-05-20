@@ -17,7 +17,7 @@ Few countries have a bigger influence on global seafood markets, international f
 
 For the average Northeast Asian consumer, this has meant higher prices at the market and increasing difficulties in enjoying traditional food items. In Japan, as one example, “Unagi” (eel) saw a peak commercial catch of 3,387 metric tons in 1961 but that catch was reduced to a measly 71 tons in 2018. Meanwhile, the price of Unagi quadrupled in the last decade alone. For coastal communities and fishery cooperatives across Japan that have borne the brunt of the fishery crisis, the situation is even more severe; a whopping 800,000 Japanese jobs have been lost since the fishing industry’s peak in the 1960s.
 
-##Our work in Northeast Asia is focused around building local capacity for sustainability and partnering with that capacity to develop and implement sustainable seafood and fisheries initiatives.
+##Our work in Northeast Asia is focused around building local capacity for sustainability and partnering with those organizations to develop and implement sustainable seafood and fisheries initiatives.
 
 This includes buyer engagement programs, exploring solutions towards more sustainable practices with government, industry, and fishery leaders, and developing and implementing fishery and aquaculture improvement projects.
 
