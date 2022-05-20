@@ -4,23 +4,23 @@ title: Small-Scale Fisheries
 weight: 3
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/convergence-funds-ocean-outcomes-and-blue-finance-hero.jpg
-teaser-text: We are advancing a business-driven, triple impact approach to the challenges facing many of the world’s small scale fisheries. This approach focuses on harnessing untapped financing and increasing profitability in small scale fishing enterprises to improve livelihoods and ecosystem health; creating a positive feedback loop for people, planet and profit.
-subtitle: To date, small scale fisheries and their stakeholders are underserved and underrepresented in the global seafood environment and movement. New approaches, collaborations and tools from Ocean Outcomes and partners are working to change this.
+teaser-text: We are advancing a business-driven, triple impact approach to the challenges facing many of the world’s small-scale fisheries. This approach focuses on harnessing untapped financing and increasing profitability in small-scale fishing enterprises to improve livelihoods and ecosystem health; creating a positive feedback loop for people, planet and profit.
+subtitle: To date, small-scale fisheries and their stakeholders are underserved and underrepresented in the global seafood environment and movement. New approaches, collaborations and tools from Ocean Outcomes and partners are working to change this.
 ---
 ##Small in scale, big in value
 
-Small scale fisheries provide livelihoods for millions, food for billions and are an integral part of local coastal communities, their economies and the fulcrum around which any coastal conservation and development initiatives must operate. However, despite their collective significance, the needs of small scale fisheries and their stakeholders have generally been underserved and underrepresented in both the global seafood environment and movement. 
+Small-scale fisheries provide livelihoods for millions, food for billions and are an integral part of local coastal communities, their economies and the fulcrum around which any coastal conservation and development initiatives must operate. However, despite their collective significance, the needs of small-scale fisheries and their stakeholders have generally been underserved and underrepresented in both the global seafood environment and movement. 
 
-In addition to dishenfranshisment, small scale fisheries face a myriad socioeconomic and environmental challenges, such as low prices, unfair competition, a lack of markets and cold chain access, climate change and evolving fish stock competitions and ranges. To ensure food security, thriving local livelihoods and durable conservation outcomes, we are working to identify the needs of small scale fisheries and their stakeholders and developing tools, approaches and partnerships for addressing these needs.
+In addition to dishenfranshisment, small-scale fisheries face a myriad socioeconomic and environmental challenges, such as low prices, unfair competition, a lack of markets and cold chain access, climate change and evolving fish stock competitions and ranges. To ensure food security, thriving local livelihoods and durable conservation outcomes, we are working to identify the needs of small-scale fisheries and their stakeholders and developing tools, approaches and partnerships for addressing these needs.
 
 ----
 
 **What is a small scale?**
 
-According to the Food and Agriculture Organization of the United Nations, there is no universal definition of artisanal or small scale fisheries or aquaculture. In general, these terms describe fisheries and aquaculture that use relatively small production units with relatively low input and low output, and limited levels of technology and small capital investment. They are commonly managed on a family level, sometimes with a small group of employees, or at a community level. The fish are often sold in local markets but can also reach national and international markets.
+According to the Food and Agriculture Organization of the United Nations, there is no universal definition of artisanal or small-scale fisheries or aquaculture. In general, these terms describe fisheries and aquaculture that use relatively small production units with relatively low input and low output, and limited levels of technology and small capital investment. They are commonly managed on a family level, sometimes with a small group of employees, or at a community level. The fish are often sold in local markets but can also reach national and international markets.
 
 ----
-##Supporting small scale fisheries improvement
+##Supporting small-scale fisheries improvement
 
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/ssf-hub-logo-partners.png">
 
@@ -28,14 +28,14 @@ Ocean Outcomes is part of the global coalition of partners working in and with s
 
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/iyafa-logo-partners.png">
 
-As an official supporter of the <a href="https://www.fao.org/artisanal-fisheries-aquaculture-2022/home/en/" target="_blank">International Year of Artisanal Fisheries and Aquaculture (IYAFA2022)</a>, we are working together with other small scale fisheries stakeholders towards a world in which small-scale artisanal fishers, fish farmers and fish workers are fully recognized and empowered to continue their contributions for human well-being, food systems and poverty alleviation through the responsible and sustainable use of fisheries and aquaculture resources.
+As an official supporter of the <a href="https://www.fao.org/artisanal-fisheries-aquaculture-2022/home/en/" target="_blank">International Year of Artisanal Fisheries and Aquaculture (IYAFA2022)</a>, we are working together with other small-scale fisheries stakeholders towards a world in which small-scale artisanal fishers, fish farmers and fish workers are fully recognized and empowered to continue their contributions for human well-being, food systems and poverty alleviation through the responsible and sustainable use of fisheries and aquaculture resources.
 
-Much of our small scale fisheries work is based on the [Triple Impact Fisheries Improvement Framework] (/what-we-do/services/triple-impact-improvement/), an open-source, modular and agnostic tool for evaluating needs, planning improvements, monitoring and publicly reporting progress against the environmental, social and financial dimensions of fisheries.
+Much of our small-scale fisheries work is based on the [Triple Impact Fisheries Improvement Framework] (/what-we-do/services/triple-impact-improvement/), an open-source, modular and agnostic tool for evaluating needs, planning improvements, monitoring and publicly reporting progress against the environmental, social and financial dimensions of fisheries.
 
-Through our triple impact approach, international collaborations and local partnerships, we develop and implement triple impact projects across a range of small scale fisheries, conditions and locations. As we do in all our work, we co-design our small scale fisheries initiatives with all affected stakeholders, taking into account the experiences and realities on the ground, while always continuing to learn and adapt to maximize impact.
+Through our triple impact approach, international collaborations and local partnerships, we develop and implement triple impact projects across a range of small-scale fisheries, conditions and locations. As we do in all our work, we co-design our small-scale fisheries initiatives with all affected stakeholders, taking into account the experiences and realities on the ground, while always continuing to learn and adapt to maximize impact.
 
 ---
-##Stories from the Field: Small Scale Fisheries
+##Stories from the Field: Small-Scale Fisheries
 
 * [Advancing Community Based Fishery Improvement Projects in Costa Rica] (/news/sustainable-fisheries-costa-rica-progress-highlights-index/)
 * [Official Launch of IYAFA 2022] (/news/international-year-of-fisheries-and-aquaculture-iyafa-launch/)
@@ -50,7 +50,7 @@ Through our triple impact approach, international collaborations and local partn
 
 ---
 
-##Select a case study below to learn more about how Ocean Outcomes and partners are successfully producing triple impact outcomes in small scale fisheries.
+##Select a case study below to learn more about how Ocean Outcomes and partners are successfully producing triple impact outcomes in small-scale fisheries.
 
 [![Triple Impact Case Study 1 - Baja Mexico]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+1+-+Baja+Mexico.png)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+1+-+Baja+Mexico.pdf)
