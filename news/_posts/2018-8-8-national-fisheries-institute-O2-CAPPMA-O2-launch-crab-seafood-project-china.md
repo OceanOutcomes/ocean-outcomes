@@ -8,7 +8,7 @@ featured: FALSE
 ---
 ###Comprehensive project now underway to better manage and fish red swimming crab
 
-**August 8, 2018 Dongshan, Fujian Province, China** – Leading United States and Chinese seafood industry groups, fishermen, and sustainable seafood groups came together today to celebrate the much anticipated launch of the [Fujian Zhangzhou Red Swimming Crab Fisheries Improvement Project (FIP)] (/areas-of-focus/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/).
+**August 8, 2018 Dongshan, Fujian Province, China** – Leading United States and Chinese seafood industry groups, fishermen, and sustainable seafood groups came together today to celebrate the much anticipated launch of the [Fujian Zhangzhou Red Swimming Crab Fisheries Improvement Project (FIP)] (/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/).
 
 The FIP–led by the National Fisheries Institute (NFI) Red Crab Council, China Aquatic Products Processing and Marketing Alliance (CAPPMA), Zhangzhou Aquatic Products Processing and Marketing Association (ZAPPMA), and Ocean Outcomes (O2)–is the first project of its kind in China and will work to address the sustainability challenges of the region’s red swimming crab (RSC) fisheries, whose 1,000 plus trawl and pot vessels catch approximately 40,000 metric tons of red swimming crab annually.
 
@@ -32,7 +32,7 @@ With universal, transpacific support, the FIP has a unique funding model through
 
 **“The crabs and sea have generously provided us with food and jobs, but we haven’t done enough to protect them,” added ZAPPMA President Mr. Zhenkui Chen, who witnessed the decline of the RSC fishing and seafood processing sectors, first as a fisherman and then as an entrepreneur. He is now calling on his fellow fishermen and seafood processors to “spare no effort to support the FIP for ourselves and our future generations.”**
 
-[Learn more about the Fujian Zhangzhou Red Swimming Crab Fisheries Improvement Project (FIP)] (/areas-of-focus/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/).
+[Learn more about the Fujian Zhangzhou Red Swimming Crab Fisheries Improvement Project (FIP)] (/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/).
 
 ----
 
