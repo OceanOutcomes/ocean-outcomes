@@ -4,7 +4,7 @@ title: Now Addressing Social Needs in Fishery Improvement
 date: 2021-05-12
 teaser-text: This week, the sustainable seafood movement celebrates a significant step forward in our collective pursuit of healthy, flourishing fisheries and fishing communities.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/fisheryprogress-social-policy-fishery-improvement-projects.jpg
-featured: TRUE
+featured: FALSE
 ---
 ###This week, the sustainable seafood movement celebrates a significant step forward in our collective pursuit of healthy, flourishing fisheries and fishing communities. 
 
