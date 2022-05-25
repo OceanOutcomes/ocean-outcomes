@@ -10,11 +10,11 @@ featured: FALSE
 
 Years in the making, FisheryProgress.org just released its <a href="https://fisheryprogress.org/social-responsibility/our-approach" target="_blank">Human Rights and Social Responsibility Policy</a>. This is a meaningful starting point for assessing, improving and rewarding social performance in Fishery Improvement Projects (FIPs). Ocean Outcomes contributed significantly to the development of the Policy and we will be incorporating it into our FIPs in the coming years.
 
-The Policy aligns closely with our [Triple Impact Fisheries Evaluation Framework] (/what-we-do/triple-bottom-line-seafood/triple-impact-improvement/), which increases the viability and decreases the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance. 
+The Policy aligns closely with our [Triple Impact Fisheries Evaluation Framework] (/what-we-do/services/triple-impact-improvement/), which increases the viability and decreases the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance. 
 
-For example, both the Policy and the Framework use the [Social Responsibility Assessment Tool for the Seafood Sector (SRA)] (/what-we-do/triple-bottom-line-seafood/social-rapid-assessment/) to assess risk of social issues, to identify areas in need of improvement and to inform the development of a workplan that includes a social element. 
+For example, both the Policy and the Framework use the [Social Responsibility Assessment Tool for the Seafood Sector (SRA)] (/what-we-do/services/social-rapid-assessment/) to assess risk of social issues, to identify areas in need of improvement and to inform the development of a workplan that includes a social element. 
 
-Want to see the Framework and the SRA in action? [View case study examples of partners implementing the Framework in Guyana, Mexico and South Africa] (/what-we-do/triple-bottom-line-seafood/case-studies/).
+Want to see the Framework and the SRA in action? [View case study examples of partners implementing the Framework in Guyana, Mexico and South Africa] (/what-we-do/services/triple-impact-case-studies/).
 
 Labor issues are a significant and growing concern for the seafood sector, and protecting workers is essential for maintaining public trust and resiliency in seafood supply chains. The Policy, Framework and growing support for platforms such as the <a href="https://fishwise.org/rise-to-the-challenge-improving-human-rights-in-seafood/" target="_blank">Roadmap for Improving Seafood Ethics (RISE)—which relaunched earlier this month—</a>will help seafood companies and fisheries of all sizes work to raise the bar on social responsibility.
 
