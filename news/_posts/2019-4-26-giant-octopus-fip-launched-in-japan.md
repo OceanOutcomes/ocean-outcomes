@@ -32,7 +32,7 @@ This work, implemented through a four-year FIP workplan will help ensure octopus
 
 **“Proactive and local stakeholders and fishermen have really driven FIP development,” added Dr. Jocelyn Drugan of Ocean Outcomes who is overseeing the technical aspects of the FIP. “This is further evidence that collaborative approaches are key to moving Japanese fisheries towards sustainability.”**
 
-The [Tomamae Giant Pacific Octopus FIP] (/areas-of-focus/fishery-improvement-projects/tomamae-giant-pacific-octopus/) is the third project of its kind in Japan. The other two FIPs, both joint projects of Seafood Legacy and Ocean Outcomes, [recently received an “A - Advanced Progress” rating for making publicly-verifiable improvements to fishing practices on the water] (/news/japanese-FIP-progress-ratings-a/).
+The [Tomamae Giant Pacific Octopus FIP] (/where-we-work/japanese-fisheries-seafood/tomamae-giant-pacific-octopus/) is the third project of its kind in Japan. The other two FIPs, both joint projects of Seafood Legacy and Ocean Outcomes, [recently received an “A - Advanced Progress” rating for making publicly-verifiable improvements to fishing practices on the water] (/news/japanese-FIP-progress-ratings-a/).
 
 ----
 

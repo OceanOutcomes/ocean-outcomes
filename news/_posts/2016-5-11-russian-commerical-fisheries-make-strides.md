@@ -14,7 +14,7 @@ As the West Kamchatka salmon fishery moves towards its final stage of MSC certif
  
 * KamchatNIRO, a regional fisheries research agency issued a 141 page report that provides critical foundational information necessary for managing salmon runs (i.e. stock status, run timing). This research provided new information about Chinook salmon whose stocks have been very low and will help commercial salmon fishermen target more abundant species and avoid impacts on Chinook. The research also showed that Chinook salmon escapements have been increasing since a ban on commercial retention was implemented by KamchatNIRO in 2010. **Most excitingly, the report included updated spawner-recruit analyses which resulted in revised and more river-specific escapement goals for salmon species, which will be in place this fishing season.**
  
-* [Independent third party observer programs confirmed] (/what-we-do/past-initiatives/observers/); limited sea lion bycatch and compliance in regards to firearm prohibition; beach seines and set nets were operated within legal fishing parcels, and only during legal fishing periods; active enforcement efforts have minimized the incidence of illegal fishing on the Opala and Ozernaya rivers.
+* Independent third party observer programs confirmed; limited sea lion bycatch and compliance in regards to firearm prohibition; beach seines and set nets were operated within legal fishing parcels, and only during legal fishing periods; active enforcement efforts have minimized the incidence of illegal fishing on the Opala and Ozernaya rivers.
 
 ![Russian Fisheries Observed]
 (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/observed-fishing-parcels-2015.png)

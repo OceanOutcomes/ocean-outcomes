@@ -10,9 +10,9 @@ featured: FALSE
 
 Winners are chosen by the seafood community and receive a $10,000 financial reward as well as logistical and technical support to implement their idea.
 
-Working with the Global Ghost Gear Initiative and on the ground stakeholders in South Korea, we submitted the entry “<a href="http://speakingofseafood.org/seafood-co-lab/2018-co-lab-finalists/transitioning-styrofoam-buoys-south-korean-oyster-farms/" target="blank">*Buoying it the right way: Transitioning 6 million styrofoam buoys to a non-polluting alternative in South Korea's 200,000 ton oyster industry*</a>” to the Seafood Co-Lab contest. Out of 40 entries, our is one of the four finalists!
+Working with the Global Ghost Gear Initiative and on the ground stakeholders in South Korea, we submitted the entry “*Buoying it the right way: Transitioning 6 million styrofoam buoys to a non-polluting alternative in South Korea's 200,000 ton oyster industry*” to the Seafood Co-Lab contest. Out of 40 entries, our entry is one of the four finalists!
 
-The Seafood Co-Lab winner is selected by popular vote and gets $10,000 and advisor support to begin work. Want to support reducing styrofoam microplastics in our ocean? <a href="http://speakingofseafood.org/seafood-co-lab/choose-seafood-co-lab-winner/" target="blank">Cast a vote for our entry and support better buoying</a>. 
+The Seafood Co-Lab winner is selected by popular vote and gets $10,000 and advisor support to begin work. Want to support reducing styrofoam microplastics in our ocean? Cast a vote for our entry and support better buoying. 
 
 ----
 ###Project background:
@@ -23,7 +23,7 @@ The process of industrial oyster farming, however, can pollute the oceans. One s
 
 The end goal of this work is to replace 70% of the styrofoam buoys in the region with environmentally responsible alternatives by 2022, solving a major microplastic pollution issue for Northeast Asia and the world.
 
-<a href="http://speakingofseafood.org/seafood-co-lab/choose-seafood-co-lab-winner/" target="blank">Vote for “*Buoying it the right way*” to support more sustainable oyster farming practices in Korea</a>.
+Vote for “*Buoying it the right way*” to support more sustainable oyster farming practices in Korea.
 
 ----
 ![South Korea Tongyeong oyster fisheries]

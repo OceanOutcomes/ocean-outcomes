@@ -8,7 +8,7 @@ featured: FALSE
 ---
 ###MOU teams Industry, In-Country Association, and NGO
 
-**April 18, 2018 Washington, DC** –The NFI Red Crab Council, China Aquatic Products Processing and Marketing Alliance (CAPPMA), and Ocean Outcomes (O2) have signed a Memorandum of Understanding designed to launch and implement a [Red Swimming Crab Fisheries Improvement Project (FIP) in China] (/areas-of-focus/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/).
+**April 18, 2018 Washington, DC** –The NFI Red Crab Council, China Aquatic Products Processing and Marketing Alliance (CAPPMA), and Ocean Outcomes (O2) have signed a Memorandum of Understanding designed to launch and implement a [Red Swimming Crab Fisheries Improvement Project (FIP) in China] (/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/).
 
 The founding members of the NFI Red Crab Council include Asian Pacific Seafood, Bumble Bee Seafoods, Carrington Foods, Chicken of the Sea Frozen Foods, Newport International, Stavis Seafoods, Supreme Crab & Seafood, and Twin Tails Seafood Corporation.
 
