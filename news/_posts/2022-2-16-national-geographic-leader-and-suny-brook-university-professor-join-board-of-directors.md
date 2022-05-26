@@ -22,7 +22,7 @@ Yong is a leading fisheries scientist, and a professor of marine science at Ston
 
 In Latin America we are increasing the number of triple impact fisheries improvement projects addressing socioeconomic and environmental needs, such as those in Mexico and Costa Rica. Working closely with partners, such as Conservation International, and local fishing communities, [our triple impact projects are making fishery improvement more effective and relevant for small scale and domestically traded fisheries] (/news/sustainable-fisheries-costa-rica-progress-highlights-index/).
 
-In China, working closely with our strategic partner Tao Ran, we continue to use our on the ground fishery improvement work, such as in our [Fujian Zhangzhou Red Swimming Crab FIP] (/areas-of-focus/fishery-improvement-projects/fujian-zhangzhou-red-swimming-crab/), to demonstrate practical sustainable fisheries practices that provide important connection to ‘top down’ policy reform supported by international fishery science and management exchange.
+In China, working closely with our strategic partner Tao Ran, we continue to use our on the ground fishery improvement work, such as in our [Fujian Zhangzhou Red Swimming Crab FIP] (/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/), to demonstrate practical sustainable fisheries practices that provide important connection to ‘top down’ policy reform supported by international fishery science and management exchange.
 
 Welcome, Gael and Yong! We are thrilled to have you join our Board and help us take this — and other — work forward. 
 

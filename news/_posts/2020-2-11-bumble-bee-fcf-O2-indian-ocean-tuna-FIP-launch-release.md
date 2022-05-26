@@ -26,9 +26,9 @@ Project team members believe this FIP – along with other new and emerging init
 
 As a first phase of the project, the project team will work to generate better fishery data, which will be used to inform science-based management at the regional level for the target albacore stock and any fishery bycatch species. A key component of this effort will be to increase electronic observer coverage on the fishing vessels, with a long-term goal of 100 percent coverage. Currently, observer coverage is occurring in a small subset of longliners.
 
-This FIP is one of two projects between Bumble Bee, FCF and O2 focused on ensuring sustainable Chinese Taipei longline fisheries; the [other is for longline vessels in the Western and Central Pacific Ocean] (/areas-of-focus/fishery-improvement-projects/south-pacific-longline-albacore-yellowfin/). Coordination with – and support from – other organizations working on sustainable tuna, such as International Seafood Sustainability Foundation (ISSF) will be core to the projects’ success. The goal of both FIPs is to achieve a certifiable status by 2024.
+This FIP is one of two projects between Bumble Bee, FCF and O2 focused on ensuring sustainable Chinese Taipei longline fisheries; the [other is for longline vessels in the Western and Central Pacific Ocean] (/what-we-do/tuna/south-pacific-longline-albacore-yellowfin/). Coordination with – and support from – other organizations working on sustainable tuna, such as International Seafood Sustainability Foundation (ISSF) will be core to the projects’ success. The goal of both FIPs is to achieve a certifiable status by 2024.
 
-[Learn more about the Indian Ocean tuna FIP] (/areas-of-focus/fishery-improvement-projects/indian-ocean-longline-albacore/).
+[Learn more about the Indian Ocean tuna FIP] (/what-we-do/tuna/indian-ocean-longline-albacore/).
 
 ----
 

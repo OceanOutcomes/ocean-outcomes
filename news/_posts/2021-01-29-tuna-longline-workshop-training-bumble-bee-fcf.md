@@ -46,4 +46,4 @@ Generating an awareness and understanding of best practice are core action items
 
 These improvements will help to reduce bycatch and ultimately minimize the impact of the two fisheries on the pelagic ecosystem as both FIPs work towards the Marine Stewardship Council standard.
 
-Learn more about the [South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP] (/areas-of-focus/fishery-improvement-projects/south-pacific-longline-albacore-yellowfin/) and [Indian Ocean Albacore Tuna Longline FIP] (/areas-of-focus/fishery-improvement-projects/indian-ocean-longline-albacore/). Thanks to our partners at Bumble Bee Seafoods, FCF, ISSF and AZTI for workshop and FIP support.
+Learn more about the [South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP] (/what-we-do/tuna/south-pacific-longline-albacore-yellowfin/) and [Indian Ocean Albacore Tuna Longline FIP] (/what-we-do/tuna/indian-ocean-longline-albacore/). Thanks to our partners at Bumble Bee Seafoods, FCF, ISSF and AZTI for workshop and FIP support.
