@@ -8,7 +8,7 @@ featured: FALSE
 ---
 ###After three years of work, large-scale Chinese squid project becomes public and implementation phases begin
 
-**November 6, 2018 Qingdao, Shandong Province, China** – Four leading seafood buyers, Chinese seafood industry groups, retailers, fishermen, and sustainable seafood enterprises came together today at the China Fisheries and Seafood Expo to celebrate the much anticipated launch of the [East China Sea and Yellow Sea Squid FIP] (/areas-of-focus/fishery-improvement-projects/east-china-sea-and-yellow-sea-squid/).
+**November 6, 2018 Qingdao, Shandong Province, China** – Four leading seafood buyers, Chinese seafood industry groups, retailers, fishermen, and sustainable seafood enterprises came together today at the China Fisheries and Seafood Expo to celebrate the much anticipated launch of the [East China Sea and Yellow Sea Squid FIP] (/where-we-work/chinese-fisheries-seafood/east-china-sea-and-yellow-sea-squid/).
 
 The fisheries improvement project—or FIP for short—is a precompetitive project aimed to improve the management and fishing practices of Chinese trawl, purse seine, and gillnet vessels targeting Japanese flying squid. JFS are one of the most commercially lucrative species of squid, and in the Chinese side of East China Sea and Yellow Sea alone, annual production can approach 30,000 metric tons.
 
@@ -34,7 +34,7 @@ The success and growth of the project were due, in part, to the collaborative fo
 
 **“We couldn’t have envisioned the enthusiasm and support for this work when this project began three years ago,” said Dick Jones, who has been working to improve seafood industry practices for decades. “Precompetitive industry collaboration is key to ensuring durable and positive change. This project demonstrates that message is catching on.”**
 
-[Learn more about the East China Sea and Yellow Sea Squid FIP] (/areas-of-focus/fishery-improvement-projects/east-china-sea-and-yellow-sea-squid/).
+[Learn more about the East China Sea and Yellow Sea Squid FIP] (/where-we-work/chinese-fisheries-seafood/east-china-sea-and-yellow-sea-squid/).
 
 ----
 
