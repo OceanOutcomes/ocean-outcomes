@@ -8,7 +8,7 @@ featured: FALSE
 ---
 ###Already on the map as the largest port for fresh long-line and pole-and-line tuna landings in Japan, Nachi Katsuura port in Wakayama prefecture is now home to Japan’s first tuna Fisheries Improvement Project (FIP). 
 
-The [Nachi Katsuura Longline Albacore Tuna FIP] (/areas-of-focus/fishery-improvement-projects/nachi-katsurra-albacore-longline/), launched today, comprises 10,000 metric tons of Albacore tuna caught in Japanese waters by fishing company No. 78 Kaiou Maru—tuna which will soon be more sustainably managed due to the efforts of the fishery and project collaborators Yamasa Wakiguchi Co. Ltd., Seiyu GK (a Japanese subsidiary of Walmart), Ocean Outcomes, and Seafood Legacy.  
+The [Nachi Katsuura Longline Albacore Tuna FIP] (/where-we-work/japanese-fisheries-seafood/nachi-katsurra-albacore-longline/), launched today, comprises 10,000 metric tons of Albacore tuna caught in Japanese waters by fishing company No. 78 Kaiou Maru—tuna which will soon be more sustainably managed due to the efforts of the fishery and project collaborators Yamasa Wakiguchi Co. Ltd., Seiyu GK (a Japanese subsidiary of Walmart), Ocean Outcomes, and Seafood Legacy.  
 
 >**“I’ve been fishing Albacore for over 40 years,” said Mr. Nishida, a fishing captain at No.78 Kaiou Maru, “and there’s undoubtedly been a decline in catch volumes over those years. This has led to fewer jobs in the industry, so we absolutely need to invest in sustainable tuna management so that the resource recovers and the fishery can continue to provide us benefits.”**
 
