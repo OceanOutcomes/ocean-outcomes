@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved
+title: Get Involved (We're Hiring!)
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -8,6 +8,12 @@ teaser-text: An estimated 3 billion people worldwide depend on seafood as their 
 weight: 5
 ---
 ##Career and volunteer opportunities
+
+> **Current job openings:**  
+> 
+> *Program Assistant*  
+> 
+> Help support, lead and deliver core organizational processes and platforms for Ocean Outcomes and its programs. O2 is hiring a Program Assistant to expand its core organizational capacity — supporting both the efficacy and efficiency of the organization as a whole while also contributing to the success of overlapping programmatic areas of work. We are seeking a motivated multitasker who is a detail-oriented, communicative, collaborative and enthusiastic learner to support and lead on a variety of projects and processes across Ocean Outcomes, ranging from communications to project management to administrative responsibilities. Sound interesting? [View the full job description and apply here.](https://apply.workable.com/ocean-outcomes/j/D6D0B49E18/)
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share.
 
