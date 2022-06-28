@@ -44,6 +44,7 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 ---
 ##Stories from the Field: Northeast Asia
 
+* [South Korea’s Largest Seafood Industry Players Come Together to Support Sustainable Tuna] (/news/korea-tuna-sustainability-industy-roundtable-meeting/)
 * [Leading Taiwanese Tuna Company Pursues Sustainability Status] (/news/leading-taiwanese-tuna-company-pursues-sustainability-status-release/)
 * [Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia] (/news/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release/)
 * [Songlin Wang Awarded Pew Fellowship to Support the Conservation of China’s Largest Eelgrass Habitat] (/news/songlin-wang-2021-pew-fellowship-award/)
