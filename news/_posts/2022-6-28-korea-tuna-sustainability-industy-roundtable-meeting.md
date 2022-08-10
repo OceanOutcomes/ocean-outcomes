@@ -32,3 +32,5 @@ In addition to the Korean companies participating in the roundtable, other key m
 **Additional Resources:**
 
 [Download a PDF of this announcement.] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Korean+Roundtable+Press+Release+28+June+2022.pdf)
+
+*<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Final+Joint+Statement+-+Korean+Roundtable+for+Sustainable+Tuna+Fishing+2022+KOR+%26+ENG.pdf" target="_blank">Read the complete joint statement from participating companies here.</a>*
