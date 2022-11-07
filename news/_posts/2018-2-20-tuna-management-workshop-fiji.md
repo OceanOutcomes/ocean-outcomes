@@ -24,8 +24,6 @@ The Nadi workshop, designed by Ocean Outcomes for the Common Oceans ABNJ Tuna Pr
 
 The Common Oceans ABNJ Tuna Project is funded by <a href="https://www.thegef.org/" target="_blank">Global Environment Facility</a> (GEF) and implemented by <a href="http://www.fao.org/home/en/" target="_blank">UN-FAO</a>. Additional funding for this workshop was provided by the SPC with support from the New Zealand Aid Programme. The project harnesses the efforts of a large and diverse array of partners including the five tuna regional fishery management organizations (RFMOs), governments, intergovernmental organizations, non-governmental organizations and private sector, with the aim of achieving responsible, efficient and sustainable tuna production and biodiversity conservation in the areas beyond national jurisdiction.
 
-<a href="http://www.fao.org/in-action/commonoceans/news/en/" target="_blank">See photos of the workshop, organizations involved, and workshop contacts on the Common Oceans website.</a>
-
 ----
 
 **Additional Resources:**
