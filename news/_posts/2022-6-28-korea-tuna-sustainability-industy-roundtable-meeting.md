@@ -4,7 +4,7 @@ title: South Korea’s Largest Seafood Industry Players Come Together to Support
 date: 2022-6-28
 teaser-text: New, annual roundtable in Seoul facilitated by Ocean Outcomes highlights Korean industry support for harvest strategies.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/korea-tuna-sustainability-industy-roundtable-meeting-hero.png
-featured: TRUE
+featured: FALSE
 ---
 ###New, annual roundtable in Seoul facilitated by Ocean Outcomes highlights Korean industry support for harvest strategies
 
