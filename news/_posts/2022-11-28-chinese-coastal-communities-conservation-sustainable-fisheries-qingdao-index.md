@@ -7,7 +7,7 @@ hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/ne
 featured: TRUE
 ---
 
-*We implement our work in China through close partnerships with a local NGO named Qingdao Marine Conservation Society (QMCS) — which was established with O2 support. This update from our partners at QMCS highlights the work we are doing on the ground to improve small-scale fisheries and conservation outcomes along the coastline of the Yellow Sea.*
+*We implement our work in China through close partnerships with a leading local NGO named Qingdao Marine Conservation Society (QMCS) — which was established with technical support from O2. This update from our partners at QMCS highlights the work we are doing on the ground to improve small-scale fisheries and conservation outcomes along the coastline of the Yellow Sea.*
 
 ###Project Overview
 
@@ -40,7 +40,7 @@ As part of the project and in close collaboration with the BBG, QMCS will system
 
 ###Project Achievements
 
-Since the launch of the project in April 2021, QMCS have helped the BBG to update their regulation framework and patrol log template. After distributing the revised log, a total of 100 patrols were taken by 10 fishing captains who are BBG members. Meanwhile, a dozen catch sampling analyses have been conducted and species composition documented, including species with both high and low economic value. Three training sessions, focusing respectively on the concept of sustainable fisheries, case studies on small-scale fisheries around the world, and sustainable supply chains of aquatic products, were held separately during the fishing moratorium and winter season with approximately 100 attendees. Professional photographers have made several visits to the Langya docks and neighboring villages to record and showcase local fishing culture and local small-scale fishing communities and the improvement work they are undertaking. 
+Since the launch of the project in April 2021, QMCS have helped the BBG to update their regulation framework and patrol log template. After distributing the revised log, a total of 100 patrols were taken by 10 fishing captains who are BBG members. Meanwhile, a dozen catch sampling analyses have been conducted and species composition documented, including species with both high and low economic value. Three training sessions, focusing respectively on the concept of sustainable fisheries, case studies on small-scale fisheries around the world, and sustainable supply chains of aquatic products, were held separately during the fishing moratorium and winter season with approximately 100 attendees. In August 2022, QMCS cooperated with Duke Kunshan University and provided guidance to the trainees of the Blue Pioneers Program for the field research at the project site. Professional photographers have made several visits to the Langya docks and neighboring villages to record and showcase local fishing culture and local small-scale fishing communities and the improvement work they are undertaking.
 
 ![Small-Scale Fisheries Coastal Communities China]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/langya-training-session-1.png)
@@ -51,16 +51,32 @@ Since the launch of the project in April 2021, QMCS have helped the BBG to updat
 *The second training session for fishers in January 2022, showcasing the practices of sustainable small-scale fisheries and some insightful cases around the world. © QMCS*
 
 ![Small-Scale Fisheries Coastal Communities China]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/langya-training-session-4.png)
+*Helping BBG members organize fishery documents and data. © QMCS*
+
+![Small-Scale Fisheries Coastal Communities China]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/langya-training-session-3.png)
-*The third training session for fishers in June 2022, addressing the sustainable supply chain of aquatic products. © QMCS*
+*Fishing community representative Mr. Liu Shujie presenting their patrol flag at the third training session for fishers in June 2022. © QMCS*
+
+![Small-Scale Fisheries Coastal Communities China]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/langya-training-session-5.png)
+*QMCS provides guidance to the trainees of the Blue Pioneers Program for field research. © QMCS*
 
 ###Future Work
 
-The project continues to progress as planned — in 2023, QMCS will continue analyzing catch composition and collecting fishery data. Relying on the summarized catch composition data as a baseline for future improvement, fishing gear improvement trials will be conducted to test the effectiveness and sustainable performance of different types of nets (e.g. changing the shape of the mesh from rhombus to square in order to improve size selectivity and reduce mortality of juveniles and small species.) Another themed training session will be held for local fishery stakeholders, with content adapted according to feedback from the previous sessions. Additionally, the QMCS team will work closely with the fishing community to conduct ecological, social and economic research, while recording their local culture through photography. 
+The project continues to progress as planned — in 2023, with fresh long-term support from funders including the Zhilan Foundation, the Oak Foundation, the Packard Foundation and Oceans Five, the joint team of BBG and QMCS will continue analyzing catch composition and collecting fishery data. Relying on the summarized catch composition data as a baseline for future improvement, fishing gear improvement trials will be conducted to test the effectiveness and sustainable performance of different types of nets (e.g. changing the shape of the mesh from rhombus to square in order to improve size selectivity and reduce mortality of juveniles and small species.) Another themed training session will be held for local fishery stakeholders, with content adapted according to feedback from the previous sessions. Additionally, the QMCS team will work closely with the fishing community to conduct ecological, social and economic research, while recording their local culture through photography. 
 
 ![Small-Scale Fisheries Coastal Communities China]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/langya-port-2.png)
 *Dockside monitoring of gear and catch will help to inform subsequent trial use of alternative, more sustainable gear types. © QMCS*
+
+![Small-Scale Fisheries Coastal Communities China]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/langya-port-3.png)
+*Preparation for fishing gear improvement trials. © QMCS*
+
+![Small-Scale Fisheries Coastal Communities China]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/langya-port-4.png)
+*Preparation for fishing gear improvement trials. © QMCS*
 
 ###IYAFA 2022 and Our Efforts in China
 
