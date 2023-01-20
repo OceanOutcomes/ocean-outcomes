@@ -160,7 +160,7 @@ DEPENDENCIES
   sass-globbing
 
 RUBY VERSION
-   ruby 2.3.8p459
+   ruby 2.4.10p364
 
 BUNDLED WITH
-   2.1.4
+   2.3.26

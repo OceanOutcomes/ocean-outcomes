@@ -9,7 +9,7 @@ sudo: false
 cache: bundler
 
 rvm:
-- 2.3.8
+- 2.4.10
 before_install:
 - gem install bundler
 before_script:
