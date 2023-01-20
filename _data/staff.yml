@@ -5,6 +5,14 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Perry_staffphoto.png
   bio: |
     A founding member of Ocean Outcomes, Perry has primary responsibility for O2’s internet technology, systems, internal project management workflows, communication strategies, websites and brand. This includes; creating and managing systems for facilitating collaboration, communication and information gathering among a diverse group of team members and fishery stakeholders and; facilitating the translation of technical information into effective communications collateral to drive interest and investment in sustainable fisheries. Drawing on 20 plus years of experience as an Alaskan commercial fisherman, he is a regular contributor to O2’s strategy. In addition, he serves the greater sustainable seafood movement as a Sustainability Advisor to Sea Pact and the Chair of the Global Ghost Gear Initiative’s Solutions Working Group. Prior to O2, he worked for Apple and Wild Salmon Center, giving him unique, creative, and customer-facing experience with both corporate tech industry clients and conservation constituencies. Staying true to his roots, he continues to work in his family’s commercial fishing operation in Bristol Bay, Alaska each summer.
+    
+- name: Ho-Tu Chiang
+  contractor: false
+  title: Asia Fishery Improvement Manager
+  email:
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Hotu_staffphoto.png
+  bio: |
+    Ho-Tu supports and leads the development and implementation of Ocean Outcomes’ fishery improvement projects in Taiwan, including the research as well as technical support for those projects. This includes engaging with the region’s commercial tuna fisheries and NGOs, and coordinating project work plans and stakeholder convenings. Ho-Tu has over six years of strategic and on the water experience in international affairs and monitoring, control, and surveillance , having worked in the Coast Guard for the Taiwanese government. In addition, he has also supported fishery conferences and workshops working with the Fishery Agency, Council of Agriculture and other stakeholders in Taiwan. With a passion for fishery protection and management, Ho-Tu holds a B.Sc from the Department of Maritime Police, Central Police University and an M.A. in International Crime and Justice from John Jay College of Criminal Justice, the City University of New York in the United States. Ho-Tu enjoys hiking, functional fitness, and photography.
 
 - name: Jocelyn Drugan, PhD
   contractor: false
@@ -76,7 +84,7 @@
   email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Nicole_staffphoto.png
   bio: |
-    Nicole is responsible for O2’s operations and financial activities. Having served O2 for a few years as Finance and Business Development Manager, she also brings additional years of program management experience with Wildlife Conservation Society and Panthera. In addition, she is a successful entrepreneur and small business owner, having established two retail roller skate shops from the ground up. Nicole is a world renowned roller derby athlete and seven time world champion. She previously volunteered with the national governing body and currently serves on the Board of Directors for USA Roller Derby and her local Neighborhood Association. Nicole holds a B.Sc. from SUNY College of Environmental Science and Forestry. She enjoys advocating for social and environmental justice, traveling internationally, backpacking, and tending to her small urban farm.
+    Nicole has over 10 years of entrepreneurial and small business ownership experience having established retail roller skate shops in Brooklyn, NY and Portland, OR. She also brings years of program management experience from the Wildlife Conservation Society and Panthera. Nicole is a world renowned roller derby athlete and eight time world champion. She previously volunteered with the national roller derby governing body and currently serves on the Board of Directors for USA Roller Derby. Nicole is an advocate for social and environmental justice and helps lead O2 in its internal DEI work. Nicole holds a B.Sc. from SUNY College of Environmental Science and Forestry. She is active in community organizing and mutual aid, and helps community cats in the Portland area through TNR. She enjoys fostering animals, backpacking, and tending the land on her small urban farm.
   
 - name: Jada Tullos Anderson
   contractor: True
@@ -85,14 +93,6 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/jadastaffphoto.jpg
   bio: |
     Jada specializes in projects integrating market-based solutions into sustainable development. A graduate of Texas A&M and the Nicholas School of the Environment at Duke University, she has been employed by Fortune 500 companies, environmental consulting groups, as well as local and international nonprofits. She has worked with organizations like the Overseas Private Investment Corporation, providing input on environmental risks of investments, and with Kiva, giving strategic recommendations to partners as well as performing field audits of microfinance groups. As part of the Wilderness Markets team for the past six years, she led research and provided recommendations for fishery value chain development in more than a dozen fisheries in seven countries. She is part of the team leading the initiative to develop, refine and scale triple-impact fishery improvement models.
-
-- name: Lucy Bernard
-  contractor: true
-  title: Founder and Senior Advisor, Finance and Organizational Management
-  email:
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/lucystaffphoto.jpg
-  bio: |
-    Lucy has more than 25 years of experience with organizational development, management, fundraising, and fostering social, economic and environmental change. One of the three founders of O2, she was the financial and operational architect of its establishment. She provided key organizational leadership, fundraising and management, ensured an efficient and effective financial and operational platform, and led organizational effectiveness/development initiatives. She continues to support O2 as a Strategic Advisor. Prior to O2, she spent a decade with Wild Salmon Center, as the Director of Grant Programs and then as Deputy Director for State of the Salmon, developing the foundation for what would become O2. Over the years Lucy has collaborated with a number of outstanding organizations and community leaders to develop and fund innovative projects to address environmental, social and economic challenges, including facilitating the founding of the National Day Laborer Organizing Network. She is a graduate of Cornell University.
     
 - name: Hoyt Peckham, PhD
   contractor: true
