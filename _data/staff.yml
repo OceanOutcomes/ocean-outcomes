@@ -85,14 +85,6 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Nicole_staffphoto.png
   bio: |
     Nicole has over 10 years of entrepreneurial and small business ownership experience having established retail roller skate shops in Brooklyn, NY and Portland, OR. She also brings years of program management experience from the Wildlife Conservation Society and Panthera. Nicole is a world renowned roller derby athlete and eight time world champion. She previously volunteered with the national roller derby governing body and currently serves on the Board of Directors for USA Roller Derby. Nicole is an advocate for social and environmental justice and helps lead O2 in its internal DEI work. Nicole holds a B.Sc. from SUNY College of Environmental Science and Forestry. She is active in community organizing and mutual aid, and helps community cats in the Portland area through TNR. She enjoys fostering animals, backpacking, and tending the land on her small urban farm.
-
-- name: Mark Weeks
-  contractor: True
-  title: Orrick, Herrington & Sutcliffe LLP
-  email:
-  image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/markbiophoto.jpg
-  bio: |
-    Mark Weeks is a Senior Counsel in Orrick’s M&A and Private Equity Group. He has practiced in New York and Tokyo for more than 30 years and served as the Managing Partner of the Tokyo office, co-leader of the Global Japan Practice and a member of Orrick's Finance & Audit Committee and Asian Management Board from 2007 to 2017. Mark speaks, reads and writes fluent Japanese. Born in Alaska and raised in Idaho, Mark has been an avid fly angler since childhood. One of his passions is fly fishing for the world’s largest salmonid, taimen in Mongolia and Russia. He has also fished for its searun cousin, Itou, in Japan. Mark serves on the Board of The Taimen Fund, which works to protect taimen and taimen habitat in Mongolia, and represents the Wild Salmon Center in connection with its efforts to protect sea run taimen in Japan’s Sarufutsu River and taimen in the Russian Far East. In 2009, Mark assisted with the preparation and negotiation of a groundbreaking agreement to create the 2,660 hectare Sarufutsu Environmental Conservation Forest that protects the entire Sarufutsu River.
     
 - name: Jada Tullos Anderson
   contractor: True
@@ -117,3 +109,11 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/songlinstaffphoto.jpg
   bio: |
     Songlin is a professional and strategic leader in the field of seafood sustainability and marine conservation in China. His career includes work for Ocean Outcomes, The Nature Conservancy, Worldwide Fund for Nature-WWF, and The Paulson Institute, among others. He has planned, led, and coordinated a number of large scale sustainable fisheries and aquaculture projects and wetlands conservation projects. His efforts helped guide the first Marine Stewardship Council (MSC) certification of a Chinese fishery and created enabling conditions for the first two Chinese fish farms to be certified by the Aquaculture Stewardship Council (ASC). Songlin established O2’s China Program in late 2015, Tao Ran Environmental Science and Technology Co. Ltd (Tao Ran) in 2016, and Qingdao Marine Conservation Society (QMCS) in 2017. Trained first as a marine ecologist at the Ocean University of China, and then an environmental manager at Yale, Songlin excels at exploring conservation solutions from political, market, and scientific angles. He is fluent in Mandarin and English and in his spare time enjoys reading, traveling, sports, and keeping ornamental freshwater fish.
+    
+    - name: Mark Weeks
+  contractor: True
+  title: Orrick, Herrington & Sutcliffe LLP
+  email:
+  image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/markbiophoto.jpg
+  bio: |
+    Mark Weeks is a Senior Counsel in Orrick’s M&A and Private Equity Group. He has practiced in New York and Tokyo for more than 30 years and served as the Managing Partner of the Tokyo office, co-leader of the Global Japan Practice and a member of Orrick's Finance & Audit Committee and Asian Management Board from 2007 to 2017. Mark speaks, reads and writes fluent Japanese. Born in Alaska and raised in Idaho, Mark has been an avid fly angler since childhood. One of his passions is fly fishing for the world’s largest salmonid, taimen in Mongolia and Russia. He has also fished for its searun cousin, Itou, in Japan. Mark serves on the Board of The Taimen Fund, which works to protect taimen and taimen habitat in Mongolia, and represents the Wild Salmon Center in connection with its efforts to protect sea run taimen in Japan’s Sarufutsu River and taimen in the Russian Far East. In 2009, Mark assisted with the preparation and negotiation of a groundbreaking agreement to create the 2,660 hectare Sarufutsu Environmental Conservation Forest that protects the entire Sarufutsu River.
