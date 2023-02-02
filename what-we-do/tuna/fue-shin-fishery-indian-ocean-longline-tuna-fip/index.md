@@ -8,7 +8,7 @@ teaser-text:
 ---
 <h2>Overview</h2>
 
-SUMMARY PARAGRAPH
+SUMMARY PARAGRAPH TEST
 
 ---
 
