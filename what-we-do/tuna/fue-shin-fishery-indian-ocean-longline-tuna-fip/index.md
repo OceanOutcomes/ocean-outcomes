@@ -15,7 +15,7 @@ SUMMARY PARAGRAPH
 ##What We're Doing:
 
 * Convening fishery stakeholders to generate support, participation, and funding, including matching funds and in-kind contributions, for improvement efforts.
-* Reviewing and updating a 2018 pre-assessment of the fishery to identify priority environmental challenges, including a lack of information about fishery interactions with endangered, threatened, or protected (ETP) species.
+* Reviewing and updating a 2018 pre-assessment of the fishery to identify priority environmental challenges, including a lack of information about fishery interactions with endangered, threatened, or protected (ETP) species. TEST
 * Developing and implementing a FIP workplan to address the concerns found during the pre-assessment and pre-assessment update.
 * Expanding coverage electronically to participating FIP vessels which will support effective fisheries management practices through better data collection, to be used to monitor fisheries, assess fish populations, and inform science-based management for target, bycatch and threatened species at the regional level.
 
