@@ -2,7 +2,7 @@
 layout: page 
 title: Fue Shin Fishery Pacific Ocean Longline Tuna FIP
 landing-image:
-hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/FSF+FIP+vessels+image+1.png
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/FSF+FIP+vessels+image+1.png
 weight: 
 teaser-text:
 ---
