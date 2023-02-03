@@ -1,35 +1,32 @@
 ---
 layout: page 
 title: Fue Shin Fishery Indian Ocean Longline Tuna FIP
-landing-image:
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/indian-ocean-longline-albacore-hero.jpg
-weight: 
-teaser-text:
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/FSF+FIP+vessels+image+4.png 
+
 ---
 <h2>Overview</h2>
 
-SUMMARY PARAGRAPH TEST
+The Fue Shin Fishery Indian Ocean Longline Tuna FIP aims to improve fishery management strategies, environmental oversight, and fishing practices on participating Taiwanese longline tuna fishing vessels, so that Fue Shin Fishery, Ltd. is able to achieve Marine Steward Council certification by the middle of 2028. The FIP targets Indian Ocean albacore, bigeye, yellowfin, and skipjack tunas. While Indian Ocean skipjack and albacore are generally considered to have healthy stock status, there are significant concerns about the stock status of yellowfin and bigeye tuna. All stocks lack robust precautionary harvest strategies and the tools to limit the risk of overfishing. Additionally, observer coverage is not consistent across Chinese-flagged vessels, and the main regional management framework (the Indian Ocean Tuna Commission) has not been very effective at implementing measures for achieving environmental sustainability outcomes. Along with significant environmental impacts from longline fishing that need to be considered and then addressed, there are also opportunities to improve worker conditions and labor practices through the FIP. This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help lead improvement projects and certification in the longline tuna fishing sector. This FIP is one of two projects between FSF and O2 focused on longline tuna sustainability; [the other is for longline tuna vessels in the Pacific Ocean] (what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/).
 
 ---
 
 ##What We're Doing:
 
-* Convening fishery stakeholders to generate support, participation, and funding, including matching funds and in-kind contributions, for improvement efforts.
-* Reviewing and updating a 2018 pre-assessment of the fishery to identify priority environmental challenges, including a lack of information about fishery interactions with endangered, threatened, or protected (ETP) species. TEST TEST TEST
-* Developing and implementing a FIP workplan to address the concerns found during the pre-assessment and pre-assessment update.
-* Expanding coverage electronically to participating FIP vessels which will support effective fisheries management practices through better data collection, to be used to monitor fisheries, assess fish populations, and inform science-based management for target, bycatch and threatened species at the regional level.
+* Contributing to a strategy, timeline and process to rebuild yellowfin and bigeye tuna stocks targeted in the FIP, including working to define and implement robust, well-managed precautionary harvest strategies and harvest control rules and tools for all four tuna species.
+* Ensuring the fishery improves the quality, verification and provision of its catch data and interactions with endangered, protected and threatened species. This is to ultimately support the science and management decision at the WCPFC and IATTC and quantify the fishery’s impact.
+* Undertook initial fact finding to understand current gaps and shortcomings in fishery management and current fishing practice.
+* Conducted an MSC pre-assessment and development of a FIP work plan to address deficiencies identified in the pre-assessment, which we are helping FSF to implement.
+* Assessing social conditions in the fishery against globally recognized best practices and integrating opportunities to address social risk into improvement processes.
+* Tracking project progress transparently on FisheryProgress.org.
 
 ---
 
 ##Project News and Additional Resources:
 
-* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/IO+BB+FCF+Albacore+Pre-assessment+2017.pdf" target="_blank">MSC Pre-Assessment Report for Bumble Bee and FCF Mauritius, Madagascar and High
-Seas Albacore Longline Fishery</a>
-* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+BB+IO+FIP+Scoping+Document.pdf" target="_blank">Scoping Document and Initial Workplan: Indian Ocean Albacore Tuna Longline Fishery Improvement Project</a>
+* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/IO+Work+Plan.pdf" target="_blank">FSF Indian Ocean Tuna FIP Work Plan</a>
+* <a href=" " target="blank">FSF Indian Ocean Tuna FIP Pre-assessment</a>
+* [Leading Taiwanese Tuna Company Pursues Sustainability Status] (/news/leading-taiwanese-tuna-company-pursues-sustainability-status-release/)
 * [Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia] (/news/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release/)
-* [Training Tuna Vessel Owners on Best Practices in Fiji and Taiwan] (/news/tuna-longline-workshop-training-bumble-bee-fcf/)
-* [New Fishery Improvement Project Launched to Address Sustainability Gap in Indian Ocean Tuna Fisheries] (/news/bumble-bee-fcf-O2-indian-ocean-tuna-FIP-launch-release/)
-* [Bumble Bee Foods and FCF Partner with Ocean Outcomes to Improve Longline Tuna Fisheries] (/news/bumble-bee-fcf-O2-albacore-tuna-project-announcement/)
 
 ---
 
@@ -37,15 +34,15 @@ Seas Albacore Longline Fishery</a>
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/indian-ocean-albacore-tuna-longline-bumble-beefcf">tracked fully on FisheryProgress.org</a>) |
-| Project Launch: | January 2019 |
+| FIP Status: | Comprehensive FIP (<a href=" " target="_blank">tracked fully on FisheryProgress.org</a>) |
+| Project Launch: | February 2023 |
 | Location: | Indian Ocean |
-| Participants: | Ocean Outcomes, Key Traceability, Bumble Bee Foods, LLC, FCF Fishery Company, Ltd. |
-| Species: | Albacore tuna (*Thunnus alalunga*) |
-| Gear Type: | Longline |
-| Volume: | 6,000 metric tons |
-| Documents: | <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/IO+BB+FCF+Albacore+Pre-assessment+2017.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+BB+IO+FIP+Scoping+Document.pdf" target="_blank">Scoping Document</a> / <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+BB+IO+FIP+Workplan+Nov19+for+fp.org.pdf" target="_blank">Workplan</a> |
+| Participants: | Ocean Outcomes, Fue Shin Fishery, Ltd. |
+| Species: | Albacore (*Thunnus alalunga*) Bigeye (*T. obesus*), Yellowfin (*T. albacares*), and Skipjack (*Katsuwonus pelamis*) |
+| Gear Type: | Pelagic Longline |
+| Volume: | 1,600 metric tons |
+| Documents: | 
 
 ---
 
-<a href="https://fisheryprogress.org/fip-profile/indian-ocean-albacore-tuna-longline-bumble-beefcf" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Indian Ocean Albacore Tuna Longline FIP profile here.**</a>
+<a href="" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Fue Shin Fishery Indian Ocean Longline Tuna FIP profile here.**</a>
