@@ -39,7 +39,7 @@ At Ocean Outcomes, we work to address the full range of systemic fishery challen
 ----
 
 **<a href="https://abalobi.org" target="_blank">Learn more about Abalobi by visiting their website.</a>** 
-![Learn more about our triple impact fisheries improvement work here.](https://oceanoutcomes.org/what-we-do/services/triple-impact-improvement/)
-![Explore more of our small-scale fishery success stories and case studies.](https://oceanoutcomes.org/what-we-do/small-scale-fisheries/)
+* [Learn more about our triple impact fisheries improvement work here.] (/what-we-do/services/triple-impact-improvement/)
+* [Explore more of our small-scale fishery success stories and case studies.] (/what-we-do/small-scale-fisheries/)
 
   
