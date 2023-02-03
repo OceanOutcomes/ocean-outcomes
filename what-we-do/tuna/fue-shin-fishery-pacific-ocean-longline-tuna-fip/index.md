@@ -43,7 +43,7 @@ Launched in April 2020, the Fue Shin Fishery Pacific Ocean Longline Tuna FIP aim
 | Species: | Albacore (*Thunnus alalunga*),Bigeye (*T. obesus*), Yellowfin (*T. albacares*), and Skipjack (*Katsuwonus pelamis*) |
 | Gear Type: | Pelagic Longline |
 | Volume: | 2,541 metric tons |
-| Documents: | (<a href=" ">Pre-assessment/Workplan</a>) |
+| Documents: | <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/PO+Action+Plan.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/PO+Work+Plan.pdf">Workplan</a> |
 
 ---
 
