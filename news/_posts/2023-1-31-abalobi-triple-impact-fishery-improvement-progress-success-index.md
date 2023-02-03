@@ -34,12 +34,12 @@ Thank you to Juno Fitzpatrick, Elena Finkbeiner, Jocelyn Drugan, Jada Tullos And
 – Serge Raemaekers, MD & Founder, Abalobi 
 
 
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Abalobi-Struisbaai_image1.jpg)
+![Struisbaai Longline Fishery in South Africa](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Abalobi-Struisbaai_image1.jpg)
 
 ----
 
 **<a href="https://abalobi.org" target="_blank">Learn more about Abalobi by visiting their website.</a>** 
-![Learn more about our triple impact fisheries improvement work here.] (https://oceanoutcomes.org/what-we-do/services/triple-impact-improvement/)
-![Explore more of our small-scale fishery success stories and case studies.] (https://oceanoutcomes.org/what-we-do/small-scale-fisheries/)
+![Learn more about our triple impact fisheries improvement work here.](https://oceanoutcomes.org/what-we-do/services/triple-impact-improvement/)
+![Explore more of our small-scale fishery success stories and case studies.](https://oceanoutcomes.org/what-we-do/small-scale-fisheries/)
 
   
