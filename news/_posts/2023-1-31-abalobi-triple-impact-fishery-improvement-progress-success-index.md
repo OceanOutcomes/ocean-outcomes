@@ -3,7 +3,7 @@ layout: news
 title: Abalobi Triple Impact Fishery Improvement Project Success
 date: 2023-1-31
 teaser-text: Triple Impact Approach has successful results at the Struisbaai Linefishery in South Africa.
-hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Abalobi_struisbaai_FIP_heroimage.jpg
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Abalobi_struisbaai_FIP_heroimage.jpg
 featured: TRUE
 ---
 
