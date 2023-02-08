@@ -3,11 +3,17 @@ layout: news
 title: Abalobi Triple Impact Fishery Improvement Project Success
 date: 2023-1-31
 teaser-text: Triple Impact Approach has successful results at the Struisbaai Linefishery in South Africa.
-hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Abalobi_struisbaai_FIP_heroimage.jpg
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/abalobi+hero.png
 featured: TRUE
 ---
 
-At Ocean Outcomes, we work to address the full range of systemic fishery challenges by implementing our Triple Impact Approach, a multi-level process that integrates the three dimensions of sustainability and improvement: environmental, social, and economic. We are pleased to share that this approach recently resulted in great success at the Struisbaai Linefishery in South Africa, where fishing communities often struggle to manage their finances and obtain fair prices for their catches. The purpose of this FIP was to build a foundation to address overfishing and the development of a community enterprise founded on social justice: articulating economic, social and environmental areas of concern and opportunity. The work began in 2019, when O2 joined Abalobi, Struisbaai Traditional Linefishers Association, and Conservation International in an effort to better understand Struisbaai Linefishery’s environmental, social, and financial dimensions. Below is a summary of the project’s lasting impacts, from our friends at Abalobi:
+##At Ocean Outcomes, we work to address the full range of systemic fishery challenges by implementing our Triple Impact Approach, a multi-level process that integrates the three dimensions of sustainability and improvement: environmental, social, and economic.  
+
+We are pleased to share that this approach recently resulted in great success at the Struisbaai Linefishery in South Africa, where fishing communities often struggle to manage their finances and obtain fair prices for their catches. The purpose of this FIP was to build a foundation to address overfishing and the development of a community enterprise founded on social justice: articulating economic, social and environmental areas of concern and opportunity.  
+
+The work began in 2019, when O2 joined Abalobi, Struisbaai Traditional Linefishers Association, and Conservation International in an effort to better understand Struisbaai Linefishery’s environmental, social, and financial dimensions.  
+
+##Below is a summary of the project’s lasting impacts, from our friends at Abalobi:
 
 *“A world first for ABALOBI! Our Community-Level Fisheries Improvement Project (C-FIP) in the Struisbaai Traditional Linefishery in South Africa just became the first globally recognised FIP to fully integrate ecological, economic and social responsibility!*  
 
@@ -34,7 +40,7 @@ At Ocean Outcomes, we work to address the full range of systemic fishery challen
 – Serge Raemaekers, MD & Founder, Abalobi 
 
 
-![Struisbaai Longline Fishery in South Africa](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Abalobi-Struisbaai_image1.jpg)
+![Struisbaai Longline Fishery in South Africa](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Abalobi-Struisbaai_image1100.png)*Participant in Struisbaii Longline FIP*
 
 ----
 
