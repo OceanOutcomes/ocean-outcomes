@@ -40,7 +40,7 @@ The work began in 2019, when O2 joined Abalobi, Struisbaai Traditional Linefishe
 – Serge Raemaekers, MD & Founder, Abalobi 
 
 
-![Struisbaai Longline Fishery in South Africa](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Abalobi-Struisbaai_image1100.png)*Participant in Struisbaii Longline FIP*
+![Struisbaai Longline Fishery in South Africa](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Struisbaai_image1100-Recovered.png)*Participant in Struisbaii Longline FIP*
 
 ----
 
