@@ -6,7 +6,9 @@ hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/he
 ---
 <h2>Overview</h2>
 
-The Fue Shin Fishery Indian Ocean Longline Tuna FIP aims to improve fishery management strategies, environmental oversight, and fishing practices on participating Taiwanese longline tuna fishing vessels, so that Fue Shin Fishery, Ltd. is able to achieve Marine Steward Council certification by the middle of 2028. The FIP targets Indian Ocean albacore, bigeye, yellowfin, and skipjack tunas. While Indian Ocean skipjack and albacore are generally considered to have healthy stock status, there are significant concerns about the stock status of yellowfin and bigeye tuna. All stocks lack robust precautionary harvest strategies and the tools to limit the risk of overfishing. Additionally, observer coverage is not consistent across Chinese-flagged vessels, and the main regional management framework (the Indian Ocean Tuna Commission) has not been very effective at implementing measures for achieving environmental sustainability outcomes. Along with significant environmental impacts from longline fishing that need to be considered and then addressed, there are also opportunities to improve worker conditions and labor practices through the FIP. This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help lead improvement projects and certification in the longline tuna fishing sector. This FIP is one of two projects between FSF and O2 focused on longline tuna sustainability; [the other is for longline tuna vessels in the Pacific Ocean] (what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/).
+The Fue Shin Fishery Indian Ocean Longline Tuna FIP aims to improve fishery management strategies, environmental oversight, and fishing practices on participating Taiwanese longline tuna fishing vessels, so that Fue Shin Fishery, Ltd. is able to achieve Marine Steward Council certification by the middle of 2028. The FIP targets Indian Ocean albacore, bigeye, yellowfin, and skipjack tunas. While Indian Ocean skipjack and albacore are generally considered to have healthy stock status, there are significant concerns about the stock status of yellowfin and bigeye tuna. All stocks lack robust precautionary harvest strategies and the tools to limit the risk of overfishing. Additionally, observer coverage is not consistent across Chinese-flagged vessels, and the main regional management framework (the Indian Ocean Tuna Commission) has not been very effective at implementing measures for achieving environmental sustainability outcomes. Along with significant environmental impacts from longline fishing that need to be considered and then addressed, there are also opportunities to improve worker conditions and labor practices through the FIP. This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help lead improvement projects and certification in the longline tuna fishing sector.  
+
+This FIP is one of two projects between FSF and O2 focused on longline tuna sustainability; [the other is for longline tuna vessels in the Pacific Ocean] (what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/).
 
 ---
 
@@ -24,7 +26,7 @@ The Fue Shin Fishery Indian Ocean Longline Tuna FIP aims to improve fishery mana
 ##Project News and Additional Resources:
 
 * <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/IO+Work+Plan.pdf" target="_blank">FSF Indian Ocean Tuna FIP Work Plan</a>
-* <a href=" " target="blank">FSF Indian Ocean Tuna FIP Pre-assessment</a>
+* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Formatted+FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+Dec22.pdf" target="blank">FSF Indian Ocean Tuna FIP Pre-assessment</a>
 * [Leading Taiwanese Tuna Company Pursues Sustainability Status] (/news/leading-taiwanese-tuna-company-pursues-sustainability-status-release/)
 * [Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia] (/news/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release/)
 
@@ -41,7 +43,7 @@ The Fue Shin Fishery Indian Ocean Longline Tuna FIP aims to improve fishery mana
 | Species: | Albacore (*Thunnus alalunga*) Bigeye (*T. obesus*), Yellowfin (*T. albacares*), and Skipjack (*Katsuwonus pelamis*) |
 | Gear Type: | Pelagic Longline |
 | Volume: | 1,600 metric tons |
-| Documents: | 
+| Documents: | <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Formatted+FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+Dec22.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Workplan+of+the+Indian+Ocean+LL+Tuna+(Fue+Shin)+Fishery+Dec+22.pdf" target="_blank">Workplan</a> |
 
 ---
 
