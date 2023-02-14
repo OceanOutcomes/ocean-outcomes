@@ -1,6 +1,6 @@
 ---
 layout: news
-title: ABALOBI Celebrates Positive Change in South Africa’s Small-scale Fisheries
+title: ABALOBI Celebrates Positive Change in South Africa’s Small-Scale Fisheries
 date: 2023-1-31
 teaser-text: Socio-economic and environmental initiatives we are supporting in South Africa are producing positive outcomes for small-scale fishers involved in the Struisbaai Yellowtail Traditional Linefishery.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/abalobi1100hero.png
