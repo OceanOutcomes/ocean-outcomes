@@ -6,9 +6,9 @@ hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/he
 ---
 <h2>Overview</h2>
 
-The Fue Shin Fishery Indian Ocean Longline Tuna FIP aims to improve fishery management strategies, environmental oversight, and fishing practices on participating Taiwanese longline tuna fishing vessels, so that Fue Shin Fishery, Ltd. is able to achieve Marine Steward Council certification by the middle of 2028. The FIP targets Indian Ocean albacore, bigeye, yellowfin, and skipjack tunas. While Indian Ocean skipjack and albacore are generally considered to have healthy stock status, there are significant concerns about the stock status of yellowfin and bigeye tuna. All stocks lack robust precautionary harvest strategies and the tools to limit the risk of overfishing. Additionally, observer coverage is not consistent across Chinese-flagged vessels, and the main regional management framework (the Indian Ocean Tuna Commission) has not been very effective at implementing measures for achieving environmental sustainability outcomes. Along with significant environmental impacts from longline fishing that need to be considered and then addressed, there are also opportunities to improve worker conditions and labor practices through the FIP. This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help lead improvement projects and certification in the longline tuna fishing sector.  
+The Fue Shin Fishery Indian Ocean Longline Tuna FIP aims to improve fishery management strategies, environmental oversight, and fishing practices on participating Taiwanese longline tuna fishing vessels, so that Fue Shin Fishery, Ltd. is able to achieve Marine Steward Council certification by the middle of 2028. The FIP targets Indian Ocean albacore, bigeye, yellowfin, and skipjack tunas. While Indian Ocean skipjack and albacore are generally considered to have healthy stock status, there are significant concerns about the stock status of yellowfin and bigeye tuna. All stocks lack robust precautionary harvest strategies and the tools to limit the risk of overfishing. Additionally, observer coverage is not consistent across Chinese-flagged vessels, and the main regional management framework (the Indian Ocean Tuna Commission) has not been very effective at implementing measures for achieving environmental sustainability outcomes. Along with significant environmental impacts from longline fishing that need to be considered and then addressed, there are also opportunities to improve worker conditions and labor practices through the FIP.
 
-This FIP is one of two projects between FSF and O2 focused on longline tuna sustainability; [the other is for longline tuna vessels in the Pacific Ocean] (what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/).
+This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help lead improvement projects and certification in the longline tuna fishing sector. This FIP is one of two projects between FSF and O2 focused on longline tuna sustainability — [the other is for longline tuna vessels in the Pacific Ocean.] (what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/)
 
 ---
 
@@ -17,15 +17,15 @@ This FIP is one of two projects between FSF and O2 focused on longline tuna sust
 * Contributing to a strategy, timeline and process to rebuild yellowfin and bigeye tuna stocks targeted in the FIP, including working to define and implement robust, well-managed precautionary harvest strategies and harvest control rules and tools for all four tuna species.
 * Ensuring the fishery improves the quality, verification and provision of its catch data and interactions with endangered, protected and threatened species. This is to ultimately support the science and management decision at the WCPFC and IATTC and quantify the fishery’s impact.
 * Undertook initial fact finding to understand current gaps and shortcomings in fishery management and current fishing practice.
-* Conducted an MSC pre-assessment and development of a FIP work plan to address deficiencies identified in the pre-assessment, which we are helping FSF to implement.
-* Assessing social conditions in the fishery against globally recognized best practices and integrating opportunities to address social risk into improvement processes.
+* Conducted a MSC pre-assessment and development of a FIP work plan to address deficiencies identified in the pre-assessment, which we are helping FSF to implement.
+* Assessing social risks in the fishery against globally recognized best practices and integrating opportunities to address human and labor rights in fishery improvement processes.
 * Tracking project progress transparently on FisheryProgress.org.
 
 ---
 
 ##Project News and Additional Resources:
 
-* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/IO+Work+Plan.pdf" target="_blank">FSF Indian Ocean Tuna FIP Work Plan</a>
+* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/IO+Work+Plan.pdf" target="_blank">Work Plan of the Indian Ocean LL Tuna (Fue Shin) Fishery</a>
 * <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Formatted+FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+Dec22.pdf" target="blank">FSF Indian Ocean Tuna FIP Pre-assessment</a>
 * [Leading Taiwanese Tuna Company Pursues Sustainability Status] (/news/leading-taiwanese-tuna-company-pursues-sustainability-status-release/)
 * [Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia] (/news/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release/)
@@ -43,7 +43,7 @@ This FIP is one of two projects between FSF and O2 focused on longline tuna sust
 | Species: | Albacore (*Thunnus alalunga*) Bigeye (*T. obesus*), Yellowfin (*T. albacares*), and Skipjack (*Katsuwonus pelamis*) |
 | Gear Type: | Pelagic Longline |
 | Volume: | 1,600 metric tons |
-| Documents: | <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Formatted+FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+Dec22.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Workplan+of+the+Indian+Ocean+LL+Tuna+(Fue+Shin)+Fishery+Dec+22.pdf" target="_blank">Workplan</a> |
+| Documents: | <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Formatted+FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+Dec22.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Workplan+of+the+Indian+Ocean+LL+Tuna+(Fue+Shin)+Fishery+Dec+22.pdf" target="_blank">Work plan</a> |
 
 ---
 
