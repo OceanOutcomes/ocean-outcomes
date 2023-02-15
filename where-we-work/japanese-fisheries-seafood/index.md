@@ -31,6 +31,8 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 ##Northeast Asian Fishery Fishery Improvement Projects:
 
 * [East China Sea and Yellow Sea Squid FIP] (/where-we-work/chinese-fisheries-seafood/east-china-sea-and-yellow-sea-squid/)
+* [Fue Shin Fishery Pacific Ocean Longline Tuna FIP] (/what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/)
+* [Fue Shin Fishery Indian Ocean Longline Tuna FIP] (/what-we-do/tuna/fue-shin-fishery-indian-ocean-longline-tuna-fip/)
 * [Fujian Zhangzhou Red Swimming Crab FIP] (/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/)
 * [Hiroshima Pacific Oyster FIP] (/where-we-work/japanese-fisheries-seafood/hiroshima-pacific-oyster/)
 * [Indian Ocean Albacore Tuna Longline FIP] (/what-we-do/tuna/indian-ocean-longline-albacore/)

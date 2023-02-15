@@ -37,6 +37,7 @@ Through our triple impact approach, international collaborations and local partn
 ---
 ##Stories from the Field: Small-Scale Fisheries
 
+* [ABALOBI Celebrates Positive Change in South Africa's Small-Scale Fisheries] (/news/abalobi-triple-impact-fishery-improvement-progress-success-index/)
 * [Chinese Coastal Communities Making Progress in Conservation Area Stewardship and Promoting Sustainable Fisheries] (/news/chinese-coastal-communities-conservation-sustainable-fisheries-qingdao-index/)
 * [Advancing Community Based Fishery Improvement Projects in Costa Rica] (/news/sustainable-fisheries-costa-rica-progress-highlights-index/)
 * [Official Launch of IYAFA 2022] (/news/international-year-of-fisheries-and-aquaculture-iyafa-launch/)
