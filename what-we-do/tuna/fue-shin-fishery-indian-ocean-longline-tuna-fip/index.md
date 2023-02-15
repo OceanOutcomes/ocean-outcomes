@@ -43,7 +43,7 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 | Species: | Albacore (*Thunnus alalunga*) Bigeye (*T. obesus*), Yellowfin (*T. albacares*), and Skipjack (*Katsuwonus pelamis*) |
 | Gear Type: | Pelagic Longline |
 | Volume: | 1,600 metric tons |
-| Documents: | <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Formatted+FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+Dec22.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Workplan+of+the+Indian+Ocean+LL+Tuna+(Fue+Shin)+Fishery+Dec+22.pdf" target="_blank">Work plan</a> |
+| Documents: | <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Formatted+FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+Dec22.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Workplan+of+the+Indian+Ocean+LL+Tuna+(Fue+Shin)+Fishery+Dec+22.pdf" target="_blank">Workplan</a> |
 
 ---
 
