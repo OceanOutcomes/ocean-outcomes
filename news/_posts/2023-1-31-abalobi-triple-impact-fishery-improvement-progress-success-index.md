@@ -17,29 +17,27 @@ The work began in 2019, when O2 joined ABALOBI, Struisbaai Traditional Linefishe
 
 ###Below is a summary of the project’s lasting impacts, from our friends at Abalobi:
 
-> A world first for ABALOBI! Our Community-Level Fisheries Improvement Project (C-FIP) in the Struisbaai Traditional Linefishery in South Africa just became the first globally recognised FIP to fully integrate ecological, economic and social responsibility!  
+> **A world first for ABALOBI! Our Community-Level Fisheries Improvement Project (C-FIP) in the Struisbaai Traditional Linefishery in South Africa just became the first globally recognised FIP to fully integrate ecological, economic and social responsibility!  
  
-> FIPs – born from growing global concern about unsustainable fishing practices – were first conceptualized as a means to bring multiple stakeholders together to incentivize a transition to more sustainable commercial fisheries.  
+> **FIPs – born from growing global concern about unsustainable fishing practices – were first conceptualized as a means to bring multiple stakeholders together to incentivize a transition to more sustainable commercial fisheries.  
 
-> While FIPs have had some positive benefits around the world, a major criticism has been that the heavily ecologically-weighted model disregards the critical human dimensions of fisheries. This is particularly true for small-scale fisheries.  
+> **While FIPs have had some positive benefits around the world, a major criticism has been that the heavily ecologically-weighted model disregards the critical human dimensions of fisheries. This is particularly true for small-scale fisheries.  
 
-> In 2020, we embarked on an ambitious journey to develop the first triple bottom line (TBL) Community-level FIP for the Struisbaai Yellowtail Traditional Linefishery.
-Working with partners, the Struisbaai Traditional Linefishers’ Association and broader community, Ocean Outcomes, and Conservation International, we spearheaded South Africa’s first C-FIP with the aim to address interlinked ecological, financial and social challenges in the fishery – through community-driven innovation.  
+> **In 2020, we embarked on an ambitious journey to develop the first triple bottom line (TBL) Community-level FIP for the Struisbaai Yellowtail Traditional Linefishery. Working with partners, the Struisbaai Traditional Linefishers’ Association and broader community, Ocean Outcomes, and Conservation International, we spearheaded South Africa’s first C-FIP with the aim to address interlinked ecological, financial and social challenges in the fishery – through community-driven innovation.  
 
-> The journey began in 2020 with a series of mapping and data-gathering exercises – one-on-one interviews, group workshops, surveys, analyses of ABALOBI data – to determine a fishery baseline risk score across TBL spheres. These scores were extensively panel-beaten with the fishers and broader community to ensure inclusion, and the risk profile was collectively agreed upon.  
+> **The journey began in 2020 with a series of mapping and data-gathering exercises – one-on-one interviews, group workshops, surveys, analyses of ABALOBI data – to determine a fishery baseline risk score across TBL spheres. These scores were extensively panel-beaten with the fishers and broader community to ensure inclusion, and the risk profile was collectively agreed upon.  
 
-> Key activities were identified to address the greatest risk aspects, spanning improved access to first-aid training and enhanced safety at sea for fishers, a tailored harvest strategy for increased catch sustainability, the exploration of export opportunities, and the fostering of constructive dialogue between the community and government/NGOs.  
+> **Key activities were identified to address the greatest risk aspects, spanning improved access to first-aid training and enhanced safety at sea for fishers, a tailored harvest strategy for increased catch sustainability, the exploration of export opportunities, and the fostering of constructive dialogue between the community and government/NGOs.  
 
-> The C-FIP was peer-reviewed and approved by FisheryProgress.org, the global home of FIPs across all fisheries, administered by FishChoice. The C-FIP has just been made public on the platform and we’re proud to represent the first fully integrated FIP!  
+> **The C-FIP was peer-reviewed and approved by FisheryProgress.org, the global home of FIPs across all fisheries, administered by FishChoice. The C-FIP has just been made public on the platform and we’re proud to represent the first fully integrated FIP!  
 
-> This is a major milestone for the small-scale fishers of Struisbaai who have meticulously co-designed and implemented their ABALOBI data collections through a Community Supported Fishery model over the last 5 years. Already, significant impact has been achieved in the household food security status of participating fisherwomen and men, with a simultaneous shift in fishing effort towards more ecologically resilient fish stocks.  
+> **This is a major milestone for the small-scale fishers of Struisbaai who have meticulously co-designed and implemented their ABALOBI data collections through a Community Supported Fishery model over the last 5 years. Already, significant impact has been achieved in the household food security status of participating fisherwomen and men, with a simultaneous shift in fishing effort towards more ecologically resilient fish stocks.  
 
-> It is immensely rewarding to see ABALOBI create the enabling environment for a genuine, participatory and holistic FIP this #IYAFA2022!  
+> **It is immensely rewarding to see ABALOBI create the enabling environment for a genuine, participatory and holistic FIP this #IYAFA2022!  
 
-> Thank you to Juno Fitzpatrick, Elena Finkbeiner, Jocelyn Drugan, Jada Tullos Anderson, Hoyt Peckham, and Bokamoso L. for all your input, and teammates Greg Duggan, Chris Kastern, and Stuart du Plessis for leading this crucial work."  
+> **Thank you to Juno Fitzpatrick, Elena Finkbeiner, Jocelyn Drugan, Jada Tullos Anderson, Hoyt Peckham, and Bokamoso L. for all your input, and teammates Greg Duggan, Chris Kastern, and Stuart du Plessis for leading this crucial work."  
 
-> – Serge Raemaekers, MD & Founder, Abalobi 
-
+> *– Serge Raemaekers, MD & Founder, Abalobi  
 
 ![Struisbaai Longline Fishery in South Africa](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Abalobi-Struisbaai_image100.png)*Participant in the Struisbaai Longline fishery. © Abalobi*
 
