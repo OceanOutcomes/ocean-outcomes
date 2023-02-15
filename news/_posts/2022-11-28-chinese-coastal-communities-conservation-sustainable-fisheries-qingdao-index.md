@@ -4,7 +4,7 @@ title: Chinese Coastal Communities Making Progress in Conservation Area Stewards
 date: 2022-11-28
 teaser-text: Small-scale fishing communities in Langya Township, Qingdao are working to responsibly co-manage inshore fisheries resources and to serve as potential indigenous stewards of community conserved marine areas.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/chinese-coastal-communities-conservation-sustainable-fisheries-qingdao-hero.png
-featured: TRUE
+featured: FALSE
 ---
 
 *We implement our work in China through close partnerships with a leading local NGO named Qingdao Marine Conservation Society (QMCS) — which was established with technical support from O2. This update from our partners at QMCS highlights the work we are doing on the ground to improve small-scale fisheries and conservation outcomes along the coastline of the Yellow Sea.*
