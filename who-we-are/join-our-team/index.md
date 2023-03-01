@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved
+title: Get Involved (We're Hiring!)
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -10,6 +10,12 @@ weight: 5
 ##Career and volunteer opportunities
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share.
+
+> **Current job openings:**  
+> 
+> *Program Assistant*  
+> 
+> Help support, lead and deliver core organizational processes and platforms for Ocean Outcomes and its programs. O2 is hiring a Program Assistant to expand its core organizational capacity — supporting both the efficacy and efficiency of the organization as a whole while also contributing to the success of overlapping programmatic areas of work. We are seeking a motivated multitasker who is a detail-oriented, communicative, collaborative and enthusiastic learner to support and lead on a variety of projects and processes across Ocean Outcomes — ranging from communications to project management to administrative responsibilities. The ideal candidate is passionate about sustainability, ocean conservation, fisheries, seafood, food systems and/or coastal communities. Someone who is motivated to join a dynamic, growing organization working globally, in a variety of contexts, and who wants to learn, try new things, take initiative and grow their career. The ideal candidate wants to be a supportive, contributing member to the Ocean Outcomes’ operations team, while also being able to work proactively, independently and in a self-directed manner. Sound interesting? [View the full job description and apply here.](https://apply.workable.com/ocean-outcomes/j/96FF232556/)
 
 -----
 ##Contribute to improving fisheries
