@@ -2,13 +2,13 @@
 layout: news
 title: Scaling Holistic and Human Rights-Centered Approaches to Small-Scale Fisheries Sustainability 
 date: 2023-3-3
-teaser-text: Conservation International, Ocean Outcomes and Wildlife Conservation Society fisheries announce a new partnership at Our Ocean Panama to inclusively and equitably elevate and improve small-scale fisheries in three dozen countries.
+teaser-text: Conservation International, Ocean Outcomes and Wildlife Conservation Society announce a new partnership at Our Ocean Panama to inclusively and equitably elevate and improve small-scale fisheries in three dozen countries.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/news-analysis-hero-placeholder.png
 featured: TRUE
 ---
-###Inclusively and equitably elevate and improve small-scale fisheries in three dozen countries
+###A new parntership to inclusively and equitably elevate and improve small-scale fisheries in three dozen countries
 
-**Panama City, Panama – March 3, 2023** — Three international organizations working in small-scale fisheries have come together to announce a new partnership to inclusively and equitably elevate and improve small-scale fisheries. The new partnership will combine the small-scale fisheries portfolios of Conservation International (CI), Ocean Outcomes (O2) and Wildlife Conservation Society (WCS) and will work to advance social, economic and environmental outcomes in those fisheries — in partnership with local fishery stakeholders and in line with the Voluntary Guidelines for Securing Sustainable Small-Scale Fisheries in the Context of Food Security and Poverty Eradication ([SSF Guidelines] (https://www.fao.org/voluntary-guidelines-small-scale-fisheries/en/)).
+**Panama City, Panama – March 3, 2023** — Three international organizations working in small-scale fisheries have come together to announce a new partnership to inclusively and equitably elevate and improve small-scale fisheries. The new partnership will combine the small-scale fisheries portfolios of Conservation International (CI), Ocean Outcomes (O2) and Wildlife Conservation Society (WCS) and will work to advance social, economic and environmental outcomes in those fisheries — in partnership with local fishery stakeholders and in line with the Voluntary Guidelines for Securing Sustainable Small-Scale Fisheries in the Context of Food Security and Poverty Eradication (<a href="https://www.fao.org/voluntary-guidelines-small-scale-fisheries/en/" target="_blank">SSF Guidelines</a>).
 
 The first-of-its-kind partnership covers projects and programs in more than three dozen countries and will support tens of thousands of small-scale fisheries stakeholders through the development and implementation of social, economic and environmental improvements. Collectively, this partnership and its work represent one of the largest networks of small-scale fisheries initiatives on the planet. As part of the partnership, CI, O2 and WCS will use their collective reach and networks to work with, and for, small-scale fisheries stakeholders towards securing equitable, just and sustainable small-scale fisheries.
 
@@ -36,10 +36,10 @@ CI, O2 and WCS are not only committed to advocating for and catalyzing change ac
 
 **Additional Resources:**
 
-[Download a PDF of this announcement.] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CI+WCS+O2+Partnership+Launch+Press+Release+3+March+2023.pdf)
+[Download a PDF of this announcement] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CI+WCS+O2+Partnership+Launch+Press+Release+3+March+2023.pdf)
 
 [Learn more about our small-scale fisheries work] (/what-we-do/small-scale-fisheries/)  
 
-[Learn more about Conservation International (CI) at conservation.org] (https://www.conservation.org/)  
+Learn more about Conservation International (CI) at <a href="https://www.conservation.org/" target="_blank">conservation.org</a>
 
-[Learn more about Wildlife Conservation Society (WCS) at wcs.org] (https://www.wcs.org/)
+Learn more about Wildlife Conservation Society (WCS) at <a href="https://www.wcs.org/" target="_blank">wcs.org</a>
