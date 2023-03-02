@@ -37,6 +37,7 @@ Through our triple impact approach, international collaborations and local partn
 ---
 ##Stories from the Field: Small-Scale Fisheries
 
+* [Scaling Holistic and Human Rights-Centered Approaches to Small-Scale Fisheries Sustainability] (/news/conservation-international-wildlife-conservation-society-ocean-outcomes-partnership-for-small-scale-fisheries/)
 * [ABALOBI Celebrates Positive Change in South Africa's Small-Scale Fisheries] (/news/abalobi-triple-impact-fishery-improvement-progress-success-index/)
 * [Chinese Coastal Communities Making Progress in Conservation Area Stewardship and Promoting Sustainable Fisheries] (/news/chinese-coastal-communities-conservation-sustainable-fisheries-qingdao-index/)
 * [Advancing Community Based Fishery Improvement Projects in Costa Rica] (/news/sustainable-fisheries-costa-rica-progress-highlights-index/)
