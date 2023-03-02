@@ -38,7 +38,7 @@ UMITO Partners is a Japanese seafood improvement organization established in 202
 
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/conservation-alliance-logo-partners.png"><h4>Conservation Alliance for Seafood Solutions</h4>
 
-Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on the both Advisory Council and Board of the Alliance. <a href="https://solutionsforseafood.org/" target="_blank">www.solutionsforseafood.org</a>
+Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on both the Advisory Council and Board of the Alliance. <a href="https://solutionsforseafood.org/" target="_blank">www.solutionsforseafood.org</a>
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/gggi-logo-partners.png"><h4>Global Ghost Gear Initiative</h4>
