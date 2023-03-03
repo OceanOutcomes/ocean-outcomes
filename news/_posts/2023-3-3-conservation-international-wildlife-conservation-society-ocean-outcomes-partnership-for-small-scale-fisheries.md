@@ -6,7 +6,7 @@ teaser-text: Conservation International, Ocean Outcomes and Wildlife Conservatio
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/conservation-international-wildlife-conservation-society-ocean-outcomes-partnership-for-small-scale-fisheries-hero.png
 featured: TRUE
 ---
-###A new parntership to inclusively and equitably elevate and improve small-scale fisheries in three dozen countries
+###A new partnership to inclusively and equitably elevate and improve small-scale fisheries in three dozen countries
 
 **Panama City, Panama – March 3, 2023** — Three international organizations working in small-scale fisheries have come together to announce a new partnership to inclusively and equitably elevate and improve small-scale fisheries. The new partnership will combine the small-scale fisheries portfolios of Conservation International (CI), Ocean Outcomes (O2) and Wildlife Conservation Society (WCS) and will work to advance social, economic and environmental outcomes in those fisheries — in partnership with local fishery stakeholders and in line with the Voluntary Guidelines for Securing Sustainable Small-Scale Fisheries in the Context of Food Security and Poverty Eradication (<a href="https://www.fao.org/voluntary-guidelines-small-scale-fisheries/en/" target="_blank">SSF Guidelines</a>).
 
