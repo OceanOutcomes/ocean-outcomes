@@ -29,6 +29,7 @@ Working with core implementing partners on the ground, including SmartFish and C
 ---
 ##Stories from the Field: Latin America
 
+* [Scaling Holistic and Human Rights-Centered Approaches to Small-Scale Fisheries Sustainability] (/news/conservation-international-wildlife-conservation-society-ocean-outcomes-partnership-for-small-scale-fisheries/)
 * [Advancing Community Based Fishery Improvement Projects in Costa Rica] (/news/sustainable-fisheries-costa-rica-progress-highlights-index/)
 * [Now Addressing Social Needs in Fishery Improvement] (/news/fisheryprogress-social-policy-fishery-improvement-projects/)
 * [New Global Platform Connects Small-scale Fishers to Improve Sustainability, Livelihoods] (/news/new-platform-to-support-small-scale-fishers-launches/)

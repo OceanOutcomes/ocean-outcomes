@@ -4,7 +4,7 @@ title: Developing Solutions to Illegal Seafood Imports in Northeast Asian Market
 date: 2022-12-2
 teaser-text: A recent webinar workshop co-organized by the Korea Maritime Institute (KMI) and Ocean Outcomes helped to identify solutions to the problem of illegal, unreported, and unregulated (IUU) seafood making its way into Korea’s seafood market. 
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/korea-solutions-illegal-seafood-imports-northeast-asian-markets-hero.png
-featured: TRUE
+featured: FALSE
 ---
 ###A recent webinar workshop co-organized by the Korea Maritime Institute (KMI) and Ocean Outcomes helped to identify solutions to the problem of illegal, unreported, and unregulated (IUU) seafood making its way into Korea’s seafood market. 
 
