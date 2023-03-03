@@ -3,7 +3,7 @@ layout: news
 title: Scaling Holistic and Human Rights-Centered Approaches to Small-Scale Fisheries Sustainability 
 date: 2023-3-3
 teaser-text: Conservation International, Ocean Outcomes and Wildlife Conservation Society announce a new partnership at Our Ocean Panama to inclusively and equitably elevate and improve small-scale fisheries in three dozen countries.
-hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/news-analysis-hero-placeholder.png
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/conservation-international-wildlife-conservation-society-ocean-outcomes-partnership-for-small-scale-fisheries-hero.png
 featured: TRUE
 ---
 ###A new parntership to inclusively and equitably elevate and improve small-scale fisheries in three dozen countries
@@ -14,6 +14,9 @@ The first-of-its-kind partnership covers projects and programs in more than thre
 
 **“Given our aligned values on holistic approaches to small-scale fisheries improvements that center around the human rights of fishers and fishworkers — and our global reach and strong in-country partnerships with fishing communities, governments and market actors — we feel that this collaboration can take our work to the next level,” said Elena Finkbeiner, Director of Coastal Community Fisheries for CI.  “We really wish to use this partnership to unlock funding opportunities for small-scale fishing organizations and communities, and to ensure that programs and projects affecting and engaging small-scale fisheries and coastal communities reflect their needs, priorities and values.**
 
+![Small-scale fishery]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/conservation-international-wildlife-conservation-society-ocean-outcomes-partnership-for-small-scale-fisheries-1.png)
+
 ###An estimated 120 million people work in small-scale fisheries — half are women
 
 Small-scale fisheries play an increasingly vital role in ensuring food security and coastal community well-being around the world — in addition to being key to environmental conservation needs. An estimated 120 million people work in small-scale fisheries, 95% of whom live in ‘least developed countries’ where they play a particularly important role in providing food and livelihoods. Across small-scale fisheries, women play a critical but overlooked role: making up 50% of the workforce, they are vital to small-scale fisheries' ability to produce one sixth of the animal proteins consumed by humans globally.
@@ -21,6 +24,9 @@ Small-scale fisheries play an increasingly vital role in ensuring food security 
 But small-scale fisheries and the vital socio-economic systems they support are under threat and remain underserved, fragmented and difficult for investments in the sector to reach. Chronic and acute stressors impacting coastal communities and food production systems include climate change, competition with industrial fishing and other high-impact extractive activities, systemic insecurity, political disenfranchisement, gender inequality, and most recently, the COVID-19 pandemic.
 
 **“With this MOU, we’re formalizing our longstanding collaboration for systematizing fisheries enhancement,” said Hoyt Peckham, who leads WCS’s Community Fisheries program. “Together we’ve built and tested technical systems for assessing fisheries’ performance and planning and monitoring their improvement and seen their effectiveness across a range of fisheries. We look forward now to deepening our partnerships with fishing rights holders and their organizations to ensure that our joint work equitably benefits people and the nature upon which we all depend. This is a humble start, with and for fishers and nature, and will begin with listening to and working with small-scale fisheries rights holders.”**
+
+![Small-scale fishery]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/conservation-international-wildlife-conservation-society-ocean-outcomes-partnership-for-small-scale-fisheries-2.png)
 
 ###Providing direct financial and technical support for small-scale fisheries in-country
 
