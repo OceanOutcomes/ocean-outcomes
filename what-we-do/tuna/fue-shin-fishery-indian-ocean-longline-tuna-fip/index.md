@@ -25,8 +25,8 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 
 ##Project News and Additional Resources:
 
-* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/IO+Work+Plan.pdf" target="_blank">Work Plan of the Indian Ocean LL Tuna (Fue Shin) Fishery</a>
-* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Formatted+FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+Dec22.pdf" target="blank">FSF Indian Ocean Tuna FIP Pre-assessment</a>
+* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/Workplan+of+the+Indian+Ocean+LL+Tuna+(Fue+Shin)+Fishery+April23.pdf" target="_blank">Work Plan of the Indian Ocean LL Tuna (Fue Shin) Fishery</a>
+* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+April23.pdf" target="blank">FSF Indian Ocean Tuna FIP Pre-assessment</a>
 * [Leading Taiwanese Tuna Company Pursues Sustainability Status] (/news/leading-taiwanese-tuna-company-pursues-sustainability-status-release/)
 * [Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia] (/news/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release/)
 
@@ -43,7 +43,7 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 | Species: | Albacore (*Thunnus alalunga*) Bigeye (*T. obesus*), Yellowfin (*T. albacares*), and Skipjack (*Katsuwonus pelamis*) |
 | Gear Type: | Pelagic Longline |
 | Volume: | 1,600 metric tons |
-| Documents: | <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Formatted+FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+Dec22.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Workplan+of+the+Indian+Ocean+LL+Tuna+(Fue+Shin)+Fishery+Dec+22.pdf" target="_blank">Workplan</a> |
+| Documents: | <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/Workplan+of+the+Indian+Ocean+LL+Tuna+(Fue+Shin)+Fishery+April23.pdf" target="_blank">Pre-assessment</a> / <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+April23.pdf" target="_blank">Workplan</a> |
 
 ---
 
