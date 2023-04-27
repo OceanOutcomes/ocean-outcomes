@@ -2,9 +2,9 @@
 layout: news
 title: NFI Red Crab Council and Ocean Outcomes Continue to Advance Fishery Improvement Work in China
 date: 2020-3-17
-teaser-text: As our work matures and begins to produce positive outcomes, Ocean Outcomes, local partners Qingdao Marine Conservation Society and international crab sustainability group remain committed to FIP.
+teaser-text: As our work matures and begins to produce positive outcomes, Ocean Outcomes, local partners Qingdao Marine Conservation Society and international crab sustainability group remain committed to advancing a large-scale crab FIP in China.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/NFI+Red+Crab+Council+FIP+Release+March+2020+hero.jpg
-featured: FALSE
+featured: TRUE
 ---
 ###Five years running: a large-scale, multinational effort to improve crab sustainabilty in China is producing positive outcomes for those involved
 
