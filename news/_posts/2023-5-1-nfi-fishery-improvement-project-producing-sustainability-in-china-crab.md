@@ -3,7 +3,7 @@ layout: news
 title: NFI Red Crab Council and Ocean Outcomes Continue to Advance Fishery Improvement Work in China
 date: 2023-5-1
 teaser-text: As our work matures and begins to produce positive outcomes, Ocean Outcomes, local partners Qingdao Marine Conservation Society and international crab sustainability group remain committed to advancing a large-scale crab FIP in China.
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/NFI+Red+Crab+Council+FIP+Release+March+2020+hero.jpg
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/nfi-fishery-improvement-project-producing-sustainability-in-china-crab-hero.png
 featured: TRUE
 ---
 ###Five years running: a large-scale, multinational effort to improve crab sustainabilty in China is producing positive outcomes for those involved
@@ -14,9 +14,9 @@ Working with the NFI Red Crab Council and local partners Qingdao Marine Conserva
 
 This year, those involved in the FIP will conduct dockside catch monitoring, scientific analysis of catch samples, report catch-related data and project improvement publicly and convene local stakeholders to advance sustainability initiatives in the fishery, including assessing and identifying processes for addressing social risk.
 
-![Dongshan Stakeholder Workshop 2016]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/RSC+dongshan+workshop+2016.jpg)
-*Stakeholder workshop in Dongshan, Fujian Province in 2016.*
+![China FIP Crab Trap]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/RSC-FIP-pot-image-1.png)
+*While bottom trawls produce the majority of the crab in the FIP, pots and traps such as this are also used.*
 
 >**“This FIP has earned an A rating in the face of all sorts of adversity,” said O2 Founder and CEO Rich Lincoln. “On some levels our strategy has had to change to keep the lights on but an early commitment to engage government and fishery stakeholders in the Zhangzhou region has paid dividends and created real partners. Regulators, fishers, processors, importers, and NGO’s all contribute to the know the work we’re doing. It’s a true collaboration.”**
 
