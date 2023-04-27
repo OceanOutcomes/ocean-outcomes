@@ -20,7 +20,7 @@ This year, those involved in the FIP will conduct dockside catch monitoring, sci
 
 >**“This FIP has earned an A rating in the face of all sorts of adversity,” said O2 Founder and CEO Rich Lincoln. “On some levels our strategy has had to change to keep the lights on but an early commitment to engage government and fishery stakeholders in the Zhangzhou region has paid dividends and created real partners. Regulators, fishers, processors, importers, and NGO’s all contribute to the know the work we’re doing. It’s a true collaboration.”**
 
-A subset of these partners in China include QMCS, Tao Ran and the China Aquatic Products Processing and Marketing Alliance (CAPPMA) and Zhangzhou Aquatic Products Processing and Marketing Alliance (ZAPPMA) which have been integral in securing Chinese government support for the work.
+A subset of these partners in China include QMCS, Tao Ran, the China Aquatic Products Processing and Marketing Alliance (CAPPMA) and Zhangzhou Aquatic Products Processing and Marketing Alliance (ZAPPMA) which have been integral in securing Chinese government support for the work.
 
 [Learn more about the Fujian Zhangzhou Red Swimming Crab FIP here.] (/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/)
 
