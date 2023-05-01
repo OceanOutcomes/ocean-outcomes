@@ -1,8 +1,8 @@
 ---
 layout: news
-title: NFI Red Crab Council and Ocean Outcomes Continue to Advance Fishery Improvement Work in China
+title: NFI Red Crab Council, Ocean Outcomes and QMCS Continue to Advance Fishery Improvement Work in China
 date: 2023-5-1
-teaser-text: As our work matures and begins to produce positive outcomes, Ocean Outcomes, local partners Qingdao Marine Conservation Society and international crab sustainability group remain committed to advancing a large-scale crab FIP in China.
+teaser-text: As our work matures and begins to produce positive outcomes, Ocean Outcomes, local partners Qingdao Marine Conservation Society and international crab sustainability group NFI Red Crab Council remain committed to advancing a large-scale crab FIP in China.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/nfi-fishery-improvement-project-producing-sustainability-in-china-crab-hero.png
 featured: TRUE
 ---
@@ -18,9 +18,9 @@ This year, those involved in the FIP will conduct dockside catch monitoring, sci
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/RSC-FIP-pot-image-1.png)
 *While bottom trawls produce the majority of the crab in the FIP, pots and traps such as this are also used.*
 
->**“This FIP has earned an A rating in the face of all sorts of adversity,” said O2 Founder and CEO Rich Lincoln. “On some levels our strategy has had to change to keep the lights on but an early commitment to engage government and fishery stakeholders in the Zhangzhou region has paid dividends and created real partners. Regulators, fishers, processors, importers, and NGO’s all contribute to the know the work we’re doing. It’s a true collaboration.”**
+>**“This FIP has earned an A rating in the face of all sorts of adversity,” said O2 Founder and CEO Rich Lincoln. “On some levels our strategy has had to change to keep the lights on but through the leadership of our partner QMCS, an early commitment to engage government and fishery stakeholders in the Zhangzhou region has paid dividends and created real partners. Regulators, fishers, processors, importers, and NGO’s all contribute to the know the work we’re doing. It’s a true collaboration.”**
 
-A subset of these partners in China include QMCS, Tao Ran, the China Aquatic Products Processing and Marketing Alliance (CAPPMA) and Zhangzhou Aquatic Products Processing and Marketing Alliance (ZAPPMA) which have been integral in securing Chinese government support for the work.
+A subset of these partners in China include QMCS, Tao Ran, the China Aquatic Products Processing and Marketing Alliance (CAPPMA), Zhangzhou Aquatic Products Processing and Marketing Alliance (ZAPPMA) and Xiamen University which have been integral in securing Chinese government support for the work.
 
 [Learn more about the Fujian Zhangzhou Red Swimming Crab FIP here.] (/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/)
 
