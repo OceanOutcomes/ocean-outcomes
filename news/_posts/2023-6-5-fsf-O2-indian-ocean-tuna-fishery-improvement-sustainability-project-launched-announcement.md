@@ -26,7 +26,7 @@ Ho-Tu, based in Taiwan, has six years of on the water experience in internationa
 
 >**"Taiwanese tuna and high seas fisheries fleets are major producers of seafood, and with such high production comes a great responsibility to ensure sustainable practices and address the challenges that come with it," added Ho-Tu. "In order to meet sustainable tuna sourcing goals in global supply chains, it is imperative that we work closely with the catching sector in Taiwan to find collaborative solutions to these challenges.”**
 
-This project is part of a growing partnership between FSF and O2 — launched last year — in which O2 is helping to develop and implement projects for both FSF Indian Ocean and Pacific Ocean tuna fisheries. Unlike any work in the region to date, the projects between the two companies are both working to support environmental and social outcomes.
+This project is part of a growing partnership between FSF and O2 — [launched last year] (/news/leading-taiwanese-tuna-company-pursues-sustainability-status-release/) — in which O2 is helping to develop and implement projects for both FSF Indian Ocean and Pacific Ocean tuna fisheries. Unlike any work in the region to date, the projects between the two companies are both working to support environmental and social outcomes.
 
 [Learn more about the Fue Shin Fishery Indian Ocean Longline Tuna FIP here.] (/what-we-do/tuna/fue-shin-fishery-indian-ocean-longline-tuna-fip/)
 
