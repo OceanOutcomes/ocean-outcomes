@@ -27,6 +27,7 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 
 * <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/Workplan+of+the+Indian+Ocean+LL+Tuna+(Fue+Shin)+Fishery+April23.pdf" target="_blank">Work Plan of the Indian Ocean LL Tuna (Fue Shin) Fishery</a>
 * <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+April23.pdf" target="blank">FSF Indian Ocean Tuna FIP Pre-assessment</a>
+* [Indian Ocean Longline Tuna Project Launches] (/news/fsf-O2-indian-ocean-tuna-fishery-improvement-sustainability-project-launched-announcement/)
 * [Leading Taiwanese Tuna Company Pursues Sustainability Status] (/news/leading-taiwanese-tuna-company-pursues-sustainability-status-release/)
 * [Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia] (/news/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release/)
 
@@ -36,7 +37,7 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href=" " target="_blank">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/indian-ocean-tuna-longline-fue-shin-0" target="_blank">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | February 2023 |
 | Location: | Indian Ocean |
 | Participants: | Ocean Outcomes, Fue Shin Fishery, Ltd. |
@@ -47,4 +48,4 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 
 ---
 
-<a href="" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Fue Shin Fishery Indian Ocean Longline Tuna FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/indian-ocean-tuna-longline-fue-shin-0" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Fue Shin Fishery Indian Ocean Longline Tuna FIP profile here.**</a>
