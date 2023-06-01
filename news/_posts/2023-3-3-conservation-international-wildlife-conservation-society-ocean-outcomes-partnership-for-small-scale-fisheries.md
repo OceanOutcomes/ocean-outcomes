@@ -4,7 +4,7 @@ title: Scaling Holistic and Human Rights-Centered Approaches to Small-Scale Fish
 date: 2023-3-3
 teaser-text: Conservation International, Ocean Outcomes and Wildlife Conservation Society announce a new partnership at Our Ocean Panama to inclusively and equitably elevate and improve small-scale fisheries in three dozen countries.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/conservation-international-wildlife-conservation-society-ocean-outcomes-partnership-for-small-scale-fisheries-hero.png
-featured: TRUE
+featured: FALSE
 ---
 ###A new partnership to inclusively and equitably elevate and improve small-scale fisheries in three dozen countries
 
