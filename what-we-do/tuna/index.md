@@ -47,6 +47,7 @@ Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
 
+* [Indian Ocean Longline Tuna Project Launches] (/news/fsf-O2-indian-ocean-tuna-fishery-improvement-sustainability-project-launched-announcement/)
 * [Developing Solutions to Illegal Seafood Imports in Northeast Asian Markets] (/news/korea-solutions-illegal-seafood-imports-northeast-asian-markets/)
 * [South Korea’s Largest Seafood Industry Players Come Together to Support Sustainable Tuna] (/news/korea-tuna-sustainability-industy-roundtable-meeting/)
 * [Leading Taiwanese Tuna Company Pursues Sustainability Status] (/news/leading-taiwanese-tuna-company-pursues-sustainability-status-release/)
