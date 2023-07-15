@@ -11,7 +11,7 @@ subtitle: To date, small-scale fisheries and their stakeholders are underserved 
 
 Small-scale fisheries provide livelihoods for millions, food for billions and are an integral part of local coastal communities, their economies and the fulcrum around which any coastal conservation and development initiatives must operate. However, despite their collective significance, the needs of small-scale fisheries and their stakeholders have generally been underserved and underrepresented in both the global seafood environment and movement. 
 
-In addition to dishenfranshisment, small-scale fisheries face a myriad socioeconomic and environmental challenges, such as low prices, unfair competition, a lack of markets and cold chain access, climate change and evolving fish stock competitions and ranges. To ensure food security, thriving local livelihoods and durable conservation outcomes, we are working to identify the needs of small-scale fisheries and their stakeholders and developing tools, approaches and partnerships for addressing these needs.
+In addition to disenfranchisement, small-scale fisheries face a myriad socioeconomic and environmental challenges, such as low prices, unfair competition, a lack of markets and cold chain access, climate change and evolving fish stock competitions and ranges. To ensure food security, thriving local livelihoods and durable conservation outcomes, we are working to identify the needs of small-scale fisheries and their stakeholders and developing tools, approaches and partnerships for addressing these needs.
 
 ----
 
