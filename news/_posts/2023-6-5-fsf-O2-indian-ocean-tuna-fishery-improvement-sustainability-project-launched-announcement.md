@@ -4,7 +4,7 @@ title: Indian Ocean Longline Tuna Project Launches
 date: 2023-6-5
 teaser-text: New Taiwanese tuna project in the Indian Ocean builds on growing partnership and will work towards providing sources of sustainable, socially responsible tuna to global markets.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/FSF-PO-FIP-profile-hero.png
-featured: TRUE
+featured: FALSE
 ---
 ###Working towards providing sources of sustainable, socially responsible tuna to global markets
 
