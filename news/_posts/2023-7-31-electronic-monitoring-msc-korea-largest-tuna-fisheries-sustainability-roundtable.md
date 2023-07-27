@@ -8,7 +8,7 @@ featured: TRUE
 ---
 ###Coordinated efforts in Korea advancing sustainability in largest tuna fisheries
 
-**Seoul International Seafood Show, Seoul, Republic of Korea** — Last month, four of Korea’s largest and most influential tuna companies came together for the second annual Korean Roundtable for Sustainable Tuna Fishing. Participating members included Dongwon Ind, SAJO, Silla and Dongwon Fisheries, which collectively represent about 45% of Marine Stewardship Council (MSC) Certified or In-assessment tuna and tuna-like species caught by Korean-flagged vessels — roughly 140,000 metric tons of seafood.
+**Seoul, Republic of Korea** — Last month, four of Korea’s largest and most influential tuna companies came together for the second annual Korean Roundtable for Sustainable Tuna Fishing. Participating members included Dongwon Ind, SAJO, Silla and Dongwon Fisheries, which collectively represent about 45% of Marine Stewardship Council (MSC) Certified or In-assessment tuna and tuna-like species caught by Korean-flagged vessels — roughly 140,000 metric tons of seafood.
 
 The second Roundtable was a joint effort of Ocean Outcomes and MSC Korea, with sponsorship and logistical support provided by the Korea Overseas Fisheries Association (KOFA). Core topics of the Roundtable discussions included updated requirements in the MSC Standard 3.0,  the recent developments in observer requirements from end markets such as Walmart and Sam’s Club, and Regional Fishery Management Organization (RFMO) advocacy processes to encourage harvest strategy adoption for high seas tuna fisheries.
 
