@@ -46,6 +46,7 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 ---
 ##Stories from the Field: Northeast Asia
 
+* [Electronic Monitoring and the MSC Standard 3.0 in Korea’s Largest Tuna Fisheries] (/news/electronic-monitoring-msc-korea-largest-tuna-fisheries-sustainability-roundtable/)
 * [Indian Ocean Longline Tuna Project Launches] (/news/fsf-O2-indian-ocean-tuna-fishery-improvement-sustainability-project-launched-announcement/)
 * [Developing Solutions to Illegal Seafood Imports in Northeast Asian Markets] (/news/korea-solutions-illegal-seafood-imports-northeast-asian-markets/)
 * [Chinese Coastal Communities Making Progress in Conservation Area Stewardship and Promoting Sustainable Fisheries] (/news/chinese-coastal-communities-conservation-sustainable-fisheries-qingdao-index/)
