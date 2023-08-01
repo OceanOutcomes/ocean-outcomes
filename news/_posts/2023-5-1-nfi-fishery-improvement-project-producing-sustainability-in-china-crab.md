@@ -4,7 +4,7 @@ title: NFI Red Crab Council, Ocean Outcomes and QMCS Continue to Advance Fishery
 date: 2023-5-1
 teaser-text: As our work matures and begins to produce positive outcomes, Ocean Outcomes, local partners Qingdao Marine Conservation Society and international crab sustainability group NFI Red Crab Council remain committed to advancing a large-scale crab FIP in China.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/nfi-fishery-improvement-project-producing-sustainability-in-china-crab-hero.png
-featured: TRUE
+featured: FALSE
 ---
 ###Five years running: a large-scale, multinational effort to improve crab sustainabilty in China is producing positive outcomes for those involved
 

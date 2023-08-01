@@ -40,6 +40,7 @@ Without a significant, concerted, and locally-led push for reform, overfishing, 
 
 * [NFI Red Crab Council and Ocean Outcomes Continue to Advance Fishery Improvement Work in China] (/news/nfi-fishery-improvement-project-producing-sustainability-in-china-crab/)
 * [Chinese Coastal Communities Making Progress in Conservation Area Stewardship and Promoting Sustainable Fisheries] (/news/chinese-coastal-communities-conservation-sustainable-fisheries-qingdao-index/)
+* [National Geographic Lead and Professor of Marine Science Join O2 Board] (/news/national-geographic-leader-and-suny-brook-university-professor-join-board-of-directors/)
 * [Now Addressing Social Needs in Fishery Improvement] (/news/fisheryprogress-social-policy-fishery-improvement-projects/)
 * [Songlin Wang Awarded Pew Fellowship to Support the Conservation of China’s Largest Eelgrass Habitat] (/news/songlin-wang-2021-pew-fellowship-award/)
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165783620303453" target="_blank">Reproductive Dynamics of a Swimming Crab (*Monomia haanii*) in the World’s Crab Basket</a>
