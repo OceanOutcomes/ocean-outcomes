@@ -4,7 +4,7 @@ title: Get Involved
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
-teaser-text: An estimated 3 billion people worldwide depend on seafood as their primary source of protein. Seafood plays a vital role in food security, ocean health, and local economies. Here’s what you can do to get involved and support more sustainable fisheries.
+teaser-text: An estimated 3 billion people worldwide depend on seafood as their primary source of protein. Seafood plays a vital role in food security, ocean health, and local economies. Here’s what you can do to get involved and support more sustainable fisheries. 
 weight: 5
 ---
 ##Career and volunteer opportunities
@@ -16,8 +16,8 @@ We’re always interested in connecting with folks who are creative, motivated, 
 
 We’re working to ensure ocean resources are abundant and sustainably harvested, and that fisheries, fishing communities, and fishery-based livelihoods flourish. <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M6GDSMR3CKSWJ" target="_blank">**Support our efforts by making donation**</a>. Have a question about a donation? Just email us at **donate@oceanoutcomes.org**.  
 
-*Ocean Outcomes is a registered a 501(c)(3) nonprofit organization and our Tax ID is 46-4901375.*
-
+*Ocean Outcomes is a registered a 501(c)(3) nonprofit organization and our Tax ID is 46-4901375.* 
+<a href="https://www.guidestar.org/profile/shared/9c87b1e5-f828-4ef4-9f52-ad1d33ab3eb6" target="_blank"><img src="https://widgets.guidestar.org/TransparencySeal/9523457" /></a>
 -----
 ##Connect online and spread the word 
 
