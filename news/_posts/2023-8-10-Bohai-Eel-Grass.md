@@ -22,8 +22,7 @@ With support from the Pew Marine Fellowship since 2021, Songlin WANG is working 
 
 At the beginning of the project, Songlin and QMCS teammates worked with a local fisher and Prof. Hui LIU, a leading YSERI researcher who first reported the BBEB, to conduct research on the BBEB's ecological values. A research report on Caofeidian Seagrass Bed Fishery Resources and Biodiversity was completed, in support of the BBEB’s ecological functions as an Essential Fish Habitat (EFH) and critical habitat for endangered, threatened and protected (ETP) marine species, with various immediate and potential threats to BBEB also identified during the research. 
 
-![Bohai Vessel] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Vessel.png)
-![Bohai Survey] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Survey.png) 
+![Bohai Vessel and Survey] https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Vessel+and+Survey.png
 *Field survey at the landing ports* 
 
 ![Bohai Clams] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Clams.png)
