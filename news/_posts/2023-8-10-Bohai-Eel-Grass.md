@@ -3,7 +3,7 @@ layout: news
 title: Conserving China’s Largest Eelgrass Bed
 date: 2023-8-10
 teaser-text: Conservating China's Largest Eelgrass Bed via Policy Change and Small-Scale Fishing Communities Co-Management
-hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+EelGrass+Painting.png 
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Painting.jpeg
 featured: TRUE
 ---
 *We implement our work in China through close partnerships with a leading local NGO named Qingdao Marine Conservation Society (QMCS) — which was established with technical support from O2.*
