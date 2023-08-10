@@ -3,7 +3,7 @@ layout: news
 title: Conserving China’s Largest Eelgrass Bed
 date: 2023-8-10
 teaser-text: Conservating China's Largest Eelgrass Bed via Policy Change and Small-Scale Fishing Communities Co-Management
-hero-image: (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+EelGrass+Painting.png) 
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+EelGrass+Painting.png 
 featured: TRUE
 ---
 *We implement our work in China through close partnerships with a leading local NGO named Qingdao Marine Conservation Society (QMCS) — which was established with technical support from O2.*
@@ -15,7 +15,7 @@ From 2015-2019, the Yellow Sea Fisheries Research Institute (YSERI) and Beihai B
 
 With support from the Pew Marine Fellowship since 2021, Songlin WANG is working with his colleagues in Qingdao Marine Conservation Society (QMCS) to achieve the following Goal: Safeguard the Bohai Bay Eelgrass Bed’s（BBEB) ecological integrity, through establishment of a legally recognized, effectively managed marine protected area (MPA). 
 
-[Bohai Map](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Map.png)
+![Bohai Map] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Map.png)
 *BBEB and Surrounding Communities （left: Caofeitian District and Letin Town in Hebei; right: Longdao-Dragon Island）*
 
 ###Key Activities and Project Achievements
