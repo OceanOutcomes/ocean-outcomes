@@ -35,8 +35,8 @@ Over a two year period, the team conducted interviews with stakeholders represen
 
 The team has successfully aligned key nongovernmental stakeholders to support community co-management and to advocate for positive government decisions. For example, they engaged small-scale fishers and co-designed eelgrass friendly fishing methods, and hosted a key online multi-stakeholder workshop on BBEB MPA protection and management strategies. The workshop had over 20 participants, including experts on MPAs, ecological restoration, fishery resources management, fishery representatives, and civil society organization (CSO) partners. To synergize efforts to influence government decision-makers, the team drafted a policy recommendation letter regarding the BBEB’s conservation and fishery management in the BBEB. The letter was to be submitted to the Central government and relevant local government authorities. 
 
-![Bohai workshop] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+workshop.png)
-*The online workshop Conservation and Management of Bohai Bay Eelgrass Bed with the Participation of Local Fishing Communities.*
+![Bohai Workshop] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Workshop.png) 
+  *The online workshop Conservation and Management of Bohai Bay Eelgrass Bed with the Participation of Local Fishing Communities.*
 
 In addition, the team built a growing base of public opinion support for national level eelgrass bed conservation policy. Utilizing social media, the team was able to release several popular science articles to better communicate their findings to the public. The article “Floating with the Waves, Dancing in the Waves” was published in “Caring for Water Fairies” of the “Blue Star Messenger” book series. Additionally, through working with their local civil society partner, Tianjin Binhai Jiangbei Wetland Conservation Center, they produced a short documentary about their work to date, titled Bohai Bay’s Treasure. The documentary includes interviews with experienced fishers, showing the connection between the fishing production of the fishers in Bohai Bay and the eelgrass beds. The Chinese version of the video released on Weibo has over 11,000 views. 
 
@@ -48,7 +48,7 @@ In September 2022, the QMCS team was interviewed by World Wide Fund for Nature (
 In June 2023, the team organized a capacity building webinar dedicated to Chinese NGO fellows in marine protection, focusing on the theme of seagrass bed conservation and restoration. The workshop was made possible with support from UNDP GEF Small Grants Programme, and another Chinese partner — the SEE Foundation, and it provided educational opportunities for the 35 participants.
 
 ![Bohai webinar] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+webinar.png)
-*The capacity building webinar dedicated to Chinese NGO fellows in marine protection on the theme of seagrass bed conservation and restoration (the screen showing the moderator and the four speakers)*
+  *The capacity building webinar dedicated to Chinese NGO fellows in marine protection on the theme of seagrass bed conservation and restoration (the screen showing the moderator and the four speakers)*
 
 The team was also able to engage elementary and high school students in eelgrass bed learning, by compiling their research into multimedia materials. 
 
