@@ -25,8 +25,8 @@ At the beginning of the project, Songlin and QMCS teammates worked with a local 
 ![Bohai Vessel and Survey] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Vessel+and+Survey.png)
 *Field survey at the landing ports* 
 
-![Bohai clams] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+clams.png)
-*Manila clam (Ruditapes philippinarum) and Sunray surf clam (Mactra chinensis) in the landings*
+  ![Bohai clams] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+clams.png)    
+    *Manila clam (Ruditapes philippinarum) and Sunray surf clam (Mactra chinensis) in the landings*
 
 Over a two year period, the team conducted interviews with stakeholders representing three local fishing towns/communities around the seagrass bed. The interviews aimed to strengthen the understanding of their livelihood, economic and social development needs, and willingness to support seagrass bed protection. The team also conducted fishing port investigations around the seagrass bed, to enhance the understanding of the complexity of the fishing activities and collect evidence of illegal and destructive fishing operations around the BBEB. 
 
