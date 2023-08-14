@@ -25,7 +25,10 @@ At the beginning of the project, Songlin and QMCS teammates worked with a local 
 ![Bohai Vessel and Survey] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Vessel+and+Survey.png)
 *Field survey at the landing ports* 
 
-<p align="center">![Bohai Clams] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Clams.png)
+<p align="center">!
+[Bohai Clams] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Clams.png)
+</p>
+<p align="center">!
 *Manila clam (Ruditapes philippinarum) and Sunray surf clam (Mactra chinensis) in the landings*
 </p>
 
