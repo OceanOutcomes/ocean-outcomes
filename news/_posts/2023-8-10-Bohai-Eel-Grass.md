@@ -30,8 +30,8 @@ At the beginning of the project, Songlin and QMCS teammates worked with a local 
   
 Over a two year period, the team conducted interviews with stakeholders representing three local fishing towns/communities around the seagrass bed. The interviews aimed to strengthen the understanding of their livelihood, economic and social development needs, and willingness to support seagrass bed protection. The team also conducted fishing port investigations around the seagrass bed, to enhance the understanding of the complexity of the fishing activities and collect evidence of illegal and destructive fishing operations around the BBEB. 
 
-![Bohai-observe] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai-observe.png) 
-*Working together with local fisher Mr Liu Cuibo and and Mr Wang Jianming from the local civil society partner, Tianjin Binhai Jiangbei Wetland Conservation Center* 
+![Bohai-observe] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai-observe.png)   
+ *Working together with local fisher Mr Liu Cuibo and and Mr Wang Jianming from the local civil society partner, Tianjin Binhai Jiangbei Wetland Conservation Center* 
 
 The team has successfully aligned key nongovernmental stakeholders to support community co-management and to advocate for positive government decisions. For example, they engaged small-scale fishers and co-designed eelgrass friendly fishing methods, and hosted a key online multi-stakeholder workshop on BBEB MPA protection and management strategies. The workshop had over 20 participants, including experts on MPAs, ecological restoration, fishery resources management, fishery representatives, and civil society organization (CSO) partners. To synergize efforts to influence government decision-makers, the team drafted a policy recommendation letter regarding the BBEB’s conservation and fishery management in the BBEB. The letter was to be submitted to the Central government and relevant local government authorities. 
 
@@ -47,8 +47,8 @@ In September 2022, the QMCS team was interviewed by World Wide Fund for Nature (
 
 In June 2023, the team organized a capacity building webinar dedicated to Chinese NGO fellows in marine protection, focusing on the theme of seagrass bed conservation and restoration. The workshop was made possible with support from UNDP GEF Small Grants Programme, and another Chinese partner — the SEE Foundation, and it provided educational opportunities for the 35 participants.
 
-![Bohai Webinar] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Webinar.png) 
- *The capacity building webinar dedicated to Chinese NGO fellows in marine protection on the theme of seagrass bed conservation and restoration (the screen showing the moderator and the four speakers)*
+![Bohai Webinar] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Webinar.png)
+*The capacity building webinar dedicated to Chinese NGO fellows in marine protection on the theme of seagrass bed conservation and restoration (the screen showing the moderator and the four speakers)*
 
 The team was also able to engage elementary and high school students in eelgrass bed learning, by compiling their research into multimedia materials. 
 
