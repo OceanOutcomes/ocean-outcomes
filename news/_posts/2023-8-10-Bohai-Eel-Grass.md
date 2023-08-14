@@ -25,7 +25,7 @@ At the beginning of the project, Songlin and QMCS teammates worked with a local 
 ![Bohai Vessel and Survey] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Vessel+and+Survey.png)
 *Field survey at the landing ports* 
 
-![Bohai Clams] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Clams.png)
+![Bohai Clams] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Clams.png)   
 *Manila clam (Ruditapes philippinarum) and Sunray surf clam (Mactra chinensis) in the landings*
   
 Over a two year period, the team conducted interviews with stakeholders representing three local fishing towns/communities around the seagrass bed. The interviews aimed to strengthen the understanding of their livelihood, economic and social development needs, and willingness to support seagrass bed protection. The team also conducted fishing port investigations around the seagrass bed, to enhance the understanding of the complexity of the fishing activities and collect evidence of illegal and destructive fishing operations around the BBEB. 
@@ -59,8 +59,6 @@ The team was also able to engage elementary and high school students in eelgrass
 To further develop an effective conservation strategy, the QMCS team has been collecting international eelgrass conservation cases and management best practices. This compilation covers various practices such as eelgrass bed protection, eelgrass bed restoration, fishery resource enhancement and fishery management, ranging in location from  the United States, Europe, and other regions. Additionally, an expert-reviewed recommendation letter based on the project’s experience, on strengthening conservation of the eelgrass beds in Bohai Bay, will be submitted as a reference file to the decision-makers in both central and local management authorities. The team will also continue to share their outcomes with fishing communities and fellow CSOs, for the purpose of steering a more science-based, effective and equitable BBEB conservation and management effort.
 
 ![Bohai Fisherman] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Fisherman.png)
-<p align="center">!
-Fisher collecting the long cage net catch.*
-</p>
+*Fisher collecting the long cage net catch.*
 
 Continuing the work, the team will pilot-test the effectiveness of eelgrass friendly fishing methods, encourage sharing of this experience across the local fishing communities, and produce a BBEB protection and fisheries management best practice brochure. The brochure will highlight BBEB’s function as a key fishery habitat (Essential Fish Habitat, EFH) for the fishery resources with highest economic value, especially octopus and veined rapa whelk. It will also propose the prohibition of destructive fishing activities, advocate the selection of eelgrass bed-friendly fishing gear, and recommend mitigating the negative impacts on the eelgrass bed and fishery resources. To ensure the livelihoods of local fishing communities, the team will support local fishers to maintain fishing rights to BBEB as a candidate MPA or under OECM (other effective conservation measures), with a condition of using eelgrass friendly fishing methods.
