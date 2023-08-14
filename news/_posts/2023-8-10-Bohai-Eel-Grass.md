@@ -47,8 +47,8 @@ In September 2022, the QMCS team was interviewed by World Wide Fund for Nature (
 
 In June 2023, the team organized a capacity building webinar dedicated to Chinese NGO fellows in marine protection, focusing on the theme of seagrass bed conservation and restoration. The workshop was made possible with support from UNDP GEF Small Grants Programme, and another Chinese partner — the SEE Foundation, and it provided educational opportunities for the 35 participants.
 
-![Bohai Webinar] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Webinar.png)  
-  *The capacity building webinar dedicated to Chinese NGO fellows in marine protection on the theme of seagrass bed conservation and restoration (the screen showing the moderator and the four speakers)*
+![Bohai -Webinar] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+-Webinar.png)
+*The capacity building webinar dedicated to Chinese NGO fellows in marine protection on the theme of seagrass bed conservation and restoration (the screen showing the moderator and the four speakers)*
 
 The team was also able to engage elementary and high school students in eelgrass bed learning, by compiling their research into multimedia materials. 
 
