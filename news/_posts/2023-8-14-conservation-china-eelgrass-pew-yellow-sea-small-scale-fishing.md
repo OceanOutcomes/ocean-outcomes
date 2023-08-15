@@ -9,7 +9,7 @@ featured: TRUE
 *We implement our work in China through close partnerships with a leading local NGO named Qingdao Marine Conservation Society (QMCS) — which was established with technical support from O2. This update and video from our partners at QMCS highlights the work we are doing on the ground to improve small-scale fisheries and conservation outcomes along the coastline of the Yellow Sea.*
 
 <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Eelgrass+bed+UPDATED.mp4" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/eelgrass-video-thumbnail.png" width="900" height="500" border="0" /></a>  
-*This short video produced by QMCS highlights the work to preserve eelgreass beds in the Yellow Sea — described in more detail below.*
+*This short video produced by QMCS highlights work to preserve eelgreass beds in the Yellow Sea — described in more detail below.*
 
 ###Eelgrass beds once flourished in the Yellow Sea 
 
@@ -28,9 +28,6 @@ Initially, Songlin and QMCS teammates worked with a local fisher and Prof. Hui L
 
 ![Bohai Vessel and Survey] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Vessel+and+Survey.png)
 *QMCS team conducting field survey at landing ports.* 
-
-![Bohai Clams] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Clams.png)
-*Manila clam (Ruditapes philippinarum) and Sunray surf clam (Mactra chinensis) in fishery landings.*
   
 Over a two year period, the team conducted interviews with stakeholders representing three local fishing towns/communities around the seagrass bed. The interviews aimed to strengthen the understanding of their livelihood, economic and social development needs, and willingness to support seagrass bed protection. The team also conducted fishing port investigations around the seagrass bed, to enhance the understanding of the complexity of the fishing activities and collect evidence of illegal and destructive fishing operations around the BBEB. 
 
@@ -44,10 +41,10 @@ The team has successfully aligned key nongovernmental stakeholders to support co
 ![Bohai workshop] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+workshop.png)   
 *A screenshot from the online workshop Conservation and Management of Bohai Bay Eelgrass Bed, which included participation from local fishing communities.*
 
-In addition, the team built a growing base of public opinion support for national level eelgrass bed conservation policy. Utilizing social media, the team was able to release several popular science articles to better communicate their findings to the public. The article “Floating with the Waves, Dancing in the Waves” was published in “Caring for Water Fairies” of the “Blue Star Messenger” book series. Additionally, through working with their local civil society partner, Tianjin Binhai Jiangbei Wetland Conservation Center, they produced <a href="https://m.weibo.cn/status/4778120001880404#&video " target="_blank">a short documentary about their work to date, titled Bohai Bay’s Treasure</a>. The documentary includes interviews with experienced fishers, showing the connection between the fishing production of the fishers in Bohai Bay and the eelgrass beds. The Chinese version of the video released on Weibo had over 11,000 views within the first few weeks of its release. 
+In addition, the team built a growing base of public opinion support for national level eelgrass bed conservation policy. Utilizing social media, the team was able to release several popular science articles to better communicate their findings to the public. The article “Floating with the Waves, Dancing in the Waves” was published in “Caring for Water Fairies” of the “Blue Star Messenger” book series. Additionally, through working with their local civil society partner, Tianjin Binhai Jiangbei Wetland Conservation Center, they produced the short documentary above about their work to date, titled Bohai Bay’s Treasure. The documentary includes interviews with experienced fishers, showing the connection between the fishing production of the fishers in Bohai Bay and the eelgrass beds. The Chinese version of the video released on Weibo had over 11,000 views within the first few weeks of its release. 
 
 ![Bohai at Sea] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+at+Sea.png)
- *Filming the eelgrass bed at sea.*
+*Filming the eelgrass bed at sea.*
 
 ###Sharing findings and expanding awareness internationally and locally
 
@@ -56,7 +53,7 @@ In September 2022, the QMCS team was interviewed by World Wide Fund for Nature (
 In June 2023, the team organized a capacity building webinar dedicated to Chinese NGO fellows in marine protection, focusing on the theme of seagrass bed conservation and restoration. The workshop was made possible with support from UNDP GEF Small Grants Programme, and another Chinese partner — the SEE Foundation, and it provided educational opportunities for the 35 participants. The team was also able to engage elementary and high school students in eelgrass bed learning, by compiling their research into multimedia materials. 
 
 ![Bohai classroom] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Class.png)
- *A nature education course in a local elementary school in the YSE.*
+*A nature education course in a local elementary school in the YSE.*
 
 ###Next steps towards ensuring effective conservation
 
