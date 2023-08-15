@@ -17,7 +17,7 @@ Across the Yellow Sea Ecoregion (YSE), eelgrass provides irreplaceable ecologica
 
 From 2015-2019, the Yellow Sea Fisheries Research Institute (YSERI) and Beihai Bureau of the Ministry of Natural Resources (BBMNR) discovered a significant eelgrass bed located in the YSE’s Bohai Bay. The bed has an estimated total size of 50 square kilometers, over 12 times larger than the previously known eelgrass bed in the seas around China. 
 
-With support from the Pew Marine Fellowship, since 2021 Songlin Wang has worked with his colleagues at Qingdao Marine Conservation Society (QMCS) to safeguard the Bohai Bay Eelgrass Bed’s（BBEB) ecological integrity, through establishment of a legally recognized, effectively managed marine protected area (MPA). 
+With support from the Pew Marine Fellowship, since 2021 Songlin Wang has worked with his colleagues at Qingdao Marine Conservation Society (QMCS) to safeguard the Bohai Bay Eelgrass Bed’sBBEB) ecological integrity, through establishment of a legally recognized, effectively managed marine protected area (MPA). 
 
 ![Bohai Map] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Map.png)
 *Bohai Bay Eelgrass Bed and surrounding communities. Left: Caofeitian District and Letin Town in Hebei; right: Longdao-Dragon Island.*
