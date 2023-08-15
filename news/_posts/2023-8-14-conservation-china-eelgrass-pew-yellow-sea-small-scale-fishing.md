@@ -2,21 +2,13 @@
 layout: news
 title: Conserving China’s Largest Eelgrass Bed
 date: 2023-8-14
-teaser-text: Conservating China's Largest Eelgrass Bed via Policy Change and Small-Scale Fishing Communities Co-Management
+teaser-text: Eelgrass beds once flourished in the Yellow Sea, but over the past 30 years, eelgrass beds have declined significantly. We are working with our partners Qingdao Marine Conservation Society in China to reverse this decline.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Painting.jpeg
 featured: TRUE
 ---
 *We implement our work in China through close partnerships with a leading local NGO named Qingdao Marine Conservation Society (QMCS) — which was established with technical support from O2. This update and video from our partners at QMCS highlights the work we are doing on the ground to improve small-scale fisheries and conservation outcomes along the coastline of the Yellow Sea.*
 
-<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Eelgrass+bed+UPDATED.mp4" target="_blank"><img src="http://img.youtube.com/vi/UpD0lWQQutQ/0.jpg" 
-alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
-*This short video produced by QMCS highlights the work to preserve eelgreass beds in the Yellow Sea — described in more detail below.*
-
-<object classid=”clsid:D27CDB6E-AE6D-11cf-96B8-444553540000″ codebase=”http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0″ width=”900” height=”500”  title=”My video”>
-<param name=”movie” value=”https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Eelgrass+bed+UPDATED.mp4” />
-<param name=”quality” value=”high” />
-<embed src=”https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Eelgrass+bed+UPDATED.mp4” quality=”high” pluginspage=”http://www.macromedia.com/go/getflashplayer” type=”application/x-shockwave-flash” width=”900” height=”500“></embed>
-</object>
+<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Eelgrass+bed+UPDATED.mp4" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/eelgrass-video-thumbnail.png" width="900" height="500" border="0" /></a>  
 *This short video produced by QMCS highlights the work to preserve eelgreass beds in the Yellow Sea — described in more detail below.*
 
 ###Eelgrass beds once flourished in the Yellow Sea 
