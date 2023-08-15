@@ -37,6 +37,7 @@ Through our triple impact approach, international collaborations and local partn
 ---
 ##Stories from the Field: Small-Scale Fisheries
 
+* [Conserving China’s Largest Eelgrass Bed] (/news/conservation-china-eelgrass-pew-yellow-sea-small-scale-fishing)
 * [Announcing Three Exciting New Appointments to Ocean Outcomes’ Gifted Board of Directors] (/news/conservation-international-acme-smoked-fish-movilizatorio-leaders-join-ocean-outcomes-board-of-directors/)
 * [Scaling Holistic and Human Rights-Centered Approaches to Small-Scale Fisheries Sustainability] (/news/conservation-international-wildlife-conservation-society-ocean-outcomes-partnership-for-small-scale-fisheries/)
 * [ABALOBI Celebrates Positive Change in South Africa's Small-Scale Fisheries] (/news/abalobi-triple-impact-fishery-improvement-progress-success-index/)
