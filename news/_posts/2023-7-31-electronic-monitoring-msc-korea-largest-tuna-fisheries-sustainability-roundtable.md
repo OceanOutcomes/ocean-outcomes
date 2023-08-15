@@ -4,7 +4,7 @@ title: Electronic Monitoring and the MSC Standard 3.0 in Korea’s Largest Tuna 
 date: 2023-7-31
 teaser-text: Companies representing nearly half of Korea’s sustainable tuna catch come together for second annual Roundtable on best practices.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/electronic-monitoring-msc-korea-largest-tuna-fisheries-sustainability-roundtable-hero.png
-featured: TRUE
+featured: FALSE
 ---
 ###Coordinated efforts in Korea advancing sustainability in largest tuna fisheries
 
