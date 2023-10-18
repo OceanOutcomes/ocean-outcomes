@@ -2,7 +2,7 @@
 layout: news
 title: Assessing and Addressing Social Risks in Fishery Improvement Projects
 date: 2023-10-19
-teaser-text: 
+teaser-text: As the need for FIPs to address social needs continues to grow, Ocean Outcomes is leading the way in integrating social requirements into FIPs and scaling the use and uptake of Social Responsibility Assessments.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SRA+Gabby+Exiting+Vessel+hero+image.png
 featured: TRUE
 ---
@@ -29,23 +29,22 @@ However, FIPs are faced with limited funding to “do” the SRA meaningfully, a
 
 As such, it’s important for those working in FIPs to share lessons learned in order to move towards improved and inclusive assessment practices and ultimately, more effective social improvements. 
 
-Towards these goals, O2 recently joined the Asia Pacific Fishery Improvement Project Community of Practice (FIP CoP) in Bali, connecting the global community of FIPs to learn from each other and take action to increase FIP impact. 
-
 ![SRA FIP COP Group Photo](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SRA+FIP+COP+Group+Photo.png)
 *Group photo at the FIP CoP in Bali.* 
+
+Towards these goals, O2 recently joined the Asia Pacific Fishery Improvement Project Community of Practice (FIP CoP) in Bali, connecting the global community of FIPs to learn from each other and take action to increase FIP impact. 
 
 Given the recently released HRSR Policy requirements — a key focus of the meeting was discussions on how to effectively meet requirements through SRAs. As one of the organizations who helped develop the SRA, trained others on its use, and which has been conducting SRAs across its FIPs, our Social Responsibility Program Manager, Dr. Gabby Lout, was invited to attend to share her vast experience implementing the SRA and developing social workplans in FIPs as a presenter and acting as an expert resource. 
 
 ![SRA Gabby at FIP COP](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SRA+Gabby+at+FIP+COP.png)
-*Gabby Lout leading a small group discussion at FIP CoP.* 
+*Gabby Lout leading a small group discussion on social responsibility at the FIP CoP.* 
 
 ###The O2 team possesses a wealth of knowledge around social responsibility in fisheries improvement, having conducted more SRAs than anyone in the industry.
 
-![SRA Gabby Interview 1](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SRA+Gabby+Interview+1.png)
-*Gabby Lout conducting an onboard interview as part of an SRA, located in American Samoa.*
-
 Gabby specifically has applied the SRA in small and large-scale fisheries, numerous FIPs, and used the SRA as a human rights due diligence tool with seafood retailers, and as a framework to research decent work. Throughout these efforts and initiatives, Gabby trained a variety of local individuals and assessment teams, as local knowledge and participation of local stakeholders is fundamental to the effectiveness of the SRA. From these experiences, Gabby shares three takeaways that have become evident for those wanting to address social risk in FIPs.
 
+![SRA Gabby Interview 1](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SRA+Gabby+Interview+1.png)
+*Gabby Lout conducting an onboard interview as part of an SRA located in American Samoa.*
 
 First, the SRA is an opportunity to build social expertise and capacity, noting that identifying and/or partnering with individuals who are trained or educated on this complex dimension of fisheries will be critical. As such, the SRA can be a way for environmental and labor and human rights organizations to cultivate necessary collaborations.
 
