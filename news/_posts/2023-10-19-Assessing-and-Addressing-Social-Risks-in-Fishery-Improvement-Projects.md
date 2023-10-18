@@ -42,7 +42,7 @@ Given the recently released HRSR Policy requirements — a key focus of the meet
 ###The O2 team possesses a wealth of knowledge around social responsibility in fisheries improvement, having conducted more SRAs than anyone in the industry.
 
 ![SRA Gabby Interview 1](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SRA+Gabby+Interview+1.png)
-*Gabby Lout conducting an onboard interview as part of an SRA, located in Amerian Samoa.*
+*Gabby Lout conducting an onboard interview as part of an SRA, located in American Samoa.*
 
 Gabby specifically has applied the SRA in small and large-scale fisheries, numerous FIPs, and used the SRA as a human rights due diligence tool with seafood retailers, and as a framework to research decent work. Throughout these efforts and initiatives, Gabby trained a variety of local individuals and assessment teams, as local knowledge and participation of local stakeholders is fundamental to the effectiveness of the SRA. From these experiences, Gabby shares three takeaways that have become evident for those wanting to address social risk in FIPs.
 
