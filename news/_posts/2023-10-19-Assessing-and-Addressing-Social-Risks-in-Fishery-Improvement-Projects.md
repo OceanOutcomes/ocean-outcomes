@@ -43,9 +43,6 @@ Given the recently released HRSR Policy requirements — a key focus of the meet
 
 Gabby specifically has applied the SRA in small and large-scale fisheries, numerous FIPs, and used the SRA as a human rights due diligence tool with seafood retailers, and as a framework to research decent work. Throughout these efforts and initiatives, Gabby trained a variety of local individuals and assessment teams, as local knowledge and participation of local stakeholders is fundamental to the effectiveness of the SRA. From these experiences, Gabby shares three takeaways that have become evident for those wanting to address social risk in FIPs.
 
-![SRA Gabby Interview 1](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SRA+Gabby+Interview+1.png)
-*Gabby Lout conducting an onboard interview as part of an SRA located in American Samoa.*
-
 First, the SRA is an opportunity to build social expertise and capacity, noting that identifying and/or partnering with individuals who are trained or educated on this complex dimension of fisheries will be critical. As such, the SRA can be a way for environmental and labor and human rights organizations to cultivate necessary collaborations.
 
 >**“The expertise needed to effectively implement an SRA is specific, and not every organization has this expertise or capacity. The SRA is an opportunity to either develop this capacity internally or identify local experts who can play a key role in the FIP. The SRA can be an entry point to build relationships with local human rights and labor organizations and experts which will be critical actors in the implementation of the social workplan.”**
@@ -57,6 +54,9 @@ Second, the SRA is an opportunity for organizations to engage with fishers, fish
 Third, we can’t underemphasize the importance of “starting”  — the SRA is the mechanism to understand the social landscape of a FIP and SRA findings are the baseline for making a plan to begin to address social risk.
 
 >**“While the SRA can be a significant lift and, at present, can feel overwhelming, the SRA is where the work actually starts. We have put so much emphasis on the process of SRA, yet the social workplan is the most critical part. We are now at a point when we need to collectively take the next steps to identify and understand the social landscape (in the SRA) so we can begin the meaningful work to implement the necessary actions and improvements.”**
+
+![SRA Gabby Interview 1](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SRA+Gabby+Interview+1.png)
+*Gabby Lout conducting an onboard interview as part of an SRA located in American Samoa.*
 
 ###Effectively assessing and addressing social risk in FIPs will require intentional investments in scaling the SRA. 
 
