@@ -29,6 +29,7 @@ Working with core implementing partners on the ground, including SmartFish and C
 ---
 ##Stories from the Field: Latin America
 
+* [Assessing and Addressing Social Risks in Fishery Improvement Projects] (/news/Assessing-and-Addressing-Social-Risks-in-Fishery-Improvement-Projects/)
 * [Announcing Three Exciting New Appointments to Ocean Outcomes’ Gifted Board of Directors] (/news/conservation-international-acme-smoked-fish-movilizatorio-leaders-join-ocean-outcomes-board-of-directors/)
 * [Scaling Holistic and Human Rights-Centered Approaches to Small-Scale Fisheries Sustainability] (/news/conservation-international-wildlife-conservation-society-ocean-outcomes-partnership-for-small-scale-fisheries/)
 * [National Geographic Lead and Professor of Marine Science Join O2 Board] (/news/national-geographic-leader-and-suny-brook-university-professor-join-board-of-directors/)
