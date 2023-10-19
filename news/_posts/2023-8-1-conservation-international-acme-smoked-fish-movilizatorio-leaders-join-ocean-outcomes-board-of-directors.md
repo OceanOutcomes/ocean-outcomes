@@ -4,7 +4,7 @@ title: Announcing Three Exciting New Appointments to Ocean Outcomes’ Gifted Bo
 date: 2023-8-1
 teaser-text: We are extremely pleased to announce that Melanie Janin of Conservation International, Dr. Rob Snyder of ACME Smoked Fish and Lina Torres of MOVILIZATORIO have joined O2’s Board of Directors. 
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/conservation-international-acme-smoked-fish-movilizatorio-leaders-join-ocean-outcomes-board-of-directors-hero.png
-featured: TRUE
+featured: FALSE
 ---
 ###We are extremely pleased to announce that Melanie Janin of Conservation International, Dr. Rob Snyder of ACME Smoked Fish and Lina Torres of MOVILIZATORIO have joined O2’s Board of Directors.
 
