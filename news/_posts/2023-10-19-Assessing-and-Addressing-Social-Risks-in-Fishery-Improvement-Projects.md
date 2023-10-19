@@ -2,7 +2,7 @@
 layout: news
 title: Assessing and Addressing Social Risks in Fishery Improvement Projects
 date: 2023-10-19
-teaser-text: As the need for FIPs to address social needs continues to grow, Ocean Outcomes is leading the way in integrating social requirements into FIPs and scaling the use and uptake of Social Responsibility Assessments.
+teaser-text: As the need address social risk in fisheries becomes more evident, Ocean Outcomes is leading the way in integrating social requirements into Fishery Improvement Projects and scaling the use and uptake of Social Responsibility Assessments.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SRA+Gabby+Exiting+Vessel+hero+image.png
 featured: TRUE
 ---
@@ -11,7 +11,7 @@ featured: TRUE
 
 While originally designed to tackle environmental sustainability, growing evidence indicated the need for FIPs to approach sustainability more broadly, including considering and then addressing social needs.
 
-Notably in 2021, FisheryProgress, a reporting site utilized by 96% of FIPs, released their [Human Rights and Social Responsibility (HRSR) Policy](https://fisheryprogress.org/social-responsibility/our-approach). The policy articulates how FIPs can identify and reduce the risk of human and labor rights abuses and increase transparency around these social efforts. The HRSR Policy provided a critical leverage point to improve rights of seafood workers and help industry address social risk within their supply chains.
+Notably in 2021, FisheryProgress, a reporting site utilized by 96% of FIPs, released their <a href="https://fisheryprogress.org/social-responsibility/our-approach" target="_blank">Human Rights and Social Responsibility (HRSR) Policy</a>. The policy articulates how FIPs can identify and reduce the risk of human and labor rights abuses and increase transparency around these social efforts. The HRSR Policy provided a critical leverage point to improve rights of seafood workers and help industry address social risk within their supply chains.
 
 ###Now, two years into the implementation of the HRSR Policy, several FIPs are making tangible progress. 
 
@@ -24,16 +24,14 @@ Similar to how Ocean Outcomes helped shape and lead FIP methodology in its early
 
 One key requirement for the SRA is that it must be completed by a qualified assessor with human rights and social science expertise, knowledge of fisheries, and competency with the SRA specifically. Therefore, there is an urgent need for specific expertise and capacity related to human and labor rights across the FIP practitioner space. As a nascent space in general in fisheries, a number of issues continue to be raised as a critical barrier for impact and advancement of social responsibility efforts — limited or no social expertise, training, capacity related to human and labor rights, and other social issues.
 
-However, FIPs are faced with limited funding to “do” the SRA meaningfully, and most current funding doesn’t account for the pre-work associated with it — such as capacity building, training, relationship building, and community engagement. The SRA must include consultation with fishers and fisher representatives, for example, fisher trade unions or fisher organizations, labor rights NGOs, or other civil society organizations that represent fishers. This is an important element of the SRA that must be prioritized and done intentionally, and an element that makes the SRA unique in that it incorporates direct input from those working in the fishery first-hand.
+However, FIPs are faced with limited funding to “do” the SRA meaningfully, and most current funding doesn’t account for the pre-work associated with it — such as capacity building, training, relationship building, and community engagement. The SRA must include consultation with fishers and fisher representatives, for example, fisher trade unions or fisher organizations, labor rights NGOs, or other civil society organizations that represent fishers. 
 
-###As more fisheries and seafood supply chains work to begin to address social risk, more and more FIPs will need to effectively complete SRAs.
-
-As such, it’s important for those working in FIPs to share lessons learned in order to move towards improved and inclusive assessment practices and ultimately, more effective social improvements. 
+###This is an important element of the SRA that must be prioritized and done intentionally, and an element that makes the SRA unique in that it incorporates direct input from those working in the fishery first-hand.
 
 ![SRA FIP COP Group Photo](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SRA+FIP+COP+Group+Photo.png)
 *Group photo at the FIP CoP in Bali.* 
 
-Towards these goals, O2 recently joined the Asia Pacific Fishery Improvement Project Community of Practice (FIP CoP) in Bali, connecting the global community of FIPs to learn from each other and take action to increase FIP impact. 
+As more fisheries and seafood supply chains work to begin to address social risk, more and more FIPs will need to effectively complete SRAs. As such, it’s important for those working in FIPs to share lessons learned in order to move towards improved and inclusive assessment practices and ultimately, more effective social improvements. Towards these goals, O2 recently joined the Asia Pacific Fishery Improvement Project Community of Practice (FIP CoP) in Bali, connecting the global community of FIPs to learn from each other and take action to increase FIP impact. 
 
 Given the recently released HRSR Policy requirements, a key focus of the meeting involved discussions on how to effectively meet requirements through SRAs. As one of the organizations who helped develop the SRA, trained others on its use, and which has been conducting SRAs across its FIPs, our Social Responsibility Program Manager, Dr. Gabby Lout, was invited to attend to share her vast experience implementing the SRA and developing social workplans in FIPs as a presenter and acting as an expert resource. 
 
@@ -57,7 +55,7 @@ Third, we can’t place enough emphasis on the importance of starting — the SR
 >**“While the SRA can be a significant lift and, at present, can feel overwhelming, the SRA is where the work actually starts. We have put so much emphasis on the process of SRA, yet the social workplan is the most critical part. We are now at a point when we need to collectively take the next steps to identify and understand the social landscape (in the SRA) so we can begin the meaningful work to implement the necessary actions and improvements.”**
 
 ![SRA Gabby Interview 1](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SRA+Gabby+Interview+1.png)
-*Gabby Lout conducting an onboard interview as part of an SRA located in American Samoa.*
+*Gabby Lout conducting an onboard interview as part of an SRA for a longline tuna project in American Samoa.*
 
 ###Effectively assessing and addressing social risk in FIPs will require intentional investments in scaling the SRA. 
 
