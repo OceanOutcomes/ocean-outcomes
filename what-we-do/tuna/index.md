@@ -47,6 +47,7 @@ Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
 
+* [Assessing and Addressing Social Risks in Fishery Improvement Projects] (/news/Assessing-and-Addressing-Social-Risks-in-Fishery-Improvement-Projects/)
 * [Electronic Monitoring and the MSC Standard 3.0 in Korea’s Largest Tuna Fisheries] (/news/electronic-monitoring-msc-korea-largest-tuna-fisheries-sustainability-roundtable/)
 * [Indian Ocean Longline Tuna Project Launches] (/news/fsf-O2-indian-ocean-tuna-fishery-improvement-sustainability-project-launched-announcement/)
 * [Developing Solutions to Illegal Seafood Imports in Northeast Asian Markets] (/news/korea-solutions-illegal-seafood-imports-northeast-asian-markets/)

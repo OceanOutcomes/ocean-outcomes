@@ -1,4 +1,4 @@
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals.
@@ -25,13 +25,13 @@
     link-text: Learn More
     link-url: /what-we-do/triple-bottom-line-seafood/funding-and-facility/
     
-- featured: FALSE
+- featured: TRUE
   language: en
-  heading: We're Hiring!
+  heading: We are seeking our next Executive Director!
   title: Do you care as much about sustainable fisheries as we do?
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
   link:
-    link-text: Join us
+    link-text: View the Executive Director opportunity at Ocean Outcomes
     link-url: https://apply.workable.com/ocean-outcomes/
 
 - featured: FALSE
