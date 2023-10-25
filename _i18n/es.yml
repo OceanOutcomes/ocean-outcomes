@@ -1,0 +1,81 @@
+# Site default language is English, which is represented as 'und' or 'Undefined'.
+es:
+  ##########################
+  # Home page translatables
+  ##########################
+  ## Home page banner
+  home-page-hero-text: "[ES] Advancing economic, social and environmental fisheries sustainability"
+  contact-us: "[ES] Get in Touch"
+
+  ## About section
+  about-section-heading: "[ES] About Ocean Outcomes"
+  about-section-content: "[ES] We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply and thriving fishing communities."
+  
+  ### Top level menu item
+  who-we-are: "[ES] Who We Are"
+  #### Sub-menu items
+  vision-mission: "[ES] Vision & Mission & Values"
+  our-team: "[ES] Team"
+  board: "[ES] Board"
+  testimonials: "[ES] Testimonials"
+  join-our-team: "[ES] Get Involved (We're Hiring!)"
+
+  ### Top level menu item
+  what-we-do: "[ES] What We Do"
+  #### Sub-menu items
+  triple-bottom-line-seafood: "[ES] Our Approach"
+  services: "[ES] Services"
+  small-scale-fisheries: "[ES] Small-Scale Fisheries"
+  tuna: "[ES] Tuna & High Seas Fisheries"
+  our-partners: "[ES] Partnerships & Collaborations"
+  
+  ### Top level menu item
+  where-we-work: "[ES] Where We Work"
+  #### Sub-menu items
+  chinese-fisheries-seafood: "[ES] China"
+  japanese-fisheries-seafood: "[ES] Northeast Asia"
+  latin-america-fisheries-seafood: "[ES] Latin America"
+
+
+  ## News section
+  news-section-heading: "[ES] Stories from the Field"
+  news-section-link-text: "[ES] See All Posts"
+  news-base-url: "[ES] /news/"
+  news-back: "[ES] View all stories"
+  news-published: "[ES] Published"
+  news-like: "[ES] Like what you are reading?"
+  news-notified: "[ES] Get notified of new posts"
+  news-more: "[ES] More Stories from the Field"
+  news-previous: "[ES] Previous Post"
+  news-next: "[ES] Next Post"
+
+  ### Misc
+  learn-more: "[ES] Learn More"
+  back-to: "[ES] Back to"
+
+  ##########################
+  # Header & Footer translatables
+  ##########################
+  ocean-outcomes-home: "[ES] Ocean Outcomes Home"
+  language: "[ES] English"
+  close: "[ES] Close"
+  menu: "[ES] Menu"
+  tracker: "[ES] FIP Tracker"
+  newsletter: "[ES] Subscribe to our newsletter"
+  donate: "[ES] Make a Donation"
+
+  ##########################
+  # Contact Page
+  ##########################
+  contact-us: "[ES] Contact Us"
+  our-location: "[ES] Our Location"
+  get-in-touch: "[ES] Get In Touch"
+
+  # Form
+  optional: "[ES] Optional"
+  your-name: "[ES] Your Name"
+  your-email: "[ES] Your Email Address"
+  your-phone: "[ES] Your Phone Number"
+  your-message: "[ES] Your Message"
+  subscribe-for-updates: "[ES] Receive updates from Ocean Outcomes"
+  submit: "[ES] Submit"
