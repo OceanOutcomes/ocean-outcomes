@@ -1,25 +1,27 @@
 [![Build Status](https://travis-ci.org/thinkshout/ocean-outcomes.svg)](https://travis-ci.org/thinkshout/ocean-outcomes)
 
+A site built using Jekyll.
+
 # Content Management
-##Content staging URLs
+## Content staging URLs
 * [Staging site](https://stage.oceanoutcomes.org.s3-website-us-east-1.amazonaws.com/)
 * [Live site](https://www.oceanoutcomes.org.s3-website-us-east-1.amazonaws.com/)
 
-##Content Type and field map
+## Content Type and field map
 [O2 Content Types.pdf](/O2 Content Types.pdf) maps out all Content Types that are available and which fields exist for each. Use this as a reference when creating new or editing existing content.
 
-##Markdown documentation
+## Markdown documentation
 1. [Github's guide to mastering markdown](https://guides.github.com/features/mastering-markdown/) - start here as it's the best quick reference I've found
 2. [Official documentation from those who created Markdown](http://daringfireball.net/projects/markdown/syntax) - more thorough than the above, but less user-friendly.
 
-##Amazon AWS
+## Amazon AWS
 There are three important Amazon AWS buckets that can be accessed by logging into the [Amazon S3 console](https://console.aws.amazon.com/s3/home?region=us-west-2) and clicking the S3 icon in the top toolbar:
 ```
 Live site => www.oceanoutcomes.org
 Staging site => stage.oceanoutcomes.org
 Static Assets => staticassets.oceanoutcomes.org
 ```
-###Live and Staging buckets - use Github to make changes
+### Live and Staging buckets - use Github to make changes
 The Live and Staging buckets should not be modified as they are automatically updated when you make changes to content in the [Ocean Outcomes Gitrub repository](https://github.com/thinkshout/ocean-outcomes)(where you're at now :wink:). Also these buckets map to branches in the Github repo:
 
 ```
@@ -29,7 +31,7 @@ live site => live branch
 
 This means updating content in the  ```master``` branch will cause updates to the Staging site and updates in the ```live``` branch will cause updates to the Live site. You can change which Github branch you're using via a dropdown in the upper left of most Github pages.
 
-###Static Assets bucket
+### Static Assets bucket
 
 The "Static Assets" bucket is for things like images & videos that are used on the site and need to persist each time the site is rebuilt, which happens anytime content is updated.
 
@@ -48,7 +50,7 @@ of a news article. And now and image after this paragraph.
 ![alt-text](https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/images/200x200.gif)
 ```
 
-##Markdown notes
+## Markdown notes
 * Use a pipe followed by a newline to get markdown working from variables. Variables always looks like ```key: value```. Some examples are what you see in the header of [a page](who-we-are/index.md) or entire data files like what you see in [featured-blocks.yml](_data/featured-blocks.yml).
 
 Example:
@@ -58,7 +60,7 @@ teaser-text: |
 	Some text containing markdown
 ```
 
-##Steps for swapping the header image via Github Desktop
+## Steps for swapping the header image via Github Desktop
 
 * Go to the hero-bg.png file on [Github](https://github.com/thinkshout/ocean-outcomes/blob/master/assets/images/hero-bg.png)
 * Click on the little screen icon to the right of the “History” button - this will prompt you to Launch the Github Desktop application, and maybe even clone the project if it’s your first time doing this.
@@ -83,3 +85,5 @@ Run the local server
 ```shell
 $ rake serve
 ```
+
+When running `rake serve` you should see something similar to `Server address: http://127.0.0.1:4000/`. Visit that address to view the site.
