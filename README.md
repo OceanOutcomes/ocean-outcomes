@@ -87,3 +87,7 @@ $ rake serve
 ```
 
 When running `rake serve` you should see something similar to `Server address: http://127.0.0.1:4000/`. Visit that address to view the site.
+
+# Trouble shooting
+
+If you run into an error like `error: call to undeclared function 'ffi_prep_closure` you can try [this stackoverflow answer](https://github.com/ffi/ffi/issues/869#issuecomment-810890178). This seems to happen with M1 macs.
