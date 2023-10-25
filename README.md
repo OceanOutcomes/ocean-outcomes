@@ -91,3 +91,5 @@ When running `rake serve` you should see something similar to `Server address: h
 # Troubleshooting
 
 If you run into an error like `error: call to undeclared function 'ffi_prep_closure` you can try [this stackoverflow answer](https://github.com/ffi/ffi/issues/869#issuecomment-810890178). This seems to happen with M1 macs.
+
+If you are not seeing changes when you think you should be try restarting compilation.
