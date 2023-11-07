@@ -4,14 +4,20 @@
     {% assign header_target_depth = 2 %}
   {% else %}
     {% assign header_target_depth = 1 %}
-  {% endcase %}
+{% endcase %}
 
-<header class="content-header {{parent_url | replace: '/', ' '}} {{page.title | replace: ' ', '-' | downcase}}">
+{% if page.header-image-class %}
+  {% assign header-class = page.header-image-class %}
+{% else %}
+  {% assign header-class = parent_url | replace: '/', ' ' %}
+{% endif %}
+
+<header class="content-header {{header-class}} {{page.title | replace: ' ', '-' | downcase}}">
   <section class="title">
     {% for node in site.pages %}
       {% include node_depth.html %}
       {% if node_url == parent_url and node_depth > header_target_depth %}
-      <p class="section-title"><a href="{{parent_url | replace: '//', '/'}}"><span>{{ node.title }}</span></a></p>
+        <p class="section-title"><a href="{{parent_url | replace: '//', '/'}}"><span>{{ node.title }}</span></a></p>
       {% endif %}
     {% endfor %}
     <h1>{{ page.title }}</h1>
