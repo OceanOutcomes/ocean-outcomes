@@ -1,20 +1,22 @@
 ---
 layout: page 
-title: Vision & Mission & Values
+title: KO Our Work
 subtitle: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/visionmissionhero.jpg
 teaser-text: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
-weight: 1
+header-image-class: who-we-are
+is-secondary: true
+weight: 22
 ---
- 
-## More sustainable fisheries
+
+##More sustainable fisheries
 
 At O2, we work hand in hand with local communities, seafood harvesters, seafood industry, supply chains and fishery stakeholders to design and implement science-based solutions towards more sustainable seafood production, improving livelihoods of fishing communities and helping to conserve the ocean and its resources.
 
 Fisheries provide livelihoods for millions and food for billions. Demand for sustainable seafood, produced by responsible fisheries, has never been higher. However, collectively we are yet to meet that demand: much of the world’s seafood production remains unsustainable and poorly managed, having destructive effects on the surrounding ecosystem, such as bycatch. Many fisheries and seafood supply chains lack transparent, vetted information — this opacity presents social risks, such as labor abuses and it makes science-based management a challenge. In many cases, exploitative fishing practices take advantage of not only the ocean, but also local fishing communities and those which rely most on healthy fish populations. Despite a global movement to address these challenges, there remains a lack of culturally relevant and regionally specific tools and capacity to translate ambition to actual change on the water. This damages the oceans and imperils the communities and seafood supply chains on which we all depend. At Ocean Outcomes, we are working to change this.
 
-## Vision
+##Vision
 
 **We envision** a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
 
