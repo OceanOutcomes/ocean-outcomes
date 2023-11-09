@@ -2,11 +2,18 @@
 {% assign secondary = '' %}
 {% assign sorted_pages = site.pages | sort: 'weight' %}
 {% for node in sorted_pages %}
+  
+  {% if node.is-secondary %}
+    {% assign is_secondary = true %}
+  {% else %}
+    {% assign is_secondary = false %}
+  {% endif %}
+  
   {% include node_depth.html %}
   {% if node_depth == 3 and node.lang == page.lang %}
-  {% if node.title != '404 Not Found' %}
-    {% capture primary %}{{primary | append: node_url | append: '|' | append: node.title | append: '\;'}}{% endcapture %}
-  {% endif %}
+    {% if node.title != '404 Not Found' %}
+      {% capture primary %}{{primary | append: node_url | append: '|' |  append: node.title | append: '|' | append: is_secondary | append: '\;'}}{% endcapture %}
+    {% endif %}
   {% elsif node_depth == 4 and node.lang == page.lang %}
     {% capture secondary %}{{secondary | append: node_url | append: '|' | append: node.title | append: '\;'}}{% endcapture %}
   {% endif %}
@@ -23,6 +30,10 @@
     <a href="/zh/">首页</a>
     {% when 'ru' %}
     <a href="/ru/">Главная страница</a>
+    {% when 'es' %}
+    <a href="/es/">Home</a>
+    {% when 'ko' %}
+    <a href="/ko/">Home</a>
     {% endcase %}
   </li>
   {% for parent in primary %}
@@ -31,6 +42,8 @@
 
     {% if has_children %}
       {% assign class = "top-level" %}
+    {% elsif parent-info[2] == 'true' %}
+      {% assign class = "top-level small" %}
     {% else %}
       {% assign class = "top-level" %}
     {% endif %}

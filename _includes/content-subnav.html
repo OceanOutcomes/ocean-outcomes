@@ -1,7 +1,7 @@
 {% include parent_url.html %}
 {% include child_depth.html %}
 {% case page.lang %}
-  {% when 'ru' or 'jp' or 'zh' %}
+  {% when 'ru' or 'jp' or 'zh' or 'ko' or 'es' %}
     {% assign subnav_target_depth = 3 %}
   {% else %}
     {% assign subnav_target_depth = 2 %}

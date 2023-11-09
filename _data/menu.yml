@@ -35,7 +35,21 @@ und:
   #   url: small link url
 
 jp:
+  - title: Stories from the Field
+    url: /news
 
 zh:
+  - title: Stories from the Field
+    url: /news
 
 ru:
+  - title: Stories from the Field
+    url: /news
+
+es:
+  - title: Stories from the Field
+    url: /news
+
+ko:
+  - title: Stories from the Field
+    url: /news
