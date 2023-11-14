@@ -7,6 +7,24 @@
     link-text: Learn How
     link-url: /what-we-do/services/
 
+- featured: TRUE
+  language: es
+  heading: Spanish...
+  title: Spanish text...
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
+  link:
+    link-text: Spanish
+    link-url: /es/vision-mission-values/
+
+- featured: TRUE
+  language: ko
+  heading: Korean...
+  title: Korean text...
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
+  link:
+    link-text: Korean
+    link-url: /ko/vision-mission-values/
+
 - featured: FALSE
   language: en
   heading: Triple Impact Fisheries Evaluation Framework
