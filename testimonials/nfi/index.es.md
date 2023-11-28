@@ -4,4 +4,5 @@ title: NFI is no stranger to working on challenging Fisheries Improvement Projec
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/testimonials/nfi-testimonial.png
 teaser-text: Gavin Gibbons, Vice President, National Fisheries Institute
 weight: 6
+menuexclude: 'true'
 ---

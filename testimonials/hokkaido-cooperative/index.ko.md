@@ -4,4 +4,5 @@ title: Japan has a long history of fishing; it's part of our culture. That's why
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/testimonials/hokkaido-testimonial.png
 teaser-text: Kazuhito Fukuda, Deputy Director of Sales, Hokkaido Federation of Fishermen’s Cooperative
 weight: 8
+menuexclude: 'true'
 ---

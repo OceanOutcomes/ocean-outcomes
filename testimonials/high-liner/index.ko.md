@@ -4,4 +4,5 @@ title: As an international seafood company, we have a stake in the health of glo
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/testimonials/high-liner-testimonial.png
 teaser-text: Bill DiMento, Corporate Director of Sustainability, High Liner Foods
 weight: 1
+menuexclude: 'true'
 ---

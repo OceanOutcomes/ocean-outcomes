@@ -4,4 +4,5 @@ title: As small scale fishermen in Baja Mexico, we are motivated to ensure our f
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/testimonials/ensenada-fishery-cooperative-testimonial.png
 teaser-text: Sergio Antonio Sandoval Arauz, Secretary of the Board of Directors, Ensenada Fishery Cooperative
 weight: 11
+menuexclude: 'true'
 ---

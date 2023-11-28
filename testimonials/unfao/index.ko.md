@@ -4,4 +4,5 @@ title: The tuna harvest strategy workshops designed by O2 helped us effectively 
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/testimonials/unfao-testimonial.png
 teaser-text: Alejandro Anganuzzi, Global Tuna Coordinator, UN-FAO
 weight: 2
+menuexclude: 'true'
 ---

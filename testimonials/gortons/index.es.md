@@ -4,4 +4,5 @@ title: We require all our salmon to be sourced from producers actively involved 
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/testimonials/gortons-testimonial.png
 teaser-text: Greg Jeffers, Director of Seafood Procurement, Gorton’s
 weight: 7
+menuexclude: 'true'
 ---

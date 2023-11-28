@@ -4,4 +4,5 @@ title: O2 has been a major asset in helping us tackle the problem of ghost gear 
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/testimonials/gggi-testimonial.png
 teaser-text: Lynn Kavanagh, Campaign Manager, World Animal Protection & Global Ghost Gear Initiative
 weight: 4
+menuexclude: 'true'
 ---

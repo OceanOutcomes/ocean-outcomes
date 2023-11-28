@@ -4,4 +4,5 @@ title: Ocean Outcomes has truly become a valuable partner to Bumble Bee working 
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/testimonials/bumble-bee-testimonial.png
 teaser-text: Mike Kraft, [formerly] VP Global Sustainability and Social Responsibility, Bumble Bee Seafoods
 weight: 3
+menuexclude: 'true'
 ---
