@@ -487,6 +487,7 @@ body {
   background: #2B3A46 url(../images/post-header-bg.jpg) no-repeat;
   background-size: cover; }
 
+.content-page .content-header.team,
 .landing .content-header.who-we-are,
 .landing .content-header.ruwho-we-are,
 .landing .content-header.jpwho-we-are,
