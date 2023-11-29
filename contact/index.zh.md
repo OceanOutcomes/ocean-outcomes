@@ -1,7 +1,7 @@
 ---
 layout: contact 
 title: 联系我们
-weight: 6
+weight: 5
 bodyclass: contact
 address:
   street: 421 SW 6th Ave Ste 1400

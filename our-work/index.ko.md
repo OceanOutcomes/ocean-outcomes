@@ -7,7 +7,7 @@ hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/he
 teaser-text: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
 header-image-class: who-we-are
 is-secondary: true
-weight: 22
+weight: 3
 ---
 
 ##More sustainable fisheries
