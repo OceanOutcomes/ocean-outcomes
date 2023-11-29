@@ -40,15 +40,9 @@
     {% assign parent-info = parent | split: '|' %}
     {% include has_children.html %}
 
-    {% if has_children %}
-      {% assign class = "top-level" %}
-    {% elsif parent-info[2] == 'true' %}
-      {% assign class = "top-level small" %}
-    {% else %}
-      {% assign class = "top-level" %}
-    {% endif %}
+    {% comment %} There was code here that adjusted the font size of these menu items bases on their hierarchy. {% endcomment %}
 
-    <li class="{{ class }}">
+    <li class="top-level">
       <a href="{{parent-info[0]}}">{{parent-info[1]}}</a>
       {% if has_children %}
       <ul>
@@ -64,6 +58,6 @@
   {% endfor %}
 
   {% for item in site.data.menu[page.lang] %}
-    <li class="top-level small"><a href="{{item.url}}">{{item.title}}</a></li>
+    <li class="top-level"><a href="{{item.url}}">{{item.title}}</a></li>
   {% endfor %}
 </ul>
