@@ -14,7 +14,7 @@
     {% if node.title != '404 Not Found' %}
       {% capture primary %}{{primary | append: node_url | append: '|' |  append: node.title | append: '|' | append: is_secondary | append: '\;'}}{% endcapture %}
     {% endif %}
-  {% elsif node_depth == 4 and node.lang == page.lang %}
+  {% elsif node_depth == 4 and node.lang == page.lang and node.menuexclude != 'true' %}
     {% capture secondary %}{{secondary | append: node_url | append: '|' | append: node.title | append: '\;'}}{% endcapture %}
   {% endif %}
 {% endfor %}
