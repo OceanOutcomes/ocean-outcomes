@@ -11,12 +11,6 @@ weight: 5
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
 
-> **Current job openings:**  
-> 
-> *Executive Director*  
-> 
-> Ocean Outcomes seeks the next Executive Director to lead our dynamic, international organization into its second decade as we work globally to develop and implement creative solutions towards more sustainable, socially-responsible fisheries and seafood production. The ideal candidate should have deep knowledge of sustainability within the fisheries and seafood industry or other food production sectors, aspire to support thriving communities, and have a vision for how these can be improved in the future. Joining Ocean Outcomes means becoming a part of a passionate and dedicated team of professionals that take pride in making a meaningful impact in the world of fisheries sustainability through collaborative engagement, partnerships, science, and more effective, equitable governance. Sound interesting? [View the full job description and apply here.](https://apply.workable.com/ocean-outcomes/)
-
 -----
 ##Contribute to improving fisheries 
 
