@@ -31,7 +31,7 @@ From workshop planning and facilitation, to developing and supporting local orga
 Get a clear and science-backed understanding of the environmental and socioeconomic status of any fishery, against any of the leading certification standards. We conduct Seafood Watch assessments, Marine Stewardship Council pre-assessments, and have developed our own Rapid Assessment methodologies. We are uniquely positioned to evaluate a fishery’s financial, environmental and social sustainability quickly and efficiently, helping to identify challenges and building the foundation for durable intervention. Learn more about:  
 
 * [The Environmental Rapid Assessment (ERA)] (/what-we-do/services/environmental-rapid-assessment/): a publicly available tool for rapidly and affordably evaluating the environmental sustainability of wild capture fisheries.
-* [The Social Responsibility Assessment Tool for the Seafood Sector (SRA)] (/what-we-do/services/social-rapid-assessment/): useful as a diagnostic or rapid fishery assessment tool to assess risk of social issues.
+* [The Social Responsibility Assessment Tool for the Seafood Sector (SRA)] (/what-we-do/services/social-rapid-assessment/): a diagnostic, benchmarking and risk-assessment tool for conducting human rights due diligence in large and small-scale fisheries.
 * [The Financial Rapid Assessment (FRA)] (/what-we-do/services/financial-rapid-assessment/): a globally applicable tool designed to rapidly assess the business capacity of seafood enterprises.
 
 ----
@@ -56,7 +56,7 @@ Getting stakeholders to the table and facilitating a constructive results-orient
 
 ##### Strategic Consultation 
 
-Leave the development and implementation of environmental and socioeconomic fishery sustainability strategies to the experts. We develop sustainable sourcing policies, bycatch reduction strategies, comprehensive risk analysis reports, anti-IUU and traceability solutions and organizational strategy analysis, to name a few. We can support you as you work to address the breadth of environmental and socioeconomic challenges facing many of the world's fisheries. No project is too complicated or too small.
+Leave the development and implementation of environmental and socioeconomic fishery sustainability strategies to the experts. We develop sustainable sourcing policies, bycatch reduction strategies, comprehensive risk analysis reports, anti-IUU and traceability solutions and organizational strategy analysis, to name a few. We can support you as you work to address the breadth of environmental, social and economic challenges facing many of the world's fisheries. No project is too complicated or too small.
 
 ----
 
@@ -68,7 +68,7 @@ From point of harvest to point of consumption, and everything in between, our su
 
 ##### Triple Impact Fisheries Improvement
 
-We have reimagined the improvement model and built a [Triple Impact Fisheries Evaluation Framework] (/what-we-do/services/triple-impact-improvement/) to increase the viability and decrease the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance. Using the Framework, we can integrate environmental, social and economic dimensions of sustainability and improvement to increase the viability and decrease the risk of the traditional fisheries improvement processes, representing an opportunity for all working in seafood ([view case studies highlighting the impact this approach produces] (/what-we-do/services/triple-impact-case-studies/)).
+We have reimagined the improvement model and built a [Triple Impact Fisheries Evaluation Framework] (/what-we-do/services/triple-impact-improvement/) to increase the viability and decrease the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance. Using the Framework, we can integrate environmental, social and financial dimensions of sustainability and improvement to increase the viability and decrease the risk of the traditional fisheries improvement processes, representing an opportunity for all working in seafood ([view case studies highlighting the impact this approach produces] (/what-we-do/services/triple-impact-case-studies/)).
 
 ----
 
