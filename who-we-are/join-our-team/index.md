@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved
+title: Get Involved (We're Hiring!)
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -10,6 +10,13 @@ weight: 5
 ##Career and volunteer opportunities
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
+
+> **Current job openings:**  
+> 
+> *Northeast Asia Fisheries Director*  
+> 
+> Lead O2’s diverse fisheries and seafood sustainability initiatives and partnerships across Northeast Asia, with an important focus on large-scale fisheries and their supply chains, and actively promoting the development of improved domestic fishery management systems of the region’s countries. This is an extremely unique opportunity to maintain, adapt and grow an exciting and diverse regional fisheries sustainability initiative with the potential for profound global impact. Sound interesting? [View the full job description and apply here.](https://apply.workable.com/ocean-outcomes/)
+
 
 -----
 ##Contribute to improving fisheries 
