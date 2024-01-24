@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Fue Shin Fishery Indian Ocean Longline Tuna FIP
-hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/FSF-IO-FIP-profile-hero.png
+hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release-hero.jpg
 
 ---
 <h2>Overview</h2>
