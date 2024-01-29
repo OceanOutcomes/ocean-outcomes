@@ -1,6 +1,6 @@
 ---
 layout: contact 
-title: Contact Us
+title: Conectarnos
 bodyclass: contact
 weight: 5
 address:
