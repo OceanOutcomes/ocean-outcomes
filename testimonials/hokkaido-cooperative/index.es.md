@@ -1,8 +1,8 @@
 ---
 layout: testimonial
-title: Japan has a long history of fishing; it's part of our culture. That's why it's so important for us to work with people who understand Japanese culture and Japanese fisheries. The O2 team understands this; they work with us, not against us, as we strive for more sustainable fisheries. 
+title: Japón tiene una larga historia de pesca; es parte de nuestra cultura. Por eso es tan importante para nosotros trabajar con personas que entienden la cultura y la pesca japonesas. El equipo de O2 entiende esto; trabajan con nosotros, no contra nosotros, en como nos esforzamos por lograr una pesca más sostenible. 
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/testimonials/hokkaido-testimonial.png
-teaser-text: Kazuhito Fukuda, Deputy Director of Sales, Hokkaido Federation of Fishermen’s Cooperative
+teaser-text: Kazuhito Fukuda, Director Adjunto de Ventas, Federación de Cooperativas de Pescadores de Hokkaido
 weight: 8
 menuexclude: 'true'
 ---
