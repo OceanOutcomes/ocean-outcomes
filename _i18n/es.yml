@@ -38,7 +38,7 @@ es:
 
 
   ## News section
-  news-section-heading: "Stories from the Field"
+  news-section-heading: "Historias desde el campo (en Inglés)"
   news-section-link-text: "See All Posts"
   news-base-url: "/news/"
   news-back: "View all stories"
