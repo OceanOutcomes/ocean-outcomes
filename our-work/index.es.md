@@ -86,6 +86,6 @@ Apoyo general en proyectos de sostenibilidad ambiental, social y económica, y q
 
 ----
 
-##[Ponerse en contacto] (/contact/)
+##[Ponerse en contacto] (/es/contact/)
 
 ---
