@@ -1,8 +1,8 @@
 ---
 layout: testimonial
-title: As small scale fishermen in Baja Mexico, we are motivated to ensure our fishing practices and fishing company policies are supporting a healthy community. But the path to doing as much can be very complicated. That is where O2 has been valuable — they support us on our journey, sharing insight and recommendations that help empower us to make the changes we seek.
+title: Como pescadores a pequeña escala en Baja México, estamos motivados para garantizar que nuestras prácticas pesqueras y las políticas de las empresas pesqueras apoyen una comunidad saludable. Pero el camino para lograrlo puede ser muy complicado. Ahí es donde O2 ha sido valioso: nos apoyan en nuestro viaje, compartiendo conocimientos y recomendaciones que nos ayudan a empoderarnos para realizar los cambios que buscamos.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/testimonials/ensenada-fishery-cooperative-testimonial.png
-teaser-text: Sergio Antonio Sandoval Arauz, Secretary of the Board of Directors, Ensenada Fishery Cooperative
+teaser-text: Sergio Antonio Sandoval Arauz, Secretario de la Junta Directiva, Cooperativa Pesquera de Ensenada
 weight: 11
 menuexclude: 'true'
 ---
