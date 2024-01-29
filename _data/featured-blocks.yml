@@ -9,11 +9,11 @@
 
 - featured: TRUE
   language: es
-  heading: Spanish...
-  title: Spanish text...
+  heading: OUR WORK
+  title: Trabajamos con todas las partes interesadas para descubrir, diseñar e implementar iniciativas relevantes al contexto y con base científica para impulsar la sostenibilidad en las cadenas de suministro de productos del mar.
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
   link:
-    link-text: Spanish
+    link-text: Este enfoque produce resultados ambientales y socioeconómicos tanto para las personas como para el planeta.
     link-url: /es/vision-mission-values/
 
 - featured: TRUE
