@@ -1,8 +1,8 @@
 ---
 layout: testimonial
-title: We require all our salmon to be sourced from producers actively involved in a credible, public FIP, or certified according to credible, third-party standards. Working with Ocean Outcomes is a great way to help meet your sustainability benchmarks.
+title: Requerimos que todo nuestro salmón provenga de productores que participen activamente en un FIP público creíble, o que estén certificados según estándares creíbles de terceros. Trabajar con Ocean Outcomes es una excelente manera de ayudarnos a alcanzar estos puntos de referencia de sostenibilidad
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/testimonials/gortons-testimonial.png
-teaser-text: Greg Jeffers, Director of Seafood Procurement, Gorton’s
+teaser-text: Greg Jeffers, Director de Adquisición de Productos del Mar, Gorton's
 weight: 7
 menuexclude: 'true'
 ---
