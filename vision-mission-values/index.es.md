@@ -4,13 +4,13 @@ title: Mision, Vision y Valores
 subtitle: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/visionmissionhero.jpg
-teaser-text: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+teaser-text: Imaginamos un futuro con ecosistemas acuáticos saludables, un suministro abundante y rentable de mariscos silvestres y comunidades pesqueras prósperas.
 header-image-class: who-we-are
 is-secondary: true
 weight: 1
 ---
 
-##More sustainable fisheries
+##Soluciones creativas hacia una pesca más sostenible
 
 En O2, trabajamos mano a mano con las comunidades locales, los recolectores de productos del mar, la industria pesquera, las cadenas de suministro y las partes interesadas del sector pesquero para diseñar e implementar soluciones basadas en la ciencia hacia una producción de productos del mar más sostenible, mejorando los medios de vida de las comunidades pesqueras y ayudando a conservar el océano y sus recursos.
 
