@@ -67,15 +67,15 @@ es:
   ##########################
   # Contact Page
   ##########################
-  contact-us: "Contact Us"
+  contact-us: "Conectarnos"
   our-location: "Our Location"
-  get-in-touch: "Get In Touch"
+  get-in-touch: "Ponerse en contacto"
 
   # Form
-  optional: "Optional"
-  your-name: "Your Name"
-  your-email: "Your Email Address"
-  your-phone: "Your Phone Number"
-  your-message: "Your Message"
-  subscribe-for-updates: "Receive updates from Ocean Outcomes"
-  submit: "Submit"
+  optional: "Opcional"
+  your-name: "Su nombre"
+  your-email: "Dirección de correo electrónico"
+  your-phone: "Número telefónico"
+  your-message: "Su mensaje"
+  subscribe-for-updates: "Recibir actualizaciones de Ocean Outcomes (en Inglés)"
+  submit: "Enviar"
