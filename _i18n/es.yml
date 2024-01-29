@@ -4,12 +4,12 @@ es:
   # Home page translatables
   ##########################
   ## Home page banner
-  home-page-hero-text: "Advancing economic, social and environmental fisheries sustainability"
-  contact-us: "Get in Touch"
+  home-page-hero-text: "Soluciones creativas hacia una pesca más sostenible"
+  contact-us: "Ponerse en contacto
 
   ## About section
-  about-section-heading: "About Ocean Outcomes"
-  about-section-content: "We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply and thriving fishing communities."
+  about-section-heading: "Acerca de Ocean Outcomes"
+  about-section-content: "Visualizamos un futuro ecosistemas acuáticos saludables, un suministro abundante y rentable de productos del mar silvestres y comunidades pesqueras prósperas."
   
   ### Top level menu item
   who-we-are: "Who We Are"
@@ -56,10 +56,10 @@ es:
   ##########################
   # Header & Footer translatables
   ##########################
-  ocean-outcomes-home: "Ocean Outcomes Home"
-  language: "Spanish"
-  close: "Close"
-  menu: "Menu"
+  ocean-outcomes-home: "Inicio"
+  language: "Idioma"
+  close: "Cerrar"
+  menu: "Menú"
   tracker: "FIP Tracker"
   newsletter: "Subscribe to our newsletter"
   donate: "Make a Donation"
