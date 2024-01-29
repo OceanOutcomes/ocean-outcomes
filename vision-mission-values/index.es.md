@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Mision, Vision y Valores
-subtitle: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+subtitle: Imaginamos un futuro con ecosistemas acuáticos saludables, un suministro abundante y rentable de mariscos silvestres y comunidades pesqueras prósperas.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/visionmissionhero.jpg
 teaser-text: Imaginamos un futuro con ecosistemas acuáticos saludables, un suministro abundante y rentable de mariscos silvestres y comunidades pesqueras prósperas.
