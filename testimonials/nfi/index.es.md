@@ -1,8 +1,8 @@
 ---
 layout: testimonial
-title: NFI is no stranger to working on challenging Fisheries Improvement Projects (FIP), so it made sense to partner with O2 on the first comprehensive crab FIP in China. Despite this project being largely uncharted territory, O2 maintained its ability to work in a timely and thorough manner. Their professional team requires essentially no micromanagement and integrated seamlessly with our staff and stakeholders on the ground.
+title: NFI no es ajeno a trabajar en Proyectos de Mejoramiento Pesquero (FIP, por sus siglas en inglés) desafiantes, por lo que tenía sentido asociarse con O2 en el primer FIP integral de cangrejo en China. A pesar de que este proyecto es en gran medida un territorio inexplorado, O2 mantuvo su capacidad de trabajar de manera oportuna y exhaustiva. Su equipo profesional prácticamente no requiere microgestión y se integra perfectamente con nuestro personal y partes interesadas en el terreno.
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/testimonials/nfi-testimonial.png
-teaser-text: Gavin Gibbons, Vice President, National Fisheries Institute
+teaser-text: Gavin Gibbons, Vicepresidente, Instituto Nacional de Pesca
 weight: 6
 menuexclude: 'true'
 ---
