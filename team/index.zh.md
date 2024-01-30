@@ -1,8 +1,8 @@
 ---
 layout: our-team
-title: Team
-subtitle: With team members and core partners in China, Japan, Mexico, Spain, South Korea, Taiwan and the United States, we are fish and seafood market experts — seafood harvesters, scientists, entrepreneurs and conservationists.
+title: 我們的團隊
+subtitle: 我們的團隊成員和核心合作夥伴遍佈中國、日本、墨西哥、西班牙、韓國、台灣和美國、我們是魚類和海鮮市場專家——海鮮捕撈者、科學家、企業家和自然資源保護者。
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-team-hover.jpg
-teaser-text: With team members and core partners in China, Japan, Mexico, Spain, South Korea, Taiwan and the United States, we are fish and seafood market experts — seafood harvesters, scientists, entrepreneurs and conservationists.
+teaser-text: 我們的團隊成員和核心合作夥伴遍佈中國、日本、墨西哥、西班牙、韓國、台灣和美國、我們是魚類和海鮮市場專家——海鮮捕撈者、科學家、企業家和自然資源保護者。
 weight: 2
 ---
