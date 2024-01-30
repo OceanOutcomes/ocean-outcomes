@@ -1,37 +1,33 @@
 ---
 layout: page 
-title: Vision & Mission & Values
-subtitle: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+title: 願景＆使命＆價值
+subtitle: 我們的願景是一個、海洋生態系統健全、水產品供應充足有序、漁業社區興旺的未來。
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/visionmissionhero.jpg
-teaser-text: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+teaser-text: 我們的願景是一個、海洋生態系統健全、水產品供應充足有序、漁業社區興旺的未來。
 header-image-class: who-we-are
 is-secondary: true
 weight: 1
 ---
 
-##More sustainable fisheries
+##更多永續漁業
 
-At O2, we work hand in hand with local communities, seafood harvesters, seafood industry, supply chains and fishery stakeholders to design and implement science-based solutions towards more sustainable seafood production, improving livelihoods of fishing communities and helping to conserve the ocean and its resources.
+在O2、我們與當地社區、海鮮捕撈者、海鮮產業、海鮮供應鏈和漁業利益相關者攜手合作、設計和實施基於科學的解決方案、以實現更永續的海鮮生產、改善漁業社區的生計並幫助保護海洋及其生態環境與資源。
 
-Fisheries provide livelihoods for millions and food for billions. Demand for sustainable seafood, produced by responsible fisheries, has never been higher. However, collectively we are yet to meet that demand: much of the world’s seafood production remains unsustainable and poorly managed, having destructive effects on the surrounding ecosystem, such as bycatch. Many fisheries and seafood supply chains lack transparent, vetted information — this opacity presents social risks, such as labor abuses and it makes science-based management a challenge. In many cases, exploitative fishing practices take advantage of not only the ocean, but also local fishing communities and those which rely most on healthy fish populations. Despite a global movement to address these challenges, there remains a lack of culturally relevant and regionally specific tools and capacity to translate ambition to actual change on the water. This damages the oceans and imperils the communities and seafood supply chains on which we all depend. At Ocean Outcomes, we are working to change this.
+漁業為數百萬人提供生計、為數十億人提供食物。 對負責任漁業生產的永續海鮮的需求達到歷史新高。 然而、總而言之、我們尚未滿足永續的需求：世界上大部分海鮮生產仍然以不永續的方式經營且管理不善、對周圍生態系統產生負面影響、例如混獲。 許多漁業和海鮮供應鏈缺乏透明及審查—這種不透明帶來了社會性風險、例如虐待勞工、並使科學管理成為一項挑戰。 在許多情況下、過度捕撈不僅耗盡海洋資源、還傷害當地漁業發展和那些最依賴資源生態性的社區。 儘管全球採取了應對這些挑戰的運動、但仍缺乏文化相關和適應特定區域的工具和能力、使得無法將雄心壯志轉化為實際的正面改變。 這會損害海洋並危及我們賴以生存的社區和海鮮供應鏈。 在Ocean Outcomes、我們正在努力改變。
 
-##Vision
+##願景
 
-**We envision** a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+**我們的願景是一個、海洋生態系統健全、水產品供應充足有序、漁業社區興旺的未來。**
 
-##Mission
+##使命
 
-**Our mission** is to improve the sustainability of seafood production and its contributions to our collective environmental and socio-economic well being.
+**我們的使命是提高永續海鮮的生產及對我們集體環境和社會經濟的福祉做出貢獻。**
 
-##Equity Centered Values
+##以公平正義為核心價值
 
-**At Ocean Outcomes, we understand that sustainability requires consideration of both environmental and socio-economic dimensions.** Social and economic inequities have historically been — and continue to be — a problem in fisheries and throughout the seafood industry. Those with privilege exploit those with less power who depend on oceans and freshwater systems for their livelihoods: people who are often not white and often from the global south. Whether they are fishing crews on high seas fishing vessels; participants in community based, small-scale fisheries; or other workers within supply chains, these individuals are disadvantaged and marginalized by systemic injustices within and beyond the seafood industry. Acknowledging these inequities, addressing them and working to ensure more equitable distribution of socio-economic benefits to all seafood producers and suppliers is absolutely essential for successful and durable conservation outcomes.
+**在Ocean Outcomes、我們了解永續發展需要考慮環境和社會經濟層面。**  社會和經濟不平等一直以來、並且仍然是漁業和整個海鮮行業的一個問題。 那些擁有特權的人剝削那些依靠海洋和水生系統維持生計的平民：這些人通常不是白人、而且往往來自偏遠地區。 不論是遠洋漁船上的漁民、小規模漁業的從業者，或供應鏈中的其他工人，這些人因海鮮產業內外的系統性不公義而處於不利地位和邊緣化。 承認這些不平等現象、解決這些問題、並努力確保所有海鮮生產商和供應商更公平地分配社會經濟效益、對於成功和持久的保護成果絕對至關重要。
 
-**O2’s culture, strategies and approach to our work emphasize equity and authenticity.** Our goal is to understand and respect the needs of the people and partners we work with and support them to realize their agency. We acknowledge that our equity centered values are aspirational and we are continuing to learn and grow in our commitment to live them — in both our external mission and through our internal culture. We strive to take an adaptive and communications-centered approach to build bridges among stakeholders and work collaboratively with partners, towards common goals of making environmental and socio-economic fishery improvements in an equitable manner. 
+**O2 的文化、策略和工作方法強調公平性和真實性。 ** 。 我們的目標是理解和尊重與我們合作夥伴的需求、並支持他們使他們充分瞭解自身權益。 我們認為、我們以公平為中心的價值觀是具啟發性的、我們將在我們的外部使命和內在文化中不斷學習和成長、以實踐這些價值觀。 我們努力採取彈性和以有效溝通為、在利益相關者之間建立橋樑、並與合作夥伴合作、實現以公平的方式改善漁業環境和社會經濟的共同目標。
 
-**We also recognize that our internal culture is the foundation for realizing our equity goals and achieving our organizational mission.** We seek to attract and retain staff who value integrity, transparency and trust. We value teamwork and sharing of knowledge, both internally and externally, to build on our collective strengths and interdependencies. O2 staff and Board believe in holding ourselves accountable to our organizational goals, our clients and all stakeholders affected by our work.
-
----
-
-Learn more about [where we work] (/where-we-work/), [what we do] (/what-we-do/), [our approach to fisheries improvement] (/what-we-do/our-approach/), [the services we provide] (/what-we-do/services/), [our financial information] (/who-we-are/board/finances/) and the [latest news from our work.] (/news/)
+**我們也認識到、我們的內部文化是實現我們的公平正義目標和實現我們的組織使命的基礎。** 我們致力於吸引和留住重視誠信、透明度和信任的工作夥伴。 我們重視內部和外部的團隊合作和知識共享、以增強我們的集體優勢和相互依賴性。 O2 員工和董事會堅信我們必須對我們的組織目標、我們的客戶以及所有受我們工作影響的利害關係人負責。
