@@ -4,12 +4,12 @@ zh:
   # Home page translatables
   ##########################
   ## Home page banner
-  home-page-hero-text: "通过创造性坚的决方案，推动渔业可持续发展"
+  home-page-hero-text: "透過開拓性的解決方案、推動漁業永續發展"
   contact-us: "联系我们"
 
   ## About section
-  about-section-heading: "关于Ocean Outcomes"
-  about-section-content: "我们的愿景一个海洋生态系统健全、水产品供应充足、渔业兴旺发达的未来。"
+  about-section-heading: "關於 Ocean Outcomes （O2）"
+  about-section-content: "我們的願景是一個、海洋生態系統健全、水產品供應充足有序、漁業社區興旺的未來。"
   ### Top level menu item
   who-we-are: "Who We Are"
   #### Sub-menu items
@@ -51,23 +51,23 @@ zh:
   ##########################
   # Header & Footer translatables
   ##########################
-  ocean-outcomes-home: "首页"
-  language: "中文"
-  close: "关闭"
-  menu: " 菜单"
+  ocean-outcomes-home: "主頁"
+  language: "語言選項"
+  close: "關閉"
+  menu: "選單"
 
   ##########################
   # Contact Page
   ##########################
   contact-us: "联系我们"
-  our-location: "总部地址"
+  our-location: "ZH needed"
   get-in-touch: "联系我们"
 
   # Form
-  optional: “可选的"
+  optional: “選填"
   your-name: "您的姓名"
-  your-email: "电子邮箱"
-  your-phone: "联系电话"
+  your-email: "電子信箱"
+  your-phone: "聯繫電話"
   your-message: "您的留言"
-  subscribe-for-updates: "订阅O2电子报"
+  subscribe-for-updates: "收到Ocean Outcomes 的最新信息"
   submit: "提交"
