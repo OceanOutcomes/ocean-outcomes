@@ -1,37 +1,95 @@
 ---
 layout: page 
-title: Our Work
-subtitle: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+title: 我們的工作
+subtitle: 我們與所有利害關係人合作、發現、設計和實施基於科學的、與保育相關的舉措、以推動整個海鮮供應鏈的永續發展。 這種方法為人類和地球帶來環境、社會永續及經濟永續的成果。 無論您是領導漁業專案、購買海鮮、投資漁業改革、或是參與海鮮產業的倡議或相關非政府組織、讓我們幫助您實現您所尋求的影響。
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/visionmissionhero.jpg
-teaser-text: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+teaser-text: 我們與所有利害關係人合作、發現、設計和實施基於科學的、與保育相關的舉措、以推動整個海鮮供應鏈的永續發展。 這種方法為人類和地球帶來環境、社會永續及經濟永續的成果。 無論您是領導漁業專案、購買海鮮、投資漁業改革、或是參與海鮮產業的倡議或相關非政府組織、讓我們幫助您實現您所尋求的影響。
 header-image-class: who-we-are
 is-secondary: true
 weight: 3
 ---
 
-##More sustainable fisheries
 
-At O2, we work hand in hand with local communities, seafood harvesters, seafood industry, supply chains and fishery stakeholders to design and implement science-based solutions towards more sustainable seafood production, improving livelihoods of fishing communities and helping to conserve the ocean and its resources.
+<div class="map-section">
+  <div class="grid-container">
+    {% embed channel: map | id: mid=1Mo11wypEylpu9nd5LOEphWbiqf0 %}
+  </div>
+</div>
 
-Fisheries provide livelihoods for millions and food for billions. Demand for sustainable seafood, produced by responsible fisheries, has never been higher. However, collectively we are yet to meet that demand: much of the world’s seafood production remains unsustainable and poorly managed, having destructive effects on the surrounding ecosystem, such as bycatch. Many fisheries and seafood supply chains lack transparent, vetted information — this opacity presents social risks, such as labor abuses and it makes science-based management a challenge. In many cases, exploitative fishing practices take advantage of not only the ocean, but also local fishing communities and those which rely most on healthy fish populations. Despite a global movement to address these challenges, there remains a lack of culturally relevant and regionally specific tools and capacity to translate ambition to actual change on the water. This damages the oceans and imperils the communities and seafood supply chains on which we all depend. At Ocean Outcomes, we are working to change this.
+##如果您開始著手進行永續海鮮產業，我們可以幫助您實現目標。
 
-##Vision
+我們不斷擴大環境、社會和經濟漁業永續發展工作組合、現已覆蓋全球。 我們在日本製定了鮭魚逃脫管理策略； 規劃中國高單價海鮮品種的供應鏈管理； 設計並主持西非、印尼和斐濟的鮪魚捕撈策略研討會； 領導俄羅斯遠東地區的反盜獵行動； 為歐洲和北美的海鮮業務夥伴提供漁業風險分析； 領導了東北亞和拉丁美洲的數十個漁業改進計畫項目； 並加速在太平洋鮪魚延繩釣漁船上採用電子觀察員方案。 主要服務包括：
 
-**We envision** a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+----
 
-##Mission
+##### 永續力建構及教育訓練
+ 
+透過培力發展和支持當地組織和業務合作夥伴的策略、推動和工作執行是我們核心精神。
 
-**Our mission** is to improve the sustainability of seafood production and its contributions to our collective environmental and socio-economic well being.
+* 研討會策劃和協助
+* 永續水產培訓
+* 社會責任計劃
+* 認證和漁業改進課程
 
-##Equity Centered Values
+----
 
-**At Ocean Outcomes, we understand that sustainability requires consideration of both environmental and socio-economic dimensions.** Social and economic inequities have historically been — and continue to be — a problem in fisheries and throughout the seafood industry. Those with privilege exploit those with less power who depend on oceans and freshwater systems for their livelihoods: people who are often not white and often from the global south. Whether they are fishing crews on high seas fishing vessels; participants in community based, small-scale fisheries; or other workers within supply chains, these individuals are disadvantaged and marginalized by systemic injustices within and beyond the seafood industry. Acknowledging these inequities, addressing them and working to ensure more equitable distribution of socio-economic benefits to all seafood producers and suppliers is absolutely essential for successful and durable conservation outcomes.
+##### 環境、經濟和社會責任漁業評估
+ 
+根據現在全球領先的認證標準、對漁業的環境、社會責任及人權和經濟狀況、有一個清晰且科學依據的全面理解。
 
-**O2’s culture, strategies and approach to our work emphasize equity and authenticity.** Our goal is to understand and respect the needs of the people and partners we work with and support them to realize their agency. We acknowledge that our equity centered values are aspirational and we are continuing to learn and grow in our commitment to live them — in both our external mission and through our internal culture. We strive to take an adaptive and communications-centered approach to build bridges among stakeholders and work collaboratively with partners, towards common goals of making environmental and socio-economic fishery improvements in an equitable manner. 
+* 海洋管理委員會 (Marine Stewardship Council, MSC) 先期評估
+* 海鮮觀察 (Seafood Watch) 評估
+* 社會風險 (Social Responsibility Assessment, SRA) 評估
+* 環境、社會和經濟三重影響 (Triple Impact Assessment) 評估
+  
+----
 
-**We also recognize that our internal culture is the foundation for realizing our equity goals and achieving our organizational mission.** We seek to attract and retain staff who value integrity, transparency and trust. We value teamwork and sharing of knowledge, both internally and externally, to build on our collective strengths and interdependencies. O2 staff and Board believe in holding ourselves accountable to our organizational goals, our clients and all stakeholders affected by our work.
+##### 漁業精進計畫 (FIPs)
+
+作為一個致力於精進商業化漁業和水產養殖的組織、我們是設計和實施漁業精進計畫的專家。
+
+* FIP 設計與實施
+* 協調並召集利害關係人
+* 參與FisheryProgress.org（FIP主要主持網站） 和提報公共報告
+* FIP稽核
+
+----
+
+##### 社會人權盡職調查
+ 
+我們透過提供量身訂做的指導和實地實施盡職調查措施、支持企業在其供應鏈中進行有意義的人權盡職調查 (HRDD)。
+
+* HRDD 計劃開發
+* 人權風險評估
+* 糾正措施/改進計劃
+* 建立和/或修訂政策和程序來管理風險
+
+----
+
+##### 漁業管理及政策分析
+ 
+我們針對各種漁業問題和水產挑戰提供新穎和實用的建議、以優化永續發展成果。
+
+* 電子觀察員計畫
+* 水產庫存識別工具的應用
+* 預防管理措施設計
+* 制定漁業監測計劃
+
+----
+
+##### 策略諮詢
+
+將環境、社會和經濟漁業永續發展策略和措施的製定和執行留給專家替你服務。
+
+* 永續採購政策
+* 減少混獲策略
+* 全面的風險分析報告
+* 產品追溯解決方案
+* 相關認證指導
+
+----
+
+##[联系我们] (/zh/contact/)
 
 ---
-
-Learn more about [where we work] (/where-we-work/), [what we do] (/what-we-do/), [our approach to fisheries improvement] (/what-we-do/our-approach/), [the services we provide] (/what-we-do/services/), [our financial information] (/who-we-are/board/finances/) and the [latest news from our work.] (/news/)
