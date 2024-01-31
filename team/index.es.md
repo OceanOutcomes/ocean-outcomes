@@ -1,9 +1,9 @@
 ---
 layout: our-team-es
-title: Team ES
-subtitle: With team members and core partners in China, Japan, Mexico, Spain, South Korea, Taiwan and the United States, we are fish and seafood market experts — seafood harvesters, scientists, entrepreneurs and conservationists. ES
+title: Equipo
+subtitle: Con miembros del equipo y socios clave en China, Japón, México, España, Corea del Sur, Taiwán y los Estados Unidos, somos expertos en pesquerías y mercados de productos de mar — productores, científicos empresarios y conservacionistas.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-team-hover.jpg
-teaser-text: With team members and core partners in China, Japan, Mexico, Spain, South Korea, Taiwan and the United States, we are fish and seafood market experts — seafood harvesters, scientists, entrepreneurs and conservationists. ES
+teaser-text: Con miembros del equipo y socios clave en China, Japón, México, España, Corea del Sur, Taiwán y los Estados Unidos, somos expertos en pesquerías y mercados de productos de mar — productores, científicos empresarios y conservacionistas.
 header-image-class: who-we-are
 is-secondary: true
 weight: 2
