@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Our Work ES
+title: Nuestro Trabajo
 subtitle: Trabajamos con todas las partes interesadas para descubrir, diseñar e implementar iniciativas relevantes al contexto y con base científica para impulsar la sostenibilidad en las cadenas de suministro de productos del mar. Este enfoque produce resultados ambientales y socioeconómicos tanto para las personas como para el planeta. Ya sea que lidere un proyecto pesquero, compre productos del mar, invierta en una reforma pesquera o forme parte de una iniciativa u ONG en el sector pesquero, permítanos ayudarlo a lograr el impacto deseado.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
 hero-image:
