@@ -4,12 +4,12 @@ ko:
   # Home page translatables
   ##########################
   ## Home page banner
-  home-page-hero-text: "Advancing economic, social and environmental fisheries sustainability"
-  contact-us: "Get in Touch"
+  home-page-hero-text: "지속가능한 어업을 위한 솔루션"
+  contact-us: "문의하기"
 
   ## About section
-  about-section-heading: "About Ocean Outcomes"
-  about-section-content: "We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply and thriving fishing communities."
+  about-section-heading: "오션아웃컴즈 소개"
+  about-section-content: "오션아웃컴즈는 건강한 수생태계, 풍요로운 수산업, 활력있는 어업공동체를 위한 미래를 그려 나갑니다."
   
   ### Top level menu item
   who-we-are: "Who We Are"
@@ -38,7 +38,7 @@ ko:
 
 
   ## News section
-  news-section-heading: "Stories from the Field"
+  news-section-heading: "현장의 목소리 (영어)"
   news-section-link-text: "See All Posts"
   news-base-url: "/news/"
   news-back: "View all stories"
@@ -56,10 +56,10 @@ ko:
   ##########################
   # Header & Footer translatables
   ##########################
-  ocean-outcomes-home: "Ocean Outcomes Home"
-  language: "Korean"
-  close: "Close"
-  menu: "Menu"
+  ocean-outcomes-home: "홈"
+  language: "K언어"
+  close: "닫기"
+  menu: "메뉴"
   tracker: "FIP Tracker"
   newsletter: "Subscribe to our newsletter"
   donate: "Make a Donation"
