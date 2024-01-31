@@ -67,15 +67,15 @@ ko:
   ##########################
   # Contact Page
   ##########################
-  contact-us: "Contact Us"
+  contact-us: "문의하기"
   our-location: "Our Location"
   get-in-touch: "Get In Touch"
 
   # Form
-  optional: "Optional"
-  your-name: "Your Name"
-  your-email: "Your Email Address"
-  your-phone: "Your Phone Number"
-  your-message: "Your Message"
-  subscribe-for-updates: "Receive updates from Ocean Outcomes"
-  submit: "Submit"
+  optional: "선택"
+  your-name: "이름"
+  your-email: "이메일"
+  your-phone: "전화번호"
+  your-message: "전하고 싶은 말"
+  subscribe-for-updates: "최신 소식 받기 (영문 컨텐츠만 제공)"
+  submit: "제출"
