@@ -8,7 +8,7 @@
     
 - name: Ho-Tu Chiang
   contractor: false
-  title: Asia Fishery Improvement Manager
+  title: Responsable del programa de Mejora de Pesquerías de Asia
   email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Hotu_staffphoto.png
   bio: |
@@ -24,7 +24,7 @@
     
 - name: Rich Lincoln
   contractor: false
-  title: Executive Director
+  title: Director Ejecutivo
   email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Rich_staffphoto.png
   bio: |
@@ -72,7 +72,7 @@
 
 - name: Nicole Williams
   contractor: false
-  title: Finance and Operations Director
+  title: Director de Operaciones y Finanzas
   email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Nicole_staffphoto.png
   bio: |
