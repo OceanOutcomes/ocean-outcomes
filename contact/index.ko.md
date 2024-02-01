@@ -1,6 +1,6 @@
 ---
 layout: contact 
-title: Contact Us
+title: 문의하기
 bodyclass: contact
 weight: 5
 address:
