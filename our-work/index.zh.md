@@ -3,7 +3,7 @@ layout: page
 title: 我們的工作
 subtitle: 我們與所有利害關係人合作、發現、設計和實施基於科學的、與保育相關的舉措、以推動整個海鮮供應鏈的永續發展。 這種方法為人類和地球帶來環境、社會永續及經濟永續的成果。 無論您是領導漁業專案、購買海鮮、投資漁業改革、或是參與海鮮產業的倡議或相關非政府組織、讓我們幫助您實現您所尋求的影響。
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/visionmissionhero.jpg
+hero-image: 
 teaser-text: 我們與所有利害關係人合作、發現、設計和實施基於科學的、與保育相關的舉措、以推動整個海鮮供應鏈的永續發展。 這種方法為人類和地球帶來環境、社會永續及經濟永續的成果。 無論您是領導漁業專案、購買海鮮、投資漁業改革、或是參與海鮮產業的倡議或相關非政府組織、讓我們幫助您實現您所尋求的影響。
 header-image-class: who-we-are
 is-secondary: true
