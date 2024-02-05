@@ -31,7 +31,3 @@ Fisheries provide livelihoods for millions and food for billions. Demand for sus
 **O2’s culture, strategies and approach to our work emphasize equity and authenticity.** Our goal is to understand and respect the needs of the people and partners we work with and support them to realize their agency. We acknowledge that our equity centered values are aspirational and we are continuing to learn and grow in our commitment to live them — in both our external mission and through our internal culture. We strive to take an adaptive and communications-centered approach to build bridges among stakeholders and work collaboratively with partners, towards common goals of making environmental and socio-economic fishery improvements in an equitable manner. 
 
 **We also recognize that our internal culture is the foundation for realizing our equity goals and achieving our organizational mission.** We seek to attract and retain staff who value integrity, transparency and trust. We value teamwork and sharing of knowledge, both internally and externally, to build on our collective strengths and interdependencies. O2 staff and Board believe in holding ourselves accountable to our organizational goals, our clients and all stakeholders affected by our work.
-
----
-
-Learn more about [where we work] (/where-we-work/), [what we do] (/what-we-do/), [our approach to fisheries improvement] (/what-we-do/our-approach/), [the services we provide] (/what-we-do/services/), [our financial information] (/who-we-are/board/finances/) and the [latest news from our work.] (/news/)
