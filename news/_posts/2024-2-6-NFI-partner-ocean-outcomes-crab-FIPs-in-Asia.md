@@ -2,7 +2,7 @@
 layout: news
 title: NFI Crab Council Partners with Ocean Outcomes on Sustainability Envoy Position
 date: 2024-2-6
-teaser-text: As part of the partnship, O2 will begin interfacing and coordinating with in-country partners, non-governmental organizations, and regulators in an effort to advance sustainability projects across six Asian countries.
+teaser-text: As part of the partnership, O2 will begin interfacing and coordinating with in-country partners, non-governmental organizations, and regulators in an effort to advance sustainability projects across six Asian countries.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/RSC-FIP-pot-image-1.png
 featured: TRUE
 ---
@@ -10,7 +10,7 @@ featured: TRUE
 
 **Reston, VA** — The National Fisheries Institute’s (NFI) Crab Council announces it will be partnering with Ocean Outcomes (O2) to fill the group’s Sustainability Envoy position. The partnership with O2 will help ensure the Council’s Fishery Improvement Projects (FIPs) are making significant progress in meeting recognized standards.
 
->**““We approached hiring a new Envoy in a fairly traditional manner,” said the Council’s Executive Director Ed Rhodes. “We interviewed a number of highly qualified candidates but ended up gravitating towards the idea of having the O2 team take on the role. It’s a departure from the way we’ve done things in the past, but we’re excited to be partnering with them. They’ve got a proven track record in the sustainability space and are no stranger to the crab world.”**
+>**“We approached hiring a new Envoy in a fairly traditional manner,” said the Council’s Executive Director Ed Rhodes. “We interviewed a number of highly qualified candidates but ended up gravitating towards the idea of having the O2 team take on the role. It’s a departure from the way we’ve done things in the past, but we’re excited to be partnering with them. They’ve got a proven track record in the sustainability space and are no stranger to the crab world.”**
 
 The position was most recently filled by the late Dr. Abdul Ghofar, an accomplished fisheries biologist and a well-known crab sustainability expert. 
 
