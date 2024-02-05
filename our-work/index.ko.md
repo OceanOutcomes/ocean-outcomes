@@ -1,37 +1,95 @@
 ---
 layout: page 
 title: Our Work
-subtitle: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+subtitle: We work with all stakeholders to uncover, design and implement science-based, context relevant initiatives to drive sustainability across seafood supply chains. This approach produces environmental and socio-economic outcomes for both people and the planet. Whether you are leading a fisheries project, buying seafood, investing in fisheries reform, or part of an initiative or NGO in the seafood sector, let us help deliver the impact you seek.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/visionmissionhero.jpg
+hero-image:
 teaser-text: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
 header-image-class: who-we-are
 is-secondary: true
 weight: 3
 ---
 
-##More sustainable fisheries
+<div class="map-section">
+  <div class="grid-container">
+    {% embed channel: map | id: mid=1Mo11wypEylpu9nd5LOEphWbiqf0 %}
+  </div>
+</div>
 
-At O2, we work hand in hand with local communities, seafood harvesters, seafood industry, supply chains and fishery stakeholders to design and implement science-based solutions towards more sustainable seafood production, improving livelihoods of fishing communities and helping to conserve the ocean and its resources.
+##If you’re working in sustainable seafood, we can help you deliver on your goals.
 
-Fisheries provide livelihoods for millions and food for billions. Demand for sustainable seafood, produced by responsible fisheries, has never been higher. However, collectively we are yet to meet that demand: much of the world’s seafood production remains unsustainable and poorly managed, having destructive effects on the surrounding ecosystem, such as bycatch. Many fisheries and seafood supply chains lack transparent, vetted information — this opacity presents social risks, such as labor abuses and it makes science-based management a challenge. In many cases, exploitative fishing practices take advantage of not only the ocean, but also local fishing communities and those which rely most on healthy fish populations. Despite a global movement to address these challenges, there remains a lack of culturally relevant and regionally specific tools and capacity to translate ambition to actual change on the water. This damages the oceans and imperils the communities and seafood supply chains on which we all depend. At Ocean Outcomes, we are working to change this.
+Our ever-expanding portfolio of environmental, social and economic fisheries sustainability work spans the globe. We have developed salmon escapement management strategies in Japan; mapped out supply chains of the highest valued seafood species in China; designed and led curricula for tuna harvest strategy workshops in West Africa, Indonesia and Fiji; led anti-poaching initiatives in the Russian Far East; provided fishery risk analysis for seafood business partners across Europe and North America; led dozens of Fishery Improvement Projects across Northeast Asia and Latin America; and accelerated the uptake of electronic monitoring programs on longline tuna vessels in the Pacific Ocean. Key services include:
 
-##Vision
+----
 
-**We envision** a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+##### Capacity Building and Training
+ 
+Developing and supporting local organizations and business partners in their strategy, growth and implementation is core to our ethos. 
 
-##Mission
+* Workshop planning and facilitation
+* Sustainable seafood trainings
+* Human and labor rights 
+* Certification and fishery improvement courses
 
-**Our mission** is to improve the sustainability of seafood production and its contributions to our collective environmental and socio-economic well being.
+----
 
-##Equity Centered Values
+##### Environmental, Financial and Social Fishery Assessment
+ 
+Get a clear and science-backed understanding of the environmental & social & financial status of any fishery, against any of the leading certification standards. 
 
-**At Ocean Outcomes, we understand that sustainability requires consideration of both environmental and socio-economic dimensions.** Social and economic inequities have historically been — and continue to be — a problem in fisheries and throughout the seafood industry. Those with privilege exploit those with less power who depend on oceans and freshwater systems for their livelihoods: people who are often not white and often from the global south. Whether they are fishing crews on high seas fishing vessels; participants in community based, small-scale fisheries; or other workers within supply chains, these individuals are disadvantaged and marginalized by systemic injustices within and beyond the seafood industry. Acknowledging these inequities, addressing them and working to ensure more equitable distribution of socio-economic benefits to all seafood producers and suppliers is absolutely essential for successful and durable conservation outcomes.
+* Marine Stewardship Council pre-assessments
+* Seafood Watch assessments
+* Social Risk Assessments
+* Environmental, social and financial triple impact assessments
+  
+----
 
-**O2’s culture, strategies and approach to our work emphasize equity and authenticity.** Our goal is to understand and respect the needs of the people and partners we work with and support them to realize their agency. We acknowledge that our equity centered values are aspirational and we are continuing to learn and grow in our commitment to live them — in both our external mission and through our internal culture. We strive to take an adaptive and communications-centered approach to build bridges among stakeholders and work collaboratively with partners, towards common goals of making environmental and socio-economic fishery improvements in an equitable manner. 
+##### Fishery Improvement Projects (FIPs)
 
-**We also recognize that our internal culture is the foundation for realizing our equity goals and achieving our organizational mission.** We seek to attract and retain staff who value integrity, transparency and trust. We value teamwork and sharing of knowledge, both internally and externally, to build on our collective strengths and interdependencies. O2 staff and Board believe in holding ourselves accountable to our organizational goals, our clients and all stakeholders affected by our work.
+As an organization founded on improving commercial fisheries and aquaculture operations, we are experts in the design and implementation of FIPs.
+
+* FIP development, launch and implementation
+* Stakeholder convening
+* FisheryProgress.org and public reporting
+* FIP auditing
+* Implementation of Human Rights and Social Responsibility (HRSR) Policy
+
+----
+
+##### Human Rights Due Diligence
+ 
+We support companies undertaking meaningful human rights due diligence (HRDD) in their supply chains by providing tailored guidance and on-the-ground implementation of due diligence measures.
+
+* Development of HRDD programs
+* Human rights risk assessments
+* Corrective action/improvement plans
+* Establish and/or revise policies and procedures to manage risk
+
+----
+
+##### Fisheries Management and Policy Analysis 
+ 
+We provide creative and practical advice to a variety of fishery issues and seafood production challenges to optimize sustainability outcomes.
+
+* Electronic monitoring programs
+* Application of stock identification tools
+* Design of precautionary management measures
+* Development of fishery monitoring plans
+
+----
+
+##### Strategic Consultation
+
+Leave the development and implementation of environmental, social and economic fishery sustainability strategies and initiatives to the experts.
+
+* Sustainable sourcing policies
+* Bycatch reduction strategies
+* Comprehensive risk analysis reports
+* Traceability solutions
+* Certification guidance
+
+----
+
+##[Get in touch] (/ko/contact/)
 
 ---
-
-Learn more about [where we work] (/where-we-work/), [what we do] (/what-we-do/), [our approach to fisheries improvement] (/what-we-do/our-approach/), [the services we provide] (/what-we-do/services/), [our financial information] (/who-we-are/board/finances/) and the [latest news from our work.] (/news/)
