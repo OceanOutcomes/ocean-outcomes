@@ -4,7 +4,7 @@ title: Conserving China’s Largest Eelgrass Bed
 date: 2023-8-14
 teaser-text: Eelgrass beds once flourished in the Yellow Sea, but over the past 30 years, eelgrass beds have declined significantly. We are working with our partners Qingdao Marine Conservation Society in China to reverse this decline.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai+Painting.jpeg
-featured: TRUE
+featured: FALSE
 ---
 *We implement our work in China through close partnerships with a leading local NGO named Qingdao Marine Conservation Society (QMCS) — which was established with technical support from Ocean Outcomes. This update and video from our partners at QMCS highlights the work we are doing on the ground to improve small-scale fisheries and conservation outcomes along the coastline of the Yellow Sea.*
 

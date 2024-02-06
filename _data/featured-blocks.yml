@@ -1,4 +1,4 @@
-- featured: FALSE
+- featured: TRUE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals.
@@ -6,6 +6,24 @@
   link:
     link-text: Learn How
     link-url: /what-we-do/services/
+
+- featured: TRUE
+  language: es
+  heading: Nuestro Trabajo
+  title: Trabajamos con todas las partes interesadas para descubrir, diseñar e implementar iniciativas relevantes al contexto y con base científica para impulsar la sostenibilidad en las cadenas de suministro de productos del mar.
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
+  link:
+    link-text: Este enfoque produce resultados ambientales y socioeconómicos tanto para las personas como para el planeta.
+    link-url: /es/our-work/
+
+- featured: FALSE
+  language: ko
+  heading: Korean...
+  title: Korean text...
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
+  link:
+    link-text: Korean
+    link-url: /ko/vision-mission-values/
 
 - featured: FALSE
   language: en
@@ -25,7 +43,7 @@
     link-text: Learn More
     link-url: /what-we-do/triple-bottom-line-seafood/funding-and-facility/
     
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: We are seeking a Northeast Asia Fisheries Director!
   title: Do you care as much about sustainable fisheries as we do?
@@ -60,16 +78,24 @@
   link:
     link-text: 日本での活動について知る
     link-url: https://seafoodlegacy.com/
-  
+
 - featured: TRUE
   language: zh
-  heading: Ocean Outcomes (简称O2)与青岛市海洋生态研究会、道然的合作关系
-  title: O2通过与就地合作伙伴，位于中国的本土非政府组织-青岛市海洋生态研究会、立足于中国环保服务的机构-道然，合作开展当地的渔业改进项目。三方在一系列可持续海鲜与渔业项目的筹资、设计、试验和执行上展开合作，共同推动中国本土渔业迈向可持续发展未来。
+  heading: 我們的工作
+  title: 我們與所有利害關係人合作、發現、設計和實施基於科學的、與保育相關的舉措、以推動整個海鮮供應鏈的永續發展。
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
+  link:
+    link-text: 這種方法為人類和地球帶來環境、社會永續及經濟永續的成果。
+    link-url: /zh/our-work/
+
+- featured: TRUE
+  language: zh
+  heading: Ocean Outcomes (簡稱O2)與青島市海洋生態研究會、道然的合作關係
+  title: O2透過與合作夥伴、位於中國的本土非政府組織-青島市海洋生態研究會、立足於中國保育服務的機構-道然、合作開展當地的漁業改進計畫。 三方在一系列永續海鮮與漁業計畫的籌資、設計、試驗和執行上展開合作、共同推動中國本土漁業邁向永續發展未來。
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-hiring.jpg
   link:
     link-text: 了解更多
     link-url: http://www.qmcs.org.cn
-    
       
 - featured: FALSE
   language: ru

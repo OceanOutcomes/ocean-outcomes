@@ -2,12 +2,19 @@
 {% assign secondary = '' %}
 {% assign sorted_pages = site.pages | sort: 'weight' %}
 {% for node in sorted_pages %}
+  
+  {% if node.is-secondary %}
+    {% assign is_secondary = true %}
+  {% else %}
+    {% assign is_secondary = false %}
+  {% endif %}
+  
   {% include node_depth.html %}
   {% if node_depth == 3 and node.lang == page.lang %}
-  {% if node.title != '404 Not Found' %}
-    {% capture primary %}{{primary | append: node_url | append: '|' | append: node.title | append: '\;'}}{% endcapture %}
-  {% endif %}
-  {% elsif node_depth == 4 and node.lang == page.lang %}
+    {% if node.title != '404 Not Found' %}
+      {% capture primary %}{{primary | append: node_url | append: '|' |  append: node.title | append: '|' | append: is_secondary | append: '\;'}}{% endcapture %}
+    {% endif %}
+  {% elsif node_depth == 4 and node.lang == page.lang and node.menuexclude != 'true' %}
     {% capture secondary %}{{secondary | append: node_url | append: '|' | append: node.title | append: '\;'}}{% endcapture %}
   {% endif %}
 {% endfor %}
@@ -23,19 +30,21 @@
     <a href="/zh/">首页</a>
     {% when 'ru' %}
     <a href="/ru/">Главная страница</a>
+    {% when 'es' %}
+    <a href="/es/">Inicio</a>
+    {% when 'ko' %}
+    <a href="/ko/">홈</a>
     {% endcase %}
   </li>
   {% for parent in primary %}
     {% assign parent-info = parent | split: '|' %}
     {% include has_children.html %}
 
-    {% if has_children %}
-      {% assign class = "top-level" %}
-    {% else %}
-      {% assign class = "top-level" %}
-    {% endif %}
+    {% comment %} There was code here that adjusted the font size of these menu items bases on their hierarchy. {% endcomment %}
+    {% comment %} See the SHA below to reference if needed. {% endcomment %}
+    {% comment %} ff1de2433ef995f058ae29dc85913fd39f43f9ea {% endcomment %}
 
-    <li class="{{ class }}">
+    <li class="top-level">
       <a href="{{parent-info[0]}}">{{parent-info[1]}}</a>
       {% if has_children %}
       <ul>
@@ -51,6 +60,6 @@
   {% endfor %}
 
   {% for item in site.data.menu[page.lang] %}
-    <li class="top-level small"><a href="{{item.url}}">{{item.title}}</a></li>
+    <li class="top-level"><a href="{{item.url}}">{{item.title}}</a></li>
   {% endfor %}
 </ul>

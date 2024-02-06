@@ -1,0 +1,57 @@
+---
+layout: default
+bodyclass: content-page
+---
+<div class="content-page-content {{page.title | downcase | replace: ' ', '-' }}">
+
+  {% include content-header.html %}
+  {% include content-subnav.html %}
+
+  <article class="map-section">
+    <div class="grid-container">
+      {% embed channel: map | id: mid=zb_2xWe6INUw.kI9hgFPQ9S_M %}
+    </div>
+  </article>
+  <article>
+    <div class="grid-container">
+      <h3 class="left">Ocean Outcomes 團隊</h3>
+      <ul id="og-grid" class="og-grid">
+        {% for person in site.data.staff-zh %}
+         {% if person.contractor == false %}
+          <li>
+             <a href="/"
+               data-largesrc="{{person.image}}"
+               data-title="{{person.name}}" data-email="{{person.email | encode_email}}" data-description="{{person.bio | markdownify}}"
+               data-position="{{person.title}}">
+              <img src="{{person.image}}" alt="staff image"/>
+              <span class="initial-details">
+                <span class="og-name">{{person.name}}</span>
+                <span class="og-title">{{person.title}}</span>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <h3 class="left">策略顧問</h3>
+      <ul id="og-grid-2" class="og-grid">
+        {% for person in site.data.staff-zh %}
+        {% if person.contractor %}
+        <li>
+           <a href="/"
+             data-largesrc="{{person.image}}"
+             data-title="{{person.name}}" data-description="{{person.bio | markdownify}}"
+             data-position="{{person.title}}">
+            <img src="{{person.image}}" alt="staff image"/>
+            <span class="initial-details">
+              <span class="og-name">{{person.name}}</span>
+              <span class="og-title">{{person.title}}</span>
+            </span>
+          </a>
+        </li>
+        {% endif %}
+        {% endfor%}
+      </ul>
+    </div>
+  </article>
+</div>

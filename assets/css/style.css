@@ -487,6 +487,7 @@ body {
   background: #2B3A46 url(../images/post-header-bg.jpg) no-repeat;
   background-size: cover; }
 
+.content-page .content-header.team,
 .landing .content-header.who-we-are,
 .landing .content-header.ruwho-we-are,
 .landing .content-header.jpwho-we-are,
@@ -509,7 +510,9 @@ body {
 .landing .content-header.where-we-work,
 .landing .content-header.ruareas-of-focus,
 .landing .content-header.jpareas-of-focus,
-.content-page .content-header.where-we-work {
+.page-content .content-header.ruareas-of-focus,
+.page-content .content-header.jpareas-of-focus,
+.page-content .content-header.where-we-work {
   background: url(../images/areas-of-focus-header-bg.jpg) center center no-repeat;
   background-size: cover; }
 
@@ -890,7 +893,7 @@ body {
   background: #2B3A46 url(../images/what-we-do.png) no-repeat center center;
   background-size: cover; }
 
-.home-about__item.areas-of-focus {
+.home-about__item.where-we-work {
   background: #2B3A46 url(../images/areas-of-focus.png) no-repeat center center;
   background-size: cover; }
 

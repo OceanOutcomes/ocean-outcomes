@@ -1,6 +1,6 @@
 <footer class="site-footer">
   <div class="wrap">
-    {% unless page.lang contains "ru" or page.lang contains "jp" or page.lang contains "zh" %}
+    {% unless page.lang contains "ru" or page.lang contains "jp" or page.lang contains "zh" or page.lang contains "es" or page.lang contains "ko" %}
     <ul>
       <li><a href="{{ site.baseurl}}/who-we-are/">{%t who-we-are %}</a></li>
       <li><a href="{{ site.baseurl}}/what-we-do/">{%t what-we-do %}</a></li>
@@ -27,6 +27,10 @@
       {% case page.lang %}
       {% when 'ru' %}
       <a href="/ru/">{%t ocean-outcomes-home %}</a>
+      {% when 'ko' %}
+      <a href="/ko/">{%t ocean-outcomes-home %}</a>
+      {% when 'es' %}
+      <a href="/es/">{%t ocean-outcomes-home %}</a>
       {% when 'jp' %}
       <a href="/jp/">{%t ocean-outcomes-home %}</a>
       {% when 'zh' %}

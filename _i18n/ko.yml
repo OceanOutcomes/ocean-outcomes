@@ -1,0 +1,81 @@
+# Site default language is English, which is represented as 'und' or 'Undefined'.
+ko:
+  ##########################
+  # Home page translatables
+  ##########################
+  ## Home page banner
+  home-page-hero-text: "지속가능한 어업을 위한 솔루션"
+  contact-us: "문의하기"
+
+  ## About section
+  about-section-heading: "오션아웃컴즈 소개"
+  about-section-content: "오션아웃컴즈는 건강한 수생태계, 풍요로운 수산업, 활력있는 어업공동체를 위한 미래를 그려 나갑니다."
+  
+  ### Top level menu item
+  who-we-are: "Who We Are"
+  #### Sub-menu items
+  vision-mission: "Vision & Mission & Values"
+  our-team: "Team"
+  board: "Board"
+  testimonials: "Testimonials"
+  join-our-team: "Get Involved (We're Hiring!)"
+
+  ### Top level menu item
+  what-we-do: "What We Do"
+  #### Sub-menu items
+  triple-bottom-line-seafood: "Our Approach"
+  services: "Services"
+  small-scale-fisheries: "Small-Scale Fisheries"
+  tuna: "Tuna & High Seas Fisheries"
+  our-partners: "Partnerships & Collaborations"
+  
+  ### Top level menu item
+  where-we-work: "Where We Work"
+  #### Sub-menu items
+  chinese-fisheries-seafood: "China"
+  japanese-fisheries-seafood: "Northeast Asia"
+  latin-america-fisheries-seafood: "Latin America"
+
+
+  ## News section
+  news-section-heading: "현장의 목소리 (영어)"
+  news-section-link-text: "See All Posts"
+  news-base-url: "/news/"
+  news-back: "View all stories"
+  news-published: "Published"
+  news-like: "Like what you are reading?"
+  news-notified: "Get notified of new posts"
+  news-more: "More Stories from the Field"
+  news-previous: "Previous Post"
+  news-next: "Next Post"
+
+  ### Misc
+  learn-more: "Learn More"
+  back-to: "Back to"
+
+  ##########################
+  # Header & Footer translatables
+  ##########################
+  ocean-outcomes-home: "홈"
+  language: "K언어"
+  close: "닫기"
+  menu: "메뉴"
+  tracker: "FIP Tracker"
+  newsletter: "Subscribe to our newsletter"
+  donate: "Make a Donation"
+
+  ##########################
+  # Contact Page
+  ##########################
+  contact-us: "문의하기"
+  our-location: "Our Location"
+  get-in-touch: "문의하기"
+
+  # Form
+  optional: "선택"
+  your-name: "이름"
+  your-email: "이메일"
+  your-phone: "전화번호"
+  your-message: "전하고 싶은 말"
+  subscribe-for-updates: "최신 소식 받기 (영문 컨텐츠만 제공)"
+  submit: "제출"

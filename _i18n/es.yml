@@ -1,0 +1,81 @@
+# Site default language is English, which is represented as 'und' or 'Undefined'.
+es:
+  ##########################
+  # Home page translatables
+  ##########################
+  ## Home page banner
+  home-page-hero-text: "Soluciones creativas hacia una pesca más sostenible"
+  contact-us: "Ponerse en contacto"
+
+  ## About section
+  about-section-heading: "Acerca de Ocean Outcomes"
+  about-section-content: "Visualizamos un futuro ecosistemas acuáticos saludables, un suministro abundante y rentable de productos del mar silvestres y comunidades pesqueras prósperas."
+  
+  ### Top level menu item
+  who-we-are: "Who We Are"
+  #### Sub-menu items
+  vision-mission: "Vision & Mission & Values"
+  our-team: "Team"
+  board: "Board"
+  testimonials: "Testimonials"
+  join-our-team: "Get Involved (We're Hiring!)"
+
+  ### Top level menu item
+  what-we-do: "What We Do"
+  #### Sub-menu items
+  triple-bottom-line-seafood: "Our Approach"
+  services: "Services"
+  small-scale-fisheries: "Small-Scale Fisheries"
+  tuna: "Tuna & High Seas Fisheries"
+  our-partners: "Partnerships & Collaborations"
+  
+  ### Top level menu item
+  where-we-work: "Where We Work"
+  #### Sub-menu items
+  chinese-fisheries-seafood: "China"
+  japanese-fisheries-seafood: "Northeast Asia"
+  latin-america-fisheries-seafood: "Latin America"
+
+
+  ## News section
+  news-section-heading: "Historias desde el campo (en Inglés)"
+  news-section-link-text: "See All Posts"
+  news-base-url: "/news/"
+  news-back: "View all stories"
+  news-published: "Published"
+  news-like: "Like what you are reading?"
+  news-notified: "Get notified of new posts"
+  news-more: "More Stories from the Field"
+  news-previous: "Previous Post"
+  news-next: "Next Post"
+
+  ### Misc
+  learn-more: "Learn More"
+  back-to: "Back to"
+
+  ##########################
+  # Header & Footer translatables
+  ##########################
+  ocean-outcomes-home: "Inicio"
+  language: "Idioma"
+  close: "Cerrar"
+  menu: "Menú"
+  tracker: "FIP Tracker"
+  newsletter: "Subscribe to our newsletter"
+  donate: "Make a Donation"
+
+  ##########################
+  # Contact Page
+  ##########################
+  contact-us: "Conectarnos"
+  our-location: "Our Location"
+  get-in-touch: "Ponerse en contacto"
+
+  # Form
+  optional: "Opcional"
+  your-name: "Su nombre"
+  your-email: "Dirección de correo electrónico"
+  your-phone: "Número telefónico"
+  your-message: "Su mensaje"
+  subscribe-for-updates: "Recibir actualizaciones de Ocean Outcomes (en Inglés)"
+  submit: "Enviar"
