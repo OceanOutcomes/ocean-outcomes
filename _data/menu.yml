@@ -35,11 +35,11 @@ und:
   #   url: small link url
 
 jp:
-  - title: Stories from the Field
+  - title: 現場からの最新情報（英語）
     url: /news
 
 zh:
-  - title: Stories from the Field
+  - title: 最新消息
     url: /news
 
 ru:
@@ -47,9 +47,9 @@ ru:
     url: /news
 
 es:
-  - title: Stories from the Field
+  - title: Historias Desde el Campo (en Inglés)
     url: /news
 
 ko:
-  - title: Stories from the Field
+  - title: 현장의 목소리 (영어)
     url: /news
