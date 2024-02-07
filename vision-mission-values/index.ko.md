@@ -1,10 +1,10 @@
 ---
 layout: page 
-title: Vision & Mission & Values
-subtitle: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+title: 비전 & 미션 & 공평의 가치
+subtitle: 오션아웃컴즈는 건강한 수생태계, 풍요로운 수산업, 활력있는 어업공동체를 위한 미래를 그려갑니다.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/visionmissionhero.jpg
-teaser-text: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+teaser-text: 오션아웃컴즈는 건강한 수생태계, 풍요로운 수산업, 활력있는 어업공동체를 위한 미래를 그려갑니다.
 header-image-class: who-we-are
 is-secondary: true
 weight: 1
@@ -12,22 +12,22 @@ weight: 1
 
 ##More sustainable fisheries
 
-At O2, we work hand in hand with local communities, seafood harvesters, seafood industry, supply chains and fishery stakeholders to design and implement science-based solutions towards more sustainable seafood production, improving livelihoods of fishing communities and helping to conserve the ocean and its resources.
+오션아웃컴즈는 지속가능한 수산물의 생산, 어업공동체의 소득증진, 그리고 해양 및 해양자원의 보전을 위해 전 세계 지역공동체, 어업자, 수산업계, 이해관계자와 협력하고 있습니다. 
 
-Fisheries provide livelihoods for millions and food for billions. Demand for sustainable seafood, produced by responsible fisheries, has never been higher. However, collectively we are yet to meet that demand: much of the world’s seafood production remains unsustainable and poorly managed, having destructive effects on the surrounding ecosystem, such as bycatch. Many fisheries and seafood supply chains lack transparent, vetted information — this opacity presents social risks, such as labor abuses and it makes science-based management a challenge. In many cases, exploitative fishing practices take advantage of not only the ocean, but also local fishing communities and those which rely most on healthy fish populations. Despite a global movement to address these challenges, there remains a lack of culturally relevant and regionally specific tools and capacity to translate ambition to actual change on the water. This damages the oceans and imperils the communities and seafood supply chains on which we all depend. At Ocean Outcomes, we are working to change this.
+어업은 전 세계 수백만에게는 생계의 터전이자, 수십억 인구를 위한 식량의 원천을 제공합니다. 윤리적이고 지속가능한 어업방식으로 생산된 수산물에 대한 수요는 그 어느 때 보다 높습니다. 하지만 지속가능한 수산물에 대한 수요는 좀처럼 충족되지 않고 있습니다. 전 세계 대부분의 수산물은 지속가능하지 않은 방식으로 관리⋅생산되고 있을 뿐만 아니라, 수산물 생산을 위해 혼획 등 해양 생태계를 파괴하는 어업이 이루어 지고 있습니다. 어업을 포함한 수산업은 정보 투명성이 부족한 문제를 안고 있습니다. 이러한 투명성의 부재는 노동인권 침해 등 사회 윤리적 리스크로 이어질 뿐만 아니라, 과학적 어업관리의 걸림돌이 될 수 있습니다. 실제 약탈적 어업으로 해양환경이 파괴되고, 건강한 어업자원에 생계를 맡기고 있는 어업공동체가 해체된 사례를 심심찮게 찾아 볼 수 있습니다. 이를 해결하기 위해 전 지구적 운동이 펼쳐지고 있음에도, 여전히 지역 어업 현실에 맞는 실질적 해결책과 역량이 부족한 실정입니다. 이는 곧 해양환경의 위기이자, 지역 공동체와 수산업 전체의 위기로 이어지고 있습니다. 
 
-##Vision
+##비전
 
-**We envision** a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+오션아웃컴즈는 건강한 수생태계, 풍요로운 수산업, 활력있는 어업공동체를 위한 미래를 그려갑니다.
 
-##Mission
+##미션
 
-**Our mission** is to improve the sustainability of seafood production and its contributions to our collective environmental and socio-economic well being.
+오션아웃컴즈는 수산물 생산의 지속가능성을 높이고, 이를 통해 환경⋅사회⋅경제적 지속가능성을 실현하기 위해 노력합니다. 
 
-##Equity Centered Values
+##공평의 가치
 
-**At Ocean Outcomes, we understand that sustainability requires consideration of both environmental and socio-economic dimensions.** Social and economic inequities have historically been — and continue to be — a problem in fisheries and throughout the seafood industry. Those with privilege exploit those with less power who depend on oceans and freshwater systems for their livelihoods: people who are often not white and often from the global south. Whether they are fishing crews on high seas fishing vessels; participants in community based, small-scale fisheries; or other workers within supply chains, these individuals are disadvantaged and marginalized by systemic injustices within and beyond the seafood industry. Acknowledging these inequities, addressing them and working to ensure more equitable distribution of socio-economic benefits to all seafood producers and suppliers is absolutely essential for successful and durable conservation outcomes.
+**지속가능성을 실현하기 위해서는 반드시 환경⋅사회⋅경제적 측면을 고려해야 합니다.** 어업과 수산업계 전번에는 오랫동안 사회 및 경제적 불평등이 만연해 있습니다. 특권층은 해양과 내수면에 생계가 달려있는 사회적 약자를 착취해 왔으며,  이러한 사회적 약자들은 남반구의 유색인종인 경우가 많습니다. 이들은 원양어선, 소규모 연근해 어업, 수산물 가공유통 등 수산업계 전반에 종사하고 있으나, 수산업계 안팍의 구조적 불공정에 취약한 실정입니다. 수산업계에 만연한 불평등을 인식하고, 해결하며, 모든 어업인과 업계 종사자들이 사회경제적 이익을 공평하게 누릴 수 있도록 하는 것이야 말로, 성공적인 환경보전의 필수적인 요소입니다.
 
-**O2’s culture, strategies and approach to our work emphasize equity and authenticity.** Our goal is to understand and respect the needs of the people and partners we work with and support them to realize their agency. We acknowledge that our equity centered values are aspirational and we are continuing to learn and grow in our commitment to live them — in both our external mission and through our internal culture. We strive to take an adaptive and communications-centered approach to build bridges among stakeholders and work collaboratively with partners, towards common goals of making environmental and socio-economic fishery improvements in an equitable manner. 
+**오션아웃컴즈는 조직문화에서부터 전략수립에 이르는 전 과정에서 공평의 가치를 실현하고자 합니다.** 또한 함께 하는 모든 이들을 이해하고 존중하며, 그들의 꿈을 실현할 수 있도록 돕고 있습니다. 우리는 공평의 가치를 실현하기 위해, 우리와 함께 하는 모든 이들로 부터 계속해서 배우고 성장하고 있습니다. 오션아웃컴은 유연하고 소통을 중요시하는 자세로 이해관계자와의 관계, 파트너와의 협력을 증진하고 있으며, 환경 및 사회경제적인 관점으로 어업을 개선하면서도 공평의 가치를 담고자 합니다. 
 
-**We also recognize that our internal culture is the foundation for realizing our equity goals and achieving our organizational mission.** We seek to attract and retain staff who value integrity, transparency and trust. We value teamwork and sharing of knowledge, both internally and externally, to build on our collective strengths and interdependencies. O2 staff and Board believe in holding ourselves accountable to our organizational goals, our clients and all stakeholders affected by our work.
+**공정에 대한 오션아웃컴즈의 목표를 실현하기 위한 시작점은 바로 조직문화입니다.** 또한  진실, 투명성, 신뢰의 가치를 갖춘 인재와 함께 하기 위해 노력합니다. 우리는 조직의 역량을 키우고 상호존중을 실현하기 위해 팀워크, 내외부와 지식의 공유의 가치를 우선시합니다. 우리 오션아웃컴즈의 구성원과 이사회는 우리의 가치를 실현하고, 파트너와 모든 이해관계자와의 관계에 대한 책임과 사명을 다하고 있습니다. 
