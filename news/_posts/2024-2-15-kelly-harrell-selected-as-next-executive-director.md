@@ -14,9 +14,7 @@ Poised for continued delivery and growth of work across Northeast Asia and Latin
 
 This experience includes leadership positions in both the nonprofit and for-profit sectors with an emphasis on conservation, fisheries-dependent communities, food systems, and supply chains. This has given her a deep appreciation for — and ability to thrive in — the nexus at which fisheries, economies, food systems and communities intersect.
 
-![Kelly Harrell Commercial Fishing Picture](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/kelly-harrell-selected-as-next-executive-director-supporting-image.png)
-*Kelly has worked for decades in commercial fisheries, including in Bristol Bay, Alaska.*
-
+![Kelly Harrell Commercial Fishing Picture](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/kelly-harrell-selected-as-next-executive-director-supporting-image.png)  
 >**“My career has provided me with diverse experience in fisheries and seafood supply chains; from fisheries monitoring to seafood quality, working waterfront infrastructure, ecosystem impacts, fisheries access, market opportunities, and beyond,” noted Kelly. “I am looking forward to applying this experience and lessons learned from working in fisheries in Alaska and North America to the global geographies in which O2 is active.”**
 
 Her appointment comes at an opportune moment — Ocean Outcomes has just begun implementation of its new three year strategic plan, and the team is well-funded, adding multiple new positions in 2024 to support its shared organizational culture and growing programmatic work.
