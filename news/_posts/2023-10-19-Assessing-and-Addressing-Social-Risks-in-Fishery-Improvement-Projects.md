@@ -4,7 +4,7 @@ title: Assessing and Addressing Social Risks in Fishery Improvement Projects
 date: 2023-10-19
 teaser-text: As the need to address social risk in fisheries becomes more evident, Ocean Outcomes is leading the way in integrating social requirements into Fishery Improvement Projects and scaling the use and uptake of Social Responsibility Assessments.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SRA+Gabby+Exiting+Vessel+hero+image.png
-featured: TRUE
+featured: FALSE
 ---
 
 ###Over the past decade, Fishery Improvement Projects (FIPs) have played an important role in helping seafood buyers and local stakeholders to address harmful fishing practices. 
