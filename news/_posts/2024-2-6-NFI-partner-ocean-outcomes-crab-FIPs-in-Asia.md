@@ -4,7 +4,7 @@ title: NFI Crab Council Partners with Ocean Outcomes on Sustainability Envoy Pos
 date: 2024-2-6
 teaser-text: As part of the partnership, O2 will begin interfacing and coordinating with in-country partners, non-governmental organizations, and regulators in an effort to advance sustainability projects across six Asian countries.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/RSC-FIP-pot-image-1.png
-featured: TRUE
+featured: FALSE
 ---
 ###New partnership will cover each Council funded Fisheries Improvement Project across six countries
 

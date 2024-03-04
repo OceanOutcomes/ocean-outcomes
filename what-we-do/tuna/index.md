@@ -47,6 +47,7 @@ Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
 
+* [New Partnership to Improve Worker Conditions on Asian Longliners] (/news/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry/)
 * [NFI Crab Council Partners with Ocean Outcomes on Sustainability Envoy Position] (/news/NFI-partner-ocean-outcomes-crab-FIPs-in-Asia/)
 * [Assessing and Addressing Social Risks in Fishery Improvement Projects] (/news/Assessing-and-Addressing-Social-Risks-in-Fishery-Improvement-Projects/)
 * [Electronic Monitoring and the MSC Standard 3.0 in Korea’s Largest Tuna Fisheries] (/news/electronic-monitoring-msc-korea-largest-tuna-fisheries-sustainability-roundtable/)
