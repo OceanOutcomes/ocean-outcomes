@@ -15,7 +15,7 @@ The new initiative is core to a newly established partnership between the two or
 Migrant labor plays a crucial role in Taiwan’s distant water fishery. Around 22,000 foreign crew members work on Taiwan’s 1,127 distant water fishing vessels. The majority of these are Indonesians, Filipinos and Vietnamese. Prior to signing up to fish, many of these workers have few Chinese language skills and little fishing experience, if any at all.
 
 ![Improving Taiwanese Fishing Industry Labor Conditions Through Training and Education](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry-2.png) 
-*The new partnership has the potential to expand training to hundreds of migrant workers in Taiwan's distant water fisheries, such as for these 20 crewmembers who participated in a recent training program. © One Forty*
+*The new partnership has the potential to expand social responsibility trainings to hundreds of migrant workers in Taiwan's distant water fisheries, such as for these 20 crewmembers who participated in a recent training program. © One Forty*
 
 ###Meaningful improvements in conditions for migrant labor
 
@@ -42,6 +42,9 @@ The initial focus of the work will be language training and educational programs
 With migrant labor playing a key role in the sector regionally, both O2 and One-Forty hope to scale the work beyond FIPs in Taiwan to the broader industry, and even regionally.
 
 >**“We believe our partnership with One-Forty represents a groundbreaking opportunity to integrate improved practices within a local context. This collaboration is more than a project; it's a potential blueprint for improved working conditions across Northeast Asia's Distant Water Fisheries,” adds Ho-Tu. “By successfully adapting to the unique complexities of working conditions in the industry, we can create a replicable model to inspire and guide similar initiatives throughout the region.”**
+
+![Improving Taiwanese Fishing Industry Labor Conditions Through Training and Education](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry-4.png) 
+*© One Forty*
 
 ----
 
