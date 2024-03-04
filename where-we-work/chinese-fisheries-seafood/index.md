@@ -38,6 +38,7 @@ Without a significant, concerted, and locally-led push for reform, overfishing, 
 ---
 ##Stories from the Field: China
 
+* [New Partnership to Improve Worker Conditions on Asian Longliners] (/news/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry/)
 * [Conserving China’s Largest Eelgrass Bed] (/news/conservation-china-eelgrass-pew-yellow-sea-small-scale-fishing)
 * [NFI Red Crab Council and Ocean Outcomes Continue to Advance Fishery Improvement Work in China] (/news/nfi-fishery-improvement-project-producing-sustainability-in-china-crab/)
 * [Chinese Coastal Communities Making Progress in Conservation Area Stewardship and Promoting Sustainable Fisheries] (/news/chinese-coastal-communities-conservation-sustainable-fisheries-qingdao-index/)
