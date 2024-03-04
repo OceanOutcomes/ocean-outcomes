@@ -12,19 +12,19 @@ The new initiative is core to a newly established partnership between the two or
 
 >**“Systematic training for migrant workers is essential to ensuring the sustainability of the fishing industry,” notes Kevin Chen, Founder of One-Forty. “Through empowering migrant workers, it is possible to generate positive interactions and relationships amongst fishermen themselves, and between fishermen and captains and larger sustainability goals.”**
 
+Migrant labor plays a crucial role in Taiwan’s distant water fishery. Around 22,000 foreign crew members work on Taiwan’s 1,127 distant water fishing vessels. The majority of these are Indonesians, Filipinos and Vietnamese. Prior to signing up to fish, many of these workers have few Chinese language skills and little fishing experience, if any at all.
+
 ![Kelly Harrell Commercial Fishing Picture](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/kelly-harrell-selected-as-next-executive-director-supporting-image.png) 
 *Social Responsibility Program Manager, Dr. Gabby Lout, and Asia Fishery Improvement Manager, Ho-Tu Chiang, conducting an onboard interview as part of an SRA in American Samoa.*
 
-###Migrant labor plays a crucial role in Taiwan’s distant water fishery 
-
-Around 22,000 foreign crew members work on Taiwan’s 1,127 distant water fishing vessels. The majority of these are Indonesians, Filipinos and Vietnamese. Prior to signing up to fish, many of these workers have few Chinese language skills and little fishing experience, if any at all.
+###Meaningful improvements in condistions for migrant labor
 
 While environmental sustainability initiatives are on the rise in Taiwan, such as increases in Fishery Improvement Projects (FIPs) and Marine Stewardship Council (MSC) certifications, there continues to be a disconnect between market-driven initiatives and meaningful improvements in conditions for migrant labor.
 
+>**“Supporting our partners in Taiwan with fishery improvement projects (FIPs) has deepened our understanding of opportunities to improve human rights and working conditions for crewmembers,” notes Ho-Tu Chiang, who manages O2’s FIPs in the region. “Realizing this, we're building out more customized and worker-centric approaches to ensure crewmembers receive comprehensive and systematic guidance. The partnership with One-Forty will help us accelerate this approach.”**
+
 ![Kelly Harrell Commercial Fishing Picture](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/kelly-harrell-selected-as-next-executive-director-supporting-image.png) 
 *Social Responsibility Program Manager, Dr. Gabby Lout, and Asia Fishery Improvement Manager, Ho-Tu Chiang, conducting an onboard interview as part of an SRA in American Samoa.*
-
->**“Supporting our partners in Taiwan with fishery improvement projects (FIPs) has deepened our understanding of opportunities to improve human rights and working conditions for crewmembers,” notes Ho-Tu Chiang, who manages O2’s FIPs in the region. “Realizing this, we're building out more customized and worker-centric approaches to ensure crewmembers receive comprehensive and systematic guidance. The partnership with One-Forty will help us accelerate this approach.”**
 
 ###Equiping migrant labor with knowledge and skills
 
@@ -47,4 +47,4 @@ With migrant labor playing a key role in the sector regionally, both O2 and One-
 
 **Additional Resources:**
 
-[Download a PDF of this announcement.] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/RELEASE+-+Kelly+Harrell+Selected+as+Next+Executive+Director+of+Ocean+Outcomes+2-15-2024.pdf)
+[Download a PDF of this announcement.] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Ocean+Outcomes+and+One+Forty+Partnership+to+Improve+Worker+Conditions+Announcement+March+2024.pdf)
