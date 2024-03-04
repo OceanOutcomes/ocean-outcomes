@@ -46,6 +46,7 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 ---
 ##Stories from the Field: Northeast Asia
 
+* [New Partnership to Improve Worker Conditions on Asian Longliners] (/news/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry/)
 * [NFI Crab Council Partners with Ocean Outcomes on Sustainability Envoy Position] (/news/NFI-partner-ocean-outcomes-crab-FIPs-in-Asia/)
 * [Conserving China’s Largest Eelgrass Bed] (/news/conservation-china-eelgrass-pew-yellow-sea-small-scale-fishing)
 * [Electronic Monitoring and the MSC Standard 3.0 in Korea’s Largest Tuna Fisheries] (/news/electronic-monitoring-msc-korea-largest-tuna-fisheries-sustainability-roundtable/)
