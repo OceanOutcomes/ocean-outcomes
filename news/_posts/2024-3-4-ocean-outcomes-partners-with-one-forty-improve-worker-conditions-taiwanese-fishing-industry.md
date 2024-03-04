@@ -14,17 +14,17 @@ The new initiative is core to a newly established partnership between the two or
 
 Migrant labor plays a crucial role in Taiwan’s distant water fishery. Around 22,000 foreign crew members work on Taiwan’s 1,127 distant water fishing vessels. The majority of these are Indonesians, Filipinos and Vietnamese. Prior to signing up to fish, many of these workers have few Chinese language skills and little fishing experience, if any at all.
 
-![Kelly Harrell Commercial Fishing Picture](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/kelly-harrell-selected-as-next-executive-director-supporting-image.png) 
-*Social Responsibility Program Manager, Dr. Gabby Lout, and Asia Fishery Improvement Manager, Ho-Tu Chiang, conducting an onboard interview as part of an SRA in American Samoa.*
+![Improving Taiwanese Fishing Industry Labor Conditions Through Training and Education](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry-3.png) 
+*Subitle. © One Forty*
 
-###Meaningful improvements in condistions for migrant labor
+###Meaningful improvements in conditions for migrant labor
 
 While environmental sustainability initiatives are on the rise in Taiwan, such as increases in Fishery Improvement Projects (FIPs) and Marine Stewardship Council (MSC) certifications, there continues to be a disconnect between market-driven initiatives and meaningful improvements in conditions for migrant labor.
 
 >**“Supporting our partners in Taiwan with fishery improvement projects (FIPs) has deepened our understanding of opportunities to improve human rights and working conditions for crewmembers,” notes Ho-Tu Chiang, who manages O2’s FIPs in the region. “Realizing this, we're building out more customized and worker-centric approaches to ensure crewmembers receive comprehensive and systematic guidance. The partnership with One-Forty will help us accelerate this approach.”**
 
-![Kelly Harrell Commercial Fishing Picture](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/kelly-harrell-selected-as-next-executive-director-supporting-image.png) 
-*Social Responsibility Program Manager, Dr. Gabby Lout, and Asia Fishery Improvement Manager, Ho-Tu Chiang, conducting an onboard interview as part of an SRA in American Samoa.*
+![Improving Taiwanese Fishing Industry Labor Conditions Through Training and Education](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry-1.png) 
+*Subitle. © One Forty*
 
 ###Equiping migrant labor with knowledge and skills
 
@@ -34,8 +34,8 @@ Providing educational and vocational training and resources at the recruitment s
 
 The initial focus of the work will be language training and educational programs for migrant labor on Taiwanese distant water fishing vessels engaged in FIPs and under the mandate of the Taiwan Fishery Agency. A first joint training session between O2 and One-Forty was piloted as part of One-Forty’s ongoing educational programs last month on a Chinese longline vessel with 20 Filipino workers. With the help of two Filipino teachers, the crew received basic Mandarin lessons, information on workers rights and provided feedback on topics of specific interest for future training, such as occupational safety.
 
-![Kelly Harrell Commercial Fishing Picture](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/kelly-harrell-selected-as-next-executive-director-supporting-image.png) 
-*Social Responsibility Program Manager, Dr. Gabby Lout, and Asia Fishery Improvement Manager, Ho-Tu Chiang, conducting an onboard interview as part of an SRA in American Samoa.*
+![Improving Taiwanese Fishing Industry Labor Conditions Through Training and Education](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry-2.png) 
+*Subitle. © One Forty*
 
 ###An opportunity to scale work across Northeast Asian distant water fisheries
 
