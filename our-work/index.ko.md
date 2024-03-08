@@ -1,10 +1,10 @@
 ---
 layout: page 
-title: Our Work
-subtitle: We work with all stakeholders to uncover, design and implement science-based, context relevant initiatives to drive sustainability across seafood supply chains. This approach produces environmental and socio-economic outcomes for both people and the planet. Whether you are leading a fisheries project, buying seafood, investing in fisheries reform, or part of an initiative or NGO in the seafood sector, let us help deliver the impact you seek.
+title: 활동
+subtitle: 오션아웃컴즈는 수산물 공급망 전반에 걸쳐 지속가능성을 향상하기 위해, 관련 이해관계자들과 협력하여 과학적 이니셔티브를 발굴, 개발, 실행하고 있습니다. 이를 통해 사람과 지구를 위한 환경적, 사회⋅경제적 성과를 도출하고 있습니다. 다양한 이해관계자들과 협업하여 어업 관련 프로젝트, 수산물 구매, 어업관리제도 개선, 수산 NGO 활동 등을 지원하고 있습니다. 
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/vision-and-mission-hover.jpg
 hero-image:
-teaser-text: We envision a future with healthy aquatic ecosystems, a plentiful and profitable wild seafood supply, and thriving fishing communities.
+teaser-text: 오션아웃컴즈는 수산물 공급망 전반에 걸쳐 지속가능성을 향상하기 위해, 관련 이해관계자들과 협력하여 과학적 이니셔티브를 발굴, 개발, 실행하고 있습니다. 이를 통해 사람과 지구를 위한 환경적, 사회⋅경제적 성과를 도출하고 있습니다. 다양한 이해관계자들과 협업하여 어업 관련 프로젝트, 수산물 구매, 어업관리제도 개선, 수산 NGO 활동 등을 지원하고 있습니다. 
 header-image-class: who-we-are
 is-secondary: true
 weight: 3
@@ -16,80 +16,80 @@ weight: 3
   </div>
 </div>
 
-##If you’re working in sustainable seafood, we can help you deliver on your goals.
+##지속가능한 수산물 협력
 
-Our ever-expanding portfolio of environmental, social and economic fisheries sustainability work spans the globe. We have developed salmon escapement management strategies in Japan; mapped out supply chains of the highest valued seafood species in China; designed and led curricula for tuna harvest strategy workshops in West Africa, Indonesia and Fiji; led anti-poaching initiatives in the Russian Far East; provided fishery risk analysis for seafood business partners across Europe and North America; led dozens of Fishery Improvement Projects across Northeast Asia and Latin America; and accelerated the uptake of electronic monitoring programs on longline tuna vessels in the Pacific Ocean. Key services include:
-
-----
-
-##### Capacity Building and Training
- 
-Developing and supporting local organizations and business partners in their strategy, growth and implementation is core to our ethos. 
-
-* Workshop planning and facilitation
-* Sustainable seafood trainings
-* Human and labor rights 
-* Certification and fishery improvement courses
+오션아웃컴즈는 전 세계를 무대로 환경, 사회, 경제적 측면에서 어업의 지속가능성을 향상하는 활동을 하고 있습니다. 오션아웃컴즈는 그간 일본의 연어관리전략을 수립하였으며, 중국에서 최고가에 거래되는 수산물 어종의 공급망을 분석하고, 서아프리카, 인도네시아, 피지에서 다랑어 어획전략(Harvest Strategy) 워크숖을 개최하였습니다. 또한 극동러시아 지역의 밀렵방지 프로젝트를 주도하였고, 유럽 및 북미의 수산업계와 파트너쉽을 맺고 어업리스크 분석을 실시하였으며, 동북아시아 및 남미 지역에서 다수의 어업개선프로젝트(FIP)를 수행하였습니다. 그뿐만 아니라 태평양 다랑어 연승조업선의 전자조업모니터링 프로그램을 추진하였습니다. 주요 활동은 아래와 같습니다. 
 
 ----
 
-##### Environmental, Financial and Social Fishery Assessment
+##### 역량강화 및 교육・훈련
  
-Get a clear and science-backed understanding of the environmental & social & financial status of any fishery, against any of the leading certification standards. 
+오션아웃컴 활동의 핵심은 기관 및 기업 파트너의 전략, 성장, 이행을 개발하고 지원하는 것 입니다. 
 
-* Marine Stewardship Council pre-assessments
-* Seafood Watch assessments
-* Social Risk Assessments
-* Environmental, social and financial triple impact assessments
+* 워크숍 기획 및 개최
+* 지속가능한 수산물 관련 교육・훈련
+* 인권 및 노동권 
+* 국제 인증 및 어업개선 과정
+
+----
+
+##### 어업평가: 환경, 파이낸스, 사회
+ 
+다양한 국제인증제도를 통해 어업의 환경, 사회, 파이낸스에 대해 명확하고 과학적인 이해를 돕습니다. 
+
+* 해양관리협의회(MSC) 예비심사
+* 씨푸드워치 (Seafood Watch) 수산물 평가
+* 사회 리스크 평가
+* 환경, 사회, 파이낸스 ‘트리플 임팩트’ 평가
   
 ----
 
-##### Fishery Improvement Projects (FIPs)
+##### 어업개선프로젝트(FIP)
 
-As an organization founded on improving commercial fisheries and aquaculture operations, we are experts in the design and implementation of FIPs.
+오션아웃컴즈는 상업적 어업 및 양식업을 개선하고자 하는 설립취지에 따라, 어업개선프로젝트 (FIP)를 기획 및 실행할 수 있는 전문가 집단으로 성장하였습니다. 
 
-* FIP development, launch and implementation
-* Stakeholder convening
-* FisheryProgress.org and public reporting
-* FIP auditing
-* Implementation of Human Rights and Social Responsibility (HRSR) Policy
+* FIP 개발, 발족, 이행
+* 이해관계자 협의
+* FisheryProgress.org 등 정보공개
+* FIP 감사
+* 인권 및 사회 책임성 (HRSR) 정책의 이행
 
 ----
 
-##### Human Rights Due Diligence
+##### 인권실사 (Human Rights Due Diligence)
  
-We support companies undertaking meaningful human rights due diligence (HRDD) in their supply chains by providing tailored guidance and on-the-ground implementation of due diligence measures.
+공급망에 대한 인권실사를 실시하려는 기업들에게 맞춤형 현장 지원을 하고 있습니다. 
 
-* Development of HRDD programs
-* Human rights risk assessments
-* Corrective action/improvement plans
-* Establish and/or revise policies and procedures to manage risk
+* 인권실사 프로그램의 개발
+* 인권 리스크 평가
+* 개선점 도출 및 개선계획 수립
+* 리스크관리를 위한 정책 및 절차 수립 및 개정
 
 ----
 
-##### Fisheries Management and Policy Analysis 
+##### 어업관리 및 정책 분석
  
-We provide creative and practical advice to a variety of fishery issues and seafood production challenges to optimize sustainability outcomes.
+어업 및 수산물 관련 다양한 이슈에 대한 창의적이고 실질적인 자문을 제공하여 지속가능성을 최적화 합니다. 
 
-* Electronic monitoring programs
-* Application of stock identification tools
-* Design of precautionary management measures
-* Development of fishery monitoring plans
-
-----
-
-##### Strategic Consultation
-
-Leave the development and implementation of environmental, social and economic fishery sustainability strategies and initiatives to the experts.
-
-* Sustainable sourcing policies
-* Bycatch reduction strategies
-* Comprehensive risk analysis reports
-* Traceability solutions
-* Certification guidance
+* 전자조업모니터링
+* 어업자원 개군 (stock identification) 분석 툴
+* 사전 예방적 관리정책 수립
+* 어업 모니터링 계획 개발
 
 ----
 
-##[Get in touch] (/ko/contact/)
+##### 전략컨설팅
+
+어업의 환경・사회・경제적 지속가능성 전략 및 이니셔티브를 개발하고 이행하는 것은 오션아웃컴의 전문컨설턴트에게 맡기십시오. 
+
+* 지속가능한 수산물 구매 정책
+* 혼획저감전략
+* 통합적 리스크 분석 보고서 작성
+* 이력추적성 솔루션
+* 국제인증 컨설팅
+
+----
+
+##[문의하기] (/ko/contact/)
 
 ---
