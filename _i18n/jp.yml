@@ -34,7 +34,7 @@ jp:
   newsletter: "Newsletter"
 
   ## News section
-  news-section-heading: "ニュース＆分析"
+  news-section-heading: "ニュースと分析 (英語)"
   news-section-link-text: "すべてのニュース＆分析を参照してください。"
   news-base-url: "/jp/news/"
   news-back: "戻るニュース＆分析へ"
