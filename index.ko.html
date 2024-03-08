@@ -34,8 +34,26 @@ title: Home | Ocean Outcomes
   {% endif %}
   {% endfor %}
 
-<section class="home-news">
+  {% include date-format.html %}
+  <section class="home-news">
     <div class="grid-container">
-
+      <h1>{%t news-section-heading %}</h1>
+      <div class="posts">
+        {% for post in site.tags.und %}
+          {% if post.featured %}
+            <div class="post">
+              <a href="{{ post.url }}"><img src="{{ post.hero-image }}" alt="{{post.title}}"></a>
+              <p class="post-date">{{ post.date | date: date-format }}</p>
+              <h2>
+                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                    {{ post.title }}
+                  </a>
+                </h2>
+                <p class="post-teaser-text">{{ post.teaser-text }}</p>
+              </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+      <a class="button-large" href="/news/">{%t news-section-link-text %}</a>
     </div>
-</section>
+  </section>

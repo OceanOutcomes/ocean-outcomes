@@ -16,14 +16,14 @@
     link-text: Este enfoque produce resultados ambientales y socioeconómicos tanto para las personas como para el planeta.
     link-url: /es/our-work/
 
-- featured: FALSE
+- featured: TRUE
   language: ko
-  heading: Korean...
-  title: Korean text...
+  heading: 활동
+  title: 오션아웃컴즈는 수산물 공급망 전반에 걸쳐 지속가능성을 향상하기 위해, 관련 이해관계자들과 협력하여 과학적 이니셔티브를 발굴, 개발, 실행하고 있습니다.
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
   link:
-    link-text: Korean
-    link-url: /ko/vision-mission-values/
+    link-text:  이를 통해 사람과 지구를 위한 환경적, 사회⋅경제적 성과를 도출하고 있습니다.
+    link-url: /ko/our-work/
 
 - featured: FALSE
   language: en
