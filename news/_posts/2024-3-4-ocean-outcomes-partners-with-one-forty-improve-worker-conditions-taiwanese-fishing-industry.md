@@ -8,7 +8,7 @@ featured: TRUE
 ---
 ###Ocean Outcomes (O2) and One-Forty have joined forces to launch a pioneering education and training initiative for migrant workers in Taiwanese distant water fisheries.
 
-The new initiative is core to a newly established partnership between the two organizations focused on coupling their respective expertise to support social responsibility in the Taiwanese industry.
+The new initiative is core to a newly established partnership between the two organizations focused on coupling their respective expertise to support social responsibility in the Taiwanese fishing industry.
 
 >**“Systematic training for migrant workers is essential to ensuring the sustainability of the fishing industry,” notes Kevin Chen, Founder of One-Forty. “Through empowering migrant workers, it is possible to generate positive interactions and relationships amongst fishermen themselves, and between fishermen and captains and larger sustainability goals.”**
 
