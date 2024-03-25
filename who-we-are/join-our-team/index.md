@@ -32,7 +32,7 @@ As a small group with big goals working with fisheries across vast geographies a
 
  * <a href="https://www.linkedin.com/company/oceanoutcomes/" target="_blank">Connect with O2 on LinkedIn</a>
  * <a href="http://www.twitter.com/oceanoutcomes" target="_blank">Follow O2 on X / Twitter</a>
-  * <a href="http://www.facebook.com/oceanoutcomes" target="_blank">Find O2 on Facebook</a>
+ * <a href="http://www.facebook.com/oceanoutcomes" target="_blank">Find O2 on Facebook</a>
 
 -----
 ##Be a sustainable seafood advocate
