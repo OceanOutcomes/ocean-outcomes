@@ -21,8 +21,7 @@ We’re working to ensure ocean resources are abundant and sustainably harvested
 O2 has earned a Gold Seal of Transparency from GuideStar and a four star rating from Charity Navigator! 
 
 <a href="https://www.guidestar.org/profile/shared/9c87b1e5-f828-4ef4-9f52-ad1d33ab3eb6" target="_blank"><img src="https://widgets.guidestar.org/TransparencySeal/9523457" /></a>  
-<a href="https://www.charitynavigator.org/ein/464901375" target="_blank" ><img src="https://publish-p61203-e558128.adobeaemcloud.com/content/dam/cn/cn/badges/Four-Star%20Rating%20Badge%20-%20Full%20Color.png" alt="Charity Navigator Four-Star Rating" style="max-width: 140px;"/></a>
-
+<a href="https://www.charitynavigator.org/ein/44901375" target="_blank" ><img src="https://charitynavigator.org/content/dam/cn/cn/badges/Four-StarRatingBadge-FullColor.png" alt="Charity Navigator Four-Star Rating" style="max-width: 160px;"/></a>
 
 -----
 
