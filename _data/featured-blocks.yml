@@ -105,9 +105,6 @@
   link:
     link-text: Link 1
     link-url: http://www.google.com
-  link:
-    link-text: Link 2
-    link-url: http://www.bing.com
       
 - featured: FALSE
   language: ru
