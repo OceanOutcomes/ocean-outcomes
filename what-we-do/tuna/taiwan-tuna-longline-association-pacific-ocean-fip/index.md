@@ -2,7 +2,7 @@
 layout: page
 title: Taiwan Tuna Longline Association Pacific Ocean FIP 
 landing-image: 
-hero-image:https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/taiwan-tuna-longline-association-pacific-ocean-fip-release-hero.png
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/taiwan-tuna-longline-association-pacific-ocean-fip-release-hero.png
 weight:
 teaser-text: 
 --- 
