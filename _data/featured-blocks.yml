@@ -96,6 +96,18 @@
   link:
     link-text: 了解更多
     link-url: http://www.qmcs.org.cn
+
+- featured: TRUE
+  language: zh
+  heading: TEST title
+  title: Test text
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chumsalmonstoryhero.png
+  link:
+    link-text: Link 1
+    link-url: http://www.google.com
+  link:
+    link-text: Link 2
+    link-url: http://www.bing.com
       
 - featured: FALSE
   language: ru
