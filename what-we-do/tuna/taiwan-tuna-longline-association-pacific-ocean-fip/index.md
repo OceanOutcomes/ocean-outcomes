@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Taiwan Tuna Longline Association Pacific Ocean Prospective FIP 
+title: Taiwan Tuna Longline Association Pacific Ocean FIP 
 landing-image: 
 hero-image: 
 weight:
