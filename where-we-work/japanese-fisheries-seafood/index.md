@@ -30,6 +30,7 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 ---
 ##Northeast Asian Fishery Fishery Improvement Projects:
 
+* [Taiwan Tuna Longline Association Pacific Ocean FIP] (/what-we-do/tuna/taiwan-tuna-longline-association-pacific-ocean-fip/)
 * [East China Sea and Yellow Sea Squid FIP] (/where-we-work/chinese-fisheries-seafood/east-china-sea-and-yellow-sea-squid/)
 * [Fue Shin Fishery Pacific Ocean Longline Tuna FIP] (/what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/)
 * [Fue Shin Fishery Indian Ocean Longline Tuna FIP] (/what-we-do/tuna/fue-shin-fishery-indian-ocean-longline-tuna-fip/)
