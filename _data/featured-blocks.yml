@@ -90,13 +90,22 @@
 
 - featured: TRUE
   language: zh
+  heading: 你的關注可以讓世界變得更好  
+  title: 作為一個有著遠大目標，在許多地區與漁業合作的小型組織，與我們保持聯繫有助於將永續漁業的信息傳達給更多人，為商業漁業面臨的問題發聲，並有助於增加對永續海鮮的需求。   
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chumsalmonstoryhero.png
+  link:
+    link-text: 我們的臉書
+    link-url: http://www.facebook.com/oceanoutcomes
+
+- featured: TRUE
+  language: zh
   heading: Ocean Outcomes (簡稱O2)與青島市海洋生態研究會、道然的合作關係
   title: O2透過與合作夥伴、位於中國的本土非政府組織-青島市海洋生態研究會、立足於中國保育服務的機構-道然、合作開展當地的漁業改進計畫。 三方在一系列永續海鮮與漁業計畫的籌資、設計、試驗和執行上展開合作、共同推動中國本土漁業邁向永續發展未來。
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-hiring.jpg
   link:
     link-text: 了解更多
-    link-url: http://www.qmcs.org.cn
-      
+    link-url: https://www.qmcs.org.cn/
+    
 - featured: FALSE
   language: ru
   heading: Что такое ФИП?

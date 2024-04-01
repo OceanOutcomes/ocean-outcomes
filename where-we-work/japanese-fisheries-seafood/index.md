@@ -39,6 +39,7 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 * [Miyagi Onagawa Coho Salmon AIP] (/where-we-work/japanese-fisheries-seafood/miyagi-coho-salmon/)
 * [Nachi Katsuura Albacore Longline FIP] (/where-we-work/japanese-fisheries-seafood/nachi-katsurra-albacore-longline/)
 * [South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP] (/what-we-do/tuna/south-pacific-longline-albacore-yellowfin/)
+* [Taiwan Tuna Longline Association Pacific Ocean FIP] (/what-we-do/tuna/taiwan-tuna-longline-association-pacific-ocean-fip/)
 * [Tokyo Bay Sea Perch FIP] (/where-we-work/japanese-fisheries-seafood/tokyo-bay-sea-perch/)
 * [Tomamae Giant Pacific Octopus FIP] (/where-we-work/japanese-fisheries-seafood/tomamae-giant-pacific-octopus/)
 * [Western Kamchatka Salmon FIP] (/where-we-work/japanese-fisheries-seafood/western-kamchatka-salmon/)

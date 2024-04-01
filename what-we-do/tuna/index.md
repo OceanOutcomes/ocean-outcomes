@@ -43,6 +43,7 @@ Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org
 * [Indian Ocean Albacore Tuna Longline FIP] (/what-we-do/tuna/indian-ocean-longline-albacore/)
 * [Nachi Katsuura Albacore Longline FIP] (/where-we-work/japanese-fisheries-seafood/nachi-katsurra-albacore-longline/)
 * [South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP] (/what-we-do/tuna/south-pacific-longline-albacore-yellowfin/)
+* [Taiwan Tuna Longline Association Pacific Ocean FIP] (/what-we-do/tuna/taiwan-tuna-longline-association-pacific-ocean-fip/)
 
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
