@@ -86,4 +86,4 @@ At the beginning of 2022, the Chinese Ministry of Agriculture and Rural Affairs 
 
 ---
 
-**<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Qingdao+Marine+Conservation+Society+2021+Annual+Report.pdf" target="_blank">To learn more about QMCS’s work, please see QMCS’s 2021 annual report here.</a>**
+**<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Qingdao+Marine+Conservation+Society+QMCS+2023+Annual+Report+Fina+4-4-24.pdf" target="_blank">To learn more about QMCS’s work, please see QMCS’s 2023 annual report here.</a>**
