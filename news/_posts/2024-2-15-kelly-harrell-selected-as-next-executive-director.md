@@ -4,7 +4,7 @@ title: Ocean Outcomes Selects Kelly Harrell as Next Executive Director
 date: 2024-2-15
 teaser-text: The Ocean Outcomes Executive Search Committee has selected industry veteran Kelly Harrell to inherit leadership of a team that is poised for significant impact over the coming years.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/kelly-harrell-selected-as-next-executive-director-hero.png
-featured: TRUE
+featured: FALSE
 ---
 ###Innovative changemaker with 17 years of diverse experience in seafood, fisheries and organizational leadership to lead Ocean Outcomes into its second decade
 
