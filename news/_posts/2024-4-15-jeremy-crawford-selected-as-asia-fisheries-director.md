@@ -1,8 +1,8 @@
 ---
 layout: news
-title: Title
+title: Ocean Outcomes Announces New Asia Fisheries Director
 date: 2024-4-15
-teaser-text: Subtitle
+teaser-text: Jeremy Crawford to lead a growing portfolio of projects and partnerships across the Western Pacific region.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/kelly-harrell-selected-as-next-executive-director-hero.png
 featured: TRUE
 ---
