@@ -28,4 +28,4 @@ Jeremy’s addition to the Ocean Outcomes team and its leadership is well-timed 
 
 **Additional Resources:**
 
-[Download a PDF of this announcement.] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Ocean+Outcomes+Selects+Jeremy+Crawford+as+New+Asia+Fisheries+Director+4-17-24.pdf)
+[Download a PDF of this announcement.] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Ocean+Outcomes+Selects+Jeremy+Crawford+as+New+Asia+Fisheries+Director+4-16-24.pdf)
