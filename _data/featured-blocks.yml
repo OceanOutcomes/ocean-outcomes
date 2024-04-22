@@ -1,4 +1,4 @@
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals.
@@ -43,9 +43,9 @@
     link-text: Learn More
     link-url: /what-we-do/triple-bottom-line-seafood/funding-and-facility/
     
-- featured: FALSE
+- featured: TRUE
   language: en
-  heading: We are seeking a Northeast Asia Fisheries Director!
+  heading: We are seeking a Taiwan Fishery Improvement Coordinator!
   title: Do you care as much about sustainable fisheries as we do?
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
   link:

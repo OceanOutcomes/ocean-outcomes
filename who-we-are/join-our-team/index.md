@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved
+title: Get Involved (We're Hiring!)
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -10,6 +10,12 @@ weight: 5
 ##Career and volunteer opportunities
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
+
+> **Current job openings:**  
+> 
+> *Taiwan Fishery Improvement Coordinator*  
+> 
+> Working closely with the Asia Fishery Improvement Manager, the Taiwan Fishery Improvement  Coordinator is a dedicated contracted role, responsible for developing and managing Fishery Improvement Projects (FIPs), sustainable initiatives, and supporting implementation of improvement actions for the benefit of fisheries and fishing communities in Taiwan and the greater region. The Taiwan Fishery Improvement Coordinator will conduct outreach, and directly engage key stakeholders (e.g. commercial fishermen, local cooperatives and government) in Taiwan with the aim of developing FIPs which reflect community-based solutions. In addition, this position will be responsible for FIP work plan development and implementation; project management, providing project progress updates; holding regular stakeholder meetings; and conducting research. Sound interesting? [View the full job description and apply here.](https://apply.workable.com/ocean-outcomes/)
 
 -----
 ##Contribute to improving fisheries 
