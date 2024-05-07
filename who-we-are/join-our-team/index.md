@@ -16,6 +16,11 @@ We’re always interested in connecting with folks who are creative, motivated, 
 > *Taiwan Fishery Improvement Coordinator*  
 > 
 > Working closely with the Asia Fishery Improvement Manager, the Taiwan Fishery Improvement  Coordinator is a dedicated contracted role, responsible for developing and managing Fishery Improvement Projects (FIPs), sustainable initiatives, and supporting implementation of improvement actions for the benefit of fisheries and fishing communities in Taiwan and the greater region. The Taiwan Fishery Improvement Coordinator will conduct outreach, and directly engage key stakeholders (e.g. commercial fishermen, local cooperatives and government) in Taiwan with the aim of developing FIPs which reflect community-based solutions. In addition, this position will be responsible for FIP work plan development and implementation; project management, providing project progress updates; holding regular stakeholder meetings; and conducting research. Sound interesting? [View the full job description and apply here.](https://apply.workable.com/ocean-outcomes/)
+>
+> > 
+> *Korean Fisheries Improvement Officer*  
+> 
+> Working closely with the Korean Fisheries Improvement Manager (KFIM), the Korean Fisheries Improvement Officer is a dedicated contracted role, responsible for assisting in the implementation of currently contracted/committed work in Korea; supporting development of new projects and partnership opportunities; and maintaining relationships with key partners and stakeholders. In supporting the KFIM, the Korean Fisheries Improvement Officer will conduct research, organize meetings/workshops/seminars and directly engage with key stakeholders (e.g. industry partners, local fishermen, governmental agencies, and NGOs) in Korea. In addition, this position will support work plan development and implementation; project management and providing project progress updates; holding regular stakeholder meetings; as well as administrative and operational tasks in support of O2’s Korea program. Sound interesting? [View the full job description and apply here.](https://apply.workable.com/ocean-outcomes/)
 
 -----
 ##Contribute to improving fisheries 
