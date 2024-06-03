@@ -20,7 +20,7 @@ Fisheries provide livelihoods for millions and food for billions. Demand for sus
 
 ##Mission
 
-**Our mission** is to improve the sustainability of seafood production and its contributions to our collective environmental and socio-economic well being.
+**Our mission** is to improve the sustainability of fisheries and seafood supplies and their contributions to our collective environmental, social and economic well being.
 
 ##Equity Centered Values
 
