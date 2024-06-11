@@ -35,7 +35,7 @@ Sajo has a proven track-record in the environmental sustainability space. Workin
 ![Supporting Social Responsibility in Korea’s Seafood Industry](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Interview1.png) 
 *At Gamcheon Port, onboard vessel Oryong 315 — O2’s Korea program led interviews with captains and crew, as part of the growing partnership and work with Sajo to understand crew needs and opportunities to improve human rights aboard Sajo’s longline tuna vessels.*
 
-![Supporting Social Responsibility in Korea’s Seafood Industry](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Crew2.png)
+![Supporting Social Responsibility in Korea’s Seafood Industry](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Interview3.png) 
 *Direct engagement with fishers and fishworkers, captains, and vessel owners is a fundamental part of the SRA unlike some social audits. Interviews with workers provide a primary source of data that is often the most reliable and trustworthy account of social conditions on the water. Here, crew from a Sajo longliner are photographed after taking part in the SRA.*
 
 ![Supporting Social Responsibility in Korea’s Seafood Industry](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Interview2.png)
