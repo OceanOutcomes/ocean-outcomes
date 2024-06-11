@@ -3,7 +3,7 @@ layout: news
 title: Supporting Social Responsibility in Korea’s Seafood Industry
 date: 2024-6-15
 teaser-text: On vessel work from Ocean Outcomes and Sajo Industries in Korea helping to improve labor standards and protections for migrant workers in Northeast Asia’s longline tuna fisheries.
-hero-image: 
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Crew2.png
 featured: TRUE
 ---
 
@@ -32,16 +32,16 @@ Sajo has a proven track-record in the environmental sustainability space. Workin
 ----
 ###Sajo is the First Seafood Company in Korea to Conduct an SRA and Work Towards Implementing its Recommendations
 
-![Improving Taiwanese Fishing Industry Labor Conditions Through Training and Education](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Interview1.png) 
+![Supporting Social Responsibility in Korea’s Seafood Industry](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Interview1.png) 
 *At Gamcheon Port, onboard vessel Oryong 315 — O2’s Korea program led interviews with captains and crew, as part of the growing partnership and work with Sajo to understand crew needs and opportunities to improve human rights aboard Sajo’s longline tuna vessels.*
 
-![Improving Taiwanese Fishing Industry Labor Conditions Through Training and Education](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Crew2.png) 
+![Supporting Social Responsibility in Korea’s Seafood Industry](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Crew2.png)
 *Direct engagement with fishers and fishworkers, captains, and vessel owners is a fundamental part of the SRA unlike some social audits. Interviews with workers provide a primary source of data that is often the most reliable and trustworthy account of social conditions on the water. Here, crew from a Sajo longliner are photographed after taking part in the SRA.*
 
-![Improving Taiwanese Fishing Industry Labor Conditions Through Training and Education](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Interview2.png)
+![Supporting Social Responsibility in Korea’s Seafood Industry](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Interview2.png)
 *While the O2 team spent time on three vessels interviewing captains and both Korean and migrant crew, additional individuals could participate remotely over video interviews.*
 
-![Improving Taiwanese Fishing Industry Labor Conditions Through Training and Education](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Crew1.png)
+![Supporting Social Responsibility in Korea’s Seafood Industry](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Crew1.png)
 *In addition to interviews, the work with Sajo included vessel inspections, document review, and other desk-based research to assess priority SRA indicators most relevant to Sajo’s supply chain.*
 
 ###Understanding the experiences of those working onboard the vessels is foundational to the SRA.
