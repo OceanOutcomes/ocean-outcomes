@@ -3,7 +3,7 @@ layout: news
 title: Supporting Social Responsibility in Korea’s Seafood Industry
 date: 2024-6-15
 teaser-text: On vessel work from Ocean Outcomes and Sajo Industries in Korea helping to improve labor standards and protections for migrant workers in Northeast Asia’s longline tuna fisheries.
-hero-image: (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/SAJO_SRA_Hero.png)
+hero-image: (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Hero.png)
 featured: TRUE
 ---
 
