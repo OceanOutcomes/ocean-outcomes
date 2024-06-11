@@ -9,7 +9,7 @@ featured: TRUE
 
 ###On vessel work from Ocean Outcomes and Sajo Industries in Korea helping to improve labor standards and protections for migrant workers in Northeast Asia’s longline tuna fisheries.
 
-A growing partnership between O2 and Sajo Industries Ltd. has helped to reduce the environmental impact of longline tuna fishing operations; improved management of the world’s largest tuna fisheries; and facilitated the uptake of sustainable fishing practices across South Korea — one of the largest tuna industries in the world. Building on this success and a growing awareness of the social impacts of tuna fisheries, O2 and Sajor are now embarking on a new journey to support social responsibility in Korean tuna fisheries.
+A growing partnership between O2 and Sajo Industries Ltd. has helped to reduce the environmental impact of longline tuna fishing operations; improved management of the world’s largest tuna fisheries; and facilitated the uptake of sustainable fishing practices across South Korea — one of the largest tuna industries in the world. Building on this success and a growing awareness of the social impacts of tuna fisheries, O2 and Sajo are now embarking on a new journey to support social responsibility in Korean tuna fisheries.
 
 ###Characterized by extreme isolation, hazardous working conditions, and jurisdictional gaps in monitoring and enforcement, distant water fishing fleets are at particular risk of human rights violations. 
 
