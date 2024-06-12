@@ -20,6 +20,9 @@ Sajo and its subsidiaries operate six business divisions including a deep sea fi
 
 Sajo has a proven track-record in the environmental sustainability space. Working with O2, they have been an active participant in the [Korean Roundtable for Sustainable Tuna Fishing,](https://www.oceanoutcomes.org/news/electronic-monitoring-msc-korea-largest-tuna-fisheries-sustainability-roundtable/) participated in a government pilot program on electronic monitoring, and are pursuing Marine Stewardship Council (MSC) certification for 28 vessels in their Western Central Pacific Ocean and Eastern Pacific Ocean bigeye, yellowfin, and albacore tuna longline fisheries.
 
+This positive work towards environmental sustainability is to be celebrated. Now, with a growing awareness of the critical gaps of environmentally-focused seafood certifications’ ability to protect fishers and fishworkers, Sajo has proactively chosen to work with O2 to initiate HRDD efforts. As part of this work, O2 was recently on Sajo vessels in Gamcheon 
+Port to evaluate the human rights risks and areas of improvement for Sajo’s longline tuna fleet using the Social Responsibility Assessment (SRA) Tool for the Seafood Sector.
+
 ----
 
 **What is the SRA?**
@@ -45,11 +48,9 @@ Sajo has a proven track-record in the environmental sustainability space. Workin
 
 Despite logistical challenges, such as limited days in port and language barriers, Sajo supported O2 to  engage directly with captains and crew through various approaches. These included remote interviews, flexibility around vessel site visits while Sajo vessels were docked in port, and leveraging local language interpreters to better communicate with migrant crew. This work with Sajo has helped to build a foundation on which to further social objectives in the fishery going forward. 
 
-Findings from the work so far have highlighted areas of improvement such as developing systems to monitor, remediate, and report on labor practices and recruitment, improved standards for wages and benefits for migrant crew, and better crew access and awareness of grievance mechanisms. While these findings are consistent with other reports across distant water fishing industry globally, they have been ground-truthed on the water by Sajo and O2 and Sajo is now working on a plan to address these findings and improve the overall social responsibility of its longline fisheries and their supply chains. 
+Findings from the work so far have highlighted areas of improvement such as developing systems to monitor, remediate, and report on labor practices and recruitment, improved standards for wages and benefits for migrant crew, and better crew access and awareness of grievance mechanisms. While these findings are consistent with other reports across distant water fishing industry globally, they have been ground-truthed on the water by Sajo. Now O2 and Sajo are working on a plan to address these findings and improve the overall social responsibility of its longline fisheries and their supply chains. 
 
 >**"Being the first tuna company to conduct a Social Responsibility Assessment in South Korea is an honor and pleasure.
-This work has been carried out for three of our tuna longliners so far, and we expect to grow our social work to bolster human rights across our supply chain.
-Understanding how to approach human rights can be challenging — partnering with Ocean Outcomes helped clarify the process and approach. As a leading fishing company in South Korea, we hope to inspire other companies to also work to improve human rights.
+This work has been carried out for three of our tuna longliners so far, and we expect to grow our social work to bolster human rights across our supply chain.  
+Understanding how to approach human rights can be challenging — partnering with Ocean Outcomes helped clarify the process and approach. As a leading fishing company in South Korea, we hope to inspire other companies to also work to improve human rights.  
 - Kim Chi-gon, CEO, Sajo Industries Co., LTD."**
-
-----
