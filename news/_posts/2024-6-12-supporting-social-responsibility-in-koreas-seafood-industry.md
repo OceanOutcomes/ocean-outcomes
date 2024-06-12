@@ -30,13 +30,13 @@ Port to evaluate the human rights risks and areas of improvement for Sajo’s lo
 [The SRA is a diagnostic, benchmarking, and risk-assessment tool for conducting human rights due diligence in seafood supply chains.](https://www.oceanoutcomes.org/what-we-do/services/social-rapid-assessment/) The tool was developed by a broad coalition of experts across conservation and social responsibility fields, drawing on specific criteria from international standards and conventions to create a comprehensive set of indicators for social performance that work in large and small-scale fisheries. Want to learn more about its application? Check out our recent blog, [*Assessing and Addressing Social Risks in Fishery Improvement Projects.*](https://www.oceanoutcomes.org/news/Assessing-and-Addressing-Social-Risks-in-Fishery-Improvement-Projects/)
 
 ----
-###Sajo is the First Seafood Company in Korea to Conduct an SRA and Work Towards Implementing its Recommendations
+###Sajo is the first seafood company in Korea to conduct an SRA and work towards implementing its recommendations.
 
 ![Supporting Social Responsibility in Korea’s Seafood Industry](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Interview1.png) 
 *At Gamcheon Port, onboard vessel Oryong 315 — O2’s Korea program led interviews with captains and crew, as part of the growing partnership and work with Sajo to understand crew needs and opportunities to improve human rights aboard Sajo’s longline tuna vessels.*
 
 ![Supporting Social Responsibility in Korea’s Seafood Industry](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Interview3.png) 
-*Direct engagement with fishers and fishworkers, captains, and vessel owners is a fundamental part of the SRA unlike some social audits. Interviews with workers provide a primary source of data that is often the most reliable and trustworthy account of social conditions on the water. Here, crew from a Sajo longliner are photographed after taking part in the SRA.*
+*Direct engagement with fishers and fishworkers, captains, and vessel owners is a fundamental part of the SRA unlike some social audits. Interviews with workers provide a primary source of data that is often the most reliable and trustworthy account of social conditions on the water.*
 
 ![Supporting Social Responsibility in Korea’s Seafood Industry](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Interview2.png)
 *While the O2 team spent time on three vessels interviewing captains and both Korean and migrant crew, additional individuals could participate remotely over video interviews.*
