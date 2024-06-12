@@ -4,7 +4,7 @@ title: Leading Taiwanese Tuna Industry Association Commits to Sustainability
 date: 2024-4-9
 teaser-text: Taiwan’s largest fishing vessel member association of 500 plus pledges unwavering commitment to fostering best practices.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/leading-taiwanese-tuna-industry-association-commits-to-sustainability-hero.png
-featured: TRUE
+featured: FALSE
 ---
 ###Unwavering commitment to fostering best practices
 
