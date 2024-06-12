@@ -25,7 +25,7 @@ Port to evaluate the human rights risks and areas of improvement for Sajo’s lo
 
 ----
 
-**What is the SRA?**
+**What is the Social Responsibility Assessment Tool for the Seafood Sector (SRA)**
 
 [The SRA is a diagnostic, benchmarking, and risk-assessment tool for conducting human rights due diligence in seafood supply chains.](https://www.oceanoutcomes.org/what-we-do/services/social-rapid-assessment/) The tool was developed by a broad coalition of experts across conservation and social responsibility fields, drawing on specific criteria from international standards and conventions to create a comprehensive set of indicators for social performance that work in large and small-scale fisheries. Want to learn more about its application? Check out our recent blog, [*Assessing and Addressing Social Risks in Fishery Improvement Projects.*](https://www.oceanoutcomes.org/news/Assessing-and-Addressing-Social-Risks-in-Fishery-Improvement-Projects/)
 
@@ -52,8 +52,8 @@ Findings from the work so far have highlighted areas of improvement such as deve
 
 >####"Being the first tuna company to conduct a Social Responsibility Assessment in South Korea is an honor and pleasure.
 >
->**This work has been carried out for three of our tuna longliners so far, and we expect to grow our social work to bolster human rights across our supply chain.  
+>####This work has been carried out for three of our tuna longliners so far, and we expect to grow our social work to bolster human rights across our supply chain.  
 >  
->Understanding how to approach human rights can be challenging — partnering with Ocean Outcomes helped clarify the process and approach. As a leading fishing company in South Korea, we hope to inspire other companies to also work to improve human rights.  
+>####Understanding how to approach human rights can be challenging — partnering with Ocean Outcomes helped clarify the process and approach. As a leading fishing company in South Korea, we hope to inspire other companies to also work to improve human rights.  
 >  
->— Kim Chi-gon, CEO, Sajo Industries Co., LTD."**
+>####— Kim Chi-gon, CEO, Sajo Industries Co., LTD."**
