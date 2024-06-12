@@ -2,11 +2,11 @@
 layout: news
 title: Supporting Social Responsibility in Korea’s Seafood Industry
 date: 2024-6-12
-teaser-text: On vessel work from Ocean Outcomes and Sajo Industries in Korea is helping to improve labor standards and protections for migrant workers in Northeast Asia’s longline tuna fisheries.
+teaser-text: "As a leading fishing company in South Korea, we expect to grow our social work to bolster human rights across our supply chain and we hope to inspire other companies to also work to improve human rights." - Kim Chi-gon, CEO, Sajo Industries"
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/SAJO_SRA_Hero.png
 featured: TRUE
 ---
-> **A growing partnership between O2 and Sajo Industries Ltd. has helped to reduce the environmental impact of longline tuna fishing operations; improved management of the world’s largest tuna fisheries; and facilitated the uptake of sustainable fishing practices across South Korea — one of the largest tuna industries in the world. Building on this success and a growing awareness of the social impacts of tuna fisheries, O2 and Sajo are now embarking on a new journey to support social responsibility in Korean tuna fisheries.
+> *A growing partnership between O2 and Sajo Industries Ltd. has helped to reduce the environmental impact of longline tuna fishing operations; improved management of the world’s largest tuna fisheries; and facilitated the uptake of sustainable fishing practices across South Korea — one of the largest tuna industries in the world. Building on this success and a growing awareness of the social impacts of tuna fisheries, O2 and Sajo are now embarking on a new journey to support social responsibility in Korean tuna fisheries.*
 
 ###Characterized by extreme isolation, hazardous working conditions, and jurisdictional gaps in monitoring and enforcement, distant water fishing fleets are at particular risk of human rights violations. 
 
@@ -52,5 +52,7 @@ Findings from the work so far have highlighted areas of improvement such as deve
 
 >**"Being the first tuna company to conduct a Social Responsibility Assessment in South Korea is an honor and pleasure.
 This work has been carried out for three of our tuna longliners so far, and we expect to grow our social work to bolster human rights across our supply chain.  
-Understanding how to approach human rights can be challenging — partnering with Ocean Outcomes helped clarify the process and approach. As a leading fishing company in South Korea, we hope to inspire other companies to also work to improve human rights.  
-- Kim Chi-gon, CEO, Sajo Industries Co., LTD."**
+>  
+>Understanding how to approach human rights can be challenging — partnering with Ocean Outcomes helped clarify the process and approach. As a leading fishing company in South Korea, we hope to inspire other companies to also work to improve human rights.  
+>  
+>— Kim Chi-gon, CEO, Sajo Industries Co., LTD."**
