@@ -2,7 +2,7 @@
 layout: news
 title: Supporting Social Responsibility in Korea’s Seafood Industry
 date: 2024-6-12
-teaser-text: "As a leading fishing company in South Korea, we expect to grow our social work to bolster human rights across our supply chain and we hope to inspire other companies to also work to improve human rights," Kim Chi-gon, CEO, Sajo Industries
+teaser-text: Distant water fishing fleets are at particular risk of human rights violations. South Korea is one of the top five distant water fishing countries. That’s why we are working with leading seafood companies there to assess and address opportunities to improve labor conditions and practices onboard longline tuna vessels.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/SAJO_SRA_Hero.png
 featured: TRUE
 ---
