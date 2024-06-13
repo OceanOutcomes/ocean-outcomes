@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Supporting Social Responsibility in Korea’s Seafood Industry
-date: 2024-6-12
+date: 2024-6-13
 teaser-text: Distant water fishing fleets are at particular risk of human rights violations. South Korea is one of the top five distant water fishing countries. That’s why we are working with leading seafood companies there to assess and address opportunities to improve labor conditions and practices onboard longline tuna vessels.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/SAJO_SRA_Hero.png
 featured: TRUE
@@ -50,10 +50,4 @@ Despite logistical challenges, such as limited days in port and language barrier
 
 Findings from the work so far have highlighted areas of improvement such as developing systems to monitor, remediate, and report on labor practices and recruitment, improved standards for wages and benefits for migrant crew, and better crew access and awareness of grievance mechanisms. While these findings are consistent with other reports across distant water fishing industry globally, they have been ground-truthed on the water. Now O2 and Sajo are working on a plan to address these findings and improve the overall social responsibility of its longline fisheries and their supply chains. 
 
-**"Being the first tuna company to conduct a Social Responsibility Assessment in South Korea is an honor and pleasure.**  
-
-**This work has been carried out for three of our tuna longliners so far, and we expect to grow our social work to bolster human rights across our supply chain.**  
- 
-**Understanding how to approach human rights can be challenging — partnering with Ocean Outcomes helped clarify the process and approach. As a leading fishing company in South Korea, we hope to inspire other companies to also work to improve human rights."**  
- 
-**— Kim Chi-gon, CEO, Sajo Industries Co., LTD.**
+![Sajo quote advocating for Ocean Outcomes and social responsiblity work in Korea](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/sajo-quote-supporting-social-responsibility-work.png)
