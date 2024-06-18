@@ -11,7 +11,7 @@ subtitle: We believe small, innovative organizations and local leaders in the su
 
 <img align="right" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/Ocean+Outcomes+organization+and+work+stream+graphic.png" width="250" height="250">
 
-This includes both leading and supporting the sustainable seafood and fisheries improvement movements and our partners in: tuna and distant water fisheries; small-scale fisheries and triple impact approaches to improvement; China and the greater Northeast Asia region and; technical fisheries science and socio-economic services.
+This includes both leading and supporting the sustainable seafood and fisheries improvement movements and our partners in: tuna and distant water fisheries; small-scale fisheries and triple impact approaches to improvement; China and the greater Northeast Asia region and; technical fisheries science and social and economic seafood services.
 
 We believe small, innovative organizations and local leaders in the sustainable seafood and fisheries improvement space can have outsized impact on systemic social fisheries and seafood challenges. Our strategy for exponential impact and growth in the efficacy of initiatives pursuing shared sustainability goals is to connect these smaller, ‘on the water’ groups and regional thought leaders driving solution implementation locally (bottom up) with international markets, partner initiatives and the best, current science-based approaches to sustainable seafood and fisheries improvement (top down).
 
