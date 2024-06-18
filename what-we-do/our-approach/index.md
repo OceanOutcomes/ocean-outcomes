@@ -4,7 +4,7 @@ title: Our Approach
 weight: 1
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/triple-bottom-line-hover.jpg
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/our-approach-hero-1.png
-teaser-text: We work with all stakeholders to uncover, design and implement science-based, context relevant initiatives to drive sustainability across seafood supply chains. This approach produces environmental and socioeconomic outcomes for both people and the planet.
+teaser-text: We work with all stakeholders to uncover, design and implement science-based, context relevant initiatives to drive sustainability across seafood supply chains. This approach produces environmental, social and economic outcomes for both people and the planet.
 subtitle: We believe small, innovative organizations and local leaders in the sustainable seafood and fisheries improvement space can have outsized impact on systemic social fisheries and seafood challenges.
 ---
 ##We focus on what we do best and where we can have — as we always have — an outsized impact on the sustainable seafood and fisheries sectors.
