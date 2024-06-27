@@ -1,4 +1,4 @@
-- featured: FALSE
+- featured: TRUE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals.
@@ -43,7 +43,7 @@
     link-text: Learn More
     link-url: /what-we-do/triple-bottom-line-seafood/funding-and-facility/
     
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: We are hiring!
   title: Do you care as much about sustainable fisheries as we do?
