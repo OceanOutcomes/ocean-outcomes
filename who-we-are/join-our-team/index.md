@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved (We're Hiring!)
+title: Get Involved
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -11,17 +11,10 @@ weight: 5
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
 
-###Current job openings:  
-
-> 
-> ####Korean Fisheries Improvement Officer
-> 
-> Working closely with the Korean Fisheries Improvement Manager (KFIM), the Korean Fisheries Improvement Officer is a dedicated contracted role, responsible for assisting in the implementation of currently contracted/committed work in Korea; supporting development of new projects and partnership opportunities; and maintaining relationships with key partners and stakeholders. In supporting the KFIM, the Korean Fisheries Improvement Officer will conduct research, organize meetings/workshops/seminars and directly engage with key stakeholders (e.g. industry partners, local fishermen, governmental agencies, and NGOs) in Korea. In addition, this position will support work plan development and implementation; project management and providing project progress updates; holding regular stakeholder meetings; as well as administrative and operational tasks in support of O2’s Korea program. **Sound interesting? [View the full job description and apply here.](https://apply.workable.com/ocean-outcomes/)**
-
 -----
 ##Contribute to improving fisheries 
 
-We’re working to ensure ocean resources are abundant and sustainably harvested, and that fisheries, fishing communities, and fishery-based livelihoods flourish. <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M6GDSMR3CKSWJ" target="_blank">**Support our efforts by making donation**</a>. Have a question about a donation? Just email us at **donate@oceanoutcomes.org**.  
+Did you know we are a mission driven nonprofit? We’re working to ensure ocean resources are abundant and sustainably harvested, and that fisheries, fishing communities, and fishery-based livelihoods flourish. <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M6GDSMR3CKSWJ" target="_blank">**Support our efforts by making donation**</a>. Have a question about a donation? Just email us at **donate@oceanoutcomes.org**.  
 
 *Ocean Outcomes is a registered a 501(c)(3) nonprofit organization and our Tax ID is 46-4901375.* 
 
