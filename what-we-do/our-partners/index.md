@@ -41,6 +41,11 @@ UMITO Partners is a Japanese seafood improvement organization established in 202
 Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on both the Advisory Council and Board of the Alliance. <a href="https://solutionsforseafood.org/" target="_blank">www.solutionsforseafood.org</a>
 
 ----
+<><h4>Fish Forward</h4>
+
+Fish Forward was created by a partnership of provincial, federal and international organizations to secure a sustainable future for Manitoba’s fisheries and ensure that local, sustainable fish is promoted, sold and celebrated by local businesses. Fish Forward invites anyone to get involved at any level, whether it means making a better choice in the grocery store or at a restaurant, choosing to pursue certification or simply searching out information on sustainable fishing. Fish Forward believes we all have a role to play in ensuring the sustainability of our fisheries. <a href="https://fishforward.ca/who-we-are/" target="_blank">https://fishforward.ca/who-we-are</a> 
+
+----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/gggi-logo-partners.png"><h4>Global Ghost Gear Initiative</h4>
 
 The Global Ghost Gear Initiative (GGGI) is the world’s largest cross-sectorial alliance committed to driving solutions to the problem of lost, abandoned and otherwise discarded fishing gear (ALDFG, also known as “ghost gear”). As a member of the GGGI, Ocean Outcomes had led a myriad projects for GGGI, including facilitating stakeholder workshops, piloting ghost gear prevention processes in Fishery Improvement Projects (FIPs), and developing analysis on the efficacy of regulations to prevent ALDFG, among others. <a href="https://www.ghostgear.org/" target="_blank">www.ghostgear.org</a>
