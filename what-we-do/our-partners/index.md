@@ -43,7 +43,7 @@ Ocean Outcomes is a long-time contributing member of the Conservation Alliance f
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/FF-supporter-logo.png"><h4>Fish Forward</h4>
 
-Fish Forward was created by a partnership of provincial, federal and international organizations to secure a sustainable future for Manitoba’s fisheries and ensure that local, sustainable fish is promoted, sold and celebrated by local businesses. Fish Forward invites anyone to get involved at any level, whether it means making a better choice in the grocery store or at a restaurant, choosing to pursue certification or simply searching out information on sustainable fishing. Fish Forward believes we all have a role to play in ensuring the sustainability of our fisheries. <a href="https://fishforward.ca/who-we-are/" target="_blank">https://fishforward.ca/who-we-are</a> 
+Ocean Outcomes is an official Supporter of Fish Forward, which was created by a partnership of provincial, federal and international organizations to secure a sustainable future for Manitoba’s fisheries and ensure that local, sustainable fish is promoted, sold and celebrated by local businesses. As a Supporter, O2 has worked on fisheries in the Manitoba region and contributed to Fish Forward’s shared mission. <a href="https://fishforward.ca/" target="_blank">www.fishforward.ca/</a> 
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/gggi-logo-partners.png"><h4>Global Ghost Gear Initiative</h4>
