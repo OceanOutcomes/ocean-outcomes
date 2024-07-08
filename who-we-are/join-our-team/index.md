@@ -15,7 +15,7 @@ We’re always interested in connecting with folks who are creative, motivated, 
 
 *Contract Fisheries Scientist*
 
-The Fisheries Scientist position is a contract role responsible for supporting various O2 service projects. Day to day work will include conducting desktop research and analysis, communicating with clients, and report writing covering our diverse portfoilio of projects, including Fishery Improvement Projects (FIPs), Marine Stewardship Council (MSC) pre-assessments and assessments, and sustainable practices for fisheries. This is an hourly contract position estimated at 30-40 hours per week, at a rate of $45-60 per hour commensurate with experience. This position will initially have a 6 month term with the potential to extend the contract or transition to a full-time staff position for the right person. 
+The Fisheries Scientist position is a contract role responsible for supporting various O2 service projects. Day to day work will include conducting desktop research and analysis, communicating with clients, and report writing covering our diverse portfoilio of projects, including Fishery Improvement Projects (FIPs), Marine Stewardship Council (MSC) pre-assessments and assessments, and sustainable practices for fisheries. This position will initially have a 6 month term with the potential to extend the contract or transition to a full-time staff position for the right person. 
 Sound interesting? [View the full job description and apply here.](https://apply.workable.com/ocean-outcomes/)
 
 -----
