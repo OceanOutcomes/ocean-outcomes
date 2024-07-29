@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved (We're Hiring!)
+title: Get Involved
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -10,13 +10,6 @@ weight: 5
 ##Career and volunteer opportunities
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
-
-**Current job openings:**  
-
-*Contract Fisheries Scientist*
-
-The Fisheries Scientist position is a contract role responsible for supporting various O2 service projects. Day to day work will include conducting desktop research and analysis, communicating with clients, and report writing covering our diverse portfoilio of projects, including Fishery Improvement Projects (FIPs), Marine Stewardship Council (MSC) pre-assessments and assessments, and sustainable practices for fisheries. This position will initially have a 6 month term with the potential to extend the contract or transition to a full-time staff position for the right person. 
-Sound interesting? [View the full job description and apply here.](https://apply.workable.com/ocean-outcomes/)
 
 -----
 ##Contribute to improving fisheries 
