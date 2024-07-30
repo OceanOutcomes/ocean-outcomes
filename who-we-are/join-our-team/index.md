@@ -16,7 +16,9 @@ We’re always interested in connecting with folks who are creative, motivated, 
 
 <a href="https://apply.workable.com/ocean-outcomes/j/420F4BAF53/" target="_blank">Korean Fisheries Improvement Officer</a>
 
-Working closely with the Korean Fisheries Improvement Manager (KFIM), the Korean Fisheries Improvement Officer is a dedicated contracted role, responsible for assisting in the implementation of currently contracted/committed work in Korea; supporting development of new projects and partnership opportunities; and maintaining relationships with key partners and stakeholders. We are seeking a contractor based in Korea, who can travel nationally, and internationally. 
+Working closely with the Korean Fisheries Improvement Manager, the Korean Fisheries Improvement Officer is a dedicated contracted role, responsible for assisting in the implementation of currently contracted/committed work in Korea; supporting development of new projects and partnership opportunities; and maintaining relationships with key partners and stakeholders. We are seeking a contractor based in Korea, who can travel nationally, and internationally. Recruitment will continue until August 31st. 
+
+<a href="https://apply.workable.com/ocean-outcomes/j/420F4BAF53/" target="_blank">Click here for the full job description and application details.</a> 
 
 -----
 ##Contribute to improving fisheries 
