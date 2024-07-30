@@ -12,7 +12,7 @@ weight: 5
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
 
 -----
-##Current Job Opportunities
+##Current job opportunities
 
 <a href="https://apply.workable.com/ocean-outcomes/j/420F4BAF53/" target="_blank">Korean Fisheries Improvement Officer</a>
 
