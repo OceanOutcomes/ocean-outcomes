@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved
+title: Get Involved (We're Hiring)
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
