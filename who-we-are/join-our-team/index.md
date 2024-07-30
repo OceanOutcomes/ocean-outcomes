@@ -12,6 +12,14 @@ weight: 5
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
 
 -----
+##Current Job Opportunities
+
+* <a href="https://apply.workable.com/ocean-outcomes/j/420F4BAF53/" target="_blank">Korean Fisheries Improvement Officer</a>
+
+Working closely with the Korean Fisheries Improvement Manager (KFIM), the Korean Fisheries Improvement Officer is a dedicated contracted role, responsible for assisting in the implementation of currently contracted/committed work in Korea; supporting development of new projects and partnership opportunities; and maintaining relationships with key partners and stakeholders.
+
+We are seeking a contractor based in Korea, who can travel nationally, and internationally. 
+-----
 ##Contribute to improving fisheries 
 
 Did you know we are a mission driven nonprofit? We’re working to ensure ocean resources are abundant and sustainably harvested, and that fisheries, fishing communities, and fishery-based livelihoods flourish. <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M6GDSMR3CKSWJ" target="_blank">**Support our efforts by making donation**</a>. Have a question about a donation? Just email us at **donate@oceanoutcomes.org**.  
