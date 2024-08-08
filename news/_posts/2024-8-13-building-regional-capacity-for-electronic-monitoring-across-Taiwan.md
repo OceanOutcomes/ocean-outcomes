@@ -50,7 +50,7 @@ By implementing new monitoring solutions and enhancing local ability to manage t
 
 ![FSF EM Blog Installation 2]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Installation+2.png)
-*So far, the team has installed and implemented electronic monitoring equipment across four vessels and plans to do another eight this year. This work is all part of two Fishery Improvement Projects led by Ocean Outcomes and FSF which are working to improve social responsibility and environmental sustainability on participating Taiwanese longline tuna fishing vessels.*
+*This work is all part of two Fishery Improvement Projects led by Ocean Outcomes and FSF, which are working to improve social responsibility and environmental sustainability on participating Taiwanese longline tuna fishing vessels.*
 
 ![FSF EM Blog Ho-Tu Talking]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog+_+HoTu+talking.png)
