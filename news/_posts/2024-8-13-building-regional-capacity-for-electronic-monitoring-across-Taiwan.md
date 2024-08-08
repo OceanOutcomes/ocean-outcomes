@@ -6,7 +6,6 @@ teaser-text: Across Northeast Asia, we are catalyzing the uptake of new technolo
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Ho+Tu+installation.png
 featured: TRUE 
 ---
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Ho+Tu+installation.png) 
 *Asia Fishery Improvement Manager for Ocean Outcomes, Ho-Tu Chiang, installs electronic monitoring equipment on the longline tuna fishing vessel Maan Fu Tsai No.9 in October 2023, as part of our work in Taiwan.*
 
 ###Across Northeast Asia, we are catalyzing the uptake of new technologies to support better fisheries management and improve fishing practices. 
