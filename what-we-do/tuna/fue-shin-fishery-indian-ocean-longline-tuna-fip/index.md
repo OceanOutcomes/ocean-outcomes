@@ -25,9 +25,9 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 
 ##Project News and Additional Resources:
 
-* [Building Regional Capacity for Electronic Monitoring Across Taiwan](/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
 * <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/Workplan+of+the+Indian+Ocean+LL+Tuna+(Fue+Shin)+Fishery+April23.pdf" target="_blank">Work Plan of the Indian Ocean LL Tuna (Fue Shin) Fishery</a>
 * <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+FSF+Indian+Ocean+Tuna+FIP+Pre-assessment+April23.pdf" target="blank">FSF Indian Ocean Tuna FIP Pre-assessment</a>
+* [Building Regional Capacity for Electronic Monitoring Across Taiwan](/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
 * [Indian Ocean Longline Tuna Project Launches] (/news/fsf-O2-indian-ocean-tuna-fishery-improvement-sustainability-project-launched-announcement/)
 * [Leading Taiwanese Tuna Company Pursues Sustainability Status] (/news/leading-taiwanese-tuna-company-pursues-sustainability-status-release/)
 * [Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia] (/news/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release/)
