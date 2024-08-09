@@ -48,6 +48,7 @@ Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
 
+* [Building Regional Capacity for Electronic Monitoring Across Taiwan](/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
 * [Supporting Social Responsibility in Korea's Seafood Industry] (/news/supporting-social-responsibility-in-koreas-seafood-industry/)
 * [Ocean Outcomes Announces New Asia Fisheries Director] (/news/jeremy-crawford-selected-as-asia-fisheries-director/)
 * [Leading Taiwanese Tuna Industry Association Commits to Sustainability] (/news/leading-taiwanese-tuna-industry-association-commits-to-sustainability/)
