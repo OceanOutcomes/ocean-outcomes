@@ -14,11 +14,11 @@ Electronic monitoring offers an efficient and cost-effective alternative to onbo
 
 Electronic monitoring in fisheries can verify the accuracy of vessel logbooks, reduce Illegal, Unreported, and Unregulated (IUU) fishing, increase scientific fisheries data, enhance bycatch reduction strategies, support market access, and expand authorities’ ability to make informed decisions on fisheries management and compliance.
 
-Through a growing partnership with Fue Shin Fishery Ltd (FSF), and the National Taiwan Ocean University and Fisheries Agency of Taiwan, we are installing electronic monitoring equipment and implementing its supporting technology on distant-water longline tuna vessels. These trials are supporting two goals, (1) assisting vessels involved in our FSF Fishery Improvement Projects in gathering independent catch data, and (2) accelerating local capacity for electronic monitoring development. 
+Through a growing partnership with Fue Shin Fishery Ltd (FSF), and the National Taiwan Ocean University and Fisheries Agency of Taiwan, we are installing electronic monitoring equipment and implementing its supporting technology on distant-water longline tuna vessels. These trials are supporting two goals: (1) assisting vessels involved in our FSF Fishery Improvement Projects in gathering independent catch data, and (2) accelerating local capacity for electronic monitoring development. 
 
-By implementing new monitoring solutions and enhancing local ability to manage these systems (for example, by supporting processes that allow for video to be reviewed and analyzed in-country) we are supporting Taiwan in improving compliance with international standards, better protecting marine ecosystems, and ultimately helping to ensure the long-term viability of its fishing industry. Over the past year, our teams have installed electronic monitoring equipment across four Taiwanese vessels with a plan to add another eight by the end of 2024. 
+By implementing new monitoring solutions and enhancing local ability to manage these systems (for example, by supporting processes that allow for video to be reviewed and analyzed in-country) we are supporting Taiwan in improving compliance with international standards, better protecting marine ecosystems, and ultimately helping to ensure the long-term viability of its fishing industry. 
 
-**The below images and their captions highlight how our collaborative work is advancing electronic monitoring in Taiwanese tuna fisheries.** 
+####Over the past year, our teams have installed electronic monitoring equipment across four Taiwanese vessels with a plan to add another eight by the end of 2024. The below images and their captions highlight how our collaborative work is advancing electronic monitoring in Taiwanese tuna fisheries. 
 
 ![FSF EM Blog Buoys and Net]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_buoys+and+net.png)
@@ -46,7 +46,7 @@ By implementing new monitoring solutions and enhancing local ability to manage t
 
 ![FSF EM Blog Install Team]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Install+Team.png)
-*Wen-Sheng Chen, a ship owner who had the new equipment installed, pictured here with the project team in Taiwan — Ming Jhang Chen formerly with the fishing company FSF, William Hsu of the National Taiwan Ocean University, and Ho-Tu Chiang.*
+*Wen-Sheng Chen (pictured left), is a ship owner who had new equipment installed on his vessel. This work was completed with support from the project team in Taiwan — Ming Jhang Chen formerly with the fishing company FSF, William Hsu of the National Taiwan Ocean University, and Ho-Tu Chiang.*
 
 ![FSF EM Blog Installation 2]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Installation+2.png)
@@ -54,6 +54,6 @@ By implementing new monitoring solutions and enhancing local ability to manage t
 
 ![FSF EM Blog Ho-Tu Talking]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog+_+HoTu+talking.png)
-*"As we support the implementation of electronic monitoring systems in Taiwan's tuna industry, this technology will bring significant benefits. It will enhance transparency, ensure compliance with international standards, and ultimately contribute to the sustainability and profitability of our fisheries. This is a crucial step towards a more responsible and forward-thinking approach to marine resource management." - Ho-Tu Chiang, Asia Fishery Improvement Manager for Ocean Outcomes, pictured above.*
+*"As we support the implementation of electronic monitoring systems in Taiwan's tuna industry, this technology will bring significant benefits. It will enhance transparency, ensure compliance with international standards, and ultimately contribute to the sustainability and profitability of our fisheries. This is a crucial step towards a more responsible and forward-thinking approach to marine resource management." — Ho-Tu Chiang, Asia Fishery Improvement Manager for Ocean Outcomes, pictured above.*
 
-[Learn more about our partnership with FSF and our work with tuna fisheries across Northeast Asia here.] (https://www.oceanoutcomes.org/what-we-do/tuna/)
+**[Learn more about our partnership with FSF and our work with tuna fisheries across Northeast Asia here.] (https://www.oceanoutcomes.org/what-we-do/tuna/)**
