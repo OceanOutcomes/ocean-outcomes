@@ -38,6 +38,7 @@ Without a significant, concerted, and locally-led push for reform, overfishing, 
 ---
 ##Stories from the Field: China
 
+* [Building Regional Capacity for Electronic Monitoring Across Taiwan](/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
 * [Ocean Outcomes Announces New Asia Fisheries Director] (/news/jeremy-crawford-selected-as-asia-fisheries-director/)
 * [Leading Taiwanese Tuna Industry Association Commits to Sustainability] (/news/leading-taiwanese-tuna-industry-association-commits-to-sustainability/)
 * [New Partnership to Improve Worker Conditions on Asian Longliners] (/news/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry/)
