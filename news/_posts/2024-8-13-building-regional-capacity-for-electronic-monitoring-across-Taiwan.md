@@ -18,7 +18,9 @@ Through a growing partnership with Fue Shin Fishery Ltd (FSF), and the National 
 
 By implementing new monitoring solutions and enhancing local ability to manage these systems (for example, by supporting processes that allow for video to be reviewed and analyzed in-country) we are supporting Taiwan in improving compliance with international standards, better protecting marine ecosystems, and ultimately helping to ensure the long-term viability of its fishing industry. 
 
-####Over the past year, our teams have installed electronic monitoring equipment across four Taiwanese vessels with a plan to add another eight by the end of 2024. The below images and their captions highlight how our collaborative work is advancing electronic monitoring in Taiwanese tuna fisheries. 
+####Over the past year, our teams have installed electronic monitoring equipment across four Taiwanese vessels with a plan to add another eight by the end of 2024.  
+
+**The below images and their captions highlight how our collaborative work is advancing electronic monitoring in Taiwanese tuna fisheries.**
 
 ![FSF EM Blog Buoys and Net]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_buoys+and+net.png)
