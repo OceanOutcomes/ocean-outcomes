@@ -29,8 +29,8 @@ Did you know we are a mission driven nonprofit? We’re working to ensure ocean 
 
 O2 has earned a Gold Seal of Transparency from GuideStar and a four star rating from Charity Navigator! 
 
-<a href="https://www.guidestar.org/profile/shared/9c87b1e5-f828-4ef4-9f52-ad1d33ab3eb6" target="_blank"><img src="https://widgets.guidestar.org/TransparencySeal/9523457" /></a> 
-<a href="https://www.charitynavigator.org/ein/464901375" target="_blank" ><img src="https://charitynavigator.org/content/dam/cn/cn/badges/Four-StarRatingBadge-FullColor.png" alt="Charity Navigator Four-Star Rating" style="max-width: 120px;"/></a>
+<a href="https://www.guidestar.org/profile/shared/9c87b1e5-f828-4ef4-9f52-ad1d33ab3eb6" target="_blank"><img src="https://widgets.guidestar.org/TransparencySeal/9523457" /></a>   
+<a href="https://www.charitynavigator.org/ein/464901375" target="_blank" ><img src="https://charitynavigator.org/content/dam/cn/cn/badges/Four-StarRatingBadge-FullColor.png" alt="Charity Navigator Four-Star Rating" style="max-width: 110px;"/></a>
 
 -----
 
