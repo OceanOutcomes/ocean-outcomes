@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved (We're Hiring)
+title: Get Involved
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -10,15 +10,6 @@ weight: 5
 ##Career and volunteer opportunities
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
-
------
-##Current job opportunities
-
-<a href="https://apply.workable.com/ocean-outcomes/j/420F4BAF53/" target="_blank">Korean Fisheries Improvement Officer</a>
-
-Working closely with the Korean Fisheries Improvement Manager, the Korean Fisheries Improvement Officer is a dedicated contracted role, responsible for assisting in the implementation of currently contracted/committed work in Korea; supporting development of new projects and partnership opportunities; and maintaining relationships with key partners and stakeholders. We are seeking a contractor based in Korea, who can travel nationally, and internationally. Recruitment will continue until August 31st. 
-
-<a href="https://apply.workable.com/ocean-outcomes/j/420F4BAF53/" target="_blank">Click here for the full job description and application details.</a> 
 
 -----
 ##Contribute to improving fisheries 
