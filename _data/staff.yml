@@ -14,6 +14,22 @@
   bio: |
     Ho-Tu supports and leads the development and implementation of Ocean Outcomes’ fishery improvement projects in Taiwan, including the research as well as technical support for those projects. This includes engaging with the region’s commercial tuna fisheries and NGOs, and coordinating project work plans and stakeholder convenings. Ho-Tu has over six years of strategic and on the water experience in international affairs and monitoring, control, and surveillance , having worked in the Coast Guard for the Taiwanese government. In addition, he has also supported fishery conferences and workshops working with the Fishery Agency, Council of Agriculture and other stakeholders in Taiwan. With a passion for fishery protection and management, Ho-Tu holds a B.Sc from the Department of Maritime Police, Central Police University and an M.A. in International Crime and Justice from John Jay College of Criminal Justice, the City University of New York in the United States. Ho-Tu enjoys hiking, functional fitness, and photography.
 
+- name: Ines Chung
+  contractor: false
+  title: Asia Fishery Improvement Coordinator
+  email:
+  image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Ines_staffphoto.png
+  bio: |
+     Ines has a diverse background in advancing Taiwan's participation in fisheries agreements and enhancing the rights and benefits of foreign crew members. As a skilled researcher specializing in Asian political economy, maritime security, and supply chain risk analysis, she is proficient in delivering data-driven insights and strategic policy recommendations. Fluent in Mandarin Chinese and English, Ines holds a B.A. in Diplomacy from National Chengchi University in Taiwan and an M.A. in International Development Studies from The George Washington University in the United States. Outside of work, Ines enjoys practicing yoga, immersing herself in nature, and getting lost in a good book.
+
+- name: Jeremy Crawford
+  contractor: false
+  title: Asia Fisheries Director
+  email:
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Jeremy_staffphoto.png
+  bio: |
+    Jeremy has a deep-rooted background in the seafood industry, influenced by his family’s involvement in the sector for over 40 years in Asia and the South Pacific. In the past 15 years, Jeremy has held leadership positions in both industry and non-profit organizations across the Asia-Pacific region. In these roles, he’s launched more than a dozen FIPs, transitioned 8 fisheries to MSC certification, supported pole-and-line fisheries to achieve Fair Trade certification, and has been the focal point of a myriad of supply chain improvement programs for food safety, fair labor compliance, IUU mitigation, environmental performance, and fisheries policy. Jeremy’s expertise extends to seafood and fisheries tech, where he’s introduced connectivity and worker’s voice at sea applications for migrants in Thailand, transitioned catch-documentation and traceability systems from analog to digital in rural Indonesia, launched off-grid solar powered ice-makers, and piloted the first generation of wireless and remote electronic monitoring systems with edge AI computing in Africa and Asia-Pacific. With a profound understanding of fishery supply chains in the region, Jeremy has been a proponent for empowering supply chain actors to be agents of change while collaborating with government and civil society to foster shared value across stakeholders and to help ensure viable fisheries now and in the future.
+
 - name: Jocelyn Drugan, PhD
   contractor: false
   title: Analytics Team Director and Senior Fisheries Scientist
@@ -29,14 +45,14 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Kelly_staffphoto.png
   bio: |
     Kelly is an innovative changemaker with 17 years of diverse experience in sustainable fisheries and organizational leadership. She has held leadership positions in both the nonprofit and for-profit sectors with an emphasis on conservation, fisheries-dependent communities, food systems, and supply chains. Prior to Ocean Outcomes, she served as Executive Director of the Alaska Marine Conservation Council for seven years, led small-scale fisheries work at Ecotrust as Director of Fisheries and Coastal Communities, expanded a values-driven seafood supply chain for Sitka Salmon Shares (now Sitka Seafood Market) as their Chief Fisheries and Sustainability Officer, and most recently catalyzed electronic monitoring initiatives and partnerships as Senior Manager at Saltwater Inc. In addition, she was a winner in the Fish 2.0 international business plan competition, a member of the Alaska Salmon Fellows program, and has served on a number of fisheries and marine conservation boards and committees throughout her career. She possesses advanced education in environmental policy and business including graduate studies in fisheries at the University of British Columbia and an M.B.A. with an emphasis on seafood business from the University of Alaska. Kelly currently lives in Anchorage, Alaska with her husband and husky. 
-    
-- name: Rich Lincoln
+
+- name: Kevin Lin
   contractor: false
-  title: Senior Advisor
+  title: Taiwan Fishery Improvement Officer
   email:
-  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Rich_staffphoto.png
+  image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/KevinStaffPhoto.png
   bio: |
-    Rich has over 40 years of varied global experience in fisheries research, management, policy, and sustainability. Rich led O2’s formation as its founding Executive Director until 2016, and then served as a key senior advisor and another stint as O2’s leader from 2021 to early 2024. His current advisory role supports organizational strategy and management of O2’s Northeast Asia and distant water fisheries program. Rich’s prior positions included International Policy Director for the Marine Stewardship Council, Program Director at Wild Salmon Center and various fisheries research, management and policy roles with the Washington Department of Fish and Wildlife. These included bilateral chair of the Pacific Salmon Commission's Fraser River Panel and developing co-management plans with Pacific Northwest treaty Indian tribes. Rich advised UN-FAO’s development of fisheries ecolabelling guidelines, served as a member of the U.S. Pacific Fisheries Management Council, and is a U.S. Commissioner designee to the North Pacific Fisheries Commission. He is also a Board of Directors’ member for the Coastal Salmon Foundation. Rich enjoys surfing, surf fishing, wildlife viewing, hiking, gardening and culinary concoctions.
+    Kevin brings 14 years of experience in the seafood industry to Ocean Outcomes, having worked on both purse seine and longline fishing vessels. Over the years, he has gained extensive practical experience by traveling to over 20 countries and spent more than two and a half years residing in Fiji. Since then, Kevin has gradually transitioned into project management, supporting the development of Marine Stewardship Council initiatives, Fishery Improvement Projects, and social responsibility initiatives in Taiwan. He has coordinated nearly 300 social responsibility audits with multiple conformity assessment bodies, and has assisted vessel owners in creating and implementing Corrective Action Plans for both management systems and fishing vessels. Kevin holds a Bachelor's Degree from the College of Management, an SA8000 certification, the ISSF Train-the-Trainer Certificate for the Pacific and Indian Oceans, and is a certified internal auditor for ISO9001:2005 Quality Management Systems. Based in Taiwan, Kevin enjoys water activities and golf in his spare time.
     
 - name: Gabrielle Lout, PhD
   contractor: false
@@ -48,7 +64,7 @@
 
 - name: Iván Martínez-Tovar
   contractor: false
-  title: Fisheries Scientist
+  title: Small Scale Fisheries Senior Manager
   email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Ivan_staffphoto.png
   bio: |
@@ -92,6 +108,13 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/yongbiophoto.jpg 
   bio: | 
     Yong is a fisheries scientist. He received his PhD in Zoology in 1995 from the University of Toronto in Canada. He started his career as a fisheries stock assessment scientist in the New South Wales Fisheries Department in Sydney, Australia in 1995, and after various positions joined Stony Brook University in 2021. Dr. Chen’s research focuses primarily on fisheries ecology, population dynamics and fisheries stock assessments and management. His research goal is to provide the best available science for fisheries management and develop sustainable fisheries, using an interdisciplinary approach. Dr. Chen has authored and co-authored over 295 peer-reviewed papers in scientific journals, many technical and stock assessment reports, and has received millions of dollars in competitive research support for over 100 projects. He has mentored over 50 graduate students/postdocs. He is currently a member of the New England Fisheries Management Council’s Scientific and Statistical Committee and adjunct professor at Shanghai Ocean University and Ocean University of China. He is Editor-in-Chief of the Canadian Journal of Fisheries and Aquatic Sciences and Aquaculture and Fisheries.
+
+- name: Rich Lincoln
+  contractor: True
+  title: Senior Advisor
+  image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/richstaffphoto.jpg
+  bio: |
+    Rich has over 40 years of varied global experience in fisheries research, management, policy, and sustainability. Rich led O2’s formation as its founding Executive Director until 2016, and then served as a key senior advisor and another stint as O2’s leader from 2021 to early 2024. His current advisory role supports organizational strategy and management of O2’s Northeast Asia and distant water fisheries program. Rich’s prior positions included International Policy Director for the Marine Stewardship Council, Program Director at Wild Salmon Center and various fisheries research, management and policy roles with the Washington Department of Fish and Wildlife. These included bilateral chair of the Pacific Salmon Commission's Fraser River Panel and developing co-management plans with Pacific Northwest treaty Indian tribes. Rich advised UN-FAO’s development of fisheries ecolabelling guidelines, served as a member of the U.S. Pacific Fisheries Management Council, and is a U.S. Commissioner designee to the North Pacific Fisheries Commission. He is also a Board of Directors’ member for the Coastal Salmon Foundation. Rich enjoys surfing, surf fishing, wildlife viewing, hiking, gardening and culinary concoctions.
 
 - name: Steve McCormick
   contractor: True

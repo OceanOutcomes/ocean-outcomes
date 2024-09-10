@@ -4,7 +4,7 @@ title: New Partnership to Improve Worker Conditions on Asian Longliners
 date: 2024-3-4
 teaser-text: Migrant labor on Northeast Asian fishing vessels receiving educational and vocational training as part of a new initiative to improve social responsibility in Asian seafood production.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry-hero.png
-featured: TRUE
+featured: FALSE
 ---
 ###Ocean Outcomes (O2) and One-Forty have joined forces to launch a pioneering education and training initiative for migrant workers in Taiwanese distant water fisheries.
 

@@ -9,7 +9,7 @@ featured: FALSE
 
 ###New report provides practical recommendations for governments seeking to address ghost gear
 
-Ocean Conservancy’s Global Ghost Gear Initiative (GGGI), in partnership with World Wildlife Fund (WWF) and Ocean Outcomes, today released its new <a href="https://static1.squarespace.com/static/5b987b8689c172e29293593f/t/60e34e4af5f9156374d51507/1625509457644/GGGI-OC-WWF-O2-+LEGISLATION+ANALYSIS+REPORT.pdf" target="_blank">“Ghost Gear Legislation Analysis” report</a>. Using expert interviews and a quantitative survey, the report examines existing government legislation and policies used to tackle the issue of lost, abandoned, or discarded fishing gear; and includes recommendations for how governments can take more effective action on the issue. 
+Ocean Conservancy’s Global Ghost Gear Initiative (GGGI), in partnership with World Wildlife Fund (WWF) and Ocean Outcomes, today released its new <a href="https://static1.squarespace.com/static/650ded502411400532ea242f/t/651c9da7c0778335961fc0e2/1696374185011/GGGI_WWF_Ghost_Gear_Legislation_Analysis.pdf" target="_blank">“Ghost Gear Legislation Analysis” report</a>. Using expert interviews and a quantitative survey, the report examines existing government legislation and policies used to tackle the issue of lost, abandoned, or discarded fishing gear; and includes recommendations for how governments can take more effective action on the issue. 
 
 A survey of 34 ghost gear stakeholders — including 16 government actors — across 24 different countries found that most methods for preventing gear loss outlined in the <a href="https://www.ghostgear.org/resources" target="_blank">GGGI’s Best Practice Framework</a> are not being used, with 67% of respondents reporting that existing policy and legislation in their area are ineffective. The most common type of gear prevention policy utilized was gear marking, with roughly half of respondents reporting that this technique is used in their country; while the least commonly used policies were mandatory lost gear retrieval and national ghost gear action plans. 
 
@@ -31,6 +31,6 @@ It is also a major threat to healthy fisheries and those that depend on them for
 
 ----
 
-**<a href="https://static1.squarespace.com/static/5b987b8689c172e29293593f/t/60e34e4af5f9156374d51507/1625509457644/GGGI-OC-WWF-O2-+LEGISLATION+ANALYSIS+REPORT.pdf" target="_blank">Download the full report here</a>**
+**<a href="https://static1.squarespace.com/static/650ded502411400532ea242f/t/651c9da7c0778335961fc0e2/1696374185011/GGGI_WWF_Ghost_Gear_Legislation_Analysis.pdf" target="_blank">Download the full report here</a>**
 
 ----

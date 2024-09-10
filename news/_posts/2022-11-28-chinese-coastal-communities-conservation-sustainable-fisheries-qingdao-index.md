@@ -7,7 +7,10 @@ hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/ne
 featured: FALSE
 ---
 
-*We implement our work in China through close partnerships with a leading local NGO named Qingdao Marine Conservation Society (QMCS) — which was established with technical support from O2. This update from our partners at QMCS highlights the work we are doing on the ground to improve small-scale fisheries and conservation outcomes along the coastline of the Yellow Sea.*
+*We implement our work in China through close partnerships with a leading local NGO named Qingdao Marine Conservation Society (QMCS) — which was established with technical support from Ocean Outcomes. This update and video from our partners at QMCS highlights the work we are doing on the ground to improve small-scale fisheries and conservation outcomes along the coastline of the Yellow Sea.*
+
+<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/%E7%90%85%E7%90%8A%E6%B8%94%E4%B8%9A%E7%BA%AA%E5%AE%9E(%E5%8F%8C%E8%AF%AD)FINAL.mp4" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/langya-video-thumbnail.png" width="900" height="500" border="0" /></a>  
+*This short video produced by QMCS highlights work to preserve fisheries in the Yellow Sea — described in more detail below.*
 
 ###Project Overview
 
@@ -86,4 +89,4 @@ At the beginning of 2022, the Chinese Ministry of Agriculture and Rural Affairs 
 
 ---
 
-**<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Qingdao+Marine+Conservation+Society+2021+Annual+Report.pdf" target="_blank">To learn more about QMCS’s work, please see QMCS’s 2021 annual report here.</a>**
+**<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Qingdao+Marine+Conservation+Society+QMCS+2023+Annual+Report+Fina+4-4-24.pdf" target="_blank">To learn more about QMCS’s work, please see QMCS’s 2023 annual report here.</a>**

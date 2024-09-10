@@ -39,6 +39,7 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 * [Miyagi Onagawa Coho Salmon AIP] (/where-we-work/japanese-fisheries-seafood/miyagi-coho-salmon/)
 * [Nachi Katsuura Albacore Longline FIP] (/where-we-work/japanese-fisheries-seafood/nachi-katsurra-albacore-longline/)
 * [South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP] (/what-we-do/tuna/south-pacific-longline-albacore-yellowfin/)
+* [Taiwan Tuna Longline Association Pacific Ocean FIP] (/what-we-do/tuna/taiwan-tuna-longline-association-pacific-ocean-fip/)
 * [Tokyo Bay Sea Perch FIP] (/where-we-work/japanese-fisheries-seafood/tokyo-bay-sea-perch/)
 * [Tomamae Giant Pacific Octopus FIP] (/where-we-work/japanese-fisheries-seafood/tomamae-giant-pacific-octopus/)
 * [Western Kamchatka Salmon FIP] (/where-we-work/japanese-fisheries-seafood/western-kamchatka-salmon/)
@@ -46,6 +47,10 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 ---
 ##Stories from the Field: Northeast Asia
 
+* [Building Regional Capacity for Electronic Monitoring Across Taiwan](/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
+* [Supporting Social Responsibility in Korea’s Seafood Industry](/news/supporting-social-responsibility-in-koreas-seafood-industry/)
+* [Ocean Outcomes Announces New Asia Fisheries Director] (/news/jeremy-crawford-selected-as-asia-fisheries-director/)
+* [Leading Taiwanese Tuna Industry Association Commits to Sustainability] (/news/leading-taiwanese-tuna-industry-association-commits-to-sustainability/)
 * [New Partnership to Improve Worker Conditions on Asian Longliners] (/news/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry/)
 * [NFI Crab Council Partners with Ocean Outcomes on Sustainability Envoy Position] (/news/NFI-partner-ocean-outcomes-crab-FIPs-in-Asia/)
 * [Conserving China’s Largest Eelgrass Bed] (/news/conservation-china-eelgrass-pew-yellow-sea-small-scale-fishing)
