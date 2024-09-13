@@ -1,10 +1,7 @@
 ​​---
 layout: page
-title: Chen Hung Seafood Frozen Produce Co., Ltd. Pacific Ocean Longline Tuna FIP
-landing-image:
+title: Chen Hung Seafood Frozen Produce Co. Ltd. Pacific Ocean Longline Tuna FIP
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/V2+-+Yellowfin+tuna%2C+an+important+import+species+for+US+(1).png
-weight: 
-teaser-text:
 ---
 <h2>Overview</h2>
 
@@ -23,6 +20,7 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 * Acting as FIP secretariat and NGO expert, including providing advice/support, as useful, to Chen Hung Seafood Frozen Produce Co., Ltd. in the conduct of their responsibilities with regard to wider sustainability issues and tracking project progress transparently on FisheryProgress.org.
 * Organizing in-person FIP workshops to ensure FIP stakeholders are making progress on FIP workplan priorities.
 * Assessing social risks in the fishery against globally recognized best practices and integrating opportunities to address human and labor rights into fishery improvement processes.
+
 ---
 
 ##Project News and Additional Resources
@@ -31,6 +29,7 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 * <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Workplan+of+the+PO+LL+Tuna+FIP+(Cheng+Hung+Seafood+Co.)+KTA07_1.pdf" target="blank">Workplan of the Cheng Hung Seafood Pacific Ocean Longline Tuna FIP</a>
 * [Building Regional Capacity for Electronic Monitoring Across Taiwan](/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
 * [Ocean Outcomes Expanding Portfolio of Tuna Work Across Northeast Asia] (/news/ocean-outcomes-northeast-asia-tuna-improvement-sustainability-release/)
+
 ---
 
 ##Fishery Improvement Project Information:
