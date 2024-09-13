@@ -19,7 +19,7 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 
 ##What We're Doing:
 
-* Managing FIP development, implementation of environmental and social work plans, and reporting and tracking.
+* Managing FIP development, implementation of environmental and social workplans, and reporting and tracking.
 * Providing support and technical expertise/advice on the development of improved fleet data collection, and collective analysis with industry, especially via Electronic Monitoring.
 * Acting as FIP secretariat and NGO expert, including providing advice/support, as useful, to Chen Hung Seafood Frozen Produce Co., Ltd. in the conduct of their responsibilities with regard to wider sustainability issues and tracking project progress transparently on FisheryProgress.org.
 * Organizing in-person FIP workshops to ensure FIP stakeholders are making progress on FIP workplan priorities.
