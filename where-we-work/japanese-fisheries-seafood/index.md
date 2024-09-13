@@ -30,6 +30,7 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 ---
 ##Northeast Asian Fishery Fishery Improvement Projects:
 
+* [Chen Hung Seafood Frozen Produce Co Ltd. Pacific Ocean Longline Tuna FIP] (/what-we-do/tuna/chen-hung-seafood-frozen-produce-co-pacific-ocean-longline-tuna-fip)
 * [East China Sea and Yellow Sea Squid FIP] (/where-we-work/chinese-fisheries-seafood/east-china-sea-and-yellow-sea-squid/)
 * [Fue Shin Fishery Pacific Ocean Longline Tuna FIP] (/what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/)
 * [Fue Shin Fishery Indian Ocean Longline Tuna FIP] (/what-we-do/tuna/fue-shin-fishery-indian-ocean-longline-tuna-fip/)
