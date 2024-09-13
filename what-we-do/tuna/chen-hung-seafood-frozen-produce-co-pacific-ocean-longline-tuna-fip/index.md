@@ -51,4 +51,4 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 
 ---
 
-<a href="https://fisheryprogress.org/fip-profile/pacific-ocean-tuna-longlincheng-hung-seafood-frozen-produce-co-ltd" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Pacific Ocean tuna - longline (Cheng Hung Seafood Frozen Produce Co., Ltd.) profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/pacific-ocean-tuna-longline-cheng-hung-seafood-frozen-produce-co-ltd">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Pacific Ocean tuna - longline (Cheng Hung Seafood Frozen Produce Co., Ltd.) profile here.**</a>
