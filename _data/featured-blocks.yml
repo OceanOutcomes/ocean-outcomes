@@ -1,4 +1,4 @@
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals.
@@ -25,14 +25,14 @@
     link-text:  이를 통해 사람과 지구를 위한 환경적, 사회⋅경제적 성과를 도출하고 있습니다.
     link-url: /ko/our-work/
 
-- featured: FALSE
+- featured: TRUE
   language: en
-  heading: Triple Impact Fisheries Evaluation Framework
-  title: Maximizing the impact of environmental initiatives by integrating social and financial improvement into fisheries sustainability.
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
+  heading: Ocean Outcomes Seeks New Members for its Board of Directors in 2024
+  title: Finance, Nonprofit Accounting, Seafood Industry, Asia-Pacific Region, Consulting Business & Fundraising Experience Sought
+  hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-japan-tuna-auction.jpg
   link:
     link-text: Learn More
-    link-url: /what-we-do/triple-bottom-line-seafood/
+    link-url: https://apply.workable.com/ocean-outcomes/j/9201C67DB7/
 
 - featured: FALSE
   language: en
