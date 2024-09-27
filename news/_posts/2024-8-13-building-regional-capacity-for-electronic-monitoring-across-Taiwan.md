@@ -6,7 +6,7 @@ teaser-text: Across Northeast Asia, we are catalyzing the uptake of new technolo
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Ho+Tu+installation.png
 featured: TRUE 
 ---
-*Asia Fishery Improvement Manager for Ocean Outcomes, Ho-Tu Chiang, installs electronic monitoring equipment on the longline tuna fishing vessel Maan Fu Tsai No.9 in October 2023, as part of our work in Taiwan.*
+*Asia Fishery Improvement Manager for Ocean Outcomes, Ho-Tu Chiang, coordinates the installation of electronic monitoring equipment on the longline tuna fishing vessel Maan Fu Tsai No.9 in October 2023, as part of our work in Taiwan.*
 
 ###Across Northeast Asia, we are catalyzing the uptake of new technologies to support better fisheries management and improve fishing practices. 
 
@@ -14,7 +14,7 @@ Electronic monitoring offers an efficient and cost-effective alternative to onbo
 
 Electronic monitoring in fisheries can verify the accuracy of vessel logbooks, reduce Illegal, Unreported, and Unregulated (IUU) fishing, increase scientific fisheries data, enhance bycatch reduction strategies, support market access, and expand authorities’ ability to make informed decisions on fisheries management and compliance.
 
-Through a growing partnership with Fue Shin Fishery Ltd (FSF), and the National Taiwan Ocean University and Fisheries Agency of Taiwan, we are installing electronic monitoring equipment and implementing its supporting technology on distant-water longline tuna vessels. These trials are supporting two goals: (1) assisting vessels involved in our FSF Fishery Improvement Projects in gathering independent catch data, and (2) accelerating local capacity for electronic monitoring development. 
+Through a growing partnership with Fue Shin Fishery Ltd (FSF), and the National Taiwan Ocean University and Fisheries Agency of Taiwan, we are helping to install electronic monitoring equipment and implementing its supporting technology on distant-water longline tuna vessels. These trials are supporting two goals: (1) assisting vessels involved in our FSF Fishery Improvement Projects in gathering independent catch data, and (2) accelerating local capacity for electronic monitoring development. 
 
 By implementing new monitoring solutions and enhancing local ability to manage these systems (for example, by supporting processes that allow for video to be reviewed and analyzed in-country) we are supporting Taiwan in improving compliance with international standards, better protecting marine ecosystems, and ultimately helping to ensure the long-term viability of its fishing industry. 
 
@@ -52,7 +52,7 @@ By implementing new monitoring solutions and enhancing local ability to manage t
 
 ![FSF EM Blog Installation 2]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Installation+2.png)
-*This work is all part of two Fishery Improvement Projects led by Ocean Outcomes and FSF, which are working to improve social responsibility and environmental sustainability on participating Taiwanese longline tuna fishing vessels.*
+*So far, the team has installed electronic monitoring equipment across four vessels and plans to do another eight this year. This work is all part of two Fishery Improvement Projects led by Ocean Outcomes and FSF which are working to improve social responsibility and environmental sustainability on participating Taiwanese longline tuna fishing vessels.*
 
 ![FSF EM Blog Ho-Tu Talking]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog+_+HoTu+talking.png)
