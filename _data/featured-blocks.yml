@@ -1,8 +1,8 @@
-- featured: FALSE
+- featured: TRUE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals.
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-services.jpg
+  hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-japan-tuna-auction.jpg
   link:
     link-text: Learn How
     link-url: /what-we-do/services/
@@ -25,7 +25,7 @@
     link-text:  이를 통해 사람과 지구를 위한 환경적, 사회⋅경제적 성과를 도출하고 있습니다.
     link-url: /ko/our-work/
 
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Ocean Outcomes Seeks New Members for its Board of Directors in 2024
   title: Finance, Nonprofit Accounting, Seafood Industry, Asia-Pacific Region, Consulting Business & Fundraising Experience Sought
