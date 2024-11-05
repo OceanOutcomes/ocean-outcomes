@@ -29,6 +29,14 @@ Supporting responsiveness of the Western and Central Pacific Fisheries Commissio
 * Acting as FIP secretariat and NGO expert, including providing advice/support, as useful, to TTLA in the conduct of their responsibilities with regard to wider sustainability issues and tracking project progress transparently on FisheryProgress.org.
 
 ---
+##Project News and Additional Resources:
+
+* [Taiwan’s Largest Fishing Vessel Member Association Launches first Fishery Improvement Project]()
+* [Leading Taiwanese Tuna Industry Association Commits to Sustainability](https://www.oceanoutcomes.org/news/leading-taiwanese-tuna-industry-association-commits-to-sustainability/)
+* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/TTLA+Pacific+Ocean+Tuna+FIP+Pre-assessment.pdf" target="_blank">Taiwan Tuna Longline Assocaition Pacific Ocean Tuna Pre-Assessment Report</a>
+* <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Fishery+Project+Resources/FINAL+BB+WCPO+FIP+Scoping+Document+May19.pdf" target="_blank">Work Plan for the Taiwan Tuna Longline Association Pacific Ocean Tuna - Longline Fishery</a>
+
+---
 
 ##Fishery Improvement Project Information:
 
