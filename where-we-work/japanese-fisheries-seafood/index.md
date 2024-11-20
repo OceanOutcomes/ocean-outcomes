@@ -48,6 +48,7 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 ---
 ##Stories from the Field: Northeast Asia
 
+* [Taiwan's Largest Fishing Vessel Member Association Launches first Fishery Improvement Project](https://oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
 * [Building Regional Capacity for Electronic Monitoring Across Taiwan](/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
 * [Supporting Social Responsibility in Korea’s Seafood Industry](/news/supporting-social-responsibility-in-koreas-seafood-industry/)
 * [Ocean Outcomes Announces New Asia Fisheries Director] (/news/jeremy-crawford-selected-as-asia-fisheries-director/)
