@@ -32,3 +32,9 @@ The FIP will also support collaboration and meaningful engagement across differe
 >**“By fostering a culture of sustainable practices and innovation, we aim to empower the fishing community to not only meet international standards but also lead the way in responsible fishing practices. Together, we’re building a more resilient future for the industry, where sustainability, social responsibility and profitability go hand in hand,” said Kevin Lin, who supports Ocean Outcomes’s work in Taiwan. “This will help to ensure the longevity of both our fisheries and the marine ecosystems they depend on.”**
 
 More information about the Taiwan Tuna Longline Association Pacific Ocean FIP, including the project objectives and its work plan activities, [can be seen here](https://www.oceanoutcomes.org/what-we-do/tuna/taiwan-tuna-longline-association-pacific-ocean-fip/).
+
+----
+
+**Additional Resources**
+
+[Download a PDF of this announcement.](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/TTLA+and+O2+FIP+Launch+Press+Release+November+2024.pdf)
