@@ -46,6 +46,7 @@ Supporting responsiveness of the Western and Central Pacific Fisheries Commissio
 | Participants: | Ocean Outcomes, Taiwan Tuna Longline Association |
 | Species: | Albacore (*Thunnus alalunga*), Bigeye (*T. obesus*), and Yellowfin (*T. albacares*) |
 | Gear Type: | Pelagic Longline |
+| Volume:| 3,500 metric tons|
 | Documents: | <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/TTLA+Pacific+Ocean+Tuna+FIP+Pre-assessment.pdf" target="_blank">Pre-assessment</a> /  <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/TTLA_FIP_Workplan_2024.docx+(2).pdf" target="_blank">Workplan</a> |
 
 
