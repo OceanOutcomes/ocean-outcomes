@@ -4,7 +4,7 @@ title: Supporting Social Responsibility in Korea’s Seafood Industry
 date: 2024-6-13
 teaser-text: Distant water fishing fleets are at particular risk of human rights violations. South Korea is one of the top five distant water fishing countries. That’s why we are working with leading seafood companies there to assess and address opportunities to improve labor conditions and practices onboard longline tuna vessels.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/SAJO_SRA_Hero.png
-featured: TRUE
+featured: FALSE
 ---
 > *A growing partnership between O2 and Sajo Industries Ltd. has helped to reduce the environmental impact of longline tuna fishing operations; improved management of the world’s largest tuna fisheries; and facilitated the uptake of sustainable fishing practices across South Korea — one of the largest tuna industries in the world. Building on this success and a growing awareness of the social impacts of tuna fisheries, O2 and Sajo are now embarking on a new journey to support social responsibility in Korean tuna fisheries.*
 
