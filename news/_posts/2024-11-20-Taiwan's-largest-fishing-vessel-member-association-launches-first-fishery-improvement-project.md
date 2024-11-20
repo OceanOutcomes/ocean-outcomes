@@ -9,9 +9,7 @@ featured: TRUE
 
 ###A recent partnership between Ocean Outcomes (O2) and the Taiwan Tuna Longline Association (TTLA) is helping to improve fishing practices in Taiwanese longline tuna fisheries. 
 
-The partnership — [inked in April 2024](https://www.oceanoutcomes.org/news/leading-taiwanese-tuna-industry-association-commits-to-sustainability/) — has now produced its first Fishery Improvement Project (FIP) for 41 TTLA vessels which combined catch 3,500 metric tons of Pacific Ocean Albacore, Bigeye, and Yellowfin tuna. 
-
-Albacore tuna from these vessels supply North American markets in the form of canned tuna. Larger sized Bigeye and Yellowfin tuna caught by FIP vessels supply premium markets in Japan and remaining catch supply more local markets within Taiwan. The sustainability work on the water as part of the FIP will have ripple effects across all these end markets. 
+The partnership — [inked in April 2024](https://www.oceanoutcomes.org/news/leading-taiwanese-tuna-industry-association-commits-to-sustainability/) — has now produced its first Fishery Improvement Project (FIP) for 41 TTLA vessels which combined catch 3,500 metric tons of Pacific Ocean Albacore, Bigeye, and Yellowfin tuna. Albacore tuna from these vessels supply North American markets in the form of canned tuna. Larger sized Bigeye and Yellowfin tuna caught by FIP vessels supply premium markets in Japan and remaining catch supply more local markets within Taiwan. The sustainability work on the water as part of the FIP will have ripple effects across all these end markets. 
 
 As part of the newly launched FIP, vessel owners, the TTLA and others will work to advance sustainability initiatives in the fishery towards the goal of achieving Marine Stewardship Council Certification by October 2029. This work includes advocating for and supporting the development of science-based fishery management strategies, expanding uptake of environmentally friendly best fishing practices and supporting initiatives that improve human rights onboard participating fishing vessels.
 
