@@ -31,7 +31,9 @@ Supporting responsiveness of the Western and Central Pacific Fisheries Commissio
 ---
 ##Project News and Additional Resources:
 
-* [Taiwan’s Largest Fishing Vessel Member Association Launches first Fishery Improvement Project](https://oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
+* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/PO+Action+Plan.pdf" target="_blank">Pre-assessment Taiwan Tuna Longline Association Pacific Ocean FIP against the Marine Stewardship Council Fisheries Standard</a>
+* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/PO+Action+Plan.pdf" target="_blank">Action Plan for the Taiwan Tuna Longline Association Pacific Ocean FIP</a>
+* [Taiwan’s Largest Fishing Vessel Member Association Launches First Fishery Improvement Project](/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
 * [Leading Taiwanese Tuna Industry Association Commits to Sustainability](https://www.oceanoutcomes.org/news/leading-taiwanese-tuna-industry-association-commits-to-sustainability/)
 
 ---
