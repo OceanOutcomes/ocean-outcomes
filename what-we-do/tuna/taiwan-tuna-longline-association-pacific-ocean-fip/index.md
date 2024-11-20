@@ -33,8 +33,6 @@ Supporting responsiveness of the Western and Central Pacific Fisheries Commissio
 
 * [Taiwan’s Largest Fishing Vessel Member Association Launches first Fishery Improvement Project](https://oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
 * [Leading Taiwanese Tuna Industry Association Commits to Sustainability](https://www.oceanoutcomes.org/news/leading-taiwanese-tuna-industry-association-commits-to-sustainability/)
-* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/TTLA+Pacific+Ocean+Tuna+FIP+Pre-assessment.pdf" target="_blank">Taiwan Tuna Longline Association Pacific Ocean Tuna Pre-Assessment Report</a>
-* <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/TTLA_FIP_Workplan_2024.docx+(2).pdf" target="_blank">Work Plan for the Taiwan Tuna Longline Association Pacific Ocean Tuna - Longline Fishery</a>
 
 ---
 
@@ -48,6 +46,8 @@ Supporting responsiveness of the Western and Central Pacific Fisheries Commissio
 | Participants: | Ocean Outcomes, Taiwan Tuna Longline Association |
 | Species: | Albacore (*Thunnus alalunga*), Bigeye (*T. obesus*), and Yellowfin (*T. albacares*) |
 | Gear Type: | Pelagic Longline |
+| Documents: | <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/TTLA+Pacific+Ocean+Tuna+FIP+Pre-assessment.pdf" target="_blank">>Pre-assessment</a> /  <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/TTLA_FIP_Workplan_2024.docx+(2).pdf" target="_blank">Workplan</a> |
+
 
 --- 
 
