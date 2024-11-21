@@ -113,7 +113,7 @@ GEM
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
-    rake (10.5.0)
+    rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -154,7 +154,7 @@ DEPENDENCIES
   jekyll-email-protect (~> 1.0.3)
   jekyll-i18n
   neat
-  rake (~> 10)
+  rake (~> 12)
   s3_website (~> 3.4.0)
   sass (= 3.4.22)
   sass-globbing
