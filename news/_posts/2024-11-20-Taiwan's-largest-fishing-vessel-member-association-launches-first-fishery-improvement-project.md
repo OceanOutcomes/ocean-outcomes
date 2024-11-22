@@ -7,6 +7,8 @@ hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/he
 featured: TRUE
 ---
 
+[中文版在這裡](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/CHINESE+LANGUAGE+VERSION+TTLA+and+O2+FIP+Launch+Press+Release+November+2024.pdf)
+
 ###A recent partnership between Ocean Outcomes (O2) and the Taiwan Tuna Longline Association (TTLA) is helping to improve fishing practices in Taiwanese longline tuna fisheries. 
 
 The partnership — [inked in April 2024](https://www.oceanoutcomes.org/news/leading-taiwanese-tuna-industry-association-commits-to-sustainability/) — has now produced its first Fishery Improvement Project (FIP) for 41 TTLA vessels which combined catch 3,500 metric tons of Pacific Ocean Albacore, Bigeye, and Yellowfin tuna. 
@@ -40,4 +42,4 @@ More information about the Taiwan Tuna Longline Association Pacific Ocean FIP, i
 
 **Additional Resources**
 
-[Download a PDF of this announcement.](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/TTLA+and+O2+FIP+Launch+Press+Release+November+2024.pdf)
+[Download a PDF of this announcement.](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/TTLA+and+O2+FIP+Launch+Press+Release+November+2024.pdf) [中文版在這裡](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/CHINESE+LANGUAGE+VERSION+TTLA+and+O2+FIP+Launch+Press+Release+November+2024.pdf)
