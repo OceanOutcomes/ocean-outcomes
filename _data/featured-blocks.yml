@@ -1,4 +1,4 @@
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals.
@@ -34,14 +34,14 @@
     link-text: Learn More
     link-url: https://apply.workable.com/ocean-outcomes/j/9201C67DB7/
 
-- featured: FALSE
+- featured: TRUE
   language: en
-  heading: Sustainable Seafood Fund
-  title: We are working to create new and innovative ways to finance the blue economy and support the transition to sustainable fisheries.
+  heading: This week is GivingTuesday!
+  title: Fisheries provide livelihoods for millions and food for billions. On this GivingTuesday, support fisheries, oceans, and those who depend on them.
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
   link:
-    link-text: Learn More
-    link-url: /what-we-do/triple-bottom-line-seafood/funding-and-facility/
+    link-text: Donate to Healthy Fisheries and Oceans
+    link-url: https://bit.ly/3z70ePW
     
 - featured: FALSE
   language: en
