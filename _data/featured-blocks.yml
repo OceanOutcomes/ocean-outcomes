@@ -1,4 +1,4 @@
-- featured: FALSE
+- featured: TRUE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals.
@@ -34,7 +34,7 @@
     link-text: Learn More
     link-url: https://apply.workable.com/ocean-outcomes/j/9201C67DB7/
 
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: This week is GivingTuesday!
   title: Fisheries provide livelihoods for millions and food for billions. On this GivingTuesday, support fisheries, oceans, and those who depend on them.
