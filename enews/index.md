@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: our-team
 title: Newsletters
 subtitle: Text
-weight: 7
+weight: 6
 ---
