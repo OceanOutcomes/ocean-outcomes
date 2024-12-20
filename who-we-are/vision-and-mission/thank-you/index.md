@@ -14,7 +14,8 @@ weight:
 We’re a small group with big goals working with fisheries across vast geographies and oceans. Connecting with us online helps get our message to more people, gives a voice to the issues commercial fisheries face, and ultimately contributes to an increased demand for sustainable seafood.
 
  * <a href="https://www.linkedin.com/company/ocean-outcomes" target="_blank">Connect with O2 on LinkedIn</a>
- * <a href="http://www.twitter.com/oceanoutcomes" target="_blank">Follow O2 on Twitter</a>
+ * <a href="https://www.facebook.com/OceanOutcomes" target="_blank">Friend O2 on Facebook</a>
+ * <a href="http://www.twitter.com/oceanoutcomes" target="_blank">Follow O2 on X / Twitter</a>
 
 -----
 ##Be a sustainable seafood advocate

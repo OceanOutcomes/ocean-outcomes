@@ -60,8 +60,9 @@ und:
   close: "Close"
   menu: "Menu"
   tracker: "FIP Tracker"
-  newsletter: "Subscribe to our newsletter"
+  newsletter: "Subscribe for updates"
   donate: "Make a Donation"
+  enews: "Newsletters"
 
   ##########################
   # Contact Page
