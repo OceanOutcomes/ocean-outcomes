@@ -7,7 +7,7 @@ hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/he
 featured: TRUE
 ---
 
-###We are extremely pleased to announce that Senior Business Executive Joseph Rosenberg and Lucy Perkins of Systems Entrepreneurs Advisors have joined O2’s Board of Directors.
+###We are extremely pleased to announce that Senior Business Executive, Joseph Rosenberg, and Lucy Perkins of Systems Entrepreneurs Advisors have joined O2’s Board of Directors.
 
 **These two bring an amazing mix of expertise in finance, business development, governance and social change to support O2’s mission.**
 
@@ -21,13 +21,12 @@ Lucy Perkins is Co-Founder of Systems Entrepreneurs Advisors, a global expert gr
 
 Lucy adds extensive strategic, social innovation and finance expertise to O2’s Board. Prior to Ashoka, she spent seven years in equity and project finance in Asia, first with the International Finance Corporation/World Bank and then with Emerging Markets Partnership, a US$7 billion infrastructure-focused global equity investment firm. 
 
->**“What a privilege to work with O2 now as its impact takes off.  The challenges are big, but O2 is well-positioned to make a real difference for the oceans and for all of us who depend on the oceans.”
-” - Lucy Perkins**
+>**“What a privilege to work with O2 now as its impact takes off.  The challenges are big, but O2 is well-positioned to make a real difference for the oceans and for all of us who depend on the oceans.” - Lucy Perkins**
  
 **Welcome Joe & Lucy — we are thrilled to have you join us!**
 
 ###We also wish to thank Charlie Brown, Valerie Craig and Susan Ruffo for their dedicated service to the O2 Board.
 
-While we are excited at the continued diversified growth of O2’s Board, we also want to acknowledge the tremendous contributions of some of our founding Board members.Charlie, Valerie and Susan who transitioned out of their roles as Board members in 2024 after nearly 8 years of service to the organization. We cannot thank these individuals enough for devoting their time, energy, and impressive expertise to O2’s organizational growth and development during these formative years. It has been a great first decade of progress at O2 and we are looking forward to what’s to come in the next 10 years. 
+While we are excited at the continued diversified growth of O2’s Board, we also want to acknowledge the tremendous contributions of some of our founding Board members. Charlie, Valerie and Susan transitioned out of their roles as Board members in 2024 after nearly 8 years of service to the organization. We cannot thank these individuals enough for devoting their time, energy and impressive expertise to O2’s organizational growth and development during these formative years. It has been a great first decade of progress at O2 and we are looking forward to what’s to come in the next 10 years.
 
 [View a complete list of our Board members and their bios here] (/who-we-are/board/).
