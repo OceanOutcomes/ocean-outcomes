@@ -4,7 +4,7 @@ title: Building Regional Capacity for Electronic Monitoring Across Taiwan
 date: 2024-8-13
 teaser-text: Across Northeast Asia, we are catalyzing the uptake of new technologies to support better fisheries management and improve fishing practices. 
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Ho+Tu+installation.png
-featured: TRUE 
+featured: FALSE 
 ---
 *Asia Fishery Improvement Manager for Ocean Outcomes, Ho-Tu Chiang, coordinates the installation of electronic monitoring equipment on the longline tuna fishing vessel Maan Fu Tsai No.9 in October 2023, as part of our work in Taiwan.*
 
