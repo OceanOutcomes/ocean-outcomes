@@ -4,7 +4,7 @@ title: Taiwan’s Largest Fishing Vessel Member Association Launches First Fishe
 date: 2024-11-20
 teaser-text: 41 longline tuna vessels begin environmental and social work towards goal of 2029 Marine Stewardship Council certification. 
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/TTLA-tuna-fip-launch-hero.png
-featured: FALSE
+featured: TRUE
 ---
 
 [中文版在這裡](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/CHINESE+LANGUAGE+VERSION+TTLA+and+O2+FIP+Launch+Press+Release+November+2024.pdf)
