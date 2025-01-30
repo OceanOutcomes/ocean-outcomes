@@ -27,6 +27,6 @@ Lucy adds extensive strategic, social innovation and finance expertise to O2’s
 
 ###We also wish to thank Charlie Brown, Valerie Craig and Susan Ruffo for their dedicated service to the O2 Board.
 
-While we are excited at the continued diversified growth of O2’s Board, we also want to acknowledge the tremendous contributions of some of our founding Board members. Charlie, Valerie and Susan transitioned out of their roles as Board members in 2024 after nearly 8 years of service to the organization. We cannot thank these individuals enough for devoting their time, energy and impressive expertise to O2’s organizational growth and development during these formative years. It has been a great first decade of progress at O2 and we are looking forward to what’s to come in the next 10 years.
+While we are excited at the continued diversified growth of O2’s Board, we also want to acknowledge the tremendous contributions of some of our founding Board members. Charlie, Valerie and Susan transitioned out of their roles as Board members in 2024. We cannot thank these individuals enough for devoting their time, energy and impressive expertise to O2’s organizational growth and development during these formative years. It has been a great first decade of progress at O2 and we are looking forward to what’s to come in the next 10 years.
 
 [View a complete list of our Board members and their bios here] (/who-we-are/board/).
