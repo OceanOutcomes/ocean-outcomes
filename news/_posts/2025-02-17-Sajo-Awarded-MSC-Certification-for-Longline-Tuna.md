@@ -1,7 +1,7 @@
 ---
 layout: news
-title: Sajo Awarded MSC Certification for Longline Tuna
-teaser-text: Korean tuna company secures use of blue sustainability logo for best practices in bigeye, yellowfin and albacore tuna fisheries.
+title: Sajo Industries Awarded MSC Certification for Longline Tuna
+teaser-text: With the help of O2, one of the largest Korean tuna companies has secured use of the blue sustainability logo for best practices in bigeye, yellowfin and albacore tuna fisheries.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/SAJO+MSC+Ceremony.png 
 featured: TRUE
 ---
