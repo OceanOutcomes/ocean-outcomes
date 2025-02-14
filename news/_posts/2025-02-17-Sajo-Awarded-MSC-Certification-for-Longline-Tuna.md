@@ -5,6 +5,7 @@ teaser-text: With the help of O2, one of the largest Korean tuna companies has s
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/SAJO+MSC+Ceremony.png 
 featured: TRUE
 ---
+*Korea Fisheries Senior Manager, Doohyun Park, and Korea Fisheries Improvement Officer, Dokyong Lee, pictured with representatives from Sajo Industries Co., Ltd and Marine Stewardship Council Korea at the MSC Certification award ceremony.*
 
 ###28 vessels catching a combined 8,320 metric tonnes of tuna in the Eastern and Western Pacific Oceans have secured Marine Stewardship Council (MSC) Certification and will begin selling tuna to global markets using the blue MSC logo this year.  
 
