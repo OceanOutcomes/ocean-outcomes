@@ -15,7 +15,7 @@ These vessels are owned and operated by Sajo Industries Co., Ltd., one of Korea�
 
 ###The certification comes as part of a recent portfolio of work by Sajo to increase efforts to support better management, improved fishing practices and treatment of crew across their tuna fisheries.
 
-This work has included advocating for science-based fisheries management, supporting government pilots on electronic monitoring (EM), working pre-competitively with other tuna companies to expand independent observer coverage, and [completing a social risk assessment using the Social Responsibility Assessment (SRA) Tool onboard Sajo vessels.](https://www.oceanoutcomes.org/news/supporting-social-responsibility-in-koreas-seafood-industry/).
+This work has included advocating for science-based fisheries management, supporting government pilots on electronic monitoring (EM), working pre-competitively with other tuna companies to expand independent observer coverage, and [completing a social risk assessment using the Social Responsibility Assessment (SRA) Tool onboard Sajo vessels](https://www.oceanoutcomes.org/news/supporting-social-responsibility-in-koreas-seafood-industry/).
 
 >**“As the first in Korea, Sajo Group installed EM systems on our tuna longline vessels and conducted a social risk assessment to create a business environment that prioritizes sustainable resource management, environmentally friendly operations and human rights,” added Chi-Gon Kim. “Sajo Group will continue to embrace the evolving future and strive to advance to the next level as Korea's leading distant-water fisheries company.”**
 
