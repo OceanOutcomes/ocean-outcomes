@@ -8,7 +8,7 @@ featured: FALSE
 ---
 ###A recent webinar workshop co-organized by the Korea Maritime Institute (KMI) and Ocean Outcomes helped to identify solutions to the problem of illegal, unreported, and unregulated (IUU) seafood making its way into Korea’s seafood market. 
 
-Korea is one of the ten largest seafood importers in the world — <a href="https://www.fao.org/publications/sofia/2022/en/" target="_blank">which combined import 61% of global aquatic products by value.</a> This has led to growing concern over possible IUU seafood imports from high risk countries, such as China, entering the consumer market without proper monitoring or preventative measures in place. 
+Korea is one of the ten largest seafood importers in the world — which combined import 61% of global aquatic products by value. This has led to growing concern over possible IUU seafood imports from high risk countries, such as China, entering the consumer market without proper monitoring or preventative measures in place. 
 
 Globally, there are 8-14 million metric tons of IUU fish entering markets every year, an amount worth an estimated 9-17 billion USD, <a href="https://www.science.org/doi/10.1126/sciadv.aaz3801" target="_blank">according to a recent research of University of British Columbia.</a> Thus, it is crucial for the largest seafood importing countries to implement effective seafood import control rules and to contribute to combating IUU seafood seeking lucrative markets. In recent years, the European Union, United States and Japan have put forth enormous effort to fight IUU and strengthen both control and monitoring of their seafood imports, and we are now working to replicate these successes in the Korean context.
 
