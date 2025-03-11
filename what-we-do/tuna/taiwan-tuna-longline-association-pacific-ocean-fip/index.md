@@ -53,6 +53,4 @@ Supporting responsiveness of the Western and Central Pacific Fisheries Commissio
 
 
 --- 
-
-<a href="(https://fisheryprogress.org/fip-profile/pacific-ocean-tuna-longline-ttla-0)">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Taiwan Tuna Longline Association Pacific Ocean FIP profile here.**</a>
-
+[**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Taiwan Tuna Longline Association Pacific Ocean FIP profile here**](https://fisheryprogress.org/fip-profile/pacific-ocean-tuna-longline-ttla-0)

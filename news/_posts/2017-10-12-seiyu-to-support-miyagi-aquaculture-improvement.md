@@ -36,7 +36,7 @@ As harvest volume of internationally recognized species such as Pacific Bluefin 
 
 [Download a PDF of this announcement.] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SeiyutoSupportMiyagiCohoSalmonAIP-Final+ENGLISH.pdf)
 
-<a href="http://www.seiyu.co.jp" target="_blank">Seiyu GK website</a>
+<a href="https://www.seiyu.co.jp" target="_blank">Seiyu GK website</a> 
 
 <a href="https://seafoodlegacy.com/" target="_blank">Seafood Legacy Co., Ltd. website</a>
 
