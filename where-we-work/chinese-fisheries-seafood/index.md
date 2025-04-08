@@ -8,7 +8,7 @@ teaser-text: In addition to accounting for ⅓ of the world’s seafood producti
 subtitle: China as a country consumes more seafood than the next 10 countries combined. To ensure this seafood is produced and consumed sustainably, we’re working closely with a local Chinese NGO and company to implement scientifically-rigorous Chinese sustainable fisheries and seafood initiatives.
 ---
 
-##China’s seafood production, consumption, aquaculture operations, and commercial fishing fleets are staggering in size.
+##China’s seafood production, consumption, aquaculture operations and commercial fishing fleets are staggering in size.
 
 * 25% of the world’s commercial fishing capacity is Chinese
 * 35% of the world’s seafood (wild and farmed combined) comes from China
