@@ -20,7 +20,7 @@ The project, which included over a year of preparatory work followed by a six-mo
 
 ![EMC4C Crew on Phone](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EMC4C+Crew+on+Phone.png)
 
-<a href="(https://www.conservation.org/press-releases/2025/04/10/monitoring-for-change-new-report-reveals-electronic-monitoring-andwi-fi-improve-crew-welfare)" target="_blank">According to Conservation International</a>, Phase Two will focus on increasing the use of electronic monitoring and Wi-Fi from three to ten vessels to gather more data across a greater time span, and evaluate the effectiveness of these technologies in identifying labor risks, supporting grievance reporting, and guiding remediation efforts. 
+<a href="https://www.conservation.org/press-releases/2025/04/10/monitoring-for-change-new-report-reveals-electronic-monitoring-andwi-fi-improve-crew-welfare" target="_blank">According to Conservation International</a>, Phase Two will focus on increasing the use of electronic monitoring and Wi-Fi from three to ten vessels to gather more data across a greater time span, and evaluate the effectiveness of these technologies in identifying labor risks, supporting grievance reporting, and guiding remediation efforts. 
 
 This innovative approach addresses the critical need for improved labor conditions in the fishing industry, where issues such as forced labor, human trafficking, and exploitation are prevalent. By integrating this technology into fisheries management, the study provides a scalable model for enhancing social responsibility and promoting sustainable practices in global tuna fisheries.
 
