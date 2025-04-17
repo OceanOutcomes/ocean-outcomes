@@ -4,7 +4,7 @@ title: Announcing Two New Appointments to Ocean Outcomes' Board of Directors
 date: 2025-1-30
 teaser-text: We are extremely pleased to announce that Senior Business Executive, Joseph Rosenberg, and Lucy Perkins of Systems Entrepreneurs Advisors have joined O2’s Board of Directors.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Joe-Lucy-Hero.png
-featured: TRUE
+featured: FALSE
 ---
 
 ###We are extremely pleased to announce that Senior Business Executive, Joseph Rosenberg, and Lucy Perkins of Systems Entrepreneurs Advisors have joined O2’s Board of Directors.
