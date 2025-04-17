@@ -28,4 +28,4 @@ This innovative approach addresses the critical need for improved labor conditio
 
 ![Webinar Promo](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Webinar+Promo.png)
 
-[Join Ocean Outcomes, The Nature Conservancy, and Conservation International for a live webinar and Q&A on Tuesday, April 29]((https://events.zoom.us/ev/AvBU2L24I9oaYT5CMHYECt7YKS7kvKlwn-6Ch3i69PeBdQCanngw~Am4IcNCWE8d-GCYtAyeKhkdkw0CrxHQW-1MDubg8cNx1yBCgUlRnl_FRHQ).) where project leads will present on key findings and next steps, including more details on Phase 2 of this work. 
+[Join Ocean Outcomes, The Nature Conservancy, and Conservation International for a live webinar and Q&A on Tuesday, April 29](https://events.zoom.us/ev/AvBU2L24I9oaYT5CMHYECt7YKS7kvKlwn-6Ch3i69PeBdQCanngw~Am4IcNCWE8d-GCYtAyeKhkdkw0CrxHQW-1MDubg8cNx1yBCgUlRnl_FRHQ) where project leads will present on key findings and next steps, including more details on Phase 2 of this work. 
