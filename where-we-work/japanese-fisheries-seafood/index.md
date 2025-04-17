@@ -48,6 +48,7 @@ This ensures our initiatives are effective and our outcomes durable. Working wit
 ---
 ##Stories from the Field: Northeast Asia
 
+* [Ocean Outcomes Collaborates on Groundbreaking Project to Enhance Social Responsibility at Sea](/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
 * [Sajo Industries Awarded Marine Stewardship Council Certification for Longline Tuna](/news/Sajo-Awarded-MSC-Certification-for-Longline-Tuna/)
 * [Taiwan's Largest Fishing Vessel Member Association Launches First Fishery Improvement Project](/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
 * [Building Regional Capacity for Electronic Monitoring Across Taiwan](/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
