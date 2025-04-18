@@ -28,7 +28,7 @@ This innovative approach addresses the critical need for improved labor conditio
 
 <a href="https://events.zoom.us/ev/AvBU2L24I9oaYT5CMHYECt7YKS7kvKlwn-6Ch3i69PeBdQCanngw~Am4IcNCWE8d-GCYtAyeKhkdkw0CrxHQW-1MDubg8cNx1yBCgUlRnl_FRHQ" target="_blank">
 
-![Webinar Promo](logo.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Webinar+Promo.png)
+![Webinar Promo](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Webinar+Promo.png)
 
 </a>
 
