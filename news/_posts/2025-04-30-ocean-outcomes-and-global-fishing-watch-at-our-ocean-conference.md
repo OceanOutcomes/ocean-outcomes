@@ -28,9 +28,9 @@ Technology isn’t just a tool for monitoring — it can also improve working co
 
 >**“These technologies are generating scalable solutions — and when the need is urgent. Collaboration across governments, industry, civil society and academia is increasingly effective and will bring enduring change,” added Tony.**
 
-[our-ocean-conference-2025-electronic-monitoring-image-3](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/our-ocean-conference-2025-electronic-monitoring-image-3.png)
-
 ###At *Our Ocean*, O2 announced a new commitment: to leverage $3 million USD from philanthropic and industry partners to catalyze transparency and responsible fishing practices across high-risk, distant water tuna fleets in Northeast Asia.
+
+[our-ocean-conference-2025-electronic-monitoring-image-3](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/our-ocean-conference-2025-electronic-monitoring-image-3.png)
 
 As part of this commitment, O2 will work with a broad coalition of partners to scale adoption of critical technologies and best practices across the tuna longline fleet. 
 The initiative will focus on:
