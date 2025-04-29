@@ -44,4 +44,4 @@ This commitment marks a significant step toward reshaping one of the world’s m
 
 **Additional Resources**
 
-[Download a PDF of this announcement.](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Ocean+Outcomes+and+Global+Fishing+Watch+Our+Ocean+2025+Press+Release.docx.pdf)
+<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Ocean+Outcomes+and+Global+Fishing+Watch+Our+Ocean+2025+Press+Release.docx.pdf" target="_blank">Download a PDF of this announcement.</a>
