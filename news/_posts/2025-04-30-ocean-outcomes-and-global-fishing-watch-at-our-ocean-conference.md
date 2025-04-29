@@ -22,14 +22,14 @@ Technology isn’t just a tool for monitoring — it can also improve working co
 
 >**“These technologies are generating scalable solutions — and when the need is urgent. Collaboration across governments, industry, civil society and academia is increasingly effective and will bring enduring change,” added Tony.**
 
-At **Our Ocean**, O2 announced a new commitment: to leverage $3 million USD from philanthropic and industry partners to catalyze transparency and responsible fishing practices across high-risk, distant water tuna fleets in Northeast Asia.
+At *Our Ocean*, O2 announced a new commitment: to leverage $3 million USD from philanthropic and industry partners to catalyze transparency and responsible fishing practices across high-risk, distant water tuna fleets in Northeast Asia.
 As part of this commitment, O2 will work with a broad coalition of partners to scale adoption of critical technologies and best practices across the tuna longline fleet. 
 
 The initiative will focus on:
 Expanding the use of electronic monitoring systems
-+ Installing onboard Wi-Fi to enhance crew wellbeing and communication
-+ Promoting rigorous human rights due diligence throughout the supply chain
-+ Supporting vessel participation in Fishery Improvement Projects (FIPs) and Marine Stewardship Council (MSC) certification processes
+ * Installing onboard Wi-Fi to enhance crew wellbeing and communication
+ * Promoting rigorous human rights due diligence throughout the supply chain
+ * Supporting vessel participation in Fishery Improvement Projects (FIPs) and Marine Stewardship Council (MSC) certification processes
 
 >**“The momentum is here with a significant portion of the Northeast Asian longline tuna fleet starting to engage in sustainability work. Now, we are working with industry and government to shift fishing practices, improve policy, and implement new technologies that are critical to the long-term health of the region’s tuna fisheries and the larger ocean ecosystem that they are a part of,” added Kelly.**
 
@@ -43,4 +43,4 @@ This commitment marks a significant step toward reshaping one of the world’s m
 
 **Additional Resources**
 
-[Download a PDF of this announcement.]()
+[Download a PDF of this announcement.](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Ocean+Outcomes+and+Global+Fishing+Watch+Our+Ocean+2025+Press+Release.docx.pdf)
