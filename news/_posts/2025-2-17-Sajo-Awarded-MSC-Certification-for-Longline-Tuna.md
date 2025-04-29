@@ -3,7 +3,7 @@ layout: news
 title: Sajo Industries Awarded Marine Stewardship Council Certification for Longline Tuna
 teaser-text: With the help of O2, one of the largest Korean tuna companies has secured use of the blue sustainability logo for best practices in bigeye, yellowfin and albacore tuna fisheries.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/SAJO+MSC+Ceremony.png 
-featured: TRUE
+featured: FALSE
 ---
 *Korea Fisheries Senior Manager, Doohyun Park, and Korea Fisheries Improvement Officer, Dokyong Lee, pictured with representatives from Sajo Industries Co., Ltd and Marine Stewardship Council (MSC) Korea at the MSC Certification award ceremony.*
 
