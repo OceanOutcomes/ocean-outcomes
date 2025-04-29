@@ -24,7 +24,7 @@ In partnership with the government of South Korea, the organizations convened fi
 
 >**“We have to know what’s happening at sea if we’re serious about tackling IUU fishing. At both Our Ocean Conference and the UN Ocean Conference, the spotlight is firmly on our shared ocean and better fisheries management. The use of technology is key, but the real revolution is through governments and industry making their data public. Trust and transparency are crucial for effective, and lasting, progress,” said Tony Long, Chief Executive Officer at GFW.**
 
-Technology isn’t just a tool for monitoring — it can also improve working conditions onboard vessels. Findings from a groundbreaking pilot project demonstrate that electronic monitoring and connectivity can be leveraged to enhance labor standards and ensure the safety and dignity of crew members.
+Technology isn’t just a tool for monitoring — it can also improve working conditions onboard vessels. <a href="https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/" target="_blank">Findings from a groundbreaking pilot project demonstrate that electronic monitoring and connectivity can be leveraged to enhance labor standards and ensure the safety and dignity of crew members.</a>
 
 >**“These technologies are generating scalable solutions — and when the need is urgent. Collaboration across governments, industry, civil society and academia is increasingly effective and will bring enduring change,” added Tony.**
 
