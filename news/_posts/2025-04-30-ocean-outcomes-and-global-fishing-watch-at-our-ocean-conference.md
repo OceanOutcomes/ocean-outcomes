@@ -1,7 +1,7 @@
 ---
 layout: news
 title: At Our Ocean Conference, Spotlight Shines on Northeast Asia’s Tuna Fleets
-teaser-text: Ocean Outcomes and Global Fishing Watch Leading Charge to Modernize High-Risk Tuna Fleets with Cutting-Edge Technologies
+teaser-text: Northeast Asia’s distant water tuna fleets are the largest in the world. Yet despite their vast reach, little is known about their operations.
 hero-image: (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/our-ocean-conference-2025-electronic-monitoring-image-1.png)
 featured: TRUE
 ---
