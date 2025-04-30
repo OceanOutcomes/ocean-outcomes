@@ -18,7 +18,7 @@ New technologies are changing the game and can expand the efficacy of sustainabi
 
 ###Ocean Outcomes (O2) and Global Fishing Watch (GFW) are working to accelerate adoption of these innovations. 
 
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/our-ocean-conference-2025-electronic-monitoring-image-2.png)
+![our-ocean-conference-2025-electronic-monitoring-image-2](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/our-ocean-conference-2025-electronic-monitoring-image-2.png)
 
 In partnership with the government of South Korea, the organizations convened fisheries leaders at an Our Ocean side event to chart a path toward more transparent, effective fisheries management.
 
@@ -30,7 +30,7 @@ Technology isn’t just a tool for monitoring — it can also improve working co
 
 ###At *Our Ocean*, O2 announced a new commitment: to leverage $3 million USD from philanthropic and industry partners to catalyze transparency and responsible fishing practices across high-risk, distant water tuna fleets in Northeast Asia.
 
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/our-ocean-conference-2025-electronic-monitoring-image-3.png)
+![our-ocean-conference-2025-electronic-monitoring-image-3](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/our-ocean-conference-2025-electronic-monitoring-image-3.png)
 
 As part of this commitment, O2 will work with a broad coalition of partners to scale adoption of critical technologies and best practices across the tuna longline fleet. 
 The initiative will focus on:
