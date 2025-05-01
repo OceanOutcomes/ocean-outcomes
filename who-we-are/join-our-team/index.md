@@ -11,7 +11,7 @@ weight: 5
 
 > **Current job openings:**  
 > 
-> *<a href="https://apply.workable.com/ocean-outcomes/" target="_blank">Social Responsibility Coordinator</a>
+> **<a href="https://apply.workable.com/ocean-outcomes/" target="_blank">Social Responsibility Coordinator</a>** — Through a human rights-based approach, the Social Responsibility Coordinator (Coordinator) will support the implementation of the Electronic Monitoring and Connectivity for Crews at Sea (EMC4C) Project in Taiwan, and support O2’s social responsibility efforts to improve human rights in global fisheries. *<a href="https://apply.workable.com/ocean-outcomes/" target="_blank">Learn more and apply here.</a>*
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
 
