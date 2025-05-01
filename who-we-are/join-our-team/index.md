@@ -9,7 +9,9 @@ weight: 5
 ---
 ##Career and volunteer opportunities
 
-<a href="https://apply.workable.com/ocean-outcomes/" target="_blank">Social Responsibility Coordinator</a>
+> **Current job openings:**  
+> 
+> *<a href="https://apply.workable.com/ocean-outcomes/" target="_blank">Social Responsibility Coordinator</a>
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
 
