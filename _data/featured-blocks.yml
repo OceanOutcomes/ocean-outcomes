@@ -1,11 +1,11 @@
-- featured: TRUE
+- featured: FALSE
   language: en
-  heading: Want to Get Involved?
-  title: We are hiring a Social Responsibility Coordinator!
+  heading: Working in sustainable seafood or fisheries improvement?
+  title: We can help you deliver on your goals. 
   hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-japan-tuna-auction.jpg
   link:
-    link-text: Apply Here
-    link-url: https://apply.workable.com/ocean-outcomes/
+    link-text: Learn How
+    link-url: /what-we-do/services/
 
 - featured: TRUE
   language: es
@@ -43,13 +43,13 @@
     link-text: Donate to Healthy Fisheries and Oceans
     link-url: https://bit.ly/3z70ePW
     
-- featured: FALSE
+- featured: TRUE
   language: en
   heading: We are hiring!
   title: Do you care as much about sustainable fisheries as we do?
   hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
   link:
-    link-text: Learn more about the opportunities and apply
+    link-text: Learn more and apply
     link-url: https://apply.workable.com/ocean-outcomes/
 
 - featured: FALSE
