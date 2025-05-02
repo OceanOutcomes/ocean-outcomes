@@ -26,12 +26,12 @@ This innovative approach addresses the critical need for improved labor conditio
 
 ###Want to learn more about this groundbreaking work? 
 
-<a href="https://events.zoom.us/ev/AvBU2L24I9oaYT5CMHYECt7YKS7kvKlwn-6Ch3i69PeBdQCanngw~Am4IcNCWE8d-GCYtAyeKhkdkw0CrxHQW-1MDubg8cNx1yBCgUlRnl_FRHQ" target="_blank">
+<a href="https://oceanoutcomes.us3.list-manage.com/track/click?u=2b8e55c974a70064c5806011a&id=75f0292866&e=5a42c31267" target="_blank">
 
 ![Webinar Promo](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Webinar+Promo.png)
 
 </a>
 
-<a href="https://events.zoom.us/ev/AvBU2L24I9oaYT5CMHYECt7YKS7kvKlwn-6Ch3i69PeBdQCanngw~Am4IcNCWE8d-GCYtAyeKhkdkw0CrxHQW-1MDubg8cNx1yBCgUlRnl_FRHQ" target="_blank">Join Ocean Outcomes, The Nature Conservancy, and Conservation International for a live webinar and Q&A on Tuesday, April 29,</a> where project leads will present key findings and next steps, including more details on Phase Two of this work.
+Along with The Nature Conservancy and Conservation International, we recently participated in a webinar to present findings from the first phase of this work. Speakers highlighted how electronic monitoring can serve as a powerful tool for detecting on-the-water labor violations and resolving disputes, while Wi-Fi access enables crew members to maintain better communication, financial management, and grievance processes. **<a href="https://oceanoutcomes.us3.list-manage.com/track/click?u=2b8e55c974a70064c5806011a&id=75f0292866&e=5a42c31267" target="_blank">Watch the webinar recording and highlights here.</a>**
 
 *This work was made possible with support from Walmart Foundation through a grant by Conservation International.*
