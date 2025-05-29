@@ -45,12 +45,12 @@
     
 - featured: TRUE
   language: en
-  heading: We are hiring!
-  title: Do you care as much about sustainable fisheries as we do?
-  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
+  heading: Request for Proposals!
+  title: Are you an electronic monitoring provider or do you have extensive knowledge of Taiwanese distant water fisheries?
+  hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/EM+featured-block.png
   link:
-    link-text: Learn more and apply
-    link-url: https://apply.workable.com/ocean-outcomes/
+    link-text: Work With Us
+    link-url: https://www.oceanoutcomes.org/who-we-are/join-our-team/
 
 - featured: FALSE
   language: en
