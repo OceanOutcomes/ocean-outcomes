@@ -9,10 +9,6 @@ weight: 5
 ---
 ##Career and volunteer opportunities
 
-> **Current Job Openings:**  
-> 
-> **<a href="https://apply.workable.com/ocean-outcomes/" target="_blank">Social Responsibility Coordinator</a>** — Through a human rights-based approach, the Social Responsibility Coordinator will support the implementation of the Electronic Monitoring and Connectivity for Crews at Sea (EMC4C) Project in Taiwan, and support O2’s social responsibility efforts to improve human rights in global fisheries. *<a href="https://apply.workable.com/ocean-outcomes/" target="_blank">Learn more and apply here.</a>*
->
 >  **Current Request for Proposals:**
 > 
 > **<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Ocean+Outcomes+Request+for+Proposal_+Electronic+Monitoring+Policy+Advancement++In+Taiwan%E2%80%99s+Distant+Water+Fisheries+5.14.25.pdf" target="_blank">Electronic Monitoring Policy Advancement In Taiwan's Distant Water Fisheries</a>** — O2 seeks qualified researchers or research teams to conduct a comprehensive analysis of Taiwan’s EM landscape, complete a feasibility assessment and make actionable recommendations for advancing EM in Taiwan’s distant water tuna longline fleet, focusing on one of the following two research areas: Data Management & Infrastructure or Cost-Effectiveness & Feasibility. *<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Ocean+Outcomes+Request+for+Proposal_+Electronic+Monitoring+Policy+Advancement++In+Taiwan%E2%80%99s+Distant+Water+Fisheries+5.14.25.pdf" target="_blank">See the full Request for Proposal here.</a>*
