@@ -1,4 +1,4 @@
-- featured: FALSE
+- featured: TRUE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals. 
@@ -43,7 +43,7 @@
     link-text: Donate to Healthy Fisheries and Oceans
     link-url: https://bit.ly/3z70ePW
     
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Request for Proposals!
   title: Are you an electronic monitoring provider or do you have extensive knowledge of Taiwanese distant water fisheries?
