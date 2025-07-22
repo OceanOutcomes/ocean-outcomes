@@ -13,7 +13,7 @@ These projects — initiated in late 2020 and early 2021 — span Costa Rica’s
 
 This approach to small scale fisheries sustainability — [which we describe in more detail here] (/what-we-do/services/triple-impact-improvement/) — evaluates needs, plans improvements and monitors progress against environmental, social and financial sustainability indicators.
 
-Community based fishery improvement projects, or C-FIPs as they have been called in Costa Rica, have quickly caught on as a way to help improve the quality of seafood production and seafood harvester incomes, while also achieving conservation goals. (<a href="https://pescandofuturoprospero.com/en/sustainable-fishing/" target="_blank">Learn more about C-FIPs here.</a>)
+Community based fishery improvement projects, or C-FIPs as they have been called in Costa Rica, have quickly caught on as a way to help improve the quality of seafood production and seafood harvester incomes, while also achieving conservation goals.
 
 To wrap-up 2021, our small scale fisheries team visited three of these projects, meeting with seafood harvester associations and other local stakeholders to assess the progress of the past year and plan for 2022 work.
 
