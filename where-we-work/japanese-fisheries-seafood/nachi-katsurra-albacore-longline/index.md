@@ -56,7 +56,7 @@ While Wakiguchi-san’s goal for the FIP is an unconditional pass of the Marine 
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/japan-albacore-tuna-longline" target="_blank">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/7341/overview" target="_blank">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | October 2017 |
 | Location: | Nachi Katsuura, Wakayama Prefecture, Japan |
 | Participants: | Ocean Outcomes, Seafood Legacy, UMITO Partners, Yamasa Wakiguchi Co., No.78 Kaiou Maru |
@@ -67,4 +67,4 @@ While Wakiguchi-san’s goal for the FIP is an unconditional pass of the Marine 
 
 ---
 
-<a href="https://fisheryprogress.org/fip-profile/japan-albacore-tuna-longline" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Nachi Katsuura Albacore Longline FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/7341/overview" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Nachi Katsuura Albacore Longline FIP profile here.**</a>
