@@ -12,7 +12,7 @@ Seiyu, a subsidiary of Walmart, hopes the sales will increase Japanese awareness
 
 [The first project of its kind in Japan, the Tokyo Bay Sea Perch FIP launched in the fall of 2016] (/news/tokyo-bay-fishery-improvement-launch/). Since then, project partners Ocean Outcomes, Kaiko Bussan, Seafood Legacy, and Seiyu have been working towards more sustainable fishing practices. This includes monitoring fishery bycatch, the daily collection of catch information to evaluate sea perch stock abundance, testing more transparent processing and packing methods, and scoping more collaborative, precautionary fishery management plans.
 
-These steps towards more sustainable fishing practices are outlined and tracked in the FIP workplan which can be seen online at <a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">fisheryprogress.org</a>.
+These steps towards more sustainable fishing practices are outlined and tracked in the FIP workplan which can be seen online at <a href="https://fisheryprogress.org/fip-profile/2191/overview" target="_blank">fisheryprogress.org</a>.
 
 ---
 
