@@ -39,7 +39,7 @@ The South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longli
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/western-and-central-pacific-albacore-and-yellowfin-tuna-longline">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/13738/overview">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | January 2019 |
 | Location: | South Pacific Ocean |
 | Participants: | Ocean Outcomes, Key Traceability, Bumble Bee Foods, LLC, FCF Fishery Company, Ltd., Clover Leaf Seafoods |
@@ -50,4 +50,4 @@ The South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longli
 
 ---
 
-<a href="https://fisheryprogress.org/fip-profile/western-and-central-pacific-albacore-and-yellowfin-tuna-longline" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/13738/overview" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP profile here.**</a>

@@ -42,7 +42,7 @@ alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/japan-hiroshima-pacific-oyster-rope-grown">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/12754/overview">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | January 2020 |
 | Location: | Hiroshima and Hiro Bays, Hiroshima Prefecture, Japan |
 | Participants: |  Ocean Outcomes, Seafood Legacy, UMITO Partners, Kurahashijima Kaisan Co., Ltd., Japanese Consumers' Co-operative Union (JCCU) |
@@ -53,4 +53,4 @@ alt="牡蠣を育む収穫する" width="900" height="500" border="0" /></a>
 
 ---
 
-<a href="https://fisheryprogress.org/fip-profile/japan-hiroshima-pacific-oyster-rope-grown" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Hiroshima Pacific Oyster FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/12754/overview" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Hiroshima Pacific Oyster FIP profile here.**</a>

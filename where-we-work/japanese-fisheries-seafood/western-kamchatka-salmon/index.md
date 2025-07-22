@@ -41,7 +41,7 @@ The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the wester
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="http://fisheryprogress.org/fip-profile/western-kamchatka-salmon-beach-seinetrap-net" target="_blank">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/67/overview" target="_blank">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | January 2014 |
 | Location: | Kamchatka, Russia |
 | Participants: | Ocean Outcomes, ForSea Solutions, Vityaz-Avto and Delta, Kamchatka Fish Fund, KamchatNIRO, WWF Russia |
@@ -52,4 +52,4 @@ The Vityaz-Avto and Delta West Kamchatka salmon fishery is located on the wester
 
 ---
 
-<a href="http://fisheryprogress.org/fip-profile/western-kamchatka-salmon-beach-seinetrap-net" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Western Kamchatka Salmon FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/67/overview" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Western Kamchatka Salmon FIP profile here.**</a>
