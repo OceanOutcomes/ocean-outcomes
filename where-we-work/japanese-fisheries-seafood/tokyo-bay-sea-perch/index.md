@@ -59,7 +59,7 @@ The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fi
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/2191/overview" target="_blank">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | November 2016 |
 | Location: | Tokyo Bay, Chiba Prefecture, Japan |
 | Participants: | Ocean Outcomes, Seafood Legacy, UMITO Partners, Kaiko Bussan |
@@ -70,4 +70,4 @@ The Tokyo Bay Sea Perch FIP will increase the scientific understanding of the fi
 
 ----
 
-<a href="http://fisheryprogress.org/fip-profile/tokyo-bay-sea-perch-purse-seine" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Tokyo Bay Sea Perch FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/2191/overview" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Tokyo Bay Sea Perch FIP profile here.**</a>
