@@ -11,7 +11,7 @@ weight: 5
 
 <a href="https://apply.workable.com/ocean-outcomes/j/AA36147C8B/" target="_blank">Korea Program Coordinator/Manager</a>
 
-The Korea Program Coordinator/Manager is a dedicated full-time contract position that will play a key role in advancing O2’s sustainable seafood projects in Korea now and into the future. Qualified candidates must have excellent written and spoken English and Korean language skills, be located in South Korea, and be able to travel extensively both domestically and internationally. <a href="https://apply.workable.com/ocean-outcomes/j/AA36147C8B/" target="_blank">Learn more about this position and apply here</a>.
+The Korea Program Coordinator/Manager is a dedicated full-time contract position that will play a key role in advancing O2’s sustainable seafood projects in Korea now and into the future. This a remote, flexible role with professional growth opportunities, travel, and a supportive, international team. Qualified candidates must be based in South Korea, have excellent written and spoken English and Korean language skills, and be able to travel extensively both domestically and internationally. <a href="https://apply.workable.com/ocean-outcomes/j/AA36147C8B/" target="_blank">Learn more about this position and apply here</a>.
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
 
