@@ -3,7 +3,7 @@ layout: news
 title: Ocean Outcomes Collaborates on Groundbreaking Project to Enhance Social Responsibility at Sea
 teaser-text: Findings from the pioneering project demonstrate how electronic monitoring and Wi-Fi technologies can significantly improve crew welfare aboard tuna longline vessels at sea. 
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EMC4C+Hero+Image.png 
-featured: TRUE
+featured: FALSE
 --- 
 *Social Responsibility Program Manager, Gabby Lout, speaks with crew aboard a longline tuna vessel in Pago Pago, American Samoa.*
 
