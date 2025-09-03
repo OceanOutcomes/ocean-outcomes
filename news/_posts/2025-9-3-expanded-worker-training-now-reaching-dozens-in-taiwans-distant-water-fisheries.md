@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Expanded Worker Training Now Reaching Dozens in Taiwan’s Distant Water Fisheries
-date: 2025-9-4
+date: 2025-9-3
 teaser-text: This partnership — the first of its kind in Taiwan — brought together fisheries expertise and migrant worker education specialists to build a platform for collaboration, exchange, and inclusion. 
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/eblast+header+one+forty.png
 featured: TRUE 
