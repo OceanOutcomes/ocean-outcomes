@@ -49,3 +49,4 @@ featured: TRUE
 ![one-forty-progress-update-9.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/one-forty-progress-update-9.png)
 *As training hopefully expands to hundreds of vessels and adapts to diverse national contexts, this partnership is not only equipping workers with essential knowledge and skills, but also strengthening trust, transparency, and accountability across the seafood supply chain. What began as a pilot is now evolving into a regional model for how fisheries and worker advocacy organizations can work hand-in-hand to improve both environmental and social outcomes.*
+
