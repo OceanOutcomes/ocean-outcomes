@@ -8,9 +8,9 @@ featured: TRUE
 ---
 *Migrant workers aboard a Taiwanese longline tuna fishing vessel engage in a training session using materials developed by Ocean Outcomes and One-Forty.*
 
-###Last year, we launched a <a href="https://www.oceanoutcomes.org/news/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry/" target="_blank">pioneering collaboration with One-Forty to strengthen education and training opportunities for migrant workers in Taiwan’s distant water fisheries.</a>
+###Last year, we launched a pioneering collaboration with One-Forty to strengthen education and training opportunities for migrant workers in Taiwan’s distant water fisheries.
 
-This partnership — the first of its kind in Taiwan — brought together fisheries expertise and migrant worker education specialists to build a platform for collaboration, exchange, and inclusion. Over the past year we have provided migrant workers with education and vocational training, worked with them to develop work-led curriculums for further migrant work training and established tools and processes that can be integrated into broader Fishery Improvement Project (FIP) work in Taiwan and beyond. 
+<a href="https://www.oceanoutcomes.org/news/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry/" target="_blank">This partnership — the first of its kind in Taiwan — brought together fisheries expertise and migrant worker education specialists to build a platform for collaboration, exchange, and inclusion.</a> Over the past year we have provided migrant workers with education and vocational training, worked with them to develop work-led curriculums for further migrant work training and established tools and processes that can be integrated into broader Fishery Improvement Project (FIP) work in Taiwan and beyond. 
 
 **The below images and their captions highlight how this collaborative effort has created meaningful change for those working in Taiwan’s distant water fisheries — helping to foster safer, more informed, and more resilient working environments aboard Taiwanese vessels.**
 
@@ -36,7 +36,7 @@ This partnership — the first of its kind in Taiwan — brought together fisher
 
 ![one-forty-progress-update-6.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/one-forty-progress-update-6.png)
-*Work in fisheries is dynamic and often shaped by vessel schedules or short-notice opportunities. Training was conducted while vessels docked in port and required the project teams at Ocean Outcomes and One Forty to work closely on planning and preparation, clarity on roles, and ongoing dialogue when implementing future training initiatives.*
+*Work in fisheries is dynamic and often shaped by vessel schedules or short-notice opportunities. Training was conducted while vessels docked in port and required the project teams at Ocean Outcomes and One-Forty to work closely on planning and preparation, clarity on roles, and ongoing dialogue when implementing future training initiatives.*
 
 ![one-forty-progress-update-7.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/one-forty-progress-update-7.png)
@@ -44,7 +44,7 @@ This partnership — the first of its kind in Taiwan — brought together fisher
 
 ![one-forty-progress-update-8.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/one-forty-progress-update-8.png)
-*These efforts will also focus on deeper engagement with captains, ensuring a holistic approach to safeguarding rights on board and ensuring all parties understand their rights, and their responsibilities.*
+*These efforts will also focus on deeper engagement with captains, ensuring a holistic approach to safeguarding rights on board and ensuring all parties understand their rights and their responsibilities.*
 
 ![one-forty-progress-update-9.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/one-forty-progress-update-9.png)
