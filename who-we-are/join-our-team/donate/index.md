@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Support Healthy Oceans and Those Working to Produce Sustainable Seafood
+title: Support Healthy Oceans and Sustainable Seafood
 subtitle: Subtitle text here (if desired)
 weight: 
 ---
