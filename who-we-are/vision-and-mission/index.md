@@ -12,8 +12,6 @@ weight: 1
 
 At O2, we work hand in hand with local communities, seafood harvesters, seafood industry, supply chains and fishery stakeholders to design and implement science-based solutions towards more sustainable seafood production, improving livelihoods of fishing communities and helping to conserve the ocean and its resources.
 
-<script src="https://cdn.donately.com/core/5.8/donately.min.js" data-donately-id="act_6adda28b0f51" data-stripe-publishable-key="null" data-donately-form-id="frm_6192d1d21ea8" data-donately-fetch-config="true" async="async"></script>
-
 Fisheries provide livelihoods for millions and food for billions. Demand for sustainable seafood, produced by responsible fisheries, has never been higher. However, collectively we are yet to meet that demand: much of the world’s seafood production remains unsustainable and poorly managed, having destructive effects on the surrounding ecosystem, such as bycatch. Many fisheries and seafood supply chains lack transparent, vetted information — this opacity presents social risks, such as labor abuses and it makes science-based management a challenge. In many cases, exploitative fishing practices take advantage of not only the ocean, but also local fishing communities and those which rely most on healthy fish populations. Despite a global movement to address these challenges, there remains a lack of culturally relevant and regionally specific tools and capacity to translate ambition to actual change on the water. This damages the oceans and imperils the communities and seafood supply chains on which we all depend. At Ocean Outcomes, we are working to change this.
 
 ##Vision
