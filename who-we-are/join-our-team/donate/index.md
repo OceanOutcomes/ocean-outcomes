@@ -1,9 +1,11 @@
 ---
 layout: page 
 title: Support Healthy Oceans and Those Working to Produce Sustainable Seafood
-subtitle: Subtitle text here
+subtitle: Subtitle text here (if desired)
 weight: 
 ---
+*Compelling photo or photo collage here*
+
 ##Heading
 
 Information on making a donation, the impact it has, etc.
@@ -11,13 +13,7 @@ Information on making a donation, the impact it has, etc.
 -----
 ##Heading
 
-Embedded and/or linked PayPal form/button
-
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="FLKRWLCM7W696" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+Embedded image with a link to PayPal form https://www.paypal.com/donate/?hosted_button_id=RLSAM768TQYCG
 
 -----
 ##Heading
