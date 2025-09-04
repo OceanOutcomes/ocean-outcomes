@@ -49,6 +49,7 @@ Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
 
+* [Expanded Worker Training Now Reaching Dozens in Taiwan’s Distant Water Fisheries](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
 * [At Our Ocean Conference, Spotlight Shines on Northeast Asia’s Tuna Fleets
 ](/news/ocean-outcomes-and-global-fishing-watch-electronic-monitoring-tuna-our-ocean-conference/)
 * [Ocean Outcomes Collaborates on Groundbreaking Project to Enhance Social Responsibility at Sea](/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
