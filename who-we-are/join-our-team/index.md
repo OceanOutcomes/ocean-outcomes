@@ -16,7 +16,7 @@ We’re always interested in connecting with folks who are creative, motivated, 
 
 Did you know we are a mission driven nonprofit? We’re working to ensure ocean resources are abundant and sustainably harvested, and that fisheries, fishing communities, and fishery-based livelihoods flourish. <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M6GDSMR3CKSWJ" target="_blank">**Support our efforts by making donation**</a>. Have a question about a donation? Just email us at **donate@oceanoutcomes.org**.  
 
-*Ocean Outcomes is a registered a 501(c)(3) nonprofit organization and our Tax ID is 46-4901375.* 
+*Ocean Outcomes is a registered 501(c)(3) nonprofit organization and our Tax ID is 46-4901375.* 
 
 O2 has earned a Gold Seal of Transparency from GuideStar and a four star rating from Charity Navigator! 
 
