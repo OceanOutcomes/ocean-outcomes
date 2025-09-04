@@ -1,24 +1,28 @@
 ---
 layout: page 
-title: Support Healthy Oceans and Sustainable Seafood
+title: Help Protect Our Oceans and Those Working to Produce Our Seafood
 subtitle: Subtitle text here (if desired)
 weight: 
 ---
 *Compelling photo or photo collage here*
 
-##Heading
+##Better outcomes for people, planet, and fisheries
 
-Information on making a donation, the impact it has, etc.
+We believe better fisheries can uplift people, sustain livelihoods, and preserve the integrity of marine ecosystems. That’s why we work from the water up—to create meaningful change where it matters most.
+
+Your gift directly supports our work transforming the world’s most complex fisheries into models of sustainability, equity, and resilience. Help us build seafood supply chains that serve both people and the planet, because fisheries — and the future of seafood — depend on your support.
 
 -----
-##Heading
+##Donate by credit card or PayPal
+
+Use any major credit card or PayPal to make a one-time or recurring donation using the linked form below.
 
 Embedded image with a link to PayPal form https://www.paypal.com/donate/?hosted_button_id=RLSAM768TQYCG
 
 -----
-##Heading
+##Have a question about a donation?
 
-Have a question about a donation? Just email us at **donate@oceanoutcomes.org**.  
+Just email us at **donate@oceanoutcomes.org**.  
 
 *Ocean Outcomes is a registered 501(c)(3) nonprofit organization and our Tax ID is 46-4901375.* 
 
@@ -28,12 +32,20 @@ We have received a Gold Seal of Transparency from GuideStar and a four star rati
   
 -----
 
-##Heading
+##Other ways to give
 
-Other ways to give
+####Stock donation  
+Text info here
 
-  * Stock donation (text info only)
-  * Contribute via donor advised fund (text info only)
-  * Donate by mail (text info only)
+####Donor advised fund  
+Text info here
+
+####Donate by mail 
+Make check payable to *Ocean Outcomes* and mail it to:  
+
+Ocean Outcomes
+PO Box 11505
+Portland, OR 97211
+USA
 
 -----
