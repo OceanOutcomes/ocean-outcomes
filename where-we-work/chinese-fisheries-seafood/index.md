@@ -38,7 +38,7 @@ Without a significant, concerted, and locally-led push for reform, overfishing, 
 ---
 ##Stories from the Field: China
 
-* [Expanded Worker Training Now Reaching Dozens in Taiwan’s Distant Water Fisheries](/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
+* [Expanded Worker Training Now Reaching Dozens in Taiwan’s Distant Water Fisheries](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
 * [Taiwan's Largest Fishing Vessel Member Association Launches First Fishery Improvement Project](/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
 * [Building Regional Capacity for Electronic Monitoring Across Taiwan](/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
 * [Ocean Outcomes Announces New Asia Fisheries Director] (/news/jeremy-crawford-selected-as-asia-fisheries-director/)
