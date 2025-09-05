@@ -7,7 +7,7 @@ hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/he
 ---
 ##Better outcomes for people, planet, and fisheries
 
-**We believe better fisheries can uplift people, sustain livelihoods, and preserve the integrity of marine ecosystems.** *That’s why we work from the water up—to create meaningful change where it matters most.*
+**We believe better fisheries can uplift people, sustain livelihoods, and preserve the integrity of marine ecosystems.** *That’s why we work from the water up — to create meaningful change where it matters most.*
 
 **Your gift directly supports our work transforming the world’s most complex fisheries into models of sustainability, equity, and resilience.** *Help us build seafood supply chains that serve both people and the planet, because fisheries — and the future of seafood — depend on your support.*
 
