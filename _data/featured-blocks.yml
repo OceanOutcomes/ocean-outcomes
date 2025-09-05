@@ -1,4 +1,4 @@
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals. 
@@ -43,6 +43,15 @@
     link-text: Donate to Healthy Fisheries and Oceans
     link-url: https://bit.ly/3z70ePW
     
+- featured: TRUE
+  language: en
+  heading: We are hiring! 
+  title: Are you looking to play a key role in advancing O2’s sustainable seafood projects in Taiwan and the larger East Asia region?
+  hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/EM+featured-block.png
+  link:
+    link-text: Work With Us
+    link-url: https://www.oceanoutcomes.org/who-we-are/join-our-team/
+
 - featured: FALSE
   language: en
   heading: Request for Proposals!
