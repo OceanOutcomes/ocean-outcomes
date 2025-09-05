@@ -4,7 +4,7 @@ title: Services
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
 hero-image:
 subtitle: We help forward-thinking companies, investors, NGOs, seafood harvesters and others deliver on their sustainable seafood and fisheries improvement goals.
-weight: 2
+weight: 3
 teaser-text: Whether you are leading a fisheries project, buying seafood, investing in fisheries reform, or part of an initiative or NGO in the seafood sector, the environmental and business case for sustainability has never been stronger. Let us help deliver the impact you seek.
 ---
 
