@@ -20,7 +20,7 @@ We’re always interested in connecting with folks who are creative, motivated, 
 -----
 ##Contribute to improving fisheries 
 
-Did you know we are a mission driven nonprofit? We’re working to ensure ocean resources are abundant and sustainably harvested, and that fisheries, fishing communities, and fishery-based livelihoods flourish. **[Support our efforts by making donation] (/who-we-are/join-our-team/donate/)**</a>. Have a question about a donation? Just email us at **donate@oceanoutcomes.org**.  
+Did you know we are a mission driven nonprofit? We’re working to ensure ocean resources are abundant and sustainably harvested, and that fisheries, fishing communities, and fishery-based livelihoods flourish. **[Support our efforts by making donation] (/who-we-are/join-our-team/donate/)**. Have a question about a donation? Just email us at **donate@oceanoutcomes.org**.  
 
 *Ocean Outcomes is a registered 501(c)(3) nonprofit organization and our Tax ID is 46-4901375.* 
 
