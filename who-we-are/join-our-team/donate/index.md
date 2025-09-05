@@ -39,7 +39,7 @@ A gift of stock is a simple and tax-smart way to turn investments into lasting i
 
 ####Donor advised fund  
 
-A gift through your donor advised fund is an easy and meaningful way to support our mission. By recommending a grant from your DAF, you help us carry out impactful work today while making the most of your charitable giving. Already have a DAF setup? Great! You can contact your sponsoring organization to designate a contribution to Ocean Outcomes. Our Tax ID is 46-4901375 Contact us at **donate@oceanoutcomes.org** for more information.
+A gift through your donor advised fund is an easy and meaningful way to support our mission. By recommending a grant from your DAF, you help us carry out impactful work today while making the most of your charitable giving. Already have a DAF setup? Great! You can contact your sponsoring organization to designate a contribution to Ocean Outcomes. Our Tax ID is 46-4901375 — Contact us at **donate@oceanoutcomes.org** for more information.
 
 ####Donate by mail 
 
