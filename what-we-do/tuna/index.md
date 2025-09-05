@@ -3,7 +3,7 @@ layout: page
 title: Tuna & High Seas Fisheries
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/tuna-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/tunahero.jpg
-weight: 4
+weight: 5
 teaser-text: High seas fisheries, such as tuna — one of the highest valued and most sought after species — are seeing record global catches, but tuna and other high seas fisheries continue to face sustainability challenges without adequate on the water monitoring and science-based, collaborative international management.
 subtitle: Tuna and other high seas fisheries are some of the most important but challenging fisheries to sustainably manage.
 ---
