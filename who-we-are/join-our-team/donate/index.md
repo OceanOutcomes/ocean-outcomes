@@ -16,7 +16,7 @@ hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/he
 
 <a href="[https://www.w3schools.com](https://www.paypal.com/donate/?hosted_button_id=RLSAM768TQYCG)" target="_blank">Use any major credit card or PayPal to make a one-time or recurring donation/<a> using the linked form below.
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=RLSAM768TQYCG" target="_blank"> <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/paypal+donate+form+donation+page+embed.png" width="602" height="454"></a>  
+<a href="https://www.paypal.com/donate/?hosted_button_id=RLSAM768TQYCG" target="_blank"> <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/paypal+donate+form+donation+page+embed.png"></a>  
 
 -----
 ##Have a question about a donation?
