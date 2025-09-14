@@ -11,17 +11,25 @@ subtitle: Text
 
 For ten years, Ocean Outcomes has been working at the intersection of fisheries, communities, and supply chains to prove that change is possible. What began as a small team with a bold idea has grown into a global effort to make seafood more sustainable, more transparent, and more equitable. This milestone is both a chance to reflect on the progress we’ve made and a reminder of the urgent work that still lies ahead.
 
+----
+
 #####By The Numbers 
 
 Over the past decade, Ocean Outcomes has turned vision into measurable results. Together with our partners, we’ve helped shift fisheries and seafood systems toward greater sustainability, accountability, and equity. 
+
+----
 
 #####Dive Deeper 
 
 Explore the full 10 Year Impact Report,  a look back at the people, partnerships, and progress that have defined Ocean Outcomes’ first decade. From pioneering fisheries improvements to advancing worker rights and strengthening supply chain transparency, the report highlights the lessons learned and the momentum driving our next chapter.
 
-https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Songlin+Quote+Image.png
+![Songlin Quote Image.png]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Songlin+Quote+Image.png)
 
-https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Jose+Quote+Image.png
+![Jose Quote Image.png]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Jose+Quote+Image.png)
+
+----
 
 #####Charting the Course — Together 
 
@@ -31,9 +39,13 @@ Your support propels O2’s next decade — expanding electronic monitoring in N
 
 <a href="https://www.oceanoutcomes.org/who-we-are/join-our-team/donate/" target="_blank">Give now, and power meaningful change where it matters most!</a>
 
+----
+
 #####10 Years, 10 Stories 
 
 To mark this important milestone, we’re sharing weekly video spotlights that bring Ocean Outcomes’ work to life. Each short film highlights a different piece of our journey — how O2 came to be, our fisheries improvement work in action, and the voices of fishers and communities we work alongside with. Join us here each week as we reflect on a decade of progress and look ahead to the future we’re building together.
+
+----
 
 #####Looking Ahead
 
@@ -41,5 +53,8 @@ As we enter our second decade, Ocean Outcomes will continue to forge ahead as a 
 
 As Kelly Harrell, O2’s Executive Director, and Gael Almeida, our Board Chair, note in their anniversary message:
 
-https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Kelly+and+Gael+Quote+Image.png
+![Kelly and Gael Quote.png]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Kelly+and+Gael+Quote+Image.png)
+
+----
 
