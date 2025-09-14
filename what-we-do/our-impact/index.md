@@ -18,7 +18,7 @@ For ten years, Ocean Outcomes has been working at the intersection of fisheries,
 
 Over the past decade, Ocean Outcomes has turned vision into measurable results. Together with our partners, we’ve helped shift fisheries and seafood systems toward greater sustainability, accountability, and equity. 
 
-![By The Numbers.png)
+![By The Numbers.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/By+the+numbers.png)
 
 ----
@@ -28,11 +28,11 @@ Over the past decade, Ocean Outcomes has turned vision into measurable results. 
 
 Explore the full 10 Year Impact Report,  a look back at the people, partnerships, and progress that have defined Ocean Outcomes’ first decade. From pioneering fisheries improvements to advancing worker rights and strengthening supply chain transparency, the report highlights the lessons learned and the momentum driving our next chapter.
 
-![Songlin Wang Quote.png]
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Songlin+Wang+Quote.png)
-
 ![Jose CI Quote.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Jose+CI+Quote.png)
+
+![Songlin Wang Quote.png]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Songlin+Wang+Quote.png)
 
 ----
 
