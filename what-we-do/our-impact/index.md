@@ -7,7 +7,7 @@ hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/he
 teaser-text: Text
 subtitle: Text
 ---
-## A Decade of Impact
+## A Decade of Progress
 
 For ten years, Ocean Outcomes has been working at the intersection of fisheries, communities, and supply chains to prove that change is possible. What began as a small team with a bold idea has grown into a global effort to make seafood more sustainable, more transparent, and more equitable. This milestone is both a chance to reflect on the progress we’ve made and a reminder of the urgent work that still lies ahead.
 
@@ -15,7 +15,7 @@ For ten years, Ocean Outcomes has been working at the intersection of fisheries,
 
 ##### Our Results at a Glance
 
-Over the past decade, Ocean Outcomes has turned vision into measurable results. Together with our partners, we’ve helped shift fisheries and seafood systems toward greater sustainability, accountability, and equity. 
+Together with our partners, Ocean Outcomes has turned vision into measurable results. We’ve helped shift fisheries and seafood systems toward greater responsibility, inclusivity, and transparency. Here's a snapshot of that work in action: 
 
 ![By The Numbers.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/By+the+numbers.png)
@@ -24,7 +24,7 @@ Over the past decade, Ocean Outcomes has turned vision into measurable results. 
 
 ##### Dive Deeper: 10-Year Impact Report
 
-Explore the full 10 Year Impact Report,  a look back at the people, partnerships, and progress that have defined Ocean Outcomes’ first decade. From pioneering fisheries improvements to advancing worker rights and strengthening supply chain transparency, the report highlights the lessons learned and the momentum driving our next chapter.
+From our humble beginning to seeding the sustainable seafood movement in Northeast Asia, advancing workers rights, and prioritizing community-centered improvement work in Latin America’s small-scale fisheries, our 10 Year Impact Report is a look back at the people, partnerships, and progress that have defined our first decade of success. Through vivid case studies and partner reflections, the report highlights lessons learned and the momentum driving our next chapter. 
 
 ![Jose CI Quote.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Jose+CI+Quote.png)
