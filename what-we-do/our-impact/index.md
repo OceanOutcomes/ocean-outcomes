@@ -26,11 +26,11 @@ Together with our partners, Ocean Outcomes has turned vision into measurable res
 
 From our humble beginning to seeding the sustainable seafood movement in Northeast Asia, advancing workers rights, and prioritizing community-centered improvement work in Latin America’s small-scale fisheries, our 10 Year Impact Report is a detailed look back at the people, partnerships, and progress that have defined our first decade of success. Through vivid case studies and partner reflections, the report highlights lessons learned and the momentum driving our next chapter. 
 
-![Jose CI Quote.png]
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Jose+CI+Quote.png)
+----
 
-![Songlin Wang Quote.png]
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Songlin+Wang+Quote.png)
+##### 10 Years, 10 Stories
+
+To mark this important milestone, we’re sharing weekly video spotlights that bring Ocean Outcomes’ work to life. Each short film highlights a different piece of our journey — how O2 came to be, our fisheries improvement work in action, and the voices of fishers and communities we work alongside with. Join us here each week as we reflect on a decade of progress and look ahead to the future we’re building together.
 
 ----
 
@@ -42,22 +42,6 @@ Your support propels O2’s next decade — expanding electronic monitoring in N
 
 <a href="https://www.oceanoutcomes.org/who-we-are/join-our-team/donate/" target="_blank">Give now, and power meaningful change where it matters most!</a>
 
-----
+<a href="https://www.paypal.com/donate/?hosted_button_id=RLSAM768TQYCG" target="_blank"> <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/paypal+donate+form+donation+page+embed.png" class="center"></a>  
 
-##### 10 Years, 10 Stories
-
-To mark this important milestone, we’re sharing weekly video spotlights that bring Ocean Outcomes’ work to life. Each short film highlights a different piece of our journey — how O2 came to be, our fisheries improvement work in action, and the voices of fishers and communities we work alongside with. Join us here each week as we reflect on a decade of progress and look ahead to the future we’re building together.
-
-----
-
-##### Looking Forward
-
-As we enter our second decade, Ocean Outcomes will continue to forge ahead as a dedicated partner in global seafood sustainability efforts in Asia, Latin America, and beyond. Sustainable seafood globally is not possible without sustainable fisheries in Asia and Latin America. We will continue to leverage our experience working in these key seafood producing and consuming regions while cultivating fresh approaches, creative partnerships, and building capacity for durable change. 
-
-As Kelly Harrell, O2’s Executive Director, and Gael Almeida, our Board Chair, note in their anniversary message:
-
-![Kelly and Gael Quote.png]
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Kelly+and+Gael+Quote.png)
-
-----
 
