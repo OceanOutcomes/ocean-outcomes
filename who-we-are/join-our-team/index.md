@@ -9,12 +9,6 @@ weight: 5
 ---
 ##Career and volunteer opportunities
 
-<a href="https://apply.workable.com/ocean-outcomes/j/27A6068681/" target="_blank">**Asia Fisheries Coordinator/Manager**</a> 
-
-Reporting to and working closely with the Taiwan Fisheries Senior Manager, the Asia Fisheries Coordinator/Manager (dependent on experience) is a dedicated full-time contract position that will play a key role in advancing O2’s sustainable seafood projects in Taiwan and the greater East Asias region, now and into the future. 
-
-Candidate must be based in Taiwan, fluent in English and Mandarin, and able to travel extensively both domestically and internationally. **Please apply using this link: https://apply.workable.com/ocean-outcomes/j/27A6068681/.** If you have any questions, please reach out to Taiwan Fisheries Senior Manager, Ho-Tu Chiang, at hotu@oceanoutcomes.org.
-
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
 
 -----
