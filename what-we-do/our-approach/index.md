@@ -19,7 +19,7 @@ We lead with listening, partnership, and persistence. We spend time on the water
 
 ##Local actions. Global outcomes.
 
-[![3 Fishermen carrying box.png]
+![3 Fishermen carrying box.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/3+fishermen+carrying+box.png)
 
 *Sustainability at scale depends on credible, on-the-water progress. We work with fishers, supply chain actors, and local institutions to implement practical solutions that align with globally recognized environmental and social frameworks.*
