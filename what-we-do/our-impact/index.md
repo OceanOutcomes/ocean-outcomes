@@ -17,8 +17,8 @@ For ten years, Ocean Outcomes has been working at the intersection of fisheries,
 
 Together with our partners, Ocean Outcomes has turned vision into measurable results. We’ve helped shift fisheries and seafood systems toward greater responsibility, inclusivity, and transparency. Here's a snapshot of that work in action: 
 
-![By The Numbers.png]
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/By+the+numbers.png)
+![Impact By The Numbers.png]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Impact+by+the+numbers.png)
 
 ----
 
