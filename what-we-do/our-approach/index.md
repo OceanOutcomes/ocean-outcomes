@@ -19,6 +19,9 @@ We lead with listening, partnership, and persistence. We spend time on the water
 
 ##Local actions. Global outcomes.
 
+[![3 Fishermen carrying box.png]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/3+fishermen+carrying+box.png)
+
 *Sustainability at scale depends on credible, on-the-water progress. We work with fishers, supply chain actors, and local institutions to implement practical solutions that align with globally recognized environmental and social frameworks.*
 
 * Sustainability begins in individual fisheries—but its impact reaches across seafood systems.
@@ -27,6 +30,9 @@ We lead with listening, partnership, and persistence. We spend time on the water
 
 ##Bridging Perspectives for Better Outcomes 
 
+![Ho-Tu EM Work.png]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Ho-Tu+EM+Work.png)
+
 *We connect NGOs, governments, seafood businesses, and fishing communities—building bridges across stakeholders, regions, and perspectives to achieve shared outcomes for people and oceans.*
 
 * We speak the language of business, understand the perspective of NGOs, navigate government priorities, and stay grounded in the realities of life on the water.
@@ -34,6 +40,9 @@ We lead with listening, partnership, and persistence. We spend time on the water
 * We’re a trusted partner in politically sensitive and complex fisheries— able to implement, translate, and adapt in places where alignment is critical.
 
 ##Practical Progress, Proving What’s Possible
+
+![Evening tuna haul.png]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Evening+tuna+haul.png)
 
 *Our field-based expertise turns ambition into credible action and helps partners make measurable progress that generates insights and replicable models.* 
 
