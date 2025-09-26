@@ -4,7 +4,7 @@ title: Our Impact
 weight: 2
 landing-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-impact-hover.png
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Impact-Hero-Aguilera-Sn+Carlos+Sonora-45+(5).png
-teaser-text: Text
+teaser-text: For ten years, Ocean Outcomes has been working at the intersection of fisheries, communities, and supply chains to prove that change is possible.
 subtitle: Text
 ---
 ## A Decade of Progress
