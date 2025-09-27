@@ -40,6 +40,9 @@ Our work begins with science, objectivity, and a clear understanding of each fis
 
 ##### Co-Design & Implement 
 
+![School of fish]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/school+of+fish.png)
+
 *Co-develop practical strategies and tools— delivered through trusted partnerships and aligned with global sustainability frameworks.*
  
 Our approach starts with co-design—working with stakeholders to shape strategies that reflect both local realities and shared priorities. Because environmental and social outcomes are deeply connected, we aim to integrate both dimensions wherever it strengthens project goals. Through collaboration, we ensure that solutions are relevant, responsive, and grounded in the lived context of each fishery.
@@ -61,6 +64,9 @@ Our approach starts with co-design—working with stakeholders to shape strategi
 ----
 
 ##### Build & Transform 
+
+![Eblast header one forty]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/eblast+header+one+forty.png)
 
 *Strengthen the systems, skills, and structures that enable lasting sustainability—while supporting fisheries on the path to recognized improvement and certification.*
 
