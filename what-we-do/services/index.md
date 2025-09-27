@@ -5,7 +5,7 @@ landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org
 hero-image:
 subtitle: We help forward-thinking companies, investors, NGOs, seafood harvesters and others deliver on their sustainable seafood and fisheries improvement goals.
 weight: 3
-teaser-text: Whether you are leading a fisheries project, buying seafood, investing in fisheries reform, or part of an initiative or NGO in the seafood sector, the environmental and business case for sustainability has never been stronger. Let us help deliver the impact you seek.
+teaser-text: Whether you’re driving a fisheries project, sourcing seafood, investing in reform, or advancing an NGO initiative, the case for sustainability has never been clearer. Ocean Outcomes helps partners turn ambition into results—improving environmental performance, strengthening social responsibility, and building resilient, responsible seafood systems.
 ---
 
 <div class="map-section">
@@ -30,9 +30,7 @@ Our work begins with science, objectivity, and a clear understanding of each fis
 * Fisheries Management & Policy Analysis: Evaluate governance and regulatory frameworks, support evidence-based reform, and connect policy goals to practical realities.
 * Systems Mapping & Supply Chain Insight: Map interconnected systems—including product flow, traceability, and leverage points for improvement across the value chain.
 
-**See this work in action:**
-
-* [Explore our triple-impact approach to improving ecological, social, and financial outcomes](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-improvement/)
+[**Explore our triple-impact approach to improving ecological, social, and financial outcomes**](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-improvement/)
 
 ----
 
@@ -49,10 +47,7 @@ Our approach starts with co-design—working with stakeholders to shape strategi
 * Co-design Fishery Improvement Pathways: Work with fishery stakeholders to identify pathways toward achieving internationally recognized environmental and social standards— through collaborative planning and technical guidance.
 * Implementation & Achievement: trengthen fishery performance with science-based tools that rebuild stocks, protect habitats, and reduce ecosystem impacts—while improving labor rights, working conditions, and equity through people-centered solutions, and expanding market access and income opportunities that support the long-term viability of fishing communities.
 
-
-**See this work in action:**
-
-* [See how Taiwan’s largest vessel association launched its first Fishery Improvement Project](https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
+[**See how Taiwan’s largest vessel association launched its first Fishery Improvement Project**](https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
 
 ----
 
@@ -69,8 +64,6 @@ We believe that lasting change is built on trust. Our approach emphasizes respec
 * Capacity Building & Training: Equip partners with tools, knowledge, and leadership capacity to carry forward change.
 * Improvement Validation & Certification Support: Help fisheries demonstrate progress through credible improvement tracking, verification, and alignment with global standards.
 
-**See this work in action:**
-
-* [Discover how expanded worker training is strengthening rights and safety at sea](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
+[**Discover how expanded worker training is strengthening rights and safety at sea**](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
 
 ----
