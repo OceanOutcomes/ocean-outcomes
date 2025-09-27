@@ -53,9 +53,12 @@ Our approach starts with co-design—working with stakeholders to shape strategi
 
 **See this work in action:**
 
-*<a href="https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/" target="_blank">Ocean Outcomes Collaborates on Groundbreaking Project to Enhance Social Responsibility at Sea’</a>
+* [Ocean Outcomes Collaborates on Groundbreaking Project to Enhance Social Responsibility at Sea’](<a href="https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/" target="_blank"</a>)
+* <a href="https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/" target="_blank">Ocean Outcomes Collaborates on Groundbreaking Project to Enhance Social Responsibility at Sea’</a>
 *<a href="https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/" target="_blank">Taiwan’s Largest Fishing Vessel Member Association Launches First Fishery Improvement Project</a>
 *<a href="https://www.oceanoutcomes.org/news/fsf-O2-indian-ocean-tuna-fishery-improvement-sustainability-project-launched-announcement/" target="_blank">Indian Ocean Longline Tuna Project Launches</a>
+
+* [Chen Hung Seafood Frozen Produce Co Ltd. Pacific Ocean Longline Tuna FIP] (/what-we-do/tuna/chen-hung-seafood-frozen-produce-co-pacific-ocean-longline-tuna-fip)
 
 
 ----
