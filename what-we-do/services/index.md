@@ -32,9 +32,7 @@ Our work begins with science, objectivity, and a clear understanding of each fis
 
 **See this work in action:**
 
-* [Assessing and Addressing Social Risks in Fishery Improvement Projects](https://www.oceanoutcomes.org/news/Assessing-and-Addressing-Social-Risks-in-Fishery-Improvement-Projects/)
-* [Supporting Social Responsibility in Korea’s Seafood Industry](https://www.oceanoutcomes.org/news/supporting-social-responsibility-in-koreas-seafood-industry/)
-* [Triple Impact Improvement Case Studies](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-case-studies/)
+* [Explore our triple-impact approach to improving ecological, social, and financial outcomes](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-improvement/)
 
 ----
 
@@ -47,19 +45,14 @@ Our work begins with science, objectivity, and a clear understanding of each fis
  
 Our approach starts with co-design—working with stakeholders to shape strategies that reflect both local realities and shared priorities. Because environmental and social outcomes are deeply connected, we aim to integrate both dimensions wherever it strengthens project goals. Through collaboration, we ensure that solutions are relevant, responsive, and grounded in the lived context of each fishery.
 
-* Co-design Fishery Improvement Pathways: Work with fishery stakeholders to identify pathways toward achieving internationally recognized environmental and social standards— through collaborative planning and technical guidance.
-* Implementation & Achievement: 
-   * Strengthen fishery performance with science-based tools that rebuild stocks, protect habitats, and reduce ecosystem impacts. 
-   * Improve working conditions, labor rights, and equity through people-centered, practical implementation. 
-   * Expand access to markets and income opportunities to support the long-term viability of fishery participants.
 * Strategic Advisory & Consulting: Provide guidance on policy alignment, human rights due diligence, and responsible sourcing—helping partners shape strategies that are credible, inclusive, and grounded in local realities.
+* Co-design Fishery Improvement Pathways: Work with fishery stakeholders to identify pathways toward achieving internationally recognized environmental and social standards— through collaborative planning and technical guidance.
+* Implementation & Achievement: trengthen fishery performance with science-based tools that rebuild stocks, protect habitats, and reduce ecosystem impacts—while improving labor rights, working conditions, and equity through people-centered solutions, and expanding market access and income opportunities that support the long-term viability of fishing communities.
+
 
 **See this work in action:**
 
-* [Ocean Outcomes Collaborates on Groundbreaking Project to Enhance Social Responsibility at Sea](https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
-* [Taiwan’s Largest Fishing Vessel Member Association Launches First Fishery Improvement Project](https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
-* [Indian Ocean Longline Tuna Project Launches](https://www.oceanoutcomes.org/news/fsf-O2-indian-ocean-tuna-fishery-improvement-sustainability-project-launched-announcement/)
-
+* [See how Taiwan’s largest vessel association launched its first Fishery Improvement Project](https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
 
 ----
 
@@ -78,8 +71,6 @@ We believe that lasting change is built on trust. Our approach emphasizes respec
 
 **See this work in action:**
 
-* [Sajo Industries Awarded Marine Stewardship Council Certification for Longline Tuna](https://www.oceanoutcomes.org/news/Sajo-Awarded-MSC-Certification-for-Longline-Tuna/)
-* [Building Regional Capacity for Electronic Monitoring Across Taiwan](https://www.oceanoutcomes.org/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
-* [Expanded Worker Training Now Reaching Dozens in Taiwan’s Distant Water Fisheries](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
+* [Discover how expanded worker training is strengthening rights and safety at sea](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
 
 ----
