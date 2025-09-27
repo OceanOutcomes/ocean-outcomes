@@ -32,9 +32,9 @@ Our work begins with science, objectivity, and a clear understanding of each fis
 
 **See this work in action:**
 
-*<a href="https://www.oceanoutcomes.org/news/Assessing-and-Addressing-Social-Risks-in-Fishery-Improvement-Projects/" target="_blank">Assessing and Addressing Social Risks in Fishery Improvement Projects</a>
-*<a href="https://www.oceanoutcomes.org/news/supporting-social-responsibility-in-koreas-seafood-industry/" target="_blank">Supporting Social Responsibility in Korea’s Seafood Industry</a>
-*<a href="https://www.oceanoutcomes.org/what-we-do/services/triple-impact-case-studies/" target="_blank">Triple Impact Improvement Case Studies</a>
+* [Assessing and Addressing Social Risks in Fishery Improvement Projects](https://www.oceanoutcomes.org/news/Assessing-and-Addressing-Social-Risks-in-Fishery-Improvement-Projects/)
+* [Supporting Social Responsibility in Korea’s Seafood Industry](https://www.oceanoutcomes.org/news/supporting-social-responsibility-in-koreas-seafood-industry/)
+* [Triple Impact Improvement Case Studies](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-case-studies/)
 
 ----
 
@@ -53,12 +53,9 @@ Our approach starts with co-design—working with stakeholders to shape strategi
 
 **See this work in action:**
 
-* [Ocean Outcomes Collaborates on Groundbreaking Project to Enhance Social Responsibility at Sea’](<a href="https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/" target="_blank"</a>)
-* <a href="https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/" target="_blank">Ocean Outcomes Collaborates on Groundbreaking Project to Enhance Social Responsibility at Sea’</a>
-*<a href="https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/" target="_blank">Taiwan’s Largest Fishing Vessel Member Association Launches First Fishery Improvement Project</a>
-*<a href="https://www.oceanoutcomes.org/news/fsf-O2-indian-ocean-tuna-fishery-improvement-sustainability-project-launched-announcement/" target="_blank">Indian Ocean Longline Tuna Project Launches</a>
-
-* [Chen Hung Seafood Frozen Produce Co Ltd. Pacific Ocean Longline Tuna FIP] (/what-we-do/tuna/chen-hung-seafood-frozen-produce-co-pacific-ocean-longline-tuna-fip)
+* [Ocean Outcomes Collaborates on Groundbreaking Project to Enhance Social Responsibility at Sea](https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
+* [Taiwan’s Largest Fishing Vessel Member Association Launches First Fishery Improvement Project](https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
+* [Indian Ocean Longline Tuna Project Launches](https://www.oceanoutcomes.org/news/fsf-O2-indian-ocean-tuna-fishery-improvement-sustainability-project-launched-announcement/)
 
 
 ----
@@ -75,8 +72,8 @@ We believe that lasting change is built on trust. Our approach emphasizes respec
 
 **See this work in action:**
 
-*<a href="https://www.oceanoutcomes.org/news/Sajo-Awarded-MSC-Certification-for-Longline-Tuna/" target="_blank">Sajo Industries Awarded Marine Stewardship Council Certification for Longline Tuna</a>
-*<a href="https://www.oceanoutcomes.org/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/" target="_blank">Building Regional Capacity for Electronic Monitoring Across Taiwan</a>
-*<a href="https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/" target="_blank">Expanded Worker Training Now Reaching Dozens in Taiwan’s Distant Water Fisheries</a>
+* [Sajo Industries Awarded Marine Stewardship Council Certification for Longline Tuna](https://www.oceanoutcomes.org/news/Sajo-Awarded-MSC-Certification-for-Longline-Tuna/)
+* [Building Regional Capacity for Electronic Monitoring Across Taiwan](https://www.oceanoutcomes.org/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
+* [Expanded Worker Training Now Reaching Dozens in Taiwan’s Distant Water Fisheries](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
 
 ----
