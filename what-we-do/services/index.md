@@ -48,7 +48,7 @@ Our approach starts with co-design—working with stakeholders to shape strategi
 
 * Strategic Advisory & Consulting: Provide guidance on policy alignment, human rights due diligence, and responsible sourcing—helping partners shape strategies that are credible, inclusive, and grounded in local realities.
 * Co-design Fishery Improvement Pathways: Work with fishery stakeholders to identify pathways toward achieving internationally recognized environmental and social standards— through collaborative planning and technical guidance.
-* Implementation & Achievement: strengthen fishery performance with science-based tools that rebuild stocks, protect habitats, and reduce ecosystem impacts—while improving labor rights, working conditions, and equity through people-centered solutions, and expanding market access and income opportunities that support the long-term viability of fishing communities.
+* Implementation & Achievement: Strengthen fishery performance with science-based tools that rebuild stocks, protect habitats, and reduce ecosystem impacts—while improving labor rights, working conditions, and equity through people-centered solutions, and expanding market access and income opportunities that support the long-term viability of fishing communities.
 
 [**See how we supported Taiwan’s largest fishing vessel association to launch its first Fishery Improvement Project.**](https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
 
