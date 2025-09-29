@@ -1,6 +1,6 @@
 ---
 layout: page
-weight: 5
+weight: 6
 title: Partnerships & Collaborations
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/past-initiatives-hover.jpg
 teaser-text: Our local partnerships and participation in leading international fora are a flexible and effective avenue to implement our work, leverage domestic support and engage international stakeholders — all while maintaining a strong, accountable and international team approach to our sustainable fisheries and seafood initiatives.

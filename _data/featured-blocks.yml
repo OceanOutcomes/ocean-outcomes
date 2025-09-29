@@ -1,4 +1,4 @@
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals. 
@@ -6,6 +6,15 @@
   link:
     link-text: Learn How
     link-url: /what-we-do/services/
+
+- featured: TRUE
+  language: en
+  heading: A Decade of Progress
+  title: For ten years, Ocean Outcomes has been working at the intersection of fisheries, communities, and supply chains to prove that change is possible.
+  hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
+  link:
+    link-text: Our Impact in Action 
+    link-url: /what-we-do/our-impact/
 
 - featured: TRUE
   language: es
@@ -43,6 +52,15 @@
     link-text: Donate to Healthy Fisheries and Oceans
     link-url: https://bit.ly/3z70ePW
     
+- featured: FALSE
+  language: en
+  heading: We are hiring! 
+  title: Are you looking to play a key role in advancing O2’s sustainable seafood projects in Taiwan and the greater East Asian region?
+  hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/EM+featured-block.png
+  link:
+    link-text: Work With Us
+    link-url: https://www.oceanoutcomes.org/who-we-are/join-our-team/
+
 - featured: FALSE
   language: en
   heading: Request for Proposals!

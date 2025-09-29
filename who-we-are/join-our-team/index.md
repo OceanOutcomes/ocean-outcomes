@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved
+title: Get Involved 
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -14,7 +14,7 @@ We’re always interested in connecting with folks who are creative, motivated, 
 -----
 ##Contribute to improving fisheries 
 
-Did you know we are a mission driven nonprofit? We’re working to ensure ocean resources are abundant and sustainably harvested, and that fisheries, fishing communities, and fishery-based livelihoods flourish. <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M6GDSMR3CKSWJ" target="_blank">**Support our efforts by making donation**</a>. Have a question about a donation? Just email us at **donate@oceanoutcomes.org**.  
+Did you know we are a mission driven nonprofit? We’re working to ensure ocean resources are abundant and sustainably harvested, and that fisheries, fishing communities, and fishery-based livelihoods flourish. **[Support our efforts by making donation] (/who-we-are/join-our-team/donate/)**. Have a question about a donation? Just email us at **donate@oceanoutcomes.org**.  
 
 *Ocean Outcomes is a registered 501(c)(3) nonprofit organization and our Tax ID is 46-4901375.* 
 
@@ -29,7 +29,7 @@ O2 has earned a Gold Seal of Transparency from GuideStar and a four star rating 
 As a small group with big goals working with fisheries across vast geographies and oceans, connecting with us online helps get our message to more people, gives a voice to the issues commercial fisheries face, and ultimately contributes to an increased demand for sustainable seafood.
 
  * <a href="https://www.linkedin.com/company/oceanoutcomes/" target="_blank">Connect with O2 on LinkedIn</a>
- * <a href="http://www.twitter.com/oceanoutcomes" target="_blank">Follow O2 on X / Twitter</a>
+ * <a href="http://www.instagram.com/oceanoutcomes" target="_blank">Follow O2 on Instagram</a>
  * <a href="http://www.facebook.com/oceanoutcomes" target="_blank">Find O2 on Facebook</a>
 
 -----

@@ -4,7 +4,7 @@ und:
   # Home page translatables
   ##########################
   ## Home page banner
-  home-page-hero-text: "Advancing economic, social and environmental fisheries sustainability"
+  home-page-hero-text: "Connecting science, seafood, and communities for a better future."
   contact-us: "Get in Touch"
 
   ## About section
@@ -23,6 +23,7 @@ und:
   what-we-do: "What We Do"
   #### Sub-menu items
   triple-bottom-line-seafood: "Our Approach"
+  our-impact: "Our Impact"
   services: "Services"
   small-scale-fisheries: "Small-Scale Fisheries"
   tuna: "Tuna & High Seas Fisheries"

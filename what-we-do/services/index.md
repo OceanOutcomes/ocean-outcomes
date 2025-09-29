@@ -4,8 +4,8 @@ title: Services
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/services-hover.jpg
 hero-image:
 subtitle: We help forward-thinking companies, investors, NGOs, seafood harvesters and others deliver on their sustainable seafood and fisheries improvement goals.
-weight: 2
-teaser-text: Whether you are leading a fisheries project, buying seafood, investing in fisheries reform, or part of an initiative or NGO in the seafood sector, the environmental and business case for sustainability has never been stronger. Let us help deliver the impact you seek.
+weight: 3
+teaser-text: Whether you’re driving a fisheries project, sourcing seafood, investing in reform, or advancing an NGO initiative, the case for sustainability has never been clearer. Ocean Outcomes helps partners turn ambition into results—improving environmental performance, strengthening social responsibility, and building resilient, responsible seafood systems.
 ---
 
 <div class="map-section">
@@ -16,60 +16,57 @@ teaser-text: Whether you are leading a fisheries project, buying seafood, invest
 
 ##Working in fisheries improvement or sustainable seafood? We can help you deliver on your goals.
 
-Our ever-expanding portfolio of environmental, social and economic fisheries sustainability work spans the globe. We’ve developed salmon escapement management strategies in Japan; mapped out supply chains of the highest valued seafood species in China; designed and led curricula for tuna harvest strategy workshops in West Africa, Indonesia and Fiji; led anti-poaching initiatives in the Russian Far East; provided fishery risk analysis for seafood business partners; and assisted corporate hotels in implementing sustainable seafood sourcing policies. O2’s wide-ranging consulting services are based on deep knowledge and expertise, authentic collaboration skills, a strong customer service ethos, and high quality, value added deliverables shaped to have practical and strategic impact — all key ingredients for O2 to successfully support aligned partners in realizing sustainability outcomes from their investments. Key areas of expertise include:
+Our ever-expanding portfolio of environmental, social and economic fisheries sustainability work spans the globe. We collaborate across geographies and stakeholder groups to improve fisheries and seafood systems. Our work includes designing and managing projects and initiatives that advance social responsibility, support policy reform, improve fishing practices, and strengthen supply chain sustainability. From improving market access to crew-level protections, our approach integrates ecosystem health, community well-being, and economic viability—delivering meaningful and durable results. Key areas of expertise include:
 
 ----
 
-##### Capacity Building
+##### Engage & Assess 
+
+![Aguilera Oaxaca 1]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Aguilera-+Oaxaca-1+(8).png)
+
+*Understand each fishery through rigorous analysis rooted in science, stakeholder context, and social realities.*
  
-From workshop planning and facilitation, to developing and supporting local organizations and partners in their strategy, growth and implementation of work, capacity development is core to our ethos. This ranges from conducting workshops globally on behalf of the UN-FAO — which trained hundreds of fishery managers on science-based best practices — to seeding the sustainable seafood movement across Northeast Asia through helping develop and launch local NGOs in the region. Capacity takes many forms, but is always a requisite for achieving our collective sustainability goals; we can help you identify and then build the sustainable fisheries and seafood capacity you seek.
+Our work begins with science, objectivity, and a clear understanding of each fishery’s unique needs. We use rigorous, evidence-based methods—paired with direct engagement with workers, communities, and stakeholders—to assess real-world risks and opportunities. As a trusted technical partner, we apply the right tools to generate insight, guide action, and shape practical solutions that can endure over time.
+
+* Social, Financial & Environmental Assessments: Identify risks, challenges, and opportunities across labor conditions, human rights, ecosystem health, and fishery performance.
+* Fisheries Management & Policy Analysis: Evaluate governance and regulatory frameworks, support evidence-based reform, and connect policy goals to practical realities.
+* Systems Mapping & Supply Chain Insight: Map interconnected systems—including product flow, traceability, and leverage points for improvement across the value chain.
+
+[**Explore our triple-impact approach to improving ecological, social, and financial outcomes.**](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-improvement/)
 
 ----
 
-##### Environmental, Financial and Social Fishery Assessment
+##### Co-Design & Implement 
+
+![School of fish]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/school+of+fish.png)
+
+*Co-develop practical strategies and tools— delivered through trusted partnerships and aligned with global sustainability frameworks.*
  
-Get a clear and science-backed understanding of the environmental and socioeconomic status of any fishery, against any of the leading certification standards. We conduct Seafood Watch assessments, Marine Stewardship Council pre-assessments, and have developed our own Rapid Assessment methodologies. We are uniquely positioned to evaluate a fishery’s financial, environmental and social sustainability quickly and efficiently, helping to identify challenges and building the foundation for durable intervention. Learn more about:  
+Our approach starts with co-design—working with stakeholders to shape strategies that reflect both local realities and shared priorities. Because environmental and social outcomes are deeply connected, we aim to integrate both dimensions wherever it strengthens project goals. Through collaboration, we ensure that solutions are relevant, responsive, and grounded in the lived context of each fishery.
 
-* [The Environmental Rapid Assessment (ERA)] (/what-we-do/services/environmental-rapid-assessment/): a publicly available tool for rapidly and affordably evaluating the environmental sustainability of wild capture fisheries.
-* [The Social Responsibility Assessment Tool for the Seafood Sector (SRA)] (/what-we-do/services/social-rapid-assessment/): a diagnostic, benchmarking and risk-assessment tool for conducting human rights due diligence in large and small-scale fisheries.
-* [The Financial Rapid Assessment (FRA)] (/what-we-do/services/financial-rapid-assessment/): a globally applicable tool designed to rapidly assess the business capacity of seafood enterprises.
+* Strategic Advisory & Consulting: Provide guidance on policy alignment, human rights due diligence, and responsible sourcing—helping partners shape strategies that are credible, inclusive, and grounded in local realities.
+* Co-design Fishery Improvement Pathways: Work with fishery stakeholders to identify pathways toward achieving internationally recognized environmental and social standards— through collaborative planning and technical guidance.
+* Implementation & Achievement: Strengthen fishery performance with science-based tools that rebuild stocks, protect habitats, and reduce ecosystem impacts—while improving labor rights, working conditions, and equity through people-centered solutions, and expanding market access and income opportunities that support the long-term viability of fishing communities.
 
-----
-
-##### Fisheries Management and Policy Analysis 
-
-With a high level of complexity, fisheries management and policy issues often need to be addressed from many different angles. Our wide ranging expertise allows us to provide creative and practical advice on a variety of fishery issues, whether that means for example, applying stock identification tools to evaluate impacts of fish culture programs on wild stocks and fisheries, designing precautionary management approaches in response to data uncertainties, designing fishery monitoring plans to collect catch and biological data, evaluating the implications of artificial production strategies for wild capture fisheries and populations, delivering expert advice on certification, or recommending legislative approaches for reducing ghost fishing impacts.
+[**See how we supported Taiwan’s largest fishing vessel association to launch its first Fishery Improvement Project.**](https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
 
 ----
 
-##### Fishery Improvement Projects - FIPs and AIPs
- 
-As an organization founded on improving commercial fisheries and aquaculture operations, we are experts in the design and application of Fishery Improvement Projects (FIPs) and Aquaculture Improvement Projects (AIPs). This includes traditional projects focused on environmental sustainability, but also triple bottom line projects which support socioeconomic sustainability as well. Our fishery improvement work includes assessment, stakeholder mapping and convening, work plan development and implementation, project public relations, FisheryProgress.org reporting and certification guidance.
+##### Build & Transform 
+
+![Eblast header one forty]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/eblast+header+one+forty.png)
+
+*Strengthen the systems, skills, and structures that enable lasting sustainability—while supporting fisheries on the path to recognized improvement and certification.*
+
+We believe that lasting change is built on trust. Our approach emphasizes respectful collaboration and cultural awareness, with a focus on supporting local leadership wherever possible. Through stakeholder facilitation, training, and technical support, we help create the conditions for ownership, capacity, and continuity—long after our direct role ends.
+
+* Stakeholder Engagement & Facilitation: Foster inclusive dialogue and shared implementation through trusted, context-aware facilitation.
+* Capacity Building & Training: Equip partners with tools, knowledge, and leadership capacity to carry forward change.
+* Improvement Validation & Certification Support: Help fisheries demonstrate progress through credible improvement tracking, verification, and alignment with global standards.
+
+[**Discover how our education and vocational training for migrant workers is helping to foster safer, more informed, and more resilient working environments.**](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
 
 ----
-
-##### Stakeholder Engagement and Facilitation
- 
-Getting stakeholders to the table and facilitating a constructive results-oriented discussion can be half the battle. Through fishermen and seafood buyer exchanges, fishery stakeholder workshop development and facilitation, buyer partnership facilitation, transnational governmental meeting design, and international consultation strategy design, we can help you engage your key audiences and develop solutions that stick.  
-
-----
-
-##### Strategic Consultation 
-
-Leave the development and implementation of environmental and socioeconomic fishery sustainability strategies to the experts. We develop sustainable sourcing policies, bycatch reduction strategies, comprehensive risk analysis reports, anti-IUU and traceability solutions and organizational strategy analysis, to name a few. We can support you as you work to address the breadth of environmental, social and economic challenges facing many of the world's fisheries. No project is too complicated or too small.
-
-----
-
-##### Supply Chain and Value Chain Analysis
-
-From point of harvest to point of consumption, and everything in between, our supply chain and value analysis processes clearly map fishery stakeholders and stakeholder contributions, strengths and weaknesses, bottlenecks in the system, production best practices, opportunities for increased profit and makes recommendations for improvements in efficiencies and sustainable practices.
-
-----
-
-##### Triple Impact Fisheries Improvement
-
-We have reimagined the improvement model and built a [Triple Impact Fisheries Evaluation Framework] (/what-we-do/services/triple-impact-improvement/) to increase the viability and decrease the risk of fisheries improvement by evaluating, tracking and incentivizing improvement of fisheries’ social and financial performance along with their environmental performance. Using the Framework, we can integrate environmental, social and financial dimensions of sustainability and improvement to increase the viability and decrease the risk of the traditional fisheries improvement processes, representing an opportunity for all working in seafood ([view case studies highlighting the impact this approach produces] (/what-we-do/services/triple-impact-case-studies/)).
-
-----
-
-##[Have a need? Let’s talk.] (/contact/)
