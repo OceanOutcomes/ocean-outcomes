@@ -18,7 +18,8 @@ teaser-text: Whether you’re driving a fisheries project, sourcing seafood, inv
 
 Our ever-expanding portfolio of environmental, social and economic fisheries sustainability work spans the globe. We collaborate across geographies and stakeholder groups to improve fisheries and seafood systems. Our work includes designing and managing projects and initiatives that advance social responsibility, support policy reform, improve fishing practices, and strengthen supply chain sustainability. From improving market access to crew-level protections, our approach integrates ecosystem health, community well-being, and economic viability—delivering meaningful and durable results.
 
-#### Engage & Assess  
+### Engage & Assess  
+
 
 ![Aguilera Oaxaca 1]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Aguilera-+Oaxaca-1+(8).png)
@@ -33,11 +34,14 @@ As a trusted technical partner, we apply the right tools to generate insight, gu
 
 *Our services in action:*  
 
-[**Explore our triple-impact approach to improving ecological, social, and financial outcomes.**](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-improvement/)
+[**Our triple-impact approach to improving environmental, social, and financial outcomes evaluates needs, plans improvements and monitors and publicly reports progress against the environmental, social and financial dimensions of sustainability.**](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-improvement/)
+
+[**We are interfacing and coordinating with in-country partners, non-governmental organizations, and regulators in an effort to advance sustainability projects across six Asian countries.**] (https://www.oceanoutcomes.org/news/NFI-partner-ocean-outcomes-crab-FIPs-in-Asia/)
 
 ----
 
-#### Co-Design & Implement  
+### Co-Design & Implement   
+
 
 ![School of fish]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/school+of+fish.png)
@@ -52,11 +56,14 @@ Through collaboration, we ensure that solutions are relevant, responsive, and gr
 
 *Our services in action:*  
 
-[**See how we supported Taiwan’s largest fishing vessel association to launch its first Fishery Improvement Project.**](https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
+[**See how we supported Taiwan’s largest fishing vessel association to launch its first Fishery Improvement Project.**](https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)  
+
+[**Findings from a pioneering project we're supporting demonstrate how electronic monitoring and Wi-Fi technologies can significantly improve crew welfare aboard tuna longline vessels at sea.**] (https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
 
 ----
 
-#### Build & Transform  
+### Build & Transform   
+
 
 ![Eblast header one forty]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/eblast+header+one+forty.png)
@@ -71,8 +78,10 @@ Through stakeholder facilitation, training, and technical support, we help creat
 
 *Our services in action:*  
 
-[**Discover how our education and vocational training for migrant workers is helping to foster safer, more informed, and more resilient working environments.**](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
+[**Discover how our education and vocational training for migrant workers is helping to foster safer, more informed, and more resilient working environments.**](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)  
+
+[**With our support, one of the largest Korean tuna companies has secured use of the blue Marine Stewardship Council sustainability logo for best practices in bigeye, yellowfin and albacore tuna fisheries.**] (https://www.oceanoutcomes.org/news/Sajo-Awarded-MSC-Certification-for-Longline-Tuna/)
 
 ----
 
-#### [Have a need? Let’s talk.] (/contact)
+### [Have a need? Let’s talk.] (/contact)
