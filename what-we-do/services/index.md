@@ -44,7 +44,7 @@ As a trusted technical partner, we apply the right tools to generate insight, gu
 ![School of fish]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/school+of+fish.png)
 
-### Co-Design & Implement  
+## Co-Design & Implement  
  
 Our approach starts with co-design—working with stakeholders to shape strategies that reflect both local realities and shared priorities. Because environmental and social outcomes are deeply connected, we aim to integrate both dimensions wherever it strengthens project goals. 
 
