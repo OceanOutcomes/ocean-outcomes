@@ -18,11 +18,12 @@ teaser-text: Whether you’re driving a fisheries project, sourcing seafood, inv
 
 Our ever-expanding portfolio of environmental, social and economic fisheries sustainability work spans the globe. We collaborate across geographies and stakeholder groups to improve fisheries and seafood systems. Our work includes designing and managing projects and initiatives that advance social responsibility, support policy reform, improve fishing practices, and strengthen supply chain sustainability. From improving market access to crew-level protections, our approach integrates ecosystem health, community well-being, and economic viability—delivering meaningful and durable results.
 
-### Engage & Assess  
-
+---
 
 ![Aguilera Oaxaca 1]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Aguilera-+Oaxaca-1+(8).png)
+
+## Engage & Assess  
  
 Our work begins with science, objectivity, and a clear understanding of each fishery’s unique needs. We use rigorous, evidence-based methods—paired with direct engagement with workers, communities, and stakeholders—to assess real-world risks and opportunities. 
 
@@ -40,11 +41,10 @@ As a trusted technical partner, we apply the right tools to generate insight, gu
 
 ----
 
-### Co-Design & Implement   
-
-
 ![School of fish]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/school+of+fish.png)
+
+### Co-Design & Implement  
  
 Our approach starts with co-design—working with stakeholders to shape strategies that reflect both local realities and shared priorities. Because environmental and social outcomes are deeply connected, we aim to integrate both dimensions wherever it strengthens project goals. 
 
@@ -62,11 +62,10 @@ Through collaboration, we ensure that solutions are relevant, responsive, and gr
 
 ----
 
-### Build & Transform   
-
-
 ![Eblast header one forty]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/eblast+header+one+forty.png)
+
+## Build & Transform  
 
 We believe that lasting change is built on trust. Our approach emphasizes respectful collaboration and cultural awareness, with a focus on supporting local leadership wherever possible. 
 
@@ -84,4 +83,4 @@ Through stakeholder facilitation, training, and technical support, we help creat
 
 ----
 
-### [Have a need? Let’s talk.] (/contact)
+## [Have a need? Let’s talk.] (/contact)
