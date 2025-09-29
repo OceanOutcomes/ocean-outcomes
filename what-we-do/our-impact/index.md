@@ -15,25 +15,29 @@ For ten years, Ocean Outcomes has been working at the intersection of fisheries,
 
 ##### Our Results at a Glance
 
+Together with our partners, Ocean Outcomes has turned vision into measurable results. We’ve helped shift fisheries and seafood systems toward greater responsibility, inclusivity, and transparency. 
+
 ![Impact By The Numbers.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Impact+by+the+numbers.png)
-
-Together with our partners, Ocean Outcomes has turned vision into measurable results. We’ve helped shift fisheries and seafood systems toward greater responsibility, inclusivity, and transparency. 
 
 ----
 
 ##### Dive Deeper: 10-Year Impact Report
 
+From our humble beginning to seeding the sustainable seafood movement in Northeast Asia, advancing workers rights, and prioritizing community-centered improvement work in Latin America’s small-scale fisheries, <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/A+Decade+of+Ocean+Outcomes+-+10+Year+Impact+Report+October+2025.pdf" target="_blank">our 10 Year Impact Report is a detailed look back at the people, partnerships, and progress that have defined our first decade of success.</a> 
+
+Through vivid case studies and partner reflections, the report highlights lessons learned and the momentum driving our next chapter. 
+
 ![Cropped 10 Year Impact Cover]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Cropped+10+Year+Impact+Cover.png)
-
-From our humble beginning to seeding the sustainable seafood movement in Northeast Asia, advancing workers rights, and prioritizing community-centered improvement work in Latin America’s small-scale fisheries, <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/A+Decade+of+Ocean+Outcomes+-+10+Year+Impact+Report+October+2025.pdf" target="_blank">our 10 Year Impact Report is a detailed look back at the people, partnerships, and progress that have defined our first decade of success.</a> Through vivid case studies and partner reflections, the report highlights lessons learned and the momentum driving our next chapter. 
 
 ----
 
 ##### 10 Years, 10 Stories
 
-To mark this important milestone, we’re sharing weekly video spotlights that bring Ocean Outcomes’ work to life. Each short film highlights a different piece of our journey — how O2 came to be, our fisheries improvement work in action, and the voices of fishers and communities we work alongside with. Join us here each week as we reflect on a decade of progress and look ahead to the future we’re building together.
+To mark this important milestone, we’re sharing weekly video spotlights that bring Ocean Outcomes’ work to life. Each short film highlights a different piece of our journey — how O2 came to be, our fisheries improvement work in action, and the voices of fishers and communities we work alongside with. 
+
+Join us here each week as we reflect on a decade of progress and look ahead to the future we’re building together.
 
 ----
 
