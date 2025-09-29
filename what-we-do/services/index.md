@@ -58,7 +58,7 @@ Through collaboration, we ensure that solutions are relevant, responsive, and gr
 
 [**See how we supported Taiwan’s largest fishing vessel association to launch its first Fishery Improvement Project.**](https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)  
 
-[**Findings from a pioneering project we're supporting demonstrate how electronic monitoring and Wi-Fi technologies can significantly improve crew welfare aboard tuna longline vessels at sea.**] (https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
+[**We’re demonstrating how electronic monitoring and Wi-Fi technologies can significantly improve crew welfare aboard tuna longline vessels at sea.**] (https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
 
 ----
 
