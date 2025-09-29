@@ -18,7 +18,7 @@ For over ten years, Ocean Outcomes has been working at the intersection of fishe
 Together with our partners, Ocean Outcomes has turned vision into measurable results. Our work has transformed fisheries and seafood systems. 
 
 ![Impact By The Numbers.png]
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Impact+by+the+numbers.png)
+[(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Impact+by+the+numbers.png)](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/A+Decade+of+Ocean+Outcomes+-+10+Year+Impact+Report+October+2025.pdf)
 
 ----
 
@@ -27,7 +27,7 @@ Together with our partners, Ocean Outcomes has turned vision into measurable res
 From seeding the sustainable seafood movement across Northeast Asia, advancing workers rights on board distant water fishing vessels, and catalyzing community-centered improvement work in Latin America’s small-scale fisheries, <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/A+Decade+of+Ocean+Outcomes+-+10+Year+Impact+Report+October+2025.pdf" target="_blank">**our 10 Year Impact Report is a detailed look back at the people, partnerships, and progress that have defined our first decade of success.**</a> 
 
 ![Cropped 10 Year Impact Cover]
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Cropped+10+Year+Impact+Cover.png)
+[(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Cropped+10+Year+Impact+Cover.png)](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/A+Decade+of+Ocean+Outcomes+-+10+Year+Impact+Report+October+2025.pdf)
 
 ----
 
