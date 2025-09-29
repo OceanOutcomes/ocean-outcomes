@@ -22,6 +22,9 @@ Our ever-expanding portfolio of environmental, social and economic fisheries sus
 
 ##### Engage & Assess 
 
+![Aguilera Oaxaca 1]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Aguilera-+Oaxaca-1+(8).png)
+
 *Understand each fishery through rigorous analysis rooted in science, stakeholder context, and social realities.*
  
 Our work begins with science, objectivity, and a clear understanding of each fishery’s unique needs. We use rigorous, evidence-based methods—paired with direct engagement with workers, communities, and stakeholders—to assess real-world risks and opportunities. As a trusted technical partner, we apply the right tools to generate insight, guide action, and shape practical solutions that can endure over time.
@@ -47,7 +50,7 @@ Our approach starts with co-design—working with stakeholders to shape strategi
 * Co-design Fishery Improvement Pathways: Work with fishery stakeholders to identify pathways toward achieving internationally recognized environmental and social standards— through collaborative planning and technical guidance.
 * Implementation & Achievement: trengthen fishery performance with science-based tools that rebuild stocks, protect habitats, and reduce ecosystem impacts—while improving labor rights, working conditions, and equity through people-centered solutions, and expanding market access and income opportunities that support the long-term viability of fishing communities.
 
-[**See how Taiwan’s largest vessel association launched its first Fishery Improvement Project.**](https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
+[**See how we worked with Taiwan’s largest fishing vessel association to launch its first Fishery Improvement Project.**](https://www.oceanoutcomes.org/news/Taiwan's-largest-fishing-vessel-member-association-launches-first-fishery-improvement-project/)
 
 ----
 
@@ -64,6 +67,6 @@ We believe that lasting change is built on trust. Our approach emphasizes respec
 * Capacity Building & Training: Equip partners with tools, knowledge, and leadership capacity to carry forward change.
 * Improvement Validation & Certification Support: Help fisheries demonstrate progress through credible improvement tracking, verification, and alignment with global standards.
 
-[**Discover how expanded worker training is strengthening rights and safety at sea.**](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
+[**Discover how our education and vocational training for migrant workers is helping to foster safer, more informed, and more resilient working environments.**](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
 
 ----
