@@ -35,7 +35,7 @@ As a trusted technical partner, we apply the right tools to generate insight, gu
 
 *Our services in action:*  
 
-[**Our triple-impact approach to improving environmental, social, and financial outcomes evaluates needs, plans improvements and monitors and publicly reports progress against the environmental, social and financial dimensions of sustainability.**](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-improvement/)
+[**Our triple-impact approach plans improvements and monitors and publicly reports progress against the environmental, social and financial dimensions of sustainability.**](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-improvement/)
 
 [**We are interfacing and coordinating with in-country partners, non-governmental organizations, and regulators in an effort to advance sustainability projects across six Asian countries.**] (https://www.oceanoutcomes.org/news/NFI-partner-ocean-outcomes-crab-FIPs-in-Asia/)
 
