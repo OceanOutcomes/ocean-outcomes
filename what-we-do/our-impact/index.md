@@ -38,7 +38,8 @@ These videos bring our work to life. Each highlights a different story — how O
 **10 Years of Ocean Outcomes: Where It All Began**
 
 *Hear the story of O2 straight from its roots — founding members Perry Broderick and Rich Lincoln share how this vision first came to life.*
-[![Video](https://img.youtube.com/vi/a2uF8zTtVmU/maxresdefault.jpg)](https://www.youtube.com/watch?v=a2uF8zTtVmU)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a2uF8zTtVmU?si=evTtexYJUf99fLGJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ----
 
