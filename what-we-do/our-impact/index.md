@@ -39,7 +39,7 @@ These videos bring our work to life. Each highlights a different story — how O
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a2uF8zTtVmU?si=evTtexYJUf99fLGJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Hear the story of O2 straight from its roots — founding members Perry Broderick and Rich Lincoln share how this vision first came to life.*
+*Founding members Perry Broderick and Rich Lincoln share the story of how Ocean Outcomes came to be: a story of purpose and the people who believed something better was possible—for oceans, seafood, and the communities that depend on both.*
 
 ----
 
