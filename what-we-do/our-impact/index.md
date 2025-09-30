@@ -36,6 +36,7 @@ From seeding the sustainable seafood movement across Northeast Asia, advancing w
 These videos bring our work to life. Each highlights a different story — how O2 came to be, our fisheries improvement work in action, and the voices of fishers and communities we work alongside. Watch them all to learn more about our first decade of progress and the future we’re building.
 
 *10 Years of Ocean Outcomes: Where It All Began*
+Hear the story of O2 straight from its roots — founding members Perry Broderick and Rich Lincoln share how this vision first came to life.
 [![Video](https://img.youtube.com/vi/a2uF8zTtVmU/maxresdefault.jpg)](https://www.youtube.com/watch?v=a2uF8zTtVmU)
 
 ----
