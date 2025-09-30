@@ -16,12 +16,14 @@
       {% for link in site.data.social-links  %}
       <li><a class="{{link.channel}}" href="{{link.url}}">
         {% case link.channel %}
-        {% when 'twitter' %}
-        <i class="fa fa-twitter"></i>
+        {% when 'instagram' %}
+        <i class="fa fa-instagram"></i>
         {% when 'linkedin' %}
         <i class="fa fa-linkedin"></i>
         {% when 'facebook' %}
         <i class="fa fa-facebook"></i>
+        {% when 'youtube' %}
+        <i class="fa fa-youtube"></i>
         {% endcase %}
       </a></li>
       {% endfor %}

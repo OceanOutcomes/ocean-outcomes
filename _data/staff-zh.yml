@@ -45,12 +45,12 @@
   bio: |
     Kelly 是一位創新改革實踐者、在永續漁業和組織領導方面擁有 17 年的豐富經驗。 她在非營利和營利部門擔任領導職務、專注於保護、漁業社群、改善糧食系統和供應鏈。 在加入 Ocean Outcomes 之前、她曾擔任阿拉斯加海洋保護委員會執行董事七年、擔任 Ecotrust 漁業和沿海社區總監、領導小規模漁業工作、為 Sitka Salmon Shares（現為錫特卡海鮮市場(Sitka Seafood Market) 擔任首席漁業和永續發展負責人、最近擔任Saltwater Inc. 的資深經理、推動了電子監測計劃和合作夥伴關係。此外、她還是Fish 2.0 國際商業計劃競賽的獲勝者、也是阿拉斯加鮭魚協會研究員計劃成員、並在她的職業生涯中曾在多個漁業和海洋保護委員會和委員會任職。 她擁有環境政策和商業方面的高等教育學位、包括英屬哥倫比亞大學的漁業研究生學位和阿拉斯加大學的商管（MBA）學位、主修海鮮業務。 凱莉目前與丈夫和家裡的哈士奇住在阿拉斯加的安克雷奇。
 
-- name: Mei-Chin Juan
+- name: 阮美瑾
   contractor: False
-  title: Social Responsibility Coordinator
+  title: 社會責任專員
   image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Mei-Chin_Staff+Photo.png
   bio: |
-    With experience in both the public and private sectors of Taiwan’s fisheries, Mei-Chin has spent the past decade navigating fisheries management and working with squid and saury vessels, longliners, and purse seiners. She specializes in fisheries compliance, fleet management — including Vanuatu-flagged vessels — and international negotiations across multiple RFMOs. Her background provides a practical understanding of how policy is shaped and implemented, as well as the challenges faced by vessel operators. She holds a Master’s degree in Criminology and a credit certificate in corporate responsibility and human rights in supply chains.
+    美瑾在台灣漁業公私部門均擁有豐富經驗，過去十年一直致力於漁業管理，並與魷魚和秋刀魚捕撈船、延繩釣漁船和圍網漁船合作。她專注於漁業合規、船隊管理（包括懸掛萬那杜國旗的船隻）以及與多個區域漁業管理組織（RFMO）的國際談判經驗。她的背景使她對政策的製定和實施以及產業面臨的挑戰有深刻理解。她擁有犯罪學碩士學位以及供應鏈中企業責任和人權方面的學分證書.
 
 - name: Zang Guen Kim
   contractor: False
@@ -58,14 +58,6 @@
   image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Kims+headshot.png
   bio: |
     金博士是一位漁業研究員，在鯨豚研究、鮪魚資源管理和國際漁業治理領域擁有40多年的經驗。他擁有釜慶國立大學漁業科學博士學位，並在此獲得了碩士和學士學位。金恩博士曾擔任韓國政府科學家，代表韓國出席國際捕鯨委員會（IWC）和所有五個主要鮪魚區域漁業管理組織（RFMO），在資料收集、資源評估、合規和管理決策方面擁有豐富的經驗。在國家漁業研究與發展研究所（NFRDI）任職期間，他領導建立了鯨類研究中心，並致力於為實施模式二科學、後常規科學和強制性科學創造必要的條件，以用於漁業資源的維護和管理。他目前是永續漁業諮詢與研究中心 (CRCSF) 的創始人，該中心支持永續漁業，專注於漁業改善計畫和韓國捕撈漁業認證。  
-    
-- name: Dokyong Lee
-  contractor: false
-  title: 韓國漁業改進專員
-  email:
-  image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Dokyong_staffphoto.png
-  bio: |
-    Dokyong 在韓國海洋和漁業相關政府機構和研究機構擁有超過 10 年的工作經驗。她在國立水產科學研究所（NIFS）為建立韓國國立海洋生物多樣性研究所（MABIK）收集了海洋生物標本，並致力於減少氣候變遷對海洋造成的破壞。在韓國海事研究所（KMI）漁業展望中心工作期間，她提供了主要水產品的供需信息，並發表了有關水產養殖產品生產和分配的報告和分析，為漁民的決策過程做出了貢獻。作為海洋政策研究部的研究員，她調查了沿海生態和災害，進行了永續生態友善的沿海發展研究，參與了支持廢棄漁具自主回收的項目，並為減少沿海微小粉塵研究做出貢獻。她擁有韓國釜慶大學海洋與漁業商業與經濟學碩士學位。
 
 - name: Kevin Lin, 林凱文
   contractor: false

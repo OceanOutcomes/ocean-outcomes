@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved - We're Hiring!
+title: Get Involved 
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -8,12 +8,6 @@ teaser-text: An estimated 3 billion people worldwide depend on seafood as their 
 weight: 5
 ---
 ##Career and volunteer opportunities
-
-<a href="https://apply.workable.com/ocean-outcomes/j/27A6068681/" target="_blank">**Asia Fisheries Coordinator/Manager**</a> 
-
-Reporting to and working closely with the Taiwan Fisheries Senior Manager, the Asia Fisheries Coordinator/Manager (dependent on experience) is a dedicated full-time contract position that will play a key role in advancing O2’s sustainable seafood projects in Taiwan and the larger East Asian region, now and into the future. 
-
-Candidate must be based in Taiwan, fluent in English and Mandarin, and able to travel extensively both domestically and internationally. Please apply using this link: https://apply.workable.com/ocean-outcomes/j/27A6068681/. If you have any questions, please reach out to Taiwan Fisheries Senior Manager, Ho-Tu Chiang, at hotu@oceanoutcomes.org.
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
 
@@ -35,7 +29,7 @@ O2 has earned a Gold Seal of Transparency from GuideStar and a four star rating 
 As a small group with big goals working with fisheries across vast geographies and oceans, connecting with us online helps get our message to more people, gives a voice to the issues commercial fisheries face, and ultimately contributes to an increased demand for sustainable seafood.
 
  * <a href="https://www.linkedin.com/company/oceanoutcomes/" target="_blank">Connect with O2 on LinkedIn</a>
- * <a href="http://www.twitter.com/oceanoutcomes" target="_blank">Follow O2 on X / Twitter</a>
+ * <a href="http://www.instagram.com/oceanoutcomes" target="_blank">Follow O2 on Instagram</a>
  * <a href="http://www.facebook.com/oceanoutcomes" target="_blank">Find O2 on Facebook</a>
 
 -----
