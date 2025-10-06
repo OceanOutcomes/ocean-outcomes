@@ -41,6 +41,12 @@ These videos bring our work to life. Each highlights a different story — how O
 
 *Founding members Perry Broderick and Rich Lincoln share the story of how Ocean Outcomes came to be: a story of purpose and the people who believed something better was possible—for oceans, seafood, and the communities that depend on both.*
 
+**Episode 2 — 10 Years of Ocean Outcomes: People Behind The Work**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yGr1nSvk4iQ?si=pX6j1S_67PAYCXNi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Lasting fisheries change requires more than investments in science and policy—it also requires investments in people. Hear from founding members, current staff, and core partners on how Ocean Outcomes is working to co-design practical solutions that reflect local realities, bridge perspectives, and build trust.* 
+
 ----
 
 ## Charting the Course — Together
