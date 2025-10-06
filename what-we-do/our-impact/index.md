@@ -45,7 +45,7 @@ These videos bring our work to life. Each highlights a different story — how O
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yGr1nSvk4iQ?si=pX6j1S_67PAYCXNi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Lasting fisheries change isn’t just about science or policy—it’s about people. Hear from founding members, current staff, and core partners on how Ocean Outcomes is working to co-design practical solutions that reflect local realities, bridge perspectives and build trust.* 
+*Lasting fisheries change isn’t just about science or policy—it’s about people. Hear from founding members, current staff, and core partners on how Ocean Outcomes is working to co-design practical solutions that reflect local realities, bridge perspectives, and build trust.* 
 
 ----
 
