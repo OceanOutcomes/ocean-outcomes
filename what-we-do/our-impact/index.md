@@ -47,7 +47,7 @@ These videos bring our work to life. Each highlights a different story — how O
 
 *Lasting fisheries change requires more than investments in science and policy—it also requires investments in people. Hear from founding members, current staff, and core partners on how Ocean Outcomes is working to co-design practical solutions that reflect local realities, bridge perspectives, and build trust.* 
 
-**Episode 3 — 10 Years of Ocean Outcomes: People Behind The Work**
+**Episode 3 — 10 Years of Ocean Outcomes: Our Approach**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h5hEDgDagO4?si=AwvfbJcss9qTMLNv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
