@@ -53,6 +53,12 @@ These videos bring our work to life. Each highlights a different story — how O
 
 *We co-design solutions with people who live and work in fisheries every day, and adapt our tools and strategies to fit the unique dynamics of each region. See how our approach bridges science and lived experience, policy and practice, environmental goals and social realities—making progress possible in places where it’s needed most.* 
 
+**Episode 4 — 10 Years of Ocean Outcomes: Our Complementary Partners**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tsb1xRc-vcU?si=wc0-z5jyBDZwqxmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Ocean Outcomes works alongside NGOs, governments, industry, and communities—helping connect ideas to action and filling in the pieces that make lasting change possible. In this episode, hear directly from some of our key partners about how these relationships bring real results—and why the sum of our parts is greater than any one of us alone.*
+
 ----
 
 ## Charting the Course — Together
