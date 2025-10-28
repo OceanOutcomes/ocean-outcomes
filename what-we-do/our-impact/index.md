@@ -63,7 +63,7 @@ These videos bring our work to life. Each highlights a different story — how O
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZARBu2JswQ4?si=eJPQZ9F-CddpM7ad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*At Ocean Outcomes, we’ve chosen to focus on high-risk, high-impact fisheries.
+*At Ocean Outcomes, we work in high-risk, high-impact fisheries.
 Why? Because these are the fisheries that shape global seafood systems — economically, socially, and ecologically. This episode highlights how we’re proving that progress is possible, even in the most complex places.*
 
 
