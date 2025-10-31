@@ -15,6 +15,8 @@ As a mission-driven technical partner, O2 combines nonprofit values with consult
 
 We lead with listening, partnership, and persistence. We spend time on the water co-developing solutions with fishers, companies, governments, and NGOs. We prioritize implementation over ideology, trust-building over quick wins, and adaptability over rigidity. With a lean and agile team based in key seafood-producing and seafood - consuming regions, we’re able to act quickly, navigate complexity, and deliver results that last. We don’t just consult or convene—we roll up our sleeves and help make sustainability work in the real world.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5hEDgDagO4?si=QvZ5-cJ8E2db2xbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##Local actions. Global outcomes.
 
 ![3 Fishermen carrying box.png]
