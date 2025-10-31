@@ -42,7 +42,7 @@ Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org
 * [Fue Shin Fishery Pacific Ocean Longline Tuna FIP] (/what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/)
 * [Fue Shin Fishery Indian Ocean Longline Tuna FIP] (/what-we-do/tuna/fue-shin-fishery-indian-ocean-longline-tuna-fip/)
 * [Indian Ocean Albacore Tuna Longline FIP] (/what-we-do/tuna/indian-ocean-longline-albacore/)
-* [Nachi Katsuura Albacore Longline FIP] (/where-we-work/japanese-fisheries-seafood/nachi-katsurra-albacore-longline/)
+* [Nachi Katsuura Albacore Longline FIP (*Inactive*)] (/where-we-work/japanese-fisheries-seafood/nachi-katsurra-albacore-longline/)
 * [South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP] (/what-we-do/tuna/south-pacific-longline-albacore-yellowfin/)
 * [Taiwan Tuna Longline Association Pacific Ocean FIP] (/what-we-do/tuna/taiwan-tuna-longline-association-pacific-ocean-fip/)
 
