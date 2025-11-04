@@ -9,6 +9,8 @@ subtitle: We believe better fisheries can uplift people, sustain livelihoods, an
 ---
 ##Our proven approach defines every engagement. It’s the reason we’re trusted across stakeholder groups — and why we’re able to navigate complexity and help partners move from intention to implementation.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5hEDgDagO4?si=QvZ5-cJ8E2db2xbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Ocean Outcomes works to improve high-risk, under-resourced fisheries by aligning global best practices with real-world conditions. Where science, community, and seafood supply chains converge, we co-develop solutions and partnerships with those who work and depend on the ocean — creating outcomes that last.
 
 As a mission-driven technical partner, O2 combines nonprofit values with consultancy rigor to deliver credible, measurable improvements. Our deep knowledge, regional networks, and cross-disciplinary expertise underpin O2’s unique position in the global seafood sector as a smart strategist and pragmatic problem-solver.
