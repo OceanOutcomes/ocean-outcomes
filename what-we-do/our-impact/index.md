@@ -65,6 +65,11 @@ These videos bring our work to life. Each highlights a different story — how O
 
 *At Ocean Outcomes, we work in high-risk, high-impact fisheries. Why? Because these are the fisheries that shape global seafood systems — economically, socially, and ecologically. This episode highlights how we’re proving that progress is possible, even in the most complex places.*
 
+**Episode 6 — 10 Years of Ocean Outcomes: Human Rights & Sustainability**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zqNXHBY2YXI?si=lX706_0KHmNlCV93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*We believe environmental and social responsibility go hand-in-hand, especially in high-risk, high-impact fisheries. When crew members are treated fairly, have safe working conditions, and access to communication at sea, they’re more likely to follow sustainable fishing practices. When fisheries are managed sustainably, they provide more secure livelihoods for those who depend on them.*
 
 ----
 
