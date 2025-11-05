@@ -21,14 +21,6 @@
   bio: |
     호투 치앙매니저는 오션아웃컴즈의 대만 어업개선 프로젝트의 개발 및 이행과 관련 연구, 기술지원 등 을 담당하고 있습니다. 뿐만 아니라 동북아 지역의 참치업계, NGO등과 협력하고 프로젝트 개발, 이해관계자 네트워크를 관리하고 있습니다. 대만 국가해안경비대에서 6년간 근무하며 국제협력, 조업 모니터링⋅감시⋅통제(MCS) 업무를 수행하였습니다. 또한 해양어업청, 농업위원회 등 대만 정부기관에서 어업관련 컨퍼런스 및 워크숍의 개최를 지원하였습니다. 대만경찰대학 해양경찰학과를 졸업한 그는 뉴욕시립대학교 존제이 응용범죄대학에서 국제 형사 및 사법학으로 석사를 취득하였습니다. 취미로는 하이킹과 피트니스, 사진촬영을 즐기고 있습니다.
 
-- name: 이네스 정
-  contractor: false
-  title: 아시아 어업개선 코디네이터
-  email:
-  image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Ines_staffphoto.png
-  bio: |
-     이네스 정 아시아 어업개선 코디네이터는 대만정부의 어업협정에 활발히 참여하고, 그 밖에도 외국인선원의 권리와 이익을 보호하기 위해  노력하였습니다. 아시아 정치경제, 해상안보, 공급망 리스크 분석 등, 어업 전략정책과 데이터 분석에 특화된 전문 연구원입니다. 중국어와 미국어를 능숙하게 구사하며, 대만 국립정치대학에서 외교학 학사를 전공하고 미국 조지 워싱턴 대학교에서  국제개발 석사를 취득하였습니다. 취미로 요가, 명상, 독서를 즐기고 있습니다. 
-
 - name: 조슬린 드루간 박사(PhD)
   contractor: false
   title: 분석팀 총괄 및 수산과학 선임 연구원
@@ -61,7 +53,7 @@
 
 - name: 케빈 린
   contractor: false
-  title: 대만 어업 개선 담당관
+  title: 대만 어업 매니저
   email:
   image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/KevinStaffPhoto.png
   bio: |
@@ -104,7 +96,7 @@
   email:
   image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Segyo+Headshot.png
   bio: |
-    오세교 코디네이터는 오션아웃컴즈의 한국 수산업 및 공급망의 지속가능성 증진을 위해 활동하고 있습니다. 주요 업무는 상업용 참치 어업 및 연안 어업 분야에서 정부 기관, 수산 기업, 산업 협회, NGO 등과 협력 네트워크를 구축하고 어업 관행의 실질적 개선을 도모하는 것입니다. 한국 수산 기업, 연구 기관 및 대학과 협력하여 해양관리협의회(MSC) 인증 취득 지원, 전자 모니터링을 포함한 모니터링 및 추적 시스템 도입 촉진, 국내 수산 자원 관리 정책 개선, 원양 어업의 사회적 책임 및 인권 증진 등의 프로젝트를 수행하고 있습니다.이전에 레버재단 한국지부에서 지속가능성 프로그램을 이끌며 수산 기업을 포함한 한국 식품 공급망 전반의 동물 복지 및 지속가능한 소싱 향상을 위한 기업 참여 활동을 주도하였습니다. 또한 한국사회투자에서 ESG 프로그램 매니저로, 에이전시에서 디지털 전략 컨설턴트로 근무하였습니다.
+    오세교 코디네이터는 오션아웃컴즈의 한국 수산업 및 공급망의 지속가능성 증진을 위해 활동하고 있습니다. 주요 업무는 상업용 참치 어업 및 연안 어업 분야에서 정부 기관, 수산 기업, 산업 협회, NGO 등과 협력 네트워크를 구축하고 어업 관행의 실질적 개선을 도모하는 것입니다. 한국 수산 기업, 연구 기관 및 대학과 협력하여 해양관리협의회(MSC) 인증 취득 지원, 전자 모니터링을 포함한 모니터링 및 추적 시스템 도입 촉진, 국내 수산 자원 관리 정책 개선, 원양 어업의 사회적 책임 및 인권 증진 등의 프로젝트를 수행하고 있습니다. 이전에 레버재단 한국지부에서 지속가능성 프로그램을 이끌며 수산 기업을 포함한 한국 식품 공급망 전반의 동물 복지 및 지속가능한 소싱 향상을 위한 기업 참여 활동을 주도하였습니다. 또한 한국사회투자에서 ESG 프로그램 매니저로, 아지앙스에서 디지털 전략 컨설턴트로 근무하였습니다.
 
 - name: 박두현
   contractor: false
@@ -112,7 +104,7 @@
   email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Doohyun_staffphoto.png
   bio: |
-    박두현 매니저는 오션아웃컴즈의 한국프로그램을 담당하고 있습니다. 주요 업무는 원양참치회사, 연근해 어민, 정부기관, 수산기업, 관련 산업협회, NGO 등과 네트워크를 구축하고, 어업활동의 지속가능성을 개선하기 위한 협력을 도모하는 것입니다. 국립수산과학원의 총허용어획량(TAC) 과학위원회에서 NGO측 위원을 역임하였고, 현재 해양수산부의 민관해양환경정책위원회의 민간위원으로 활동하고 있습니다. WWF 세계자연기금 한국사무소에서 원양참치선사 및 양식어가와 협력, 지속가능한 수산물 소비자 운동, 수산물 유통업체와의 파트너쉽, 불법어업(IUU) 예방 및 투명성 제고, 전자조업모니터링 시범사업 등을 해양보전팀의 주요 업무를 담당하였습니다. 또한 환경부에서 보호지역관리, 생물다양성보전, 철새보전 및 관리 등 자연보전 관련 국제협력 업무를 담당하였습니다. 뿐만 아니라 람사르협약, IUCN 세계자연보전총회, CBD생물다양성협약 등 국제회의 정부대표단으로도 활동하였습니다. 
+    박두현 한국 어업 개선 매니저는 오션아웃컴즈의 한국 프로그램을 담당하고 있습니다. 주요 업무는 원양참치회사, 연근해 어민, 정부기관, 수산기업, 관련 산업협회, NGO 등과 네트워크를 구축하고, 어업활동의 지속가능성을 개선하기 위한 협력을 도모하는 것입니다. 국립수산과학원의 총허용어획량(TAC) 과학위원회에서 NGO측 위원을 역임하였고, 현재 해양수산부의 민관해양환경정책위원회의 민간위원으로 활동하고 있습니다. WWF 세계자연기금 한국사무소에서 원양참치선사 및 양식어가와 협력, 지속가능한 수산물 소비자 운동, 수산물 유통업체와의 파트너쉽, 불법어업(IUU) 예방 및 투명성 제고, 전자조업모니터링 시범사업 등을 해양보전팀의 주요 업무를 담당하였습니다. 또한 환경부에서 보호지역관리, 생물다양성보전, 철새보전 및 관리 등 자연보전 관련 국제협력 업무를 담당하였습니다. 뿐만 아니라 람사르협약, IUCN 세계자연보전총회, CBD생물다양성협약 등 국제회의 정부대표단으로도 활동하였습니다. 
 
 - name: 다니엘 월덱
   contractor: false
@@ -130,13 +122,14 @@
   bio: |
     니콜 윌리암스 총괄은 오레곤 포틀랜드와 뉴욕 브룩클린에서 롤러스케이트 숍을 직접 운영하면서, 10년간 사업체 경영 경험을 터득하였습니다. 뿐만 아니라 Wildlife Conservation Society, Panthera 등 환경보전단체에서 수 년 간 프로그램관리한 경력을 가지고 있습니다. 현재 세계적인 롤러더비 선수로 세계 대회에서 8번 우승한 경험이 있습니다. 과거 전미 롤러더비 관리기구에서 자원봉사를 시작으로 현재는 전미 롤러더비 이사로 활동하고 있습니다. 니콜 총괄은 사회⋅환경정의 실현에 앞장서고 있으며, 오션아웃컴즈의 다양성프로그램을 맡고 있습니다. 뉴욕주립대학교 환경과학 및 임학대학교에서 학위를 취득하였습니다. 그 밖에도 지역사회 봉사활동에 큰 관심을 가지고 있으며, 특히 포틀랜드 지역 길고양이 중성화 (TNR) 활동에 적극 참여하고 있습니다. 반려동물과 시간을 보내는 것을 좋아하며, 등산, 텃밭가꾸기로 여가시간을 보내고 있습니다. 
 
-- name: Ryan Xu
+- name: 라이언 쉬
   contractor: false
-  title: Asia Fisheries Coordinator 
+  title: 아시아 어업 코디네이터
   email:
   image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Ryan+Headshot.png
   bio: |
-    Ryan Xu brings over two years of experience in Social Responsibility and Sustainable Fisheries to Ocean Outcomes, having contributed to Marine Stewardship Council (MSC) certification processes for purse seine fisheries. He has gained practical experience by coordinating comprehensive social audits with third-party firms across Pacific Island nations. Since then, Ryan has focused on managing social compliance programs, leading MSC certification initiatives, and implementing technology-driven solutions. Ryan holds dual Master of Business Administration degrees (from KEDGE Business School and National Sun Yat-sen University), a PNA MSC CoC Certified Trainer certification, and an ESG Corporate Due diligence Investigation certification. Based in Taiwan, Ryan has also recently been deepening his technical expertise by researching hardware solutions.
+    라이언 쉬 코디네이터는 사회적 책임 및 지속가능한 수산업 분야에서 2년 이상의 경험을 바탕으로, 선망어업의 MSC(Marine Stewardship Council) 인증 절차에 기여하며 오션아웃컴즈에서 전문성을 발휘하고 있습니다. 그는 태평양 도서국가들을 대상으로 제3자 기관과 함께 광범위한 사회감사를 조율하며 실무 경험을 쌓았습니다. 이후 사회적 규제 준수 프로그램 관리, MSC 인증 추진, 기술 기반 솔루션 도입 등 다양한 업무를 주도해 왔습니다.라이언은 KEDGE 경영대학원과 국립중산대학에서 MBA 복수 학위를 취득했으며, PNA MSC CoC 공인 트레이너 자격과 ESG 기업 실사 관련 인증을 보유하고 있습니다. 대만을 기반으로 활동하며, 최근에는 하드웨어 솔루션 연구를 통해 기술적 전문성을 더욱 강화하고 있습니다.
+
     
 - name: 제이다 투로스 엔더슨
   contractor: True
