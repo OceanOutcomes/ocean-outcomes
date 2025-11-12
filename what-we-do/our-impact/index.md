@@ -71,6 +71,12 @@ These videos bring our work to life. Each highlights a different story — how O
 
 *We believe environmental and social responsibility go hand-in-hand, especially in high-risk, high-impact fisheries. When crew members are treated fairly, have safe working conditions, and access to communication at sea, they’re more likely to follow sustainable fishing practices. When fisheries are managed sustainably, they provide more secure livelihoods for those who depend on them.*
 
+**Episode 7 — 10 Years of Ocean Outcomes: Emerging Technologies**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bvX9T-1ZY1A?si=ic_yFzTJud5OAh4Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*At Ocean Outcomes, we help partners adopt the tech that works for their fishery — advancing sustainability, improving livelihoods, and building trust from the water up. From Wi-Fi on distant water vessels to scalable electronic monitoring, these tools give us the visibility to make seafood supply chains more transparent, spot and address conservation risks faster, and improve conditions for crews who may be at sea for months at a time.*
+
 ----
 
 ## Charting the Course — Together
