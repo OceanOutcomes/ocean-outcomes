@@ -77,6 +77,12 @@ These videos bring our work to life. Each highlights a different story — how O
 
 *At Ocean Outcomes, we help partners adopt the tech that works for their fishery — advancing sustainability, improving livelihoods, and building trust from the water up. From Wi-Fi on distant water vessels to scalable electronic monitoring, these tools give us the visibility to make seafood supply chains more transparent, spot and address conservation risks faster, and improve conditions for crews who may be at sea for months at a time.*
 
+**Episode 8 — 10 Years of Ocean Outcomes: Big Impacts**
+
+<iframe width="560" height="315" src="https://youtu.be/2r34RBmKyUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*How do you know when your work in fisheries is making a difference? When a large-scale fishery association with hundreds of members launches its first-ever FIP. When regional initiatives are transforming how tuna is caught. When people across Northeast Asia are reshaping seafood—because of a seed you helped plant. Real change takes time. And 10 years on, we can see the scale of what’s possible when partnerships grow, tools adapt, and local leadership takes root.*
+
 ----
 
 ## Charting the Course — Together
