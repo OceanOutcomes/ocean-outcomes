@@ -32,7 +32,7 @@ featured: TRUE
 
 ![one-forty-progress-update-5.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/one-forty-progress-update-5.png)
-*In addition to in-person training, One-Forty is developing short videos and online materials that could be accessed by crew so that they could continue learning.*
+*In addition to in-person training, <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Campaigning+Video_Promoting+the+Crew+Handbook_One_Forty+and+O2.mp4" target="_blank">One-Forty short videos such as this one</a> to promote the handbook and its learnings, and other online materials that could be accessed by crew so that they could continue learning.*
 
 ![one-forty-progress-update-6.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/one-forty-progress-update-6.png)
