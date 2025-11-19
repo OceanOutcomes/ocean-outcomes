@@ -79,7 +79,7 @@ These videos bring our work to life. Each highlights a different story — how O
 
 **Episode 8 — 10 Years of Ocean Outcomes: Big Impacts**
 
-<iframe width="560" height="315" src="https://youtu.be/2r34RBmKyUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2r34RBmKyUk?si=exQvI7yxTkn2E-b3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *How do you know when your work in fisheries is making a difference? When a large-scale fishery association with hundreds of members launches its first-ever FIP. When regional initiatives are transforming how tuna is caught. When people across Northeast Asia are reshaping seafood—because of a seed you helped plant. Real change takes time. And 10 years on, we can see the scale of what’s possible when partnerships grow, tools adapt, and local leadership takes root.*
 
