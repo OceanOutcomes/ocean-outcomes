@@ -22,4 +22,4 @@ Each social responsibility principle comprises a set of components, performance 
 
 Used by FisheryProgress.org, the SRA was built on the Monterey Framework, the United Nations Food and Agriculture Organization’s (FAO) Voluntary Guidelines for Securing Sustainable Small-Scale Fisheries, and other relevant protocols and frameworks within the fields of human rights, natural resource management and development.
 
-<a href="https://media.riseseafood.org/resources/SRAT_20210317_FINAL.pdf" target="_blank">The SRA is publicly available online here.</a> (<a href="https://media.riseseafood.org/resources/Spanish_SRA_20220624.pdf" target="_blank">Disponible en español aquí.</a>)
+<a href="https://riseseafood.org/wp-content/uploads/2025/10/Social-Responsibility-Assessment-Tool-Oct-2025.pdf" target="_blank">The SRA is publicly available online here.</a>
