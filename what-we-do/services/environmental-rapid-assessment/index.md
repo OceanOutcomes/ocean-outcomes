@@ -26,4 +26,4 @@ The ERA draws heavily on concepts and definitions from the MSC and Monterey Bay 
   * (2) Ecosystem impacts  
   * (3) Management system  
 
-<a href="https://fisheryprogress.org/resources/launching-fip" target="_blank">The ERA is publicly available on FisheryProgress.org (listed as the Environmental Rapid Assessment Tool).</a>
+<a href="https://fisheryprogress.org/sites/default/files/ERA_Methodology_v2.1_Mar2022_final.pdf" target="_blank">The ERA is publicly available on FisheryProgress.org.</a>
