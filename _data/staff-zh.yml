@@ -65,7 +65,14 @@
   image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/richstaffphoto.jpg
   bio: |
     Rich 在漁業研究、管理、政策和永續發展方面擁有 40 多年的豐富國際經驗。 Rich 於2016 年之前擔任O2 的創始執行長，領導O2 的組建，並於2021 年至2024 年初再次擔任O2 的領導者。他目前以資深策略顧問角色支持O2 東北亞和遠洋漁業的組織策略和管理漁業計劃。他之前的職位包括海洋管理委員會（MSC）國際政策總監、野生鮭魚中心和各種漁業項目管理、包含華盛頓魚類和野生動物的研究、管理和政策。 其中包括擔任太平洋鮭魚委員會弗雷澤河小組的雙邊主席、以及與太平洋西北條約印第安部落制定共同管理計畫。 Rich為聯合國糧農組織制定漁業生態標章指南提供了建議，曾擔任美國太平洋漁業管理委員會成員、並且是美國駐北太平洋漁業委員會的專員。 他也是沿海鮭魚基金會的董事會成員。 Rich 喜歡衝浪、觀賞野生動物、健行、園藝和烹飪。
-    
+
+- name: Hoki Lo
+  contractor: false
+  title: Senior Consultant
+  email:
+  image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Hoki_staffphoto.png
+  bio: |
+    Ko-Jung Lo possesses expertise in program development and stakeholder relations, with a focus on data and sustainability initiatives across Asia. Between 2019 and 2025, she led the implementation of programmatic work for Global Fishing Watch using open data to improve fisheries management. Her job required cross-sector engagement and collaboration with an international team to ensure effective adoption and capacity building for data solutions. Prior to this, Lo spent four years as Project Lead at Greenpeace East Asia, where she was involved in establishing the Taipei office and overseeing organizational growth. During this time (2015-2019), she managed local and regional projects that achieved results in areas including plastic waste, overconsumption, and renewable energy.
 
 - name: Gabrielle Lout, 博士
   contractor: false
@@ -124,15 +131,13 @@
   bio: |
     Nicole 擁有超過 10 年的創業和小型企業主經驗、曾在紐約布魯克林和俄勒岡州波特蘭建立零售滑輪店。 她也帶來了野生動物保護協會和 Panthera 的多年專案管理經驗。 妮可是世界著名的輪滑運動員和八次世界冠軍。 Nicole 是社會和環境正義的倡導者、並幫助領導 O2 的內部 DEI 工作。 妮可擁有學士學位。 來自紐約州立大學環境科學與林業學院。 她積極參與社區組織和互助、並透過 TNR 幫助波特蘭地區的流浪貓。 她喜歡飼養動物、背包旅行和在她的城市小農場照顧土地。
 
-- name: 泰瑋
+- name: Ryan Xu 徐泰瑋
   contractor: false
-  title: 亞洲漁業專員
+  title: 亞洲漁業計劃專員 
   email:
   image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Ryan+Headshot.png
   bio: |
-    泰瑋帶著超過兩年的社會責任與永續漁業經驗加入 Ocean Outcomes，他曾協助圍網漁業推動海洋管理委員會 (MSC) 的認證流程。並曾與第三方機構協調，於太平洋島國執行社會稽核，並從中獲得了實務經驗。此後，泰瑋熱衷於管理社會合規專案、主導 MSC 認證計畫，並導入技術導向的解決方案。泰瑋擁有法國凱致商學院 (KEDGE Business School) 與國立中山大學的企業管理碩士 (MBA) 雙學位，並持有 PNA MSC 產銷監管鏈 (CoC) 認證培訓師以及 ESG 企業盡職調查證照。泰瑋目前駐點台灣，近期也專注於研究硬體解決方案，以深化技術專業知識。
-
-
+    泰瑋加入 Ocean Outcomes，帶來超過兩年的永續漁業與社會稽核經驗。他曾協助圍網漁業推動海洋管理委員會 (MSC) 認證，並透過與第三方機構協調、在太平洋島國執行社會稽核，累積了豐富的實務經驗。基於這些經歷，泰瑋熱衷於管理社會合規專案、主導 MSC 認證計畫，並導入技術導向的解決方案。泰瑋擁有法國凱致商學院 (KEDGE Business School) 與國立中山大學的企業管理碩士 (MBA) 雙學位，並持有 PNA MSC 產銷監管鏈 (CoC) 認證培訓師及 ESG 企業盡職調查證照。他目前駐點台灣，近期也專注於研究硬體解決方案，以持續深化其技術專業知識。
 
     
 - name: Jada Tullos Anderson
@@ -149,15 +154,6 @@
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/yongbiophoto.jpg 
   bio: | 
     Yong是一位漁業科學家。 1995年、他在加拿大多倫多大學獲得動物學博士學位。 他於1995 年在澳洲雪梨新南威爾斯州漁業部擔任漁業資源評估科學家、作為職業生涯的起點、在經歷許多職位後、於2021 年加入紐約州立大學石溪學院。陳博士的研究主要集中在漁業生態、族群動態和漁業資源評估和管理。 他的研究目標是利用跨學科方法為漁業管理提供最佳可用科學並發展永續漁業。 陳博士在科學期刊上撰寫和合著了超過 295 篇同行評審論文、許多技術和資源評估報告、並為 100 多個專案獲得了數百萬美元的研究經費支持。 他指導了 50 多名研究生/博士後。 他現任新英格蘭漁業管理委員會科學與統計委員會成員、以及上海海洋大學和中國海洋大學的兼任教授。 他同時也是《加拿大漁業與水生科學雜誌》和《水產養殖與漁業雜誌》的主編。
-
-- name: Rich Lincoln
-  contractor: True
-  title: 資深策略顧問
-  image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/richstaffphoto.jpg
-  bio: |
-    Rich 在漁業研究、管理、政策和永續發展方面擁有 40 多年的豐富國際經驗。 Rich 於2016 年之前擔任O2 的創始執行長，領導O2 的組建，並於2021 年至2024 年初再次擔任O2 的領導者。他目前以資深策略顧問角色支持O2 東北亞和遠洋漁業的組織策略和管理漁業計劃。他之前的職位包括海洋管理委員會（MSC）國際政策總監、野生鮭魚中心和各種漁業項目管理、包含華盛頓魚類和野生動物的研究、管理和政策。 其中包括擔任太平洋鮭魚委員會弗雷澤河小組的雙邊主席、以及與太平洋西北條約印第安部落制定共同管理計畫。 Rich為聯合國糧農組織制定漁業生態標章指南提供了建議，曾擔任美國太平洋漁業管理委員會成員、並且是美國駐北太平洋漁業委員會的專員。 他也是沿海鮭魚基金會的董事會成員。 Rich 喜歡衝浪、觀賞野生動物、健行、園藝和烹飪。
-
-
 
 - name: Steve McCormick
   contractor: True
