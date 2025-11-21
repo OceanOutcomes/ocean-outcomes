@@ -46,6 +46,11 @@ Ocean Outcomes is a long-time contributing member of the Conservation Alliance f
 Ocean Outcomes is an official Supporter of Fish Forward, which was created by a partnership of provincial, federal and international organizations to secure a sustainable future for Manitoba’s fisheries and ensure that local, sustainable fish is promoted, sold and celebrated by local businesses. As a Supporter, O2 has worked on fisheries in the Manitoba region and shares Fish Forward’s belief that we all have a role to play in ensuring the sustainability of our fisheries. <a href="https://fishforward.ca/" target="_blank">www.fishforward.ca/</a> 
 
 ----
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/GDST-partner-logo.png"><h4>Global Dialogue on Seafood Traceability</h4>
+
+We believe traceability systems can benefit seafood businesses and entire fisheries. They can play an intregral role in better fisheries management and sustainable seafood initiatives. Benefits of traceability include protection of public health, improved trade, strengthened sustainability practices, increased consumer trust, quality assurance and value-chain efficiencies, and assessing and addressing unacceptable labor practices. As a member of the GDST, Ocean Outcomes supports the foundation on which reliable, affordable, and efficient seafood traceability is being be built. <a href="https://thegdst.org/" target="_blank">www.thegdst.org/</a> 
+
+----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/gggi-logo-partners.png"><h4>Global Ghost Gear Initiative</h4>
 
 The Global Ghost Gear Initiative (GGGI) is the world’s largest cross-sectorial alliance committed to driving solutions to the problem of lost, abandoned and otherwise discarded fishing gear (ALDFG, also known as “ghost gear”). As a member of the GGGI, Ocean Outcomes had led a myriad projects for GGGI, including facilitating stakeholder workshops, piloting ghost gear prevention processes in Fishery Improvement Projects (FIPs), and developing analysis on the efficacy of regulations to prevent ALDFG, among others. <a href="https://www.ghostgear.org/" target="_blank">www.ghostgear.org</a>
