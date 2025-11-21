@@ -48,7 +48,7 @@ Ocean Outcomes is an official Supporter of Fish Forward, which was created by a 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/GDST-partner-logo.png"><h4>Global Dialogue on Seafood Traceability</h4>
 
-We believe traceability systems can benefit seafood businesses and entire fisheries. They can play an intregral role in better fisheries management and sustainable seafood initiatives. Benefits of traceability include protection of public health, improved trade, strengthened sustainability practices, increased consumer trust, quality assurance and value-chain efficiencies, and assessing and addressing unacceptable labor practices. As a member of the GDST, Ocean Outcomes supports the foundation on which reliable, affordable, and efficient seafood traceability is being be built. <a href="https://thegdst.org/" target="_blank">www.thegdst.org/</a> 
+We believe traceability systems can benefit seafood businesses and entire fisheries. They can play an integral role in better fisheries management and sustainable seafood initiatives. Benefits of traceability include protection of public health, improved trade, strengthened sustainability practices, increased consumer trust, quality assurance and value-chain efficiencies, and assessing and addressing unacceptable labor practices. As a member of the GDST, Ocean Outcomes supports the foundation on which reliable, affordable, and efficient seafood traceability is being be built. <a href="https://thegdst.org/" target="_blank">www.thegdst.org/</a> 
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/gggi-logo-partners.png"><h4>Global Ghost Gear Initiative</h4>
@@ -71,7 +71,7 @@ As an official supporter of the International Year of Artisanal Fisheries and Aq
 Ocean Outcomes is a contributing member of the NGO Tuna Forum. The Forum brings together NGOs and others that work comprehensively on global tuna sustainability issues that fall within one or more of the following core focus areas: RFMO Management and Advocacy, Market-based Mechanisms for Improving Sustainability, and, On the Water Research, Activities and Improvements. <a href="https://ngotunaforum.org/" target="_blank">www.ngotunaforum.org</a>
 
 ----
-<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/one-percent-partner-logo.png"><h4>1% For the Planent</h4>
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/one-percent-partner-logo.png"><h4>1% For the Planet</h4>
 
 We are a 1% for the Planet Environmental Partner! This partnership helps to advance our impact as well as involve more businesses in the environmental movement. 1% for the Planet is an accountability partner for businesses that are ready to reject business as usual and give back to Environmental Partners making a difference around the globe. 1% members have given hundreds of millions of dollars to environmental partners to date. <a href="https://www.onepercentfortheplanet.org" target="_blank">https://www.onepercentfortheplanet.org</a>
 
