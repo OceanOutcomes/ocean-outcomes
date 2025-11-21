@@ -25,9 +25,15 @@ Just email us at **donate@oceanoutcomes.org**.
 
 *Ocean Outcomes is a registered 501(c)(3) nonprofit organization and our Tax ID is 46-4901375.* 
 
-We have received a Gold Seal of Transparency from GuideStar and a four star rating from Charity Navigator!
+We have earned a Gold Seal of Transparency from GuideStar, a four star rating from Charity Navigator, and we are a 1% for the Planet Environmental Partner. All of which demonstrates our accountability and impact! 
 
-<a href="https://www.guidestar.org/profile/shared/9c87b1e5-f828-4ef4-9f52-ad1d33ab3eb6" target="_blank"><img src="https://widgets.guidestar.org/TransparencySeal/9523457" /></a>    <a href="https://www.charitynavigator.org/ein/464901375" target="_blank" ><img src="https://charitynavigator.org/content/dam/cn/cn/badges/Four-StarRatingBadge-FullColor.png" alt="Charity Navigator Four-Star Rating" style="max-width: 110px;"/></a>
+<table border="0"> 
+  <tr>
+    <td><a href="https://app.candid.org/profile/9523457/ocean-outcomes-46-4901375" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-candid-seal.png" style="max-width: 110px;" style="max-height: 110px;"/></a></td>
+    <td><a href="https://www.charitynavigator.org/ein/464901375" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-Charity-Navigator-Badge.png" style="max-width: 110px;" style="max-height: 110px;"/></a></td>
+    <td> <a href="https://directories.onepercentfortheplanet.org/profile/ocean-outcomes" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-one-percent-partner-badge.png" style="max-width: 110px;" style="max-height: 110px;"/></a></td>
+  </tr>
+</table>
   
 -----
 
