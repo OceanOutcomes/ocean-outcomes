@@ -66,6 +66,11 @@ As an official supporter of the International Year of Artisanal Fisheries and Aq
 Ocean Outcomes is a contributing member of the NGO Tuna Forum. The Forum brings together NGOs and others that work comprehensively on global tuna sustainability issues that fall within one or more of the following core focus areas: RFMO Management and Advocacy, Market-based Mechanisms for Improving Sustainability, and, On the Water Research, Activities and Improvements. <a href="https://ngotunaforum.org/" target="_blank">www.ngotunaforum.org</a>
 
 ----
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/one-percent-partner-logo.png"><h4>1% For the Planent Environmental Partner</h4>
+
+We are a 1% for the Planet Environmental Partner! This partnership helps to advance our impact as well as involve more businesses in the environmental movement. 1% for the Planet is an accountability partner for businesses that are ready to reject business as usual and give back to Environmental Partners making a difference around the globe. 1% members have given hundreds of millions of dollars to environmental partners to date. <a href="https://directories.onepercentfortheplanet.org/" target="_blank">https://directories.onepercentfortheplanet.org/profile/ocean-outcomes</a>
+
+----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/sea-pact-logo-partners.png"><h4>Sea Pact</h4>
 
 Sea Pact is a group of leading North American Seafood Companies dedicated to driving stewardship and continuous improvement of social, economic, and environmental responsibility throughout the global seafood supply chain. Ocean Outcomes supports Sea Pact as one of three sustainability advisors. <a href="http://www.seapact.org/" target="_blank">www.seapact.org</a>
