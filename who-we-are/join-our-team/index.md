@@ -22,13 +22,13 @@ We have earned a Gold Seal of Transparency from GuideStar, a four star rating fr
 
 <div class="row">
   <div class="column">
-    <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-candid-seal.png" alt="Snow" style="width:100%">
+    <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-candid-seal.png" style="max-width: 110px;" style="max-height: 110px;">
   </div>
   <div class="column">
-    <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-Charity-Navigator-Badge.png" alt="Forest" style="width:100%">
+    <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-Charity-Navigator-Badge.png" style="max-width: 110px;" style="max-height: 110px;">
   </div>
   <div class="column">
-    <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-one-percent-partner-badge.png" alt="Mountains" style="width:100%">
+    <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-one-percent-partner-badge.png" style="max-width: 110px;" style="max-height: 110px;">
   </div>
 </div>
 
