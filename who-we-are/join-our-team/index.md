@@ -20,7 +20,19 @@ Did you know we are a mission driven nonprofit? We’re working to ensure ocean 
 
 We have earned a Gold Seal of Transparency from GuideStar, a four star rating from Charity Navigator, and we are a 1% for the Planet Environmental Partner. All of which demonstrates our accountability and impact! 
 
-<a href="https://app.candid.org/profile/9523457/ocean-outcomes-46-4901375" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-candid-seal.png" style="max-width: 110px;" /></a>    <a href="https://www.charitynavigator.org/ein/464901375" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-Charity-Navigator-Badge.png" style="max-width: 110px;" /></a>    <a href="https://directories.onepercentfortheplanet.org/profile/ocean-outcomes" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-one-percent-partner-badge.png" style="max-width: 110px;"/></a>
+<div class="row">
+  <div class="column">
+    <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-candid-seal.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-Charity-Navigator-Badge.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-one-percent-partner-badge.png" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+<a href="https://app.candid.org/profile/9523457/ocean-outcomes-46-4901375" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-candid-seal.png" style="max-width: 110px;" style="max-height: 110px;"/></a>    <a href="https://www.charitynavigator.org/ein/464901375" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-Charity-Navigator-Badge.png" style="max-width: 110px;" style="max-height: 110px;"/></a>    <a href="https://directories.onepercentfortheplanet.org/profile/ocean-outcomes" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-one-percent-partner-badge.png" style="max-width: 110px;" style="max-height: 110px;"/></a>
 
 -----
 
