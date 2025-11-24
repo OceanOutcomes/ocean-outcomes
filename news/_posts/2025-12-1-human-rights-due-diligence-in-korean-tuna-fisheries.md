@@ -22,7 +22,7 @@ South Korea ranks among the top five distant-water fishing nations, supplying se
 The South Korean pilot project was designed to address that gap: collect data directly with crew and on vessels to inform a specific and practical action plan that downstream supply chain actors can move forward. Without this direct engagement with workers, companies downstream in the supply chain often lack key contextual information to conduct human rights due diligence, nor do they have specific information to validate how their suppliers are doing against their codes of conduct, especially at the vessel level.
 
 ![South Korean tuna fishing vessel and workers](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/SAJO_SRA_Hero.png)
-*Collecting data directly from crew that work onboard tuna fishing vessels like those pictured here is a requisite for human rights due diligence processes.*
+*Crew working onboard industrial tuna fishing vessels stop for a group shot during project work.*
 
 Data from the SRA contextualizes the findings into risk levels, which are then used to develop a specific action plan that downstream supply chain actors can sponsor to support their suppliers collaboratively to meet desired outcomes, rather than putting the burden entirely on the suppliers themselves.
 
@@ -41,7 +41,7 @@ As a Consortium advisory committee member and a recognized leader in HRDD implem
 Working alongside LRQA, O2 conducted a representative sample of four South Korean flagged vessels and two processing facilities, interviewing more than 70 individuals including crew, owners and processing workers. The resulting data painted a detailed picture of working and living conditions onboard vessels and at processing facilities, as well as management systems and opportunities for improvement for suppliers and buyers.
 
 ![South Korean tuna fishing crew and owner interviews](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Interview1.png)
-*First-hand interviews with crews and captians, such as this one conducted by Ocean Outcomes, provide insight into what is happening on the water and support meaning human rights due diligence work.*
+*First-hand interviews with crews and captians, such as this one conducted by Ocean Outcomes, provide insight into what is happening on the water and support meaningful human rights due diligence work.*
 
 Preliminary findings were encouraging. Compared to other distant-water fleets in the region, South Korean companies have demonstrated effective management systems for quality and food safety — structures that provide a mechanism which can also be used to embed social responsibility practices into existing procedures and systems. The government’s active role, including participating in the project and discussions around ratifying <a href="https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312333:NO" target="_blank">ILO Work in Fishing Convention 188</a>, has created an enabling environment for ongoing improvement.
 
@@ -54,9 +54,11 @@ A major success for this pilot was the scope — the project reached a scale tha
 ![Project team onboard longline vessel](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Consortium-pilot-korea-longline-tuna-resized.png)
 *The project team from left to right: Doohyun Park and Gabby Lout from Ocean Outcomes, Emily McDuff and Dan Rand from Whole Foods Market, and Renee Perry from Culinary Collaborations aboard a Korean longline vessel in Busan, South Korea.*
 
-The pilot underscored several lessons that will inform future HRDD efforts. Building local capacity will be essential to ensure sustained engagement with workers and continuous improvement. Worker-informed and worker-led processes must be central, as they provide the insights companies need to design targeted, effective interventions. While certifications like the Marine Stewardship Council remain a priority for seafood buyers, there is an increasing understanding at how this is limited to environmental sustainability, and new methods to look into crew wellbeing are needed in order to implement HRDD, especially in sectors and regions where human rights violations have been documented.
+The pilot underscored several lessons that will inform future HRDD efforts:
 
-Utilizing the SRA also allows for action plans to be developed according to the actual context of the fishery and the stakeholders involved, and facilitates engagement with key actors in industry — but also NGOs, government, and civil society, which helps to support a stronger foundation upon which to build.
+*  Building local capacity will be essential to ensure sustained engagement with workers and continuous improvement. Worker-informed and worker-led processes must be central, as they provide the insights companies need to design targeted, effective interventions.
+*   While certifications like the Marine Stewardship Council remain a priority for seafood buyers, there is an increasing understanding at how this is limited to environmental sustainability, and new methods to look into crew wellbeing are needed in order to implement HRDD, especially in sectors and regions where human rights violations have been documented.
+*   Utilizing the SRA also allows for action plans to be developed according to the actual context of the fishery and the stakeholders involved, and facilitates engagement with key actors in industry — but also NGOs, government, and civil society, which helps to support a stronger foundation upon which to build.
 
 The insights and data generated through the South Korea pilot fed into updates to the SRA tool and its associated documentation, as well as improvements to the <a href="https://riseseafood.org/" target="_blank">Roadmap for Improving Seafood Ethics (RISE)</a> platform. Future collaboration between O2 and the Consortium will focus on continuing to expand HRDD implementation and building a Community of Practice where companies, NGOs, and governments can share learnings and align approaches across the seafood sector.
 
