@@ -83,6 +83,12 @@ These videos bring our work to life. Each highlights a different story — how O
 
 *How do you know when your work in fisheries is making a difference? When a large-scale fishery association with hundreds of members launches its first-ever FIP. When regional initiatives are transforming how tuna is caught. When people across Northeast Asia are reshaping seafood—because of a seed you helped plant. Real change takes time. And 10 years on, we can see the scale of what’s possible when partnerships grow, tools adapt, and local leadership takes root.*
 
+**Episode 9 — 10 Years of Ocean Outcomes: The Ripple Effect**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TyoH2t3MMrM?si=oCspdD64udd4PAip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*We have helped to build lasting capacity for the sustainable seafood movement across East Asia. Locally led organizations and fisheries initiatives there are key to ensuring sustainable seafood and conservation goals globally. We think that problems are best solved by people close to the problem. That's why we have placed a high priority on supporting and building local leadership. This isn’t just partnership. It’s legacy.*
+
 ----
 
 ## Charting the Course — Together
