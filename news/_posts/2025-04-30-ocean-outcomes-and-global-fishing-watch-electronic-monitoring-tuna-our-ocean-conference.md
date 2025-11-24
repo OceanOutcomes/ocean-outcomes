@@ -3,7 +3,7 @@ layout: news
 title: At Our Ocean Conference, Spotlight Shines on Northeast Asia’s Tuna Fleets
 teaser-text: Northeast Asia’s distant water tuna fleets are the largest in the world. Yet despite their vast reach, little is known about their operations.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/our-ocean-conference-2025-electronic-monitoring-image-1.png
-featured: TRUE
+featured: FALSE
 ---
 
 ###At this year’s *Our Ocean Conference* in Busan, all eyes were on Northeast Asia’s distant water tuna fleets — the largest in the world, operating across the Atlantic, Pacific, and Indian Oceans. 
