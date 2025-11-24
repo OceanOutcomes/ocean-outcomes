@@ -2,9 +2,10 @@
 layout: news
 title: Building Better Due Diligence in Tuna Fisheries: Lessons from Social Responsibility Work in South Korea
 teaser-text: Across the global seafood sector, companies are under growing pressure to ensure that their supply chains are not only environmentally sustainable but socially responsible.
-hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/HRDD-Tuna-Fisheries-South-Korea.png 
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/HRDD-Tuna-Fisheries-South-Korea.png 
 featured: TRUE
 --- 
+*Photo Credit: One Forty*
 
 ###Across the global seafood sector, companies are under growing pressure to ensure that their supply chains are not only environmentally sustainable but socially responsible.
 
@@ -52,7 +53,7 @@ A major success for this pilot was the scope — the project reached a scale tha
 
 ###What We Learned — and Why It Matters
 
-![EMC4C Sunny Crew](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EMC4C+Sunny+Crew_.png)
+![Project team onboard longline vessel](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Consortium-pilot-korea-longline-tuna-resized.png)
 *The project team from left to right: Doohyun Park and Gabby Lout from Ocean Outcomes, Emily McDuff and Dan Rand from Whole Foods Market, and Renee Perry from Culinary Collaborations aboard a Korean longline vessel in Busan, South Korea.*
 
 The pilot underscored several lessons that will inform future HRDD efforts. Building local capacity will be essential to ensure sustained engagement with workers and continuous improvement. Worker-informed and worker-led processes must be central, as they provide the insights companies need to design targeted, effective interventions. While certifications like the Marine Stewardship Council remain a priority for seafood buyers, there is an increasing understanding at how this is limited to environmental sustainability, and new methods to look into crew wellbeing are needed in order to implement HRDD, especially in sectors and regions where human rights violations have been documented.
