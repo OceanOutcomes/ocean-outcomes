@@ -5,26 +5,24 @@ teaser-text: Across the global seafood sector, companies are under growing press
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/HRDD-Tuna-Fisheries-South-Korea.png 
 featured: TRUE
 --- 
-*Photo Credit: One Forty*
-
 ###Across the global seafood sector, companies are under growing pressure to ensure that their supply chains are not only environmentally sustainable but socially responsible.
 
 **Meeting that expectation means more than setting standards or signing pledges, it requires credible data, trusted partnerships, and a willingness to test new approaches.**
 
-That’s the driving force behind the <a href="https://www.lrqa.com/en-us/latest-news/new-consortium-global-seafood-supply-chains/" target="_blank">Consortium on Social Risks in Seafood</a>, a collaboration launched in 2023 by Conservation International (CI), LRQA, and FishWise, with support from the Walton Family Foundation and Walmart Foundation. The Consortium was created to help seafood companies operationalize human rights due diligence (HRDD) across their supply chains — developing shared tools and frameworks to identify, assess, and address human and labor rights risks at scale. Central to their work has been the advancement and implementation of the [Social Responsibility Assessment Tool (SRA) for the Seafood Sector] (/what-we-do/services/social-rapid-assessment/), an increasingly adopted risk assessment tool that enables users to identify and assess human rights risks in fisheries.
+That’s the driving force behind the <a href="https://www.lrqa.com/en-us/latest-news/new-consortium-global-seafood-supply-chains/" target="_blank">Consortium on Social Risks in Seafood</a>, a collaboration launched in 2023 by Conservation International (CI), LRQA, and FishWise, with support from the Walton Family Foundation and Walmart Foundation. 
+
+The Consortium was created to help seafood companies operationalize human rights due diligence (HRDD) across their supply chains — developing shared tools and frameworks to identify, assess, and address human and labor rights risks at scale. Central to their work has been the advancement and implementation of the [Social Responsibility Assessment Tool (SRA) for the Seafood Sector] (/what-we-do/services/social-rapid-assessment/), an increasingly adopted risk assessment tool that enables users to identify and assess human rights risks in fisheries.
 
 ###Turning Collaboration into Action
 
 As part of this global effort, the Consortium launched a series of pilot projects to demonstrate implementation in different supply chain contexts. Ocean Outcomes, in partnership with LRQA, collaborated on the pilot which took place in South Korea — a critical area for tuna production and on its way to being a leader for social responsibility in the region. 
 
-![South Korean tuna fishing vessel and workers](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/SAJO_SRA_Hero.png)
-*Photo captions here.*
-
-South Korea ranks among the top five distant-water fishing nations, supplying seafood to the United States, Japan, and the European Union. The country has recently demonstrated a growing commitment to improving labor conditions within its fishing sector. For example, including amendments to its *<a href="https://www.mof.go.kr/doc/en/selectDoc.do?docSeq=56395&bbsSeq=90&menuSeq=485" target="_blank">Plan for the Further Enhancement of Working Conditions of Migrant Fishers on Distant Water Fishing Vessels/a>* intended to strengthen the labor rights of migrant workers, and [one of Korea’s largest seafood companies taking proactive efforts to integrate social responsibility into their broader sustainability objectives.] (/news/supporting-social-responsibility-in-koreas-seafood-industry/) While this progress is encouraging, companies often lack meaningful interventions to translate policy into action — going beyond minimum compliance.
+South Korea ranks among the top five distant-water fishing nations, supplying seafood to the United States, Japan, and the European Union. The country has recently demonstrated a growing commitment to improving labor conditions within its fishing sector. For example, including amendments to its *<a href="https://www.mof.go.kr/doc/en/selectDoc.do?docSeq=56395&bbsSeq=90&menuSeq=485" target="_blank">Plan for the Further Enhancement of Working Conditions of Migrant Fishers on Distant Water Fishing Vessels,</a>* intended to strengthen the labor rights of migrant workers, and [one of Korea’s largest seafood companies taking proactive efforts to integrate social responsibility into their broader sustainability objectives.] (/news/supporting-social-responsibility-in-koreas-seafood-industry/) While this progress is encouraging, companies often lack meaningful interventions to translate policy into action — going beyond minimum compliance.
 
 The South Korean pilot project was designed to address that gap: collect data directly with crew and on vessels to inform a specific and practical action plan that downstream supply chain actors can move forward. Without this direct engagement with workers, companies downstream in the supply chain often lack key contextual information to conduct human rights due diligence, nor do they have specific information to validate how their suppliers are doing against their codes of conduct, especially at the vessel level.
 
-![Sajo quote advocating for Ocean Outcomes and social responsiblity work in Korea](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/sajo-quote-supporting-social-responsibility-work.png)
+![South Korean tuna fishing vessel and workers](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/SAJO_SRA_Hero.png)
+*Collecting data directly from crew that work onboard tuna fishing vessels like those pictured here is a requisite for human rights due diligence processes.*
 
 Data from the SRA contextualizes the findings into risk levels, which are then used to develop a specific action plan that downstream supply chain actors can sponsor to support their suppliers collaboratively to meet desired outcomes, rather than putting the burden entirely on the suppliers themselves.
 
@@ -43,7 +41,7 @@ As a Consortium advisory committee member and a recognized leader in HRDD implem
 Working alongside LRQA, O2 conducted a representative sample of four South Korean flagged vessels and two processing facilities, interviewing more than 70 individuals including crew, owners and processing workers. The resulting data painted a detailed picture of working and living conditions onboard vessels and at processing facilities, as well as management systems and opportunities for improvement for suppliers and buyers.
 
 ![South Korean tuna fishing crew and owner interviews](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/SAJO_SRA_Interview1.png)
-*Photo captions here.*
+*First-hand interviews with crews and captians, such as this one conducted by Ocean Outcomes, provide insight into what is happening on the water and support meaning human rights due diligence work.*
 
 Preliminary findings were encouraging. Compared to other distant-water fleets in the region, South Korean companies have demonstrated effective management systems for quality and food safety — structures that provide a mechanism which can also be used to embed social responsibility practices into existing procedures and systems. The government’s active role, including participating in the project and discussions around ratifying <a href="https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312333:NO" target="_blank">ILO Work in Fishing Convention 188</a>, has created an enabling environment for ongoing improvement.
 
