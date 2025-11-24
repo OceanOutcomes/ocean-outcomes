@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Building Better Due Diligence in Tuna Fisheries: Lessons from Social Responsibility Work in South Korea
+title: Building Better Due Diligence in Tuna Fisheries - Lessons from Social Responsibility Work in South Korea
 teaser-text: Across the global seafood sector, companies are under growing pressure to ensure that their supply chains are not only environmentally sustainable but socially responsible.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/HRDD-Tuna-Fisheries-South-Korea.png 
 featured: TRUE
