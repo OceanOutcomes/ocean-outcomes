@@ -89,6 +89,12 @@ These videos bring our work to life. Each highlights a different story — how O
 
 *We have helped to build lasting capacity for the sustainable seafood movement across East Asia. Locally led organizations and fisheries initiatives there are key to ensuring sustainable seafood and conservation goals globally. We think that problems are best solved by people close to the problem. That's why we have placed a high priority on supporting and building local leadership. This isn’t just partnership. It’s legacy.*
 
+**Episode 10 — 10 Years of Ocean Outcomes: The Next Decade**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ixQWCkSuAQ?si=EZ-Y8gwocjumZ2Be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*The next decade of seafood sustainability will demand more. More credible, place-based solutions that can withstand complexity. More trust between fishers, businesses, governments, and NGOs. More durable outcomes in the fisheries that matter most. At Ocean Outcomes, we’re ready. We’ll keep scaling with purpose—deepening relationships, adapting tools, and staying focused on results that last. The challenges ahead are big. So are the opportunities. And together, we’ll keep proving what’s possible.*
+
 ----
 
 ## Charting the Course — Together
