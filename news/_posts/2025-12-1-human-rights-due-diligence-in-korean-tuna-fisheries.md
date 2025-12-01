@@ -5,7 +5,7 @@ teaser-text: Across the global seafood sector, companies are under growing press
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/HRDD-Tuna-Fisheries-South-Korea.png 
 featured: TRUE
 --- 
-###Across the global seafood sector, companies are under growing pressure to ensure that their supply chains are not only environmentally sustainable but socially responsible.
+###Across the global seafood sector, companies are under growing pressure to ensure that their supply chains are not only environmentally sustainable, but socially responsible.
 
 **Meeting that expectation means more than setting standards or signing pledges, it requires credible data, trusted partnerships, and a willingness to test new approaches.**
 
@@ -30,7 +30,7 @@ Data from the SRA contextualizes the findings into risk levels, which are then u
 
 To select pilot participants, the Consortium hosted a series of industry workshops introducing the SRA methodology. Seafood companies were invited to apply the tool in their key supply chains, with priority given to collaborative proposals that connected multiple tiers of the value chain. 
 
-The South Korea project emerged as a standout — a partnership bridging retail and supplier levels of the supply chain, with involvement from Whole Foods Market, Oddisea Super Frozen, and several Korean vessel and processing companies. The project also engaged local NGOs, unions, and government representatives, ensuring broad stakeholder input.
+The South Korea project emerged as a standout — a partnership bridging retail and supplier levels of the supply chain, with involvement from Whole Foods Market, Oddisea Super Frozen, and several Korean vessel and processing companies. The project also engaged local NGOs and government representatives, ensuring broad stakeholder input.
 
 For participating companies, this was a funded opportunity to initiate HRDD efforts and participate in a risk assessment using a comprehensive tool with expert support. Many are seeking reliable ways to verify that suppliers meet their codes of conduct and to design interventions grounded in worker realities rather than assumptions.
 
