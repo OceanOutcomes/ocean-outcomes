@@ -19,7 +19,7 @@ The field of fisheries management is undergoing fundamental change as emerging t
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/FIP-COP-partner-logo.png"><h4>Fishery Improvement Project Community of Practice</h4>
 
-The Fishery Improvement Project (FIP) Community of Practice (CoP), established in 2016, connects the global community of FIPs to learn from each other and take action to increase FIP impact. As a leading FIP implementer, we have played an active role in the FIP CoP including workshop support, training and case study development. <a target="_blank" href="https://www.fipcop.org/">www.fipcop.org</a>
+The Fishery Improvement Project (FIP) Community of Practice (CoP), established in 2016, connects the global community of FIPs to learn from each other and take action to increase FIP impact. As a leading FIP implementer, we have played an active role in the FIP CoP including workshop support, training and case study development. [https://www.fipcop.org/](https://www.fipcop.org/){:target="_blank"}
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/fisheryprogress-partner-logo.png"><h4>FisheryProgress Technical Committee</h4>
