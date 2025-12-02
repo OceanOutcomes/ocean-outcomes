@@ -14,7 +14,7 @@ Ocean Outcomes is a long-time contributing member of the Conservation Alliance f
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/EM4Fish-partner-logo.png"><h4>EM4Fish Community</h4>
 
-The field of fisheries management is undergoing fundamental change as emerging technologies enable new methods for acquiring, sharing, analyzing, and utilizing data. EM4Fish is a knowledge base and community of practice for the people driving this evolution. As a Community member we are collaborating with some of the people and companies working every day to advance fisheries management through electronic monitoring and reporting initiatives, improved data analysis, and technological advances. <a target="_blank" href="https://em4.fish/our-community/?search=Ocean+Outcomes">https://em4.fish/</a>
+The field of fisheries management is undergoing fundamental change as emerging technologies enable new methods for acquiring, sharing, analyzing, and utilizing data. EM4Fish is a knowledge base and community of practice for the people driving this evolution. As a Community member we are collaborating with some of the people and companies working every day to advance fisheries management through electronic monitoring and reporting initiatives, improved data analysis, and technological advances. <a target="_blank" href="https://em4.fish/our-community/?search=Ocean+Outcomes">https://em4.fish/our-community/?search=Ocean+Outcomes</a>
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/FIP-COP-partner-logo.png"><h4>Fishery Improvement Project Community of Practice</h4>
