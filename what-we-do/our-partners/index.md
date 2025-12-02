@@ -12,17 +12,17 @@ subtitle: Our technical team of creative problem solvers spans the globe, and ou
 Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on both the Advisory Council and Board of the Alliance. <a target="_blank" href="https://solutionsforseafood.org/">www.solutionsforseafood.org</a>
 
 ----
-<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/EM4Fish-partner-logo.png"><h4>EM4Fish Community</h4>
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/EM4Fish-partner-logo.png"><h4>EM4Fish Community</h4>
 
 The field of fisheries management is undergoing fundamental change as emerging technologies enable new methods for acquiring, sharing, analyzing, and utilizing data. EM4Fish is a knowledge base and community of practice for the people driving this evolution. As a Community member we are collaborating with some of the people and companies working every day to advance fisheries management through electronic monitoring and reporting initiatives, improved data analysis, and technological advances. <a target="_blank" href="https://em4.fish/our-community/?search=Ocean+Outcomes">https://em4.fish/</a>
 
 ----
-<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/FIP-COP-partner-logo.png"><h4>Fishery Improvement Project Community of Practice</h4>
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/FIP-COP-partner-logo.png"><h4>Fishery Improvement Project Community of Practice</h4>
 
 The Fishery Improvement Project (FIP) Community of Practice (CoP), established in 2016, connects the global community of FIPs to learn from each other and take action to increase FIP impact. As a leading FIP implementer, we have played an active role in the FIP CoP including workshop support, training and case study development. <a target="_blank" href="https://www.fipcop.org/">www.fipcop.org</a>
 
 ----
-<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/fisheryprogress-partner-logo.png"><h4>FisheryProgress Technical Committee</h4>
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/fisheryprogress-partner-logo.png"><h4>FisheryProgress Technical Committee</h4>
 
 As a Technical Committee member, we play a core role in developing and evaluating Fishery Improvement Projects (FIPs) and we are helping to guide and lead the direction of FIPs. We provide input on FIP reviews where necessary, spot checks FIP data to ensure consistency, and review appeals and make recommendations for FisheryProgress consideration. <a target="_blank" href="https://fisheryprogress.org/committees">www.fisheryprogress.org/committees</a>
 
@@ -52,7 +52,7 @@ The Global Sustainable Seafood Initiative (GSSI) is a public-private partnership
 As an official supporter of the International Year of Artisanal Fisheries and Aquaculture (IYAFA2022), we are working together with other small scale fisheries stakeholders towards a world in which small-scale artisanal fishers, fish farmers and fish workers are fully recognized and empowered to continue their contributions for human well-being, food systems and poverty alleviation through the responsible and sustainable use of fisheries and aquaculture resources. <a href="https://www.fao.org/artisanal-fisheries-aquaculture-2022/home/en/" target="_blank">https://www.fao.org/artisanal-fisheries-aquaculture-2022</a>
 
 ----
-<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/MSC-partner-logo.png"><h4>MSC Technical Consultant Register</h4>
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/MSC-partner-logo.png"><h4>MSC Technical Consultant Register</h4>
 
 With multiple staff and team members listed as both Technical Consultants and Associate Technical Consultants, we are fisheries experts who can support fisheries in aligning with the MSC Fisheries Standard. Whether conducting a gap analysis, developing improvement plans, or preparing for assessment, our technical team can help. <a target="_blank" href="https://www.msc.org/for-business/fisheries/fips/technical-consultants">www.msc.org</a>
 
@@ -67,7 +67,7 @@ Ocean Outcomes is a contributing member of the NGO Tuna Forum. The Forum brings 
 We are a 1% for the Planet Environmental Partner! This partnership helps to advance our impact as well as involve more businesses in the environmental movement. 1% for the Planet is an accountability partner for businesses that are ready to reject business as usual and give back to Environmental Partners making a difference around the globe. 1% members have given hundreds of millions of dollars to environmental partners to date. <a href="https://www.onepercentfortheplanet.org" target="_blank">https://www.onepercentfortheplanet.org</a>
 
 ----
-<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/RISE-partner-logo.png"><h4>RISE Qualified Assessors</h4>
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/RISE-partner-logo.png"><h4>RISE Qualified Assessors</h4>
 
 Conducting a social assessment can be very challenging as assessors are often dealing with very sensitive issues. It takes experience implementing social science methods to understand how to respectfully handle sensitive issues. With multiple staff and team members recognized as Qualified Assessors on the RISE platform, we have deep experience and knowledge of Social Responsibility Assessments and human rights due diligence processes in seafood and fisheries. <a target="_blank" href="https://riseseafood.org/social-responsibility-assessment/register-of-recognized-assessors/">www.riseseafood.org</a>
 
@@ -77,7 +77,7 @@ Conducting a social assessment can be very challenging as assessors are often de
 Sea Pact is a group of leading North American Seafood Companies dedicated to driving stewardship and continuous improvement of social, economic, and environmental responsibility throughout the global seafood supply chain. Ocean Outcomes supports Sea Pact as one of three sustainability advisors. <a href="http://www.seapact.org/" target="_blank">www.seapact.org</a>
 
 ----
-<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/MBAq-partner-logo.png"><h4>Social Sustainability Advisory Group</h4>
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/MBAq-partner-logo.png"><h4>Social Sustainability Advisory Group</h4>
 
 As a member of the Social Sustainability Advisory Group, we help the Monterey Bay Aquarium explore ways to promote a human rights-based approach to sustainability. This group of academics, human rights professionals, seafood social equity professionals, economists, and others provides valuable strategic guidance and expertise to help transform how seafood is fished and farmed so that people and the planet can thrive for the long-term. <a target="_blank" href="https://www.seafoodwatch.org/our-projects/seafood-social-risk-tool/advisory-group">www.seafoodwatch.org</a>
 
