@@ -38,13 +38,13 @@ Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org
 ---
 ##Tuna and High Seas Fisheries Fishery Improvement Projects:
 
-* [Chen Hung Seafood Frozen Produce Co Ltd. Pacific Ocean Longline Tuna FIP] (/what-we-do/tuna/chen-hung-seafood-frozen-produce-co-pacific-ocean-longline-tuna-fip)
-* [Fue Shin Fishery Pacific Ocean Longline Tuna FIP] (/what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/)
-* [Fue Shin Fishery Indian Ocean Longline Tuna FIP] (/what-we-do/tuna/fue-shin-fishery-indian-ocean-longline-tuna-fip/)
-* [Indian Ocean Albacore Tuna Longline FIP] (/what-we-do/tuna/indian-ocean-longline-albacore/)
+* [Chen Hung Seafood Frozen Produce Co Ltd. Pacific Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/chen-hung-seafood-frozen-produce-co-pacific-ocean-longline-tuna-fip)
+* [Fue Shin Fishery Pacific Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/)
+* [Fue Shin Fishery Indian Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/fue-shin-fishery-indian-ocean-longline-tuna-fip/)
+* [Indian Ocean Albacore Tuna Longline FIP (*No longer involved*)] (/what-we-do/tuna/indian-ocean-longline-albacore/)
 * [Nachi Katsuura Albacore Longline FIP (*Inactive*)] (/where-we-work/japanese-fisheries-seafood/nachi-katsurra-albacore-longline/)
-* [South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP] (/what-we-do/tuna/south-pacific-longline-albacore-yellowfin/)
-* [Taiwan Tuna Longline Association Pacific Ocean FIP] (/what-we-do/tuna/taiwan-tuna-longline-association-pacific-ocean-fip/)
+* [South Pacific Albacore and Western and Central Pacific Yellowfin Tuna Longline FIP (*No longer involved*)] (/what-we-do/tuna/south-pacific-longline-albacore-yellowfin/)
+* [Taiwan Tuna Longline Association Pacific Ocean FIP (*Active*)] (/what-we-do/tuna/taiwan-tuna-longline-association-pacific-ocean-fip/)
 
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
