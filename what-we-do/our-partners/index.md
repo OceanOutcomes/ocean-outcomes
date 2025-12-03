@@ -7,9 +7,14 @@ teaser-text: Our local partnerships and participation in leading international f
 subtitle: Our technical team of creative problem solvers spans the globe, and our growing network of partners in all the regions where we work ensures our co-developed solutions stick. We both work closely with local partners on the ground and participate actively in leading alliances and initiatives to help develop and demonstrate game-changing solutions representing sustainable seafood’s best, biggest ideas.
 ---
 
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/community-catch-logo-partners.png"><h4>Community Catch Assistant Provider</h4>
+
+We are recognized by Community Catch as a group able to effectively provide services and assistance to small-scale fisheries throughout the world. Our work as an Assistant Provider champions sustainability in a way that works for small-scale fisheries, and helps ensure that these vital communities can continue to thrive while preserving our ocean resources for generations to come. <a href="https://communitycatch.org/list-ofassistance-providers/" target="_blank">communitycatch.org/list-ofassistance-providers/</a> 
+
+
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/conservation-alliance-logo-partners.png"><h4>Conservation Alliance for Seafood Solutions</h4>
 
-Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on both the Advisory Council and Board of the Alliance. <a href="www.solutionsforseafood.org/" target="_blank">solutionsforseafood.org/</a> 
+Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on both the Advisory Council and Board of the Alliance. <a href="http://www.solutionsforseafood.org/" target="_blank">solutionsforseafood.org/</a> 
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/EM4Fish-partner-logo.png"><h4>EM4Fish Community</h4>
