@@ -9,9 +9,9 @@ subtitle: Our technical team of creative problem solvers spans the globe, and ou
 
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/community-catch-logo-partners.png"><h4>Community Catch Assistant Provider</h4>
 
-We are recognized by Community Catch as a group able to effectively provide services and assistance to small-scale fisheries throughout the world. Our work as an Assistant Provider champions sustainability in a way that works for small-scale fisheries, and helps ensure that these vital communities can continue to thrive while preserving our ocean resources for generations to come. <a href="https://communitycatch.org/list-ofassistance-providers/" target="_blank">communitycatch.org/list-ofassistance-providers/</a> 
+We are recognized by Community Catch as a group able to effectively provide services and assistance to small-scale fisheries throughout the world. Our work as an Assistant Provider champions sustainability in a way that works for small-scale fisheries, and helps ensure that these vital communities can continue to thrive while preserving our ocean resources for generations to come. <a href="https://communitycatch.org/list-ofassistance-providers/" target="_blank">communitycatch.org/</a> 
 
-
+----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/conservation-alliance-logo-partners.png"><h4>Conservation Alliance for Seafood Solutions</h4>
 
 Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on both the Advisory Council and Board of the Alliance. <a href="http://www.solutionsforseafood.org/" target="_blank">solutionsforseafood.org/</a> 
