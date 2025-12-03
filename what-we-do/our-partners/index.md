@@ -14,7 +14,7 @@ We are recognized by Community Catch as a group able to effectively provide serv
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/conservation-alliance-logo-partners.png"><h4>Conservation Alliance for Seafood Solutions</h4>
 
-Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on both the Advisory Council and Board of the Alliance. <a href="http://www.solutionsforseafood.org/" target="_blank">solutionsforseafood.org/</a> 
+Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on both the Advisory Council and Board of the Alliance. <a href="http://www.solutionsforseafood.org/" target="_blank">solutionsforseafood.org</a> 
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/EM4Fish-partner-logo.png"><h4>EM4Fish Community</h4>
@@ -24,7 +24,7 @@ The field of fisheries management is undergoing fundamental change as emerging t
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/FIP-COP-partner-logo.png"><h4>Fishery Improvement Project Community of Practice</h4>
 
-The Fishery Improvement Project (FIP) Community of Practice (CoP), established in 2016, connects the global community of FIPs to learn from each other and take action to increase FIP impact. As a leading FIP implementer, we have played an active role in the FIP CoP including workshop support, training and case study development. <a target="_blank" href="https://www.fipcop.org/">fipcop.org/</a>
+The Fishery Improvement Project (FIP) Community of Practice (CoP), established in 2016, connects the global community of FIPs to learn from each other and take action to increase FIP impact. As a leading FIP implementer, we have played an active role in the FIP CoP including workshop support, training and case study development. <a target="_blank" href="https://www.fipcop.org/">fipcop.org</a>
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/fisheryprogress-partner-logo.png"><h4>FisheryProgress Technical Committee</h4>
@@ -34,12 +34,12 @@ As a Technical Committee member, we play a core role in developing and evaluatin
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/FF-supporter-logo.png"><h4>Fish Forward</h4>
 
-Ocean Outcomes is an official Supporter of Fish Forward, which was created by a partnership of provincial, federal and international organizations to secure a sustainable future for Manitoba’s fisheries and ensure that local, sustainable fish is promoted, sold and celebrated by local businesses. As a Supporter, O2 has worked on fisheries in the Manitoba region and shares Fish Forward’s belief that we all have a role to play in ensuring the sustainability of our fisheries. <a href="https://fishforward.ca/" target="_blank">fishforward.ca/</a> 
+Ocean Outcomes is an official Supporter of Fish Forward, which was created by a partnership of provincial, federal and international organizations to secure a sustainable future for Manitoba’s fisheries and ensure that local, sustainable fish is promoted, sold and celebrated by local businesses. As a Supporter, O2 has worked on fisheries in the Manitoba region and shares Fish Forward’s belief that we all have a role to play in ensuring the sustainability of our fisheries. <a href="https://fishforward.ca/" target="_blank">fishforward.ca</a> 
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/GDST-partner-logo.png"><h4>Global Dialogue on Seafood Traceability</h4>
 
-We believe traceability systems can benefit seafood businesses and entire fisheries. They can play an integral role in better fisheries management and sustainable seafood initiatives. Benefits of traceability include protection of public health, improved trade, strengthened sustainability practices, increased consumer trust, quality assurance and value-chain efficiencies, and assessing and addressing unacceptable labor practices. As a member of the GDST, Ocean Outcomes supports the foundation on which reliable, affordable, and efficient seafood traceability is being be built. <a href="https://thegdst.org/" target="_blank">thegdst.org//</a> 
+We believe traceability systems can benefit seafood businesses and entire fisheries. They can play an integral role in better fisheries management and sustainable seafood initiatives. Benefits of traceability include protection of public health, improved trade, strengthened sustainability practices, increased consumer trust, quality assurance and value-chain efficiencies, and assessing and addressing unacceptable labor practices. As a member of the GDST, Ocean Outcomes supports the foundation on which reliable, affordable, and efficient seafood traceability is being be built. <a href="https://thegdst.org/" target="_blank">thegdst.org</a> 
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/gggi-logo-partners.png"><h4>Global Ghost Gear Initiative</h4>
@@ -64,7 +64,7 @@ With multiple staff and team members listed as both Technical Consultants and As
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/ngo-tuna-forum-partners.png"><h4>NGO Tuna Forum</h4>
 
-Ocean Outcomes is a contributing member of the NGO Tuna Forum. The Forum brings together NGOs and others that work comprehensively on global tuna sustainability issues that fall within one or more of the following core focus areas: RFMO Management and Advocacy, Market-based Mechanisms for Improving Sustainability, and, On the Water Research, Activities and Improvements. <a href="https://ngotunaforum.org/" target="_blank">.ngotunaforum.org</a>
+Ocean Outcomes is a contributing member of the NGO Tuna Forum. The Forum brings together NGOs and others that work comprehensively on global tuna sustainability issues that fall within one or more of the following core focus areas: RFMO Management and Advocacy, Market-based Mechanisms for Improving Sustainability, and, On the Water Research, Activities and Improvements. <a href="https://ngotunaforum.org/" target="_blank">ngotunaforum.org</a>
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/one-percent-partner-logo.png"><h4>1% For the Planet</h4>
@@ -89,4 +89,4 @@ As a member of the Social Sustainability Advisory Group, we help the Monterey Ba
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/ssf-hub-logo-partners.png"><h4>Small-Scale Fisheries Resource and Collaboration Hub</h4>
 
-The Small-Scale Fisheries Resource and Collaboration Hub is an online, interactive, and multilingual platform for small-scale fishers, fish workers, and their communities and allies. It provides access to free tools and resources to strengthen small-scale fisheries governance and community development. The SSF Hub creates an opportunity to learn, share information, and enhance capacities for all small-scale fishery stakeholders. It aims to address small-scale fisheries governance and community development, to support the well-being of small-scale fishing communities and sustainable use of resources. Ocean Outcomes is part of the global coalition of partners working in and with small-scale fisheries which helped launch the SSF Hub. <a href="https://ssfhub.org/" target="_blank">ssfhub.org/</a> 
+The Small-Scale Fisheries Resource and Collaboration Hub is an online, interactive, and multilingual platform for small-scale fishers, fish workers, and their communities and allies. It provides access to free tools and resources to strengthen small-scale fisheries governance and community development. The SSF Hub creates an opportunity to learn, share information, and enhance capacities for all small-scale fishery stakeholders. It aims to address small-scale fisheries governance and community development, to support the well-being of small-scale fishing communities and sustainable use of resources. Ocean Outcomes is part of the global coalition of partners working in and with small-scale fisheries which helped launch the SSF Hub. <a href="https://ssfhub.org/" target="_blank">ssfhub.org</a> 
