@@ -47,12 +47,12 @@ Preliminary findings were encouraging. Compared to other distant-water fleets in
 
 A major success for this pilot was the scope — the project reached a scale that can be difficult in the distant-water longline sector, engaging multiple vessels and workers thanks to close collaboration between O2, Oddisea, Whole Foods Market, and Korean suppliers.
 
->**“Together, we’re raising the bar for what responsible sourcing looks like aligning supplier practices with our high standards and ensuring transparency from vessel to retail. These aren’t audits - they’re conversations, commitments, and real accountability. Our SuperFrozen tuna program isn’t just about quality and shelf life. It’s about ensuring human rights, decent working conditions, and verified traceability at every link in the chain.” — Renee Perry, VP Corporate Social Responsibility and ESG, Culinary Collaborations**
+>**“Together, we’re raising the bar for what responsible sourcing looks like aligning supplier practices with our high standards and ensuring transparency from vessel to retail. These aren’t audits - they’re conversations, commitments, and real accountability. Our SuperFrozen tuna program isn’t just about quality and shelf life. It’s about ensuring human rights, decent working conditions, and verified traceability at every link in the chain.” — Renee Perry, VP CSR & ESG, Oddisea SuperFrozen**
 
 ###What We Learned — and Why It Matters
 
 ![Project team onboard longline vessel](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Consortium-pilot-korea-longline-tuna-resized.png)
-*The project team from left to right: Doohyun Park and Gabby Lout from Ocean Outcomes, Emily McDuff and Dan Rand from Whole Foods Market, and Renee Perry from Culinary Collaborations aboard a Korean longline vessel in Busan, South Korea.*
+*The project team from left to right: Doohyun Park and Gabby Lout from Ocean Outcomes, Emily McDuff and Dan Rand from Whole Foods Market, and Renee Perry from Oddisea SuperFrozen aboard a Korean longline vessel in Busan, South Korea.*
 
 The pilot underscored several lessons that will inform future HRDD efforts:
 
