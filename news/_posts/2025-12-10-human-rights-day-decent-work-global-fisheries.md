@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Human Rights Day 2025: Advancing Dignity and Decent Work in Global Fisheries
+title: Human Rights Day 2025 - Advancing Dignity and Decent Work in Global Fisheries
 teaser-text: Human rights have moved from the margins to the center of sustainability conversations—and rightfully so. This past year has especially underscored why.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/human-rights-day-decent-work-global-fisheries.png 
 featured: TRUE
@@ -17,10 +17,8 @@ Stories like these reconfirm an urgent truth and core tenant of our work: <a hre
 
 ###A Changing Landscape for Human Rights in Fisheries
 
-![South Korean tuna fishing vessel and workers](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/SAJO_SRA_Hero.png)
-*Crew working onboard industrial tuna fishing vessels stop for a group shot during project work.*
-
-Rising expectations around social responsibility have accelerated the adoption of tools that help companies identify risks and strengthen protections for workers at sea.
+![Human rights due diligence work on longline tuna fishing vessels](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EMC4C+Sunny+Crew_.png)
+*Rising expectations around social responsibility have accelerated the adoption of tools and approaches that help companies identify risks and strengthen protections for workers at sea.*
 
 Over the past decade, key approaches are being widely adopted, including integrating social criteria into Fishery Improvement Projects (FIPs), conducting vessel-level social risk assessments, and adopting more holistic human rights due diligence processes. New technologies are also expanding visibility into distant water fleets. Electronic monitoring and satellite Wi-Fi—as demonstrated through our [Monitoring for Change] (/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/) project—support worker communication and can help monitor labor indicators. AIS and VMS data continue to illuminate vessel activity on the high seas, where isolation is closely linked to labor risk. Worker-centered training programs, such as our [One-Forty partnership,] (/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/) further help crew understand their rights and navigate complex working environments.
 
@@ -28,8 +26,8 @@ Over the past decade, key approaches are being widely adopted, including integra
 
 ###Growing O2’s Capacity for Human Rights Leadership
 
-![South Korean tuna fishing vessel and workers](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/SAJO_SRA_Hero.png)
-*Crew working onboard industrial tuna fishing vessels stop for a group shot during project work.*
+![Ocean Outcomes social responsibility capacity and team](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/social-responsibility-staff-and-capacity.png)
+*To meet the current moment, we’ve expanded our ability to support credible, worker-centered human rights due diligence.*
 
 To meet the current moment, we’ve expanded our ability to support credible, worker-centered human rights due diligence.
 This year, we welcomed Mei-Chin Juan as our Social Responsibility Coordinator, who brings more than a decade of experience working across Taiwan’s fishing sector. Her background spans vessel compliance, fleet management, and international fisheries negotiations, along with advanced academic training in criminology and corporate responsibility. Her on-the-water knowledge strengthens our capacity to advance social responsibility in practical realities.
@@ -42,8 +40,8 @@ Learn more about our current staff [here.] (/who-we-are/our-team/)
 
 ###O2’s Commitment to Human Rights: Recent Impact
 
-![South Korean tuna fishing vessel and workers](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/SAJO_SRA_Hero.png)
-*Crew working onboard industrial tuna fishing vessels stop for a group shot during project work.*
+![Human rights due diligence work on longline tuna fishing vessels](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/O2-staff-and-crew-on-longline-tuna-vessel.png)
+*O2 staff and partners pose with crew onboard a Taiwanese longline tuna fishing vessel which is part of human rights due diligence efforts in the region.*
 
 **Improving Crew Welfare with Technology: Electronic Monitoring and Wi-Fi Access for Crew**
 
@@ -69,10 +67,8 @@ Working with Sajo Industries, O2 implemented the country’s [first Social Respo
 
 ###Looking Ahead: Collective Responsibility for Human Rights at Sea
 
-![South Korean tuna fishing vessel and workers](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/SAJO_SRA_Hero.png)
-*Crew working onboard industrial tuna fishing vessels stop for a group shot during project work.*
-
-The progress made this year across Taiwan, South Korea, and the wider region shows what is possible when governments, industry, civil society, and worker advocacy organizations work together. Importantly, it also shows what’s possible when crew voices guide the work.
+![Human rights due diligence tuna fisheries](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/ocean-outcomes-partners-with-one-forty-improve-worker-conditions-taiwanese-fishing-industry-hero.png)
+*The progress made this year across Taiwan, South Korea, and the wider region shows what is possible when governments, industry, civil society, and worker advocacy organizations work together. Importantly, it also shows what’s possible when crew voices guide the work.*
 
 At O2, we recognize the steps forward and remain clear-eyed about the scale of the challenge. Forced labor, unsafe working conditions, and human rights abuses remain deeply embedded in parts of the global fishing sector. Addressing them requires credible assessments, worker-centered approaches, strong accountability mechanisms, and a commitment to long-term collaboration.
 
