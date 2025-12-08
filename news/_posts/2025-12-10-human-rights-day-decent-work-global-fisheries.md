@@ -13,7 +13,7 @@ Stories like these reconfirm an urgent truth and core tenant of our work: <a hre
 
 **In honor of Human Rights Day,** we recognize recent progress, highlight where collective action is emerging, and reaffirm our commitment to the individuals who spend months or years at sea with no access to communication, enabling conditions to access their rights, or basic services.
 
-*> “These days, sustainability isn’t just about protecting fish stocks or the ecosystems. It’s also about **making sure the people** working in the tuna industry **are treated fairly and with dignity.**” - Dooyhun Park, Korean Fisheries Senior Manager*
+> **“These days, sustainability isn’t just about protecting fish stocks or the ecosystems. It’s also about making sure the people working in the tuna industry are treated fairly and with dignity.” - Dooyhun Park, Korean Fisheries Senior Manager**
 
 ###A Changing Landscape for Human Rights in Fisheries
 
@@ -22,7 +22,7 @@ Stories like these reconfirm an urgent truth and core tenant of our work: <a hre
 
 Over the past decade, key approaches are being widely adopted, including integrating social criteria into Fishery Improvement Projects (FIPs), conducting vessel-level social risk assessments, and adopting more holistic human rights due diligence processes. New technologies are also expanding visibility into distant water fleets. Electronic monitoring and satellite Wi-Fi—as demonstrated through our [Monitoring for Change] (/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/) project—support worker communication and can help monitor labor indicators. AIS and VMS data continue to illuminate vessel activity on the high seas, where isolation is closely linked to labor risk. Worker-centered training programs, such as our [One-Forty partnership,] (/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/) further help crew understand their rights and navigate complex working environments.
 
-*> “No single approach is enough, but **together, they help create the broader conditions needed for safer, more transparent, and more equitable fisheries.** This is especially important in **Northeast Asia’s distant water fleets,** which remain both high-risk and central to Ocean Outcomes’ focus.” - Dr. Gabrielle Lout, Social Responsibility Senior Manager*
+> **“No single approach is enough, but together, they help create the broader conditions needed for safer, more transparent, and more equitable fisheries. This is especially important in Northeast Asia’s distant water fleets, which remain both high-risk and central to Ocean Outcomes’ focus.” - Dr. Gabrielle Lout, Social Responsibility Senior Manager**
 
 ###Growing O2’s Capacity for Human Rights Leadership
 
