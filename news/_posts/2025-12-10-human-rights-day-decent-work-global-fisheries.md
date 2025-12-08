@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Human Rights Day 2025 - Advancing Dignity and Decent Work in Global Fisheries
+title: Human Rights Day 2025 - Advancing Decent Work in Global Fisheries
 teaser-text: Human rights have moved from the margins to the center of sustainability conversations—and rightfully so. This past year has especially underscored why.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/human-rights-day-decent-work-global-fisheries.png 
 featured: TRUE
