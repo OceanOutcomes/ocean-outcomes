@@ -49,6 +49,7 @@ Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
 
+* [Human Rights Day 2025 - Advancing Dignity and Decent Work in Global Fisheries] (/news/human-rights-day-decent-work-global-fisheries/)
 * [Building Better Due Diligence in Tuna Fisheries - Lessons from Social Responsibility Work in South Korea] (/news/human-rights-due-diligence-in-korean-tuna-fisheries/)
 * [Expanded Worker Training Now Reaching Dozens in Taiwan’s Distant Water Fisheries](https://www.oceanoutcomes.org/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/)
 * [At Our Ocean Conference, Spotlight Shines on Northeast Asia’s Tuna Fleets
