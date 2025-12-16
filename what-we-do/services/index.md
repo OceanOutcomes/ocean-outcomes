@@ -42,7 +42,7 @@ As a trusted technical partner, we apply the right tools to generate insight, gu
 ----
 
 ![School of fish]
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/school+of+fish.png)
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/services.png)
 
 ## Co-Design & Implement  
  
