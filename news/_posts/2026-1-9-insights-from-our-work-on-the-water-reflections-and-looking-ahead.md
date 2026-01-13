@@ -2,31 +2,35 @@
 layout: news
 title: Insights from Our Work on the Water — 2025 Reflections and Looking Ahead to 2026
 teaser-text: As we look ahead to 2026 and our next decade, we are focused on scaling what works, deepening regional leadership, and continuing to invest in the places where meaningful progress is both needed and possible.
-hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/human-rights-day-decent-work-global-fisheries.png 
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/insights-from-our-work-on-the-water-reflections-and-looking-ahead.png
 featured: TRUE
 --- 
 ###2025 Marked the Start of Our Second Decade
 
 For more than ten years, Ocean Outcomes has been working alongside fisheries, communities, and supply chain partners to transform fisheries towards more sustainable practices through strategies grounded in real-world experience.
 
-[Much of this progress was reflected in our 10-Year Impact Report.] (/what-we-do/our-impact/) From improving transparency in distant-water tuna fleets to supporting community-led approaches in small-scale fisheries, our work reinforces a consistent lesson: durable change comes from long-term presence, trusted partnerships, and practical solutions designed to work where fishing happens.
+[**Much of this progress was reflected in our 10-Year Impact Report.**] (/what-we-do/our-impact/) From improving transparency in distant-water tuna fleets to supporting community-led approaches in small-scale fisheries, our work reinforces a consistent lesson: durable change comes from long-term presence, trusted partnerships, and practical solutions designed to work where fishing happens.
 
 As we look ahead both to 2026 and the next decade, we’re carrying those lessons forward. We are focused on scaling what works, deepening regional leadership, and continuing to invest in the places where meaningful progress is both needed and possible.
 
-> **“Fisheries change takes a long time. It takes capacity, it takes people, it takes organizations—it takes a movement.” - Kelly Harrell, Executive Director, Ocean Outcomes**
+> **“Fisheries change takes a long time. It takes capacity, it takes people, it takes organizations—it takes a movement.” — Kelly Harrell, Executive Director, Ocean Outcomes**
 
 ###Insights Shaped On the Water: What We Advanced in 2025
 
 **Putting Social Responsibility Into Practice**
 
-![Human rights due diligence work on longline tuna fishing vessels](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EMC4C+Sunny+Crew_.png)
-*Rising expectations around social responsibility have accelerated the adoption of tools and approaches that help companies identify risks and strengthen protections for workers at sea.*
+![one-forty-progress-update-9.png]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/one-forty-progress-update-9.png)
+*Photo caption here.*
 
 Our teams have been spending a lot of time with crews, captains, vessel owners, and processors to better understand working conditions and identify realistic paths for improving those conditions. Through social risk assessments, human rights due diligence processes, and worker-centered training programs, we helped translate ambition into vessel-level action.
 
 Direct engagement with crews [onboard tuna vessels in Korea] (/news/human-rights-due-diligence-in-korean-tuna-fisheries/) and through [language and rights training for migrant workers in Taiwan] (/news/expanded-worker-training-now-reaching-dozens-in-taiwans-distant-water-fisheries/) showed that progress requires listening first. When workers are engaged directly and respectfully, solutions are more credible, more durable, and better positioned to improve conditions at sea. 
 
 **Expanding Use of Technology for Greater Affect**
+
+![Longline crew accessing Wi-Fi as part of social responsiblity work](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EMC4C+Crew+on+Phone.png)
+*Photo caption here.*
 
 We continue to advance electronic monitoring (EM) initiatives in distant water tuna fisheries. In <a href="https://fishfocus.co.uk/spotlight-shines-on-northeast-asias-tuna-fleets-at-our-ocean-conference/" target="_blank">Northeast Asian tuna fleets</a>, we are expanding the uptake of EM to help strengthen fisheries management and increase transparency. 
 
@@ -36,7 +40,11 @@ This work is grounded in real-world operating conditions — tested on board act
 
 **Community-Led Solutions in Small-Scale Fisheries**
 
-O2’s community-focused work continues to show what is possible when solutions are shaped locally. Through community-based Fishery Improvement Projects (FIPs) in small-scale fisheries, <a href="https://www.seafoodsource.com/news/environment-sustainability/ocean-outcomes-finding-success-with-more-tailored-community-focused-c-fip-approach-to-improving-fisheries" target="_blank">*particularly in Latin America</a>, fishing communities helped define priorities, test improvements, and strengthen livelihoods and produce environmental outcomes.
+![Small-scale fishery]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/conservation-international-wildlife-conservation-society-ocean-outcomes-partnership-for-small-scale-fisheries-1.png)
+*Photo caption here.*
+
+O2’s community-focused work continues to show what is possible when solutions are shaped locally. Through community-based Fishery Improvement Projects (FIPs) in small-scale fisheries, <a href="https://www.seafoodsource.com/news/environment-sustainability/ocean-outcomes-finding-success-with-more-tailored-community-focused-c-fip-approach-to-improving-fisheries" target="_blank">particularly in Latin America</a>, fishing communities helped define priorities, test improvements, and strengthen livelihoods and produce environmental outcomes.
 
 This work reinforces that sustainability is not one-size-fits-all. It is built through collaboration, cultural understanding, and long-term commitment to the people most closely connected to the resource. No single tool or approach is enough. Progress happens when social responsibility, technology, policy engagement, environmental initiatives and community leadership are woven together into a broader system that supports accountability and resilience.
 
@@ -48,7 +56,7 @@ Our “<a href="https://www.youtube.com/watch?v=0ixQWCkSuAQ" target="_blank">Nex
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ixQWCkSuAQ?si=EZ-Y8gwocjumZ2Be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-> **“I’m excited that technologies are good enough now, and accessible enough now, that we can trace seafood from point of consumption all the way to point of production, and that groups can work together on sustainability initiatives that benefit the entire ecosystem.” - Perry Broderick, Communications & Systems Director and Founding Member, Ocean Outcomes**
+> **“I’m excited that technologies are good enough now, and accessible enough now, that we can trace seafood from point of consumption all the way to point of production, and that groups can work together on sustainability initiatives that benefit the entire ecosystem.” — Perry Broderick, Communications & Systems Director and Founding Member, Ocean Outcomes**
 
 ###What This Means for Ocean Outcomes in 2026
 
@@ -80,4 +88,4 @@ We will also continue collaborating with Qingdao Marine Conservation Society to 
 
 Our team of creative problem solvers spans the globe and our partnership approach to our work means our teams are active at many of the leading regional and global conferences, events and meetings related to sustainable seafood, fisheries management and ocean conservation. Here are some of the places where you can find us in 2026!
 
-![Ocean Outcomes social responsibility capacity and team](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/social-responsibility-staff-and-capacity.png)
+![Ocean Outcomes participation in leading regional and global fora in 2026](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/O2-attendance-at-events-and-conferences-2026.png)
