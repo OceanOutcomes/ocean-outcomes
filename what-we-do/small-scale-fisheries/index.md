@@ -37,6 +37,7 @@ Through our triple impact approach, international collaborations and local partn
 ---
 ##Stories from the Field: Small-Scale Fisheries
 
+* [Insights from Our Work on the Water — 2025 Reflections and Looking Ahead to 2026] (/news/insights-from-our-work-on-the-water-reflections-and-looking-ahead/)
 * [Human Rights Day 2025 - Advancing Dignity and Decent Work in Global Fisheries] (/news/human-rights-day-decent-work-global-fisheries/)
 * [Assessing and Addressing Social Risks in Fishery Improvement Projects] (/news/Assessing-and-Addressing-Social-Risks-in-Fishery-Improvement-Projects/)
 * [Conserving China’s Largest Eelgrass Bed] (/news/conservation-china-eelgrass-pew-yellow-sea-small-scale-fishing)
