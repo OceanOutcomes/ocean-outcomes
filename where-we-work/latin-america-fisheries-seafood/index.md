@@ -29,6 +29,7 @@ Working with core implementing partners on the ground, including SmartFish and C
 ---
 ##Stories from the Field: Latin America
 
+* [Insights from Our Work on the Water — 2025 Reflections and Looking Ahead to 2026] (/news/insights-from-our-work-on-the-water-reflections-and-looking-ahead/)
 * [Human Rights Day 2025 - Advancing Dignity and Decent Work in Global Fisheries] (/news/human-rights-day-decent-work-global-fisheries/)
 * [Assessing and Addressing Social Risks in Fishery Improvement Projects] (/news/Assessing-and-Addressing-Social-Risks-in-Fishery-Improvement-Projects/)
 * [Announcing Three Exciting New Appointments to Ocean Outcomes’ Gifted Board of Directors] (/news/conservation-international-acme-smoked-fish-movilizatorio-leaders-join-ocean-outcomes-board-of-directors/)
