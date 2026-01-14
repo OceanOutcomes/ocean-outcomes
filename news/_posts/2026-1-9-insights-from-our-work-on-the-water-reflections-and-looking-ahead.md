@@ -21,7 +21,7 @@ As we look ahead both to 2026 and the next decade, we’re carrying those lesson
 
 ![one-forty-progress-update-9.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/one-forty-progress-update-9.png)
-*Photo caption here.*
+*Migrant workers aboard a Taiwanese longline tuna fishing vessel engage in a training session using materials developed by Ocean Outcomes and One-Forty. Photo credit One-Forty.*
 
 Our teams have been spending a lot of time with crews, captains, vessel owners, and processors to better understand working conditions and identify realistic paths for improving those conditions. Through social risk assessments, human rights due diligence processes, and worker-centered training programs, we helped translate ambition into vessel-level action.
 
@@ -30,7 +30,7 @@ Direct engagement with crews [onboard tuna vessels in Korea] (/news/human-rights
 **Expanding Use of Technology for Greater Affect**
 
 ![Longline crew accessing Wi-Fi as part of social responsiblity work](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EMC4C+Crew+on+Phone.png)
-*Photo caption here.*
+*Wi-Fi for crews at sea is a critical unlock, enabling crews to speak with family and friends, access grievance mechanisms, and check payments. This connectivity transforms isolation into connection, providing a vital link to the outside world that can help reduce some of the labor risks the distant-water fishing industry faces.*
 
 We continue to advance electronic monitoring (EM) initiatives in distant water tuna fisheries. In <a href="https://fishfocus.co.uk/spotlight-shines-on-northeast-asias-tuna-fleets-at-our-ocean-conference/" target="_blank">Northeast Asian tuna fleets</a>, we are expanding the uptake of EM to help strengthen fisheries management and increase transparency. 
 
@@ -42,7 +42,7 @@ This work is grounded in real-world operating conditions — tested on board act
 
 ![Small-scale fishery]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/embedded+photos/conservation-international-wildlife-conservation-society-ocean-outcomes-partnership-for-small-scale-fisheries-1.png)
-*Photo caption here.*
+*An estimated 120 million people work in small-scale fisheries — half are women. Small-scale fisheries play an increasingly vital role in ensuring food security and coastal community well-being around the world.*
 
 O2’s community-focused work continues to show what is possible when solutions are shaped locally. Through community-based Fishery Improvement Projects (FIPs) in small-scale fisheries, <a href="https://www.seafoodsource.com/news/environment-sustainability/ocean-outcomes-finding-success-with-more-tailored-community-focused-c-fip-approach-to-improving-fisheries" target="_blank">particularly in Latin America</a>, fishing communities helped define priorities, test improvements, and strengthen livelihoods and produce environmental outcomes.
 
