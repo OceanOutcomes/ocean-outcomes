@@ -51,6 +51,14 @@
   bio: |
     El Dr. Zang Geun Kim es un experto pesquero con más de 40 años de experiencia en investigación de cetáceos, gestión de recursos atuneros y gobernanza pesquera internacional. Cuenta con un doctorado en Ciencias Pesqueras de la Universidad Nacional de Pukyong, donde también obtuvo su M.Sc. y B.Sc. El Dr. Kim se ha desempeñado como científico gubernamental representando a la República de Corea en la Comisión Ballenera Internacional (CBI) y en las cinco principales organizaciones regionales de ordenación pesquera (OROP) de túnidos, con experiencia en recopilación de datos, evaluación de poblaciones, cumplimiento y toma de decisiones de ordenación. Durante su mandato en el Instituto Nacional de Investigación y Desarrollo Pesquero (NFRDI), dirigió el establecimiento del Centro de Investigación de Cetáceos y trabajó para crear las condiciones institucionales necesarias para implementar la ciencia Modo 2, la ciencia post-normal y la ciencia obligatoria para la conservación y gestión de los recursos pesqueros. Actualmente, es el fundador del Centro de Consultoría e Investigación para la Pesca Sostenible (CRCSF), donde apoya la pesca sostenible en general con un enfoque en proyectos de mejora pesquera y certificación para la pesca de captura coreana. 
 
+- name: Hyeyoung Lee
+  contractor: false
+  title: Senior Consultant, South Korea & Northeast Asia
+  email:
+  image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Hyeyoung_staffphoto.png
+  bio: |
+     Hyeyoung Lee has over 20 years of experience in human rights, social innovation, and cross-sector collaboration across South Korea and Northeast Asia. She began her career as a human rights advocate working with marginalized populations along the China–North Korea border and later founded and advised mission-driven organizations focused on rights, development, and systemic change. From 2013 to 2025, Lee served as the founding Country Representative of Ashoka Korea, where she led organizational growth, strategy, and partnerships to support social entrepreneurs developing practical, systems-level solutions across education, labor, community-based care, environmental stewardship, and civic participation. Her work focused on enabling social innovations to scale through philanthropic, institutional, and cross-sector partnerships. In recent years, Lee has also served as Global Co-Lead of Ashoka’s New Longevity work, contributing to international efforts that frame aging and longevity as societal design challenges. Across her career, she has focused on designing and stewarding platforms for collaboration—connecting locally grounded innovations with institutions, markets, policy processes, and philanthropy to enable durable systems change.
+
 - name: Kevin Lin
   contractor: false
   title: Gerente de Pesquerías Taiwán
@@ -68,7 +76,7 @@
     
 - name: Hoki Lo
   contractor: false
-  title: Consultora Senior
+  title: Senior Consultant, Taiwan & Northeast Asia
   email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Hoki_staffphoto.png
   bio: |
