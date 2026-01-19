@@ -7,7 +7,7 @@
     link-text: Learn How
     link-url: /what-we-do/services/
 
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: A Decade of Progress
   title: For ten years, Ocean Outcomes has been working at the intersection of fisheries, communities, and supply chains to prove that change is possible.
@@ -52,10 +52,10 @@
     link-text: Donate to Healthy Fisheries and Oceans
     link-url: https://bit.ly/3z70ePW
     
-- featured: FALSE
+- featured: TRUE
   language: en
   heading: We are hiring! 
-  title: Are you looking to play a key role in advancing O2’s sustainable seafood projects in Taiwan and the larger East Asian region?
+  title: Are you passionate about advancing human rights due diligence, responsible labor practices, and social responsibility in global seafood supply chains?
   hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/EM+featured-block.png
   link:
     link-text: Work With Us
