@@ -7,7 +7,7 @@ hero-image: hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanout
 featured: TRUE
 ---
 
-###Introducing our newest Board and staff members
+###Introducing our newest Board and staff members 
 
 We are excited to share that **Dr. Yuna Kim**, Seabird Project Coordinator at BirdLife Australia, and **Jill Swasey**, Director of Impacts, Monitoring & Evaluation at the Aquaculture Stewardship Council, have joined Ocean Outcomes’ Board of Directors.
 
