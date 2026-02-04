@@ -1,9 +1,8 @@
 ---
 layout: news
-title: Growth with Purpose - O2 Adds International Talent and Expands Capacity in East Asia
-date: 2026-2-9
-teaser-text: We are excited to introduce our newest Board and staff members.
-hero-image: hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/Jill-Yuna-Hero.png
+title: Growth with Purpose — O2 Adds International Talent and Expands Capacity in East Asia
+teaser-text: Introducing our newest Board and staff members.
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/Jill-Yuna-Hero.png
 featured: TRUE
 ---
 
