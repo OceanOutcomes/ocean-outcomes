@@ -3,7 +3,7 @@ layout: news
 title: Insights from Our Work on the Water — 2025 Reflections and Looking Ahead to 2026
 teaser-text: As we look ahead to 2026 and our next decade, we are focused on scaling what works, deepening regional leadership, and continuing to invest in the places where meaningful progress is both needed and possible.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/insights-from-our-work-on-the-water-reflections-and-looking-ahead.png
-featured: TRUE
+featured: FALSE
 --- 
 ###2025 Marked the Start of Our Second Decade
 
