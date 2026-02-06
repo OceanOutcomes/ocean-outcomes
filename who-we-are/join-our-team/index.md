@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved (We are hiring!)
+title: Get Involved
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -9,13 +9,7 @@ weight: 5
 ---
 ##Career and volunteer opportunities
 
-We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share. 
-
-> **Current job openings:**  
-> 
-> *Senior Consultant, Social Responsibility & Human Rights*  
-> 
-> Ocean Outcomes is seeking a Senior Consultant to support its expanding global role in social responsibility, human rights, and worker-centered approaches within fisheries and seafood supply chains. Reporting to the Social Responsibility Senior Manager, the Consultant will support ongoing projects and serve as an advisor helping O2 strengthen approaches to human rights due diligence (HRDD) that center workers. The role focuses on advancing globally relevant, partnership-driven HRDD and worker engagement approaches, including risk identification, mitigation, remediation, and continuous improvement, with a focus on practical implementation at scale. Sound interesting? [View the full job description and apply here.](https://apply.workable.com/ocean-outcomes/)
+We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share.
 
 -----
 ##Contribute to improving fisheries 
