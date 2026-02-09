@@ -28,15 +28,18 @@ With specialized experience in fisheries and aquaculture policy analysis, sustai
 
 [View a complete list of our Board members and their bios here.] (/who-we-are/board/)
 
+![introducing-newest-team-members-february-2026.png]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/introducing-newest-team-members-february-2026.png)
+
 As we enter our second decade, we’ve also recently strengthened our team based in East Asia with the additions of:
   
 *  **Hoki Lo, Senior Consultant, based in Taiwan.** Hoki supports strategy and programs across Taiwan and Northeast Asia, advancing policy, data, and partnerships into collaborative action.
   
 *  **Hyeyoung Lee, Senior Consultant, based in South Korea.** Hyeyoung expands regional partnerships and locally rooted leadership across South Korea and Northeast Asia, drawing on deep experience in human rights advocacy and systems-level change.
   
-*  **Mei-Chin Juan, Social Responsibility Coordinator, based in Taiwan.** Mei-Chin brings a decade of experience across Taiwan’s fisheries, with expertise in crew working conditions, fleet operations, and fisheries governance.
-  
 *  **Ryan Xu, Asia Fisheries Coordinator, based in Taiwan.** Ryan supports electronic monitoring implementation and works directly with vessel owners and technology providers to translate electronic monitoring (EM) requirements into practical, on-the-water solutions.
+
+*  **Mei-Chin Juan, Social Responsibility Coordinator, based in Taiwan.** Mei-Chin brings a decade of experience across Taiwan’s fisheries, with expertise in crew working conditions, fleet operations, and fisheries governance.
   
 *  **Segyo Oh, Korea Fisheries Coordinator, based in South Korea.** Segyo works with commercial partners and Korea fisheries stakeholders to advance domestic fisheries improvement initiatives and other collaborative projects that support a more sustainable Korean seafood industry. 
 
