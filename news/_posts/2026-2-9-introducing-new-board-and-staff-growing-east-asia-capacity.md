@@ -35,7 +35,7 @@ As we enter our second decade, we’ve also recently strengthened our team based
   
 *  **Hoki Lo, Senior Consultant, based in Taiwan.** Hoki supports strategy and programs across Taiwan and Northeast Asia, advancing policy, data, and partnerships into collaborative action.
   
-*  **Hyeyoung Lee, Senior Consultant, based in South Korea.** Hyeyoung expands regional partnerships and locally rooted leadership across South Korea and Northeast Asia, drawing on deep experience in human rights advocacy and systems-level change.
+*  **Hae Young Lee, Senior Consultant, based in South Korea.** Hae Young expands regional partnerships and locally rooted leadership across South Korea and Northeast Asia, drawing on deep experience in human rights advocacy and systems-level change.
   
 *  **Ryan Xu, Asia Fisheries Coordinator, based in Taiwan.** Ryan supports electronic monitoring implementation and works directly with vessel owners and technology providers to translate electronic monitoring (EM) requirements into practical, on-the-water solutions.
 
