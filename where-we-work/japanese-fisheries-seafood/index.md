@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Northeast Asia
+title: East Asia
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/japanese-fisheries-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/japanesefisherieshero.jpg
 weight: 3
-teaser-text: We have always had a specific focus on Northeast Asia and a unique capacity and ability to accomplish work on the ground in the region. Our work across Northeast Asia includes seeding the sustainable fisheries movement in China, Japan, South Korea and Russia through a variety of partnerships, programs and projects, both past and current.
-subtitle: Few countries in the world are more important to the future of global fisheries and the sustainability of global seafood supplies than those in Northeast Asia. Countries such as China, Japan, South Korea and Russia play an outsized role in seafood, and sustainable fisheries globally will not be possible without these countries playing a constructive role.
+teaser-text: We have always had a specific focus on East Asia and a unique capacity and ability to accomplish work on the ground in the region. Our work across East Asia includes seeding the sustainable fisheries movement in China, Japan, South Korea and Russia through a variety of partnerships, programs and projects, both past and current.
+subtitle: Few countries in the world are more important to the future of global fisheries and the sustainability of global seafood supplies than those in East Asia. Countries such as China, Japan, South Korea and Russia play an outsized role in seafood, and sustainable fisheries globally will not be possible without these countries playing a constructive role.
 ---
 ##If you want to witness a display of marine abundance and diversity unrivaled nearly anywhere on planet earth head straight to the heart of Tokyo, grab your rubber boots and take a stroll through the cavernous Toyosu fish market.
 
