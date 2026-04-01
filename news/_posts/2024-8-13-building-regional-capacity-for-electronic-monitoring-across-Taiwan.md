@@ -2,13 +2,13 @@
 layout: news
 title: Building Regional Capacity for Electronic Monitoring Across Taiwan 
 date: 2024-8-13
-teaser-text: Across Northeast Asia, we are catalyzing the uptake of new technologies to support better fisheries management and improve fishing practices. 
+teaser-text: Across East Asia, we are catalyzing the uptake of new technologies to support better fisheries management and improve fishing practices. 
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Ho+Tu+installation.png
 featured: FALSE 
 ---
 *Asia Fishery Improvement Manager for Ocean Outcomes, Ho-Tu Chiang, coordinates the installation of electronic monitoring equipment on the longline tuna fishing vessel Maan Fu Tsai No.9 in October 2023, as part of our work in Taiwan.*
 
-###Across Northeast Asia, we are catalyzing the uptake of new technologies to support better fisheries management and improve fishing practices. 
+###Across East Asia, we are catalyzing the uptake of new technologies to support better fisheries management and improve fishing practices. 
 
 Electronic monitoring offers an efficient and cost-effective alternative to onboard fisheries observers, and can greatly increase the availability and accuracy of fisheries data to support sustainable fisheries management. Electronic monitoring is a suite of electronic systems and human analysts to record and analyze data of at-sea fishing operations. These systems include video cameras, computer processors and sensors, Global Positioning System (GPS), and can use any combination of a variety of emerging technologies such as the cloud, Artificial Intelligence (AI) and Low Earth Orbiting Satellites (LEO). Together, these systems can allow for remote monitoring and recording of a vessel’s fishing activity in real time. 
 
@@ -58,4 +58,4 @@ By implementing new monitoring solutions and enhancing local ability to manage t
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog+_+HoTu+talking.png)
 *"As we support the implementation of electronic monitoring systems in Taiwan's tuna industry, this technology will bring significant benefits. It will enhance transparency, ensure compliance with international standards, and ultimately contribute to the sustainability and profitability of our fisheries. This is a crucial step towards a more responsible and forward-thinking approach to marine resource management." — Ho-Tu Chiang, Asia Fishery Improvement Manager for Ocean Outcomes, pictured above.*
 
-**[Learn more about our partnership with FSF and our work with tuna fisheries across Northeast Asia here.] (https://www.oceanoutcomes.org/what-we-do/tuna/)**
+**[Learn more about our partnership with FSF and our work with tuna fisheries across East Asia here.] (https://www.oceanoutcomes.org/what-we-do/tuna/)**
