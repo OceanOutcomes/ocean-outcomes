@@ -24,7 +24,7 @@ Together with our partners, Ocean Outcomes has turned vision into measurable res
 
 ## Dive Deeper: 10-Year Impact Report
 
-From seeding the sustainable seafood movement across Northeast Asia, advancing workers rights on board distant water fishing vessels, and catalyzing community-centered improvement work in Latin America’s small-scale fisheries, <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/A+Decade+of+Ocean+Outcomes+-+10+Year+Impact+Report+October+2025.pdf" target="_blank">**our 10 Year Impact Report is a detailed look back at the people, partnerships, and progress that have defined our first decade of success.**</a> 
+From seeding the sustainable seafood movement across East Asia, advancing workers rights on board distant water fishing vessels, and catalyzing community-centered improvement work in Latin America’s small-scale fisheries, <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/A+Decade+of+Ocean+Outcomes+-+10+Year+Impact+Report+October+2025.pdf" target="_blank">**our 10 Year Impact Report is a detailed look back at the people, partnerships, and progress that have defined our first decade of success.**</a> 
 
 [![Cropped 10 Year Impact Cover.png]
 (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Cropped+10+Year+Impact+Cover.png)](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/A+Decade+of+Ocean+Outcomes+-+10+Year+Impact+Report+October+2025.pdf)
@@ -81,7 +81,7 @@ These videos bring our work to life. Each highlights a different story — how O
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2r34RBmKyUk?si=exQvI7yxTkn2E-b3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*How do you know when your work in fisheries is making a difference? When a large-scale fishery association with hundreds of members launches its first-ever FIP. When regional initiatives are transforming how tuna is caught. When people across Northeast Asia are reshaping seafood—because of a seed you helped plant. Real change takes time. And 10 years on, we can see the scale of what’s possible when partnerships grow, tools adapt, and local leadership takes root.*
+*How do you know when your work in fisheries is making a difference? When a large-scale fishery association with hundreds of members launches its first-ever FIP. When regional initiatives are transforming how tuna is caught. When people across East Asia are reshaping seafood—because of a seed you helped plant. Real change takes time. And 10 years on, we can see the scale of what’s possible when partnerships grow, tools adapt, and local leadership takes root.*
 
 **Episode 9 — 10 Years of Ocean Outcomes: The Ripple Effect**
 
@@ -101,6 +101,6 @@ These videos bring our work to life. Each highlights a different story — how O
 
 10 years ago, a small team set out to prove that high-risk, under-resourced fisheries could become models of sustainability. Today, thanks to partners and donors like you, that proof is real. But the work ahead is urgent. Social injustices in distant-water fleets, continued pressure on marine ecosystems, and market demand for credible, transparent seafood all require practical solutions on the water. 
 
-<a href="https://www.oceanoutcomes.org/who-we-are/join-our-team/donate/" target="_blank">**Your support propels O2’s next decade — expanding electronic monitoring in Northeast Asia, strengthening worker training with local partners, and translating global standards into everyday practice for fishers, companies, and communities.**</a>
+<a href="https://www.oceanoutcomes.org/who-we-are/join-our-team/donate/" target="_blank">**Your support propels O2’s next decade — expanding electronic monitoring in East Asia, strengthening worker training with local partners, and translating global standards into everyday practice for fishers, companies, and communities.**</a>
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=RLSAM768TQYCG" target="_blank"> <img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/paypal+donate+form+donation+page+embed.png" class="center"></a>  
