@@ -22,9 +22,11 @@ O2 was founded with focus on East Asia and has been instrumental in seeding the 
 
 In Japan, we developed a program that would go on to launch both the first fishery improvement project (FIP) and the first aquaculture improvement project in the country. Both projects leveraged commitments from an important seafood company to spur collaboration and engage local fishery stakeholders to work towards internationally recognized best practices.
 
-In China, we developed a locally-led program that launched the first large-scale marine fishery improvement project in the country. [This first-of-its-kind project addressed the sustainability challenges of the region’s red swimming crab fisheries](https://www.oceanoutcomes.org/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/), whose 1,000 plus trawl and pot vessels catch approximately 40,000 metric tons of red swimming crab annually — much of which is imported into the United States. There, we helped our former China Program Director, Songlin Wang, launch and grow his own locally recognized seafood consultancy named Tao Ran and its sister conservation non-profit Qingdao Marine Conservation Society. 
+In China, we developed a locally-led program that launched the first large-scale marine fishery improvement project in the country. [This first-of-its-kind project addressed the sustainability challenges of the region’s red swimming crab fisheries](https://www.oceanoutcomes.org/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/), whose 1,000 plus trawl and pot vessels catch approximately 40,000 metric tons of red swimming crab annually — much of which is imported into the United States. 
 
-![HRDD+work](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EM+HRDD+work.png)
+There, we helped our former China Program Director, Songlin Wang, launch and grow his own locally recognized seafood consultancy named Tao Ran and its sister conservation non-profit Qingdao Marine Conservation Society. 
+
+![EM+HRDD+work](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EM+HRDD+work.png)
 
 In Taiwan, we work with seafood companies, vessel owners, academic institutions, and government stakeholders to build the foundations for scalable fisheries improvement. This includes developing and implementing Fishery Improvement Projects (FIPs), supporting companies to achieve Marine Stewardship Council Certification, piloting [electronic monitoring systems](https://www.oceanoutcomes.org/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/), and helping establish the in-country capacity needed to review data, inform policy, and guide implementation at scale.
 
