@@ -46,9 +46,9 @@ We’re working with Tao Ran to lay the foundation for a fishery improvement eff
 
 **Advancing responsible crab fisheries**
 
-![fujian-zhangzhou-red-swimming-crab-launch-hero.jpg](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/fujian-zhangzhou-red-swimming-crab-launch-hero.jpg)
+![fujian-zhangzhou-red-swimming-crab-china.jpg](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/fujian-zhangzhou-red-swimming-crab-china.jpg)
 
-Through our partnership with the NFI Crab Council, we are supporting improvements in the [fujian-zhangzhou-red-swimming-crab-hero.jpg](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/fujian-zhangzhou-red-swimming-crab-hero.jpg) — a key source of red swimming crab for global markets. The work focuses on transitioning fishery management to science-based catch management and supporting social safeguards across the supply chain, helping ensure the long-term sustainability of such an important export fishery. 
+Through our partnership with the NFI Crab Council, we are supporting improvements in the [fujian-zhangzhou-red-swimming-crab-hero.jpg](https://www.oceanoutcomes.org/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/) — a key source of red swimming crab for global markets. The work focuses on transitioning fishery management to science-based catch management and supporting social safeguards across the supply chain, helping ensure the long-term sustainability of such an important export fishery. 
 
 ---
 ##O2 and Tao Ran Chinese Fishery Improvement Projects:
