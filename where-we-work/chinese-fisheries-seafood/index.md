@@ -1,8 +1,8 @@
 ---
 layout: page
 title: China
-landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/chinese-fisheries-hover.jpg
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/chinesefisherieshero.jpg
+landing-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai-observe.png 
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai-observe.png 
 weight: 1
 teaser-text: In addition to accounting for ⅓ of the world’s seafood production, China as a country consumes more seafood than the next 10 countries combined. Given this, a dedicated strategy and effort to ensure sustainable Chinese fisheries and aquaculture is paramount to our ability to conserve ocean resources and healthy seafood supply chains.
 subtitle: China as a country consumes more seafood than the next 10 countries combined. To ensure this seafood is produced and consumed sustainably, we’re working closely with a local Chinese NGO and company to implement scientifically-rigorous Chinese sustainable fisheries and seafood initiatives.
@@ -10,22 +10,25 @@ subtitle: China as a country consumes more seafood than the next 10 countries co
 
 ##Driving change in the world's largest seafood system 
 
-China’s seafood production, consumption, aquaculture operations and commercial fishing fleets are staggering in size.
+China’s seafood production, consumption, aquaculture operations and commercial fishing fleets are staggering in size. It is the world’s largest seafood trading country and home to the world’s largest wild seafood processing and re-exporting sector.
 
 * 25% of the world’s commercial fishing capacity is Chinese
 * 35% of the world’s seafood (wild and farmed combined) comes from China
 * 5 million square miles, an area of Switzerland and Netherlands combined, are used for Chinese aquaculture production
 * China consumes more seafood than the next 10 countries combined
 
-Despite the size of the Chinese seafood industry and the unique status seafood has in Chinese diet and economy — China is the world’s largest seafood trading country and home to the world’s largest wild seafood processing and re-exporting sector—the industry as a whole lags behind manyNorth American and West European countries and its regional neighbors from a sustainability perspective. There is little consumer awareness or demand for sustainable seafood, government led fisheries reform often faces many barriers, there is a lack of Chinese organizations working towards seafood reform, and work to bring Chinese fisheries and aquaculture operations in line with internationally recognized best practices is few and far between.
+Despite the size of the Chinese seafood industry and the unique status seafood has in Chinese diet and economy, the industry as a whole lags behind many North American and West European countries and its regional neighbors from a sustainability perspective. 
+
+There is little consumer awareness or demand for sustainable seafood, government led fisheries reform often faces many barriers, there is a lack of Chinese organizations working towards seafood reform, and work to bring Chinese fisheries and aquaculture operations in line with internationally recognized best practices is few and far between.
 
 ##Locally led. Globally connected.
 
-Our work in China is grounded in long-term, in-country partnerships with a local NGO named Qingdao Marine Conservation Society (QMCS) and Tao Ran, a local environmental services organization. Both these entities were established with O2 support, and the partnership arrangement between O2 and these entities provides a flexible avenue to access domestic Chinese funding, operate within China legally, while maintaining a strong, accountable, and international team approach to our sustainable fisheries and seafood work in the region.
+Our work in China is grounded in long-term, in-country partnerships with a local NGO named Qingdao Marine Conservation Society (QMCS) and Tao Ran, a local environmental services organization. Both these entities were established with O2 support, and the partnership arrangement between O2 and these entities provides a flexible avenue to access domestic Chinese funding and operate within China legally, while maintaining a strong, accountable, and international team approach to our sustainable fisheries and seafood work in the region.
 
 Together, we design and implement solutions that are practical, science-based, and locally relevant. Working to advance fishery and aquaculture improvement efforts, support the conservation of critical marine habitats, engage seafood industry and supply chain actors, and build local capacity for lasting impact. This model allows us to drive change from within while staying aligned with global best practice.
 
 ![O2+and+QMCS.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/O2+and+QMCS.png)
+*O2, QMCS, and partners gathered during the Our Oceans 2025 Conference.*
 
 Without a significant, concerted, and locally-led push for reform, overfishing, irresponsible aquaculture, and habitat loss and degradation in China likely will continue. Lasting progress requires more than individual projects — it requires a broader shift across systems. We support that transition by strengthening local leadership, engaging industry and government stakeholders, and demonstrating scalable models for sustainable fisheries and seafood systems. 
 
@@ -45,7 +48,7 @@ We’re working with Tao Ran to lay the foundation for a fishery improvement eff
 
 ![fujian-zhangzhou-red-swimming-crab-launch-hero.jpg](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/fujian-zhangzhou-red-swimming-crab-launch-hero.jpg)
 
-Through our partnership with the NFI Crab Council, we are supporting improvements in the [Fujian Zhangzhou Red Swimming Crab FIP](https://www.oceanoutcomes.org/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/) — a key source of red swimming crab for global markets. The work focuses on transitioning fishery management to science-based catch management and supporting social safeguards across the supply chain, helping ensure the long-term sustainability of such an important export fishery. 
+Through our partnership with the NFI Crab Council, we are supporting improvements in the [fujian-zhangzhou-red-swimming-crab-hero.jpg](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/fujian-zhangzhou-red-swimming-crab-hero.jpg) — a key source of red swimming crab for global markets. The work focuses on transitioning fishery management to science-based catch management and supporting social safeguards across the supply chain, helping ensure the long-term sustainability of such an important export fishery. 
 
 ---
 ##O2 and Tao Ran Chinese Fishery Improvement Projects:
