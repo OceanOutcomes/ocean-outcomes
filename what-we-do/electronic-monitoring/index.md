@@ -2,8 +2,8 @@
 layout: page
 weight: 6
 title: Electronic Monitoring
-landing-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EM+HERO.jpg
-hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EM+Website+Hero.png
+landing-image: 
+hero-image: 
 teaser-text: From pilots to policy: scaling Electronic Monitoring systems 
 subtitle: As global expectations for transparency increase, Electronic Monitoring is becoming essential to fisheries management and market access. Ocean Outcomes supports the development, deployment, and scaling of EM systems — building the technical, policy, and human foundations needed for long-term impact.
 ---
