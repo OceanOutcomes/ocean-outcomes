@@ -32,7 +32,7 @@ In Taiwan, we work with seafood companies, vessel owners, academic institutions,
 
 In South Korea, we are working with the country’s premier tuna companies to support better fisheries data collection, science-based fisheries management, and improved fishing practices in their fleets. These companies represent and manage a significant portion of the Korean distant water tuna fleet. Our work there also supports efforts to improve domestic fisheries policy, including to strengthen Total Allowable Catch (TAC) systems and improve transparency, data integrity and accountability in fisheries governance. 
 
-![HRDD+work.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/HRDD+work.png) 
+![HRDD-Work.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/HRDD-Work.png) 
 
 ##This work in action
 
