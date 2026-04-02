@@ -8,34 +8,79 @@ teaser-text: High seas fisheries, such as tuna — one of the highest valued and
 subtitle: Tuna and other high seas fisheries are some of the most important but challenging fisheries to sustainably manage.
 ---
 
-##A sustainable future for tuna and other high seas fisheries rests on our ability to change the way we fish and manage these resources.
+##Where complexity meets opportunity
 
-According to the FAO, over 7.9 million tonnes of tuna and tuna-like species were caught in 2018 — a staggering growth in catches from the 1950s when fewer than 0.6 million tons of tuna were caught. Principal market tuna species — albacore, bigeye, bluefin (three species), skipjack and yellowfin — accounted for about 70 percent of the tuna caught, the majority of which was harvested from the Pacific. Skipjack, the most plentiful and productive principal market tuna, accounts for about 66 percent of principal tuna catch, followed by yellowfin and bigeye (about 25 and 10 percent, respectively). 
+Tuna fisheries are among the most globally important — and among the hardest to improve. They operate across vast ocean regions, span complex international supply chains, and can involve environmental, governance, and social risks that cannot be solved by any one actor alone. 
 
-Tuna fisheries management takes place via multinational cooperation delivered through treaty systems RFMOs. While these systems can potentially be effective at defining policy, their member countries often lack the ability to implement or ensure compliance at local, national, and ocean levels, putting tuna resources at risk. As such, the recent growth in tuna catch hasn’t been matched by improved management — among the seven principal commercial tuna species, about 40 percent of stocks were estimated to be fished at biologically unsustainable levels, and among all the five tuna Regional Fisheries Management Bodies (RFMOs), only one has a robust science-based Harvest Strategy in place.
+Our collaborative work over the past decade has supported sustainability improvements in over 30% of the East Asian tuna longline fleet. Whether it's helping those fleets achieve Marine Stewardship Council certification, addressing human rights and environmental needs through Fishery Improvement Projects, or advancing transparency through electronic monitoring initiatives, 600 longline vessels are now producing tuna more sustainably than when we set out.
 
-----
+These efforts sit within a broader picture of progress. According to the <a href="https://www.fao.org/fishery/en/publications/323052" _blank">FAO’s 2025 Review of the State of World Marine Fishery Resources,</a> 87% of assessed tuna stocks are considered biologically sustainable, and 99% of global tuna landings come from stocks at or above sustainable levels. In 2023 alone, about 5.2 million tons of tuna were caught globally with the Pacific accounting for the majority of production.
 
-**What is a RFMO?**
+At the same time, many high seas fisheries, including tuna, still face real challenges — from limited visibility at sea, to uneven implementation of management measures, to ongoing risks for ecosystems and crew. Squid fishing, one of the two largest fished high seas fisheries by volume, effort has grown significantly in recent years, yet only a small share of these fisheries are currently considered sustainably managed. In regions without strong governance frameworks, progress depends on collaboration across fleets, markets, and supply chains.
 
-A RFMO is an international body made up of member countries that share a practical and/or financial interest in managing fisheries and conserving fish stocks in a particular region. RFMOs are established by international agreements or treaties and can take different forms. Some focus on regulating fishing for a particular species or group of species. Others have a broader mandate, with responsibility to ensure that the members’ fisheries do not negatively affect the wider marine ecosystem and the species within it. *RFMOs face substantial challenges in their management of stocks and non-target species, such as decision-making inertia, including a lack of political commitment and comprehensive compliance by members.*
+Much of this activity is concentrated in [East Asia](https://www.oceanoutcomes.org/where-we-work/japanese-fisheries-seafood/), where distant-water fleets from countries like Taiwan, South Korea, Japan, and China play a central role in global seafood production. A small number of countries account for the majority of distant-water fishing effort, making the region a hot-spot for improving how high seas fisheries operate. 
 
-----
-##We are working with the world's largest tuna companies and leading tuna stakeholders globally to transform tuna and high seas fishing.
+![Capture+fishery+production.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Capture+fishery+production.png)
 
-We do this through developing and implementing projects using new tools and technologies which reduce environmental impact, improve catching sector accountability and support the transition to best practice, science-based management strategies.
+Ocean Outcomes partners with companies, governments, NGOs, and fishery stakeholders to turn complexity into progress. Our work focuses on high-risk, high-impact fisheries like tuna and squid where improvements can strengthen environmental performance, support worker well-being, and build more transparent and resilient seafood systems.
 
-Our partnerships with some of the world's largest tuna companies, on the ground capacity in core Northeast Asian tuna producing regions and a team of experienced fishery scientists uniquely positions Ocean Outcomes to effectively drive forward grassroots projects from the bottom-up, connecting that work with top-down investments in reform. Our expanding portfolio of tuna work has already brought a significant percentage of longline tuna vessels into projects working towards improved practices for the first time.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZARBu2JswQ4?si=eJPQZ9F-CddpM7ad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Despite the challenges facing tuna and high seas fisheries, positive transformation is gaining momentum, especially in canned tuna fisheries (which primarily target skipjack and albacore tunas). This includes the adoption of improved management strategies through Harvest Control Rules, collaborative work through programs such as the United Nation Food and Agriculture Organization’s [Areas Beyond National Jurisdiction program which trains local tuna managers on best practices] (/news/tuna-management-workshop-fiji/), and a growing consumer awareness regarding the critically endangered status of select tuna populations.
+##Shaping fisheries management together
 
-----
+Tuna fisheries are managed across multiple jurisdictions, with key decisions made through Regional Fisheries Management Organizations (RFMOs) — international bodies responsible for setting rules on catch limits, monitoring, and conservation across the high seas.
 
-**NGO Tuna Forum**
+Ocean Outcomes works across this broader system — supporting fishery and supply chain improvements on the water while contributing to global conversations that shape how tuna fisheries are managed. We participate as observers to several RFMOs most relevant to our work, including the Western and Central Pacific Fisheries Commission (WCPFC) and the Inter-American Tropical Tuna Commission (IATTC).
 
-Ocean Outcomes is a contributing member of the <a href="https://ngotunaforum.org/" target="_blank">NGO Tuna Forum</a>. The Forum brings together NGOs and others that work comprehensively on global tuna sustainability issues that fall within one or more of the following core focus areas: RFMO Management and Advocacy; Market-based Mechanisms for Improving Sustainability; and, On the Water Research, Activities and Improvements.
+As observers, our focus is on supporting practical, science-based approaches — from strengthening monitoring and transparency to advancing management objectives that can be implemented effectively across fleets and regions.
+
+As a contributing member of the <a href="https://ngotunaforum.org/NGO"target="_blank">NGO Tuna Forum</a>, O2 also collaborates with leading NGOs to advance science-based management, strengthen transparency, and promote responsible practices across tuna fisheries worldwide.
+
+##From risk to results 
+
+Our work focuses on practical tools that help partners make progress — on the water and across supply chains.
+
+**Driving Fishery Improvement**
+
+We work with partners to design and implement credible fishery improvement pathways that strengthen management, reduce environmental impacts, and support progress toward global recognized standards.
 
 ---
+*Case Study: Raising the Bar in Korean Tuna Fisheries*
+
+In South Korea, O2 partnered with leading tuna companies — [including Sajo Industries — to strengthen longline fishery performance, supporting MSC certification for 28 vessels and demonstrating how structured improvement can deliver measurable results.](https://www.oceanoutcomes.org/news/Sajo-Awarded-MSC-Certification-for-Longline-Tuna/)
+
+---
+**Scaling Transparency at Sea**
+
+We support the adoption and use of electronic monitoring (EM) to improve visibility, strengthen compliance, and build accountability in high seas fisheries.
+
+---
+*Case Study: Scaling EM Across Tuna Fleets*
+
+[Across East Asia, partners are deploying EM systems to close data gaps where observer coverage is limited](https://www.oceanoutcomes.org/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/) — helping turn increased transparency into better decision-making and stronger oversight at sea.
+
+---
+**Advancing Worker Protections**
+
+We integrate human rights due diligence and worker-centered approaches into tuna fishery improvement efforts, helping partners better understand risks and implement practical solutions that improve conditions for crew.
+
+---
+*Case Study: Worker-Centered Solutions in Taiwan*
+
+In Taiwan’s distant-water fleet, [O2 is working with industry partners to pilot crew training and explore how tools like EM and onboard connectivity can improve access to information, strengthen protections, and support better conditions at sea.](https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
+
+---
+
+##Beyond the Catch 
+
+Improving tuna and high seas fisheries is not just about fish stocks. It’s about how seafood systems function and whether they work for the people, communities, and ecosystems that depend on them.
+
+Stronger management, better data, safer working conditions, and more transparent supply chains all reinforce one another. When they come together, they create fisheries that are more resilient, more accountable, and better equipped for the long term.
+
+That’s where we focus — working with partners to make progress that is practical, credible, and built to last.
+
+---
+
 ##Tuna and High Seas Fisheries Fishery Improvement Projects:
 
 * [Chen Hung Seafood Frozen Produce Co Ltd. Pacific Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/chen-hung-seafood-frozen-produce-co-pacific-ocean-longline-tuna-fip)
