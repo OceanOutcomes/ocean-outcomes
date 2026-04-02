@@ -4,13 +4,15 @@ weight: 6
 title: Electronic Monitoring
 landing-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EM+HERO.jpg
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EM+Website+Hero.png
-teaser-text: From pilots to policy — scaling Electronic Monitoring systems 
-subtitle: As global expectations for transparency increase, Electronic Monitoring is becoming essential to fisheries management and market access. Ocean Outcomes supports the development, deployment, and scaling of EM systems — building the technical, policy, and human foundations needed for long-term impact.
+teaser-text: As global expectations for transparency increase, Electronic Monitoring is becoming essential to fisheries management and market access. Ocean Outcomes supports the development, deployment, and scaling of EM systems — building the technical, policy, and human foundations needed for long-term impact.
+subtitle: From pilots to policy — scaling Electronic Monitoring systems
 ---
 
 ##Advancing transparency, accountability, and better outcomes at sea
 
-Across global fisheries — especially in [high-risk, high-impact sectors like tuna](https://www.oceanoutcomes.org/what-we-do/tuna/) — one of the biggest barriers to sustainability is visibility. What happens at sea often goes unseen.For distant-water fleets operating far from shore, limited visibility creates challenges for environmental sustainability, compliance, and worker well-being. At the same time, expectations are rapidly evolving. Regional fisheries management organizations (RFMOs) are strengthening monitoring requirements, while market driven initiatives are calling for higher levels of transparency. Industry commitments — such as the <a href="https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/food-and-water-stories/eyes-on-tuna/"target="_blank">Tuna Transparency Pledge</a>, which aims for 100% on-the-water monitoring coverage across supply chains, and company-led efforts like <a href="https://www.thaiunion.com/newsroom/sustainability-and-csr/thai-union-commits-to-free-wi-fi-for-fishers-on-its-partners-vessels-underscoring-that-quality-seafo" target="_blank">Thai Union Group’s commitment to expand onboard Wi-Fi connectivity across its tuna supply chains</a> — are accelerating momentum toward more comprehensive oversight, enabling both improved monitoring and stronger communication for crew at sea. 
+Across global fisheries — especially in [high-risk, high-impact sectors like tuna](https://www.oceanoutcomes.org/what-we-do/tuna/) — one of the biggest barriers to sustainability is visibility. What happens at sea often goes unseen.For distant-water fleets operating far from shore, limited visibility creates challenges for environmental sustainability, compliance, and worker well-being. At the same time, expectations are rapidly evolving. 
+
+Regional fisheries management organizations (RFMOs) are strengthening monitoring requirements, while market driven initiatives are calling for higher levels of transparency. Industry commitments — such as the <a href="https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/food-and-water-stories/eyes-on-tuna/"target="_blank">Tuna Transparency Pledge</a>, which aims for 100% on-the-water monitoring coverage across supply chains, and company-led efforts like <a href="https://www.thaiunion.com/newsroom/sustainability-and-csr/thai-union-commits-to-free-wi-fi-for-fishers-on-its-partners-vessels-underscoring-that-quality-seafo" target="_blank">Thai Union Group’s commitment to expand onboard Wi-Fi connectivity across its tuna supply chains</a> — are accelerating momentum toward more comprehensive oversight, enabling both improved monitoring and stronger communication for crew at sea. 
 
 Despite this progress, most fisheries remain far from aspirational levels of coverage. Monitoring systems are often fragmented, pilot-based, and limited in scale, leaving significant gaps in data, accountability and visibility at sea. 
 
@@ -31,11 +33,12 @@ ________________________________________________________________________________
 
 Across many East Asian fisheries, monitoring coverage remains limited, leaving fishing activity largely unobserved. At the same, a growing pressure from markets, regulators and supply chains is driving a demand for significantly higher levels of transparency. 
 O2 works with our partners to demonstrate how EM can close this gap in practice. Through our on-the-water pilots, system installations, and direct collaboration with vessel owners and operators, we’re helping to expand EM uptake and test solutions in real-world conditions. 
+
 This work is critical to moving EM beyond theory. Our work helps stakeholders understand the what, why and how of EM — application, costs, how it can deliver market value. These demonstrations provide the foundation for broader adoption and help build shared understanding and value among industry and regulators alike. 
 
 ##Establishing frameworks for change 
 
-https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Ho+Tu+installation.png
+![FSF+EM+Blog_Ho+Tu+installation.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Ho+Tu+installation.png)
 
 While pilots are essential, scaling EM requires the systems and structures to support it. Across East Asia, adoption is often constrained by lack of clear policy frameworks, limited technical capacity, and uncertainty around standards, data management, and long-term financing. Without these foundations, even successful pilot projects struggle to scale. 
 O2 is working with governments, industry, and academic partners to help establish these enabling conditions for EM adoption. This includes supporting the development of national policy frameworks, convening stakeholder groups, and building in-country capacity for data review, analysis, and system oversight. 
@@ -44,7 +47,7 @@ In Taiwan, for example, our work is focusing on helping bridge the gap between p
 
 ##Supporting crew welfare 
 
-https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EMC4C+Gabby+Crew.png
+![EMC4C+Gabby+Crew.png](2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EMC4C+Gabby+Crew.png) 
 
 EM can be a powerful tool for improving environmental performance but its potential extends further. In fisheries where oversight is limited, the same conditions that create environmental risks can also contribute to risks for workers. 
 
