@@ -40,7 +40,7 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/pacific-ocean-tuna-longline-fue-shin">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/13398#overview">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | April 2020 |
 | Location: | Pacific Ocean |
 | Participants: | Ocean Outcomes, Fue Shin Fishery, Ltd. |
@@ -51,4 +51,4 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 
 ---
 
-<a href="https://fisheryprogress.org/fip-profile/pacific-ocean-tuna-longline-fue-shin" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Fue Shin Fishery Pacific Ocean Longline Tuna FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/13398#overview" target="_blank">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Fue Shin Fishery Pacific Ocean Longline Tuna FIP profile here.**</a>
