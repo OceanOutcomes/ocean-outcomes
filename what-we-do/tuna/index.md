@@ -16,15 +16,15 @@ Our collaborative work over the past decade has supported sustainability improve
 
 These efforts sit within a broader picture of progress. According to the <a href="https://www.fao.org/fishery/en/publications/323052" _blank">FAO’s 2025 Review of the State of World Marine Fishery Resources,</a> 87% of assessed tuna stocks are considered biologically sustainable, and 99% of global tuna landings come from stocks at or above sustainable levels. In 2023 alone, about 5.2 million tons of tuna were caught globally with the Pacific accounting for the majority of production.
 
-At the same time, many high seas fisheries, including tuna, still face real challenges — from limited visibility at sea, to uneven implementation of management measures, to ongoing risks for ecosystems and crew. Squid fishing, one of the two largest fished high seas fisheries by volume, effort has grown significantly in recent years, yet only a small share of these fisheries are currently considered sustainably managed. In regions without strong governance frameworks, progress depends on collaboration across fleets, markets, and supply chains.
+At the same time, many high seas fisheries, including tuna, still face real challenges — from limited visibility at sea, to uneven implementation of management measures, to ongoing risks for ecosystems and crew. Squid fishing (one of the two largest fished high seas fisheries by volume) effort has grown significantly in recent years, yet only a small share of these fisheries are currently considered sustainably managed. In regions without strong governance frameworks, progress depends on collaboration across fleets, markets, and supply chains.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZARBu2JswQ4?si=eJPQZ9F-CddpM7ad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Much of this activity is concentrated in [East Asia](https://www.oceanoutcomes.org/where-we-work/japanese-fisheries-seafood/), where distant-water fleets from countries like Taiwan, South Korea, Japan, and China play a central role in global seafood production. A small number of countries account for the majority of distant-water fishing effort, making the region a hot-spot for improving how high seas fisheries operate. 
 
-![Capture+fishery+production.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Capture+fishery+production.png)
+![capture-fishery-production.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/capture-fishery-production.png)
 
 Ocean Outcomes partners with companies, governments, NGOs, and fishery stakeholders to turn complexity into progress. Our work focuses on high-risk, high-impact fisheries like tuna and squid where improvements can strengthen environmental performance, support worker well-being, and build more transparent and resilient seafood systems.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZARBu2JswQ4?si=eJPQZ9F-CddpM7ad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##Shaping fisheries management together
 
@@ -47,10 +47,14 @@ We work with partners to design and implement credible fishery improvement pathw
 ---
 *Case Study: Raising the Bar in Korean Tuna Fisheries*
 
+![tuna+page+case+study+1.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tuna+page+case+study+1.png)
+
 In South Korea, O2 partnered with leading tuna companies — [including Sajo Industries — to strengthen longline fishery performance, supporting MSC certification for 28 vessels and demonstrating how structured improvement can deliver measurable results.](https://www.oceanoutcomes.org/news/Sajo-Awarded-MSC-Certification-for-Longline-Tuna/)
 
 ---
 **Scaling Transparency at Sea**
+
+![FSF+EM+Blog_Ho+Tu+installation.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Ho+Tu+installation.png)
 
 We support the adoption and use of electronic monitoring (EM) to improve visibility, strengthen compliance, and build accountability in high seas fisheries.
 
@@ -61,6 +65,9 @@ We support the adoption and use of electronic monitoring (EM) to improve visibil
 
 ---
 **Advancing Worker Protections**
+
+![EMC4C+Hero+Image.png]
+https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EMC4C+Hero+Image.png
 
 We integrate human rights due diligence and worker-centered approaches into tuna fishery improvement efforts, helping partners better understand risks and implement practical solutions that improve conditions for crew.
 
