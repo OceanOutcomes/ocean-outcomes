@@ -42,12 +42,12 @@ Our work focuses on practical tools that help partners make progress — on the 
 
 **Driving Fishery Improvement**
 
+![tuna+page+case+study+1.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tuna+page+case+study+1.png)
+
 We work with partners to design and implement credible fishery improvement pathways that strengthen management, reduce environmental impacts, and support progress toward global recognized standards.
 
 ---
 *Case Study: Raising the Bar in Korean Tuna Fisheries*
-
-![tuna+page+case+study+1.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tuna+page+case+study+1.png)
 
 In South Korea, O2 partnered with leading tuna companies — [including Sajo Industries — to strengthen longline fishery performance, supporting MSC certification for 28 vessels and demonstrating how structured improvement can deliver measurable results.](https://www.oceanoutcomes.org/news/Sajo-Awarded-MSC-Certification-for-Longline-Tuna/)
 
@@ -67,7 +67,7 @@ We support the adoption and use of electronic monitoring (EM) to improve visibil
 **Advancing Worker Protections**
 
 ![EMC4C+Hero+Image.png]
-https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EMC4C+Hero+Image.png
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EMC4C+Hero+Image.png)
 
 We integrate human rights due diligence and worker-centered approaches into tuna fishery improvement efforts, helping partners better understand risks and implement practical solutions that improve conditions for crew.
 
