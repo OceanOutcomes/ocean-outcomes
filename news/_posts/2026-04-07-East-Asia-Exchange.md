@@ -1,7 +1,7 @@
 ---
 layout: news
 title: East Asia's Sustainable Seafood Movement Taking Center Stage
-teaser-text: How a new collaborative series is connecting local expertise and innovative initiatives with global impact, and why it matters
+teaser-text: How a new collaborative series is connecting local expertise and innovative initiatives with global impact, and why it matters.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/East-Asia-Exchange-SENA-1.png
 featured: TRUE
 ---
@@ -16,11 +16,11 @@ These solutions being applied in East Asian contexts, insights from those workin
 
 ##Introducing the East Asia Exchange
 
-![East-Asia-Exchange-group.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/East-Asia-Exchange-group.png)
+![Exchange+Group+photo.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Exchange+Group+photo.png)
 
 <a href="https://solutionsforseafood.org/east-asia-exchange-2026/"target="_blank">The East Asia Exchange</a> is a nine-month series of in-person and virtual conversations designed to do just that. In these dialogues, East Asia-based leaders share their work, connect with global partners, and highlight solutions to the region’s most urgent seafood sustainability priorities.
 
-Co-led by the <a href="https://solutionsforseafood.org/2026-cass-conference/cass-conference-registration/"target="_blank">Conservation Alliance for Seafood Solutions (CASS)</a> members based in the region—including Ocean Outcomes, <a href="http://www.qmcs.org.cn/"target="_blank">Qingdao Marine Conservation Society,</a> <a href="https://hksustainableseafoodcoalition.org/"target="_blank">Hong Kong Sustainable Seafood Coalition,</a> and <a href="https://seafoodlegacy.com/en"target="_blank">Seafood Legacy</a>—the series launched in February of this year and will run through October, culminating in an in-person convening at the <a href="https://sustainableseafoodnow.com/2026/"target="_blank">Tokyo Sustainable Seafood Symposium (TSSS).</a>
+Co-led by the <a href="https://solutionsforseafood.org/"target="_blank">Conservation Alliance for Seafood Solutions (CASS)</a> members based in the region—including Ocean Outcomes, <a href="http://www.qmcs.org.cn/"target="_blank">Qingdao Marine Conservation Society,</a> <a href="https://hksustainableseafoodcoalition.org/"target="_blank">Hong Kong Sustainable Seafood Coalition,</a> and <a href="https://seafoodlegacy.com/en"target="_blank">Seafood Legacy</a>—the series launched in February of this year and will run through October, culminating in an in-person convening at the <a href="https://sustainableseafoodnow.com/2026/"target="_blank">Tokyo Sustainable Seafood Symposium (TSSS).</a>
 
 Each session spotlights a different market or theme. Topics are chosen and discussions led by regional experts who understand the context, challenges, and opportunities firsthand. The goal goes beyond information sharing into “creating long-term symbiotic relationships between East Asian seafood leaders and the global movement,” according to organizers.
 
@@ -54,7 +54,7 @@ It's exactly the kind of partnership the East Asia Exchange is designed to enabl
 
 ![East-Asia-Exchange-MAJURO-1.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/East-Asia-Exchange-MAJURO-1.png)
 
-Conventions like the East Asia Exchange create space for dialogue, but they also serve another critical function: they surface and amplify the innovations already happening on the water across the region. Recently, O2 and our project partners traveled to <a href="https://em4.fish/connecting-crews-and-vessels-emc4cs-latest-milestone-in-majuro/"target="_blank">Majuro, Marshall Islands as part of the EMC4C (Electronic Monitoring for Crew Communication and Care) initiative.</a> This collaboration is testing how electronic monitoring and onboard Wi-Fi can support both environmental monitoring and crew welfare.
+Conventions like the East Asia Exchange create space for dialogue, but they also serve another critical function: they surface and amplify the innovations already happening on the water across the region. Recently, O2 and our project partners traveled to <a href="https://em4.fish/connecting-crews-and-vessels-emc4cs-latest-milestone-in-majuro/"target="_blank">Majuro, Marshall Islands as part of the EMC4C (Electronic Monitoring and Connectivity for Crews at Sea) initiative.</a> This collaboration is testing how electronic monitoring and onboard Wi-Fi can support both environmental monitoring and crew welfare.
 
 In February, the team installed EM and Wi-Fi systems on three industrial longline tuna vessels, trained 43 Indonesian migrant crew members and three captains on their use, and conducted in-depth interviews to better understand how connectivity can reduce isolation and improve working conditions at sea.
 
@@ -78,7 +78,7 @@ Upcoming sessions include:
   
 *  In-person convenings at CASS CON (September) and TSSS Tokyo (October)
 
-![QMCS+1](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/QMCS+1.png)
+![Exchange+Group+photo+2.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Exchange+Group+photo+2.png)
 
 **The series is open to anyone interested in understanding and supporting the sustainable seafood movement in East Asia.** Whether you’re a seafood buyer, policymaker, researcher, or NGO practitioner, these sessions offer direct access to the people shaping change in one of the world’s most important seafood regions.
 
