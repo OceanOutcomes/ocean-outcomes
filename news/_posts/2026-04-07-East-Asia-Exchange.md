@@ -16,7 +16,7 @@ These solutions being applied in East Asian contexts, insights from those workin
 
 ##Introducing the East Asia Exchange
 
-![East-Asia-Exchange-1.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/East-Asia-Exchange-1.png)
+![EAST-ASIA-EXCHANGE-COLEADS.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EAST-ASIA-EXCHANGE-COLEADS.png)
 
 <a href="https://solutionsforseafood.org/east-asia-exchange-2026/"target="_blank">The East Asia Exchange</a> is a nine-month series of in-person and virtual conversations designed to do just that. In these dialogues, East Asia-based leaders share their work, connect with global partners, and highlight solutions to the region’s most urgent seafood sustainability priorities.
 
