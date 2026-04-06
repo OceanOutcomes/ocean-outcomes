@@ -59,7 +59,7 @@ In practice, Wi-Fi has proven to be a critical unlock, transforming EM from a mo
 
 ---
 ##Stories from the Field: Electronic Monitoring 
-* <a href="https://em4.fish/connecting-crews-and-vessels-emc4cs-latest-milestone-in-majuro/"target="_blank">Connecting Crews and Vessels: EMC4C’s Latest Milestone in Majuro)</a>
+* <a href="https://em4.fish/connecting-crews-and-vessels-emc4cs-latest-milestone-in-majuro/"target="_blank">Connecting Crews and Vessels: EMC4C’s Latest Milestone in Majuro</a>
 * [Ocean Outcomes and Seafood Legacy Form East Asian Partnership](https://www.oceanoutcomes.org/news/new-partnership-to-advance-sustainable-seafood-and-fisheries-across-east-asia/)
 * <a href="https://em4.fish/em4humanity-technology-meets-labor-rights-in-global-fisheries/"target="_blank">Insights from three NGOs collaborating to improve crew welfare in high-seas fisheries with electronic monitoring and Wi-Fi</a>
 * <a href="https://em4.fish/em4humanity/"target="_blank">EM4Humanity: Join us as we journal this remarkable project</a>
@@ -69,4 +69,5 @@ In practice, Wi-Fi has proven to be a critical unlock, transforming EM from a mo
 * [Building Regional Capacity for Electronic Monitoring Across Taiwan](https://www.oceanoutcomes.org/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
 * [Electronic Monitoring and the MSC Standard 3.0 in Korea’s Largest Tuna Fisheries](https://www.oceanoutcomes.org/news/electronic-monitoring-msc-korea-largest-tuna-fisheries-sustainability-roundtable/)
 * [Developing Solutions to Illegal Seafood Imports in Northeast Asian Markets](https://www.oceanoutcomes.org/news/korea-solutions-illegal-seafood-imports-northeast-asian-markets/)
+  
 ---
