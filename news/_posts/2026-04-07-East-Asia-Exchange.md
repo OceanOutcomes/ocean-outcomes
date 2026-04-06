@@ -2,13 +2,13 @@
 layout: news
 title: East Asia's Sustainable Seafood Movement Taking Center Stage
 teaser-text: How a new collaborative series is connecting local expertise and innovative initiatives with global impact, and why it matters
-hero-image: 
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/East-Asia-Exchange-SENA-1.png
 featured: TRUE
 ---
 
-##How a new collaborative series is connecting local expertise and innovative initiatives with global impact, and why it matters
+##East Asia accounts for nearly half of global seafood production and consumption. 
 
-East Asia accounts for nearly half of global seafood production and consumption. The seafood produced there also supplies markets across the United States, Europe, and beyond. Yet for years, sustainable seafood conversations have often treated East Asia as a secondary player—a region to be influenced, rather than one driving innovation and leadership. 
+The seafood produced there also supplies markets across the United States, Europe, and beyond. Yet for years, sustainable seafood conversations have often treated East Asia as a secondary player—a region to be influenced, rather than one driving innovation and leadership. 
 
 **But that narrative is shifting**. Across Japan, Taiwan, South Korea, Hong Kong, and mainland China, a growing network of NGOs, industry leaders, policymakers, and community organizations are advancing practical solutions to some of the seafood sector’s most pressing challenges. These solutions span electronic monitoring and traceability to human rights due diligence and fisheries government reform.
 
@@ -25,8 +25,6 @@ Co-led by the <a href="https://solutionsforseafood.org/2026-cass-conference/cass
 Each session spotlights a different market or theme. Topics are chosen and discussions led by regional experts who understand the context, challenges, and opportunities firsthand. The goal goes beyond information sharing into “creating long-term symbiotic relationships between East Asian seafood leaders and the global movement,” according to organizers.
 
 ##Energy and Engagement at Seafood Expo North America
-
-![East-Asia-Exchange-SENA-1.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/East-Asia-Exchange-SENA-1.png)
 
 The momentum behind the East Asian Exchange was on full display in March at <a href="https://www.seafoodexpo.com/north-america/"target="_blank">Seafood Expo North America (SENA)</a> in Boston, where the series held its first in-person session.
 
@@ -71,10 +69,10 @@ The Majuro work is part of a broader effort to demonstrate that electronic monit
 This series continues through October of this year, with sessions spotlighting Japan, China, Taiwan, and Hong Kong. Each will feature regional experts sharing lessons from the field, highlighting innovations, and exploring how cross-regional collaboration can accelerate progress.
 
 Upcoming sessions include:
-* China Spotlight – May 2026
-* Taiwan Spotlight – June 2026
-* Hong Kong Spotlight – July 2026
-* In-person convenings at CASS CON (September) and TSSS Tokyo (October)
+*China Spotlight – May 2026
+*Taiwan Spotlight – June 2026
+*Hong Kong Spotlight – July 2026
+*In-person convenings at CASS CON (September) and TSSS Tokyo (October)
 
 ![QMCS+1](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/QMCS+1.png)
 
