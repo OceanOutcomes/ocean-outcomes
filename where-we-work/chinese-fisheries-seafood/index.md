@@ -19,16 +19,16 @@ China’s seafood production, consumption, aquaculture operations and commercial
 
 Despite the size of the Chinese seafood industry and the unique status seafood has in Chinese diet and economy, the industry as a whole lags behind many North American and West European countries and its regional neighbors from a sustainability perspective. 
 
-There is little consumer awareness or demand for sustainable seafood, government led fisheries reform often faces many barriers, there is a lack of Chinese organizations working towards seafood reform, and work to bring Chinese fisheries and aquaculture operations in line with internationally recognized best practices is few and far between.
+There is little consumer awareness or demand for sustainable seafood, government led fisheries reform often faces many barriers, there is a lack of Chinese organizations working towards seafood reform, and work to bring Chinese fisheries and aquaculture operations in line with internationally recognized best practices is limited.
 
 ##Locally led. Globally connected.
 
 Our work in China is grounded in long-term, in-country partnerships with a local NGO named Qingdao Marine Conservation Society (QMCS) and Tao Ran, a local environmental services organization. Both these entities were established with O2 support, and the partnership arrangement between O2 and these entities provides a flexible avenue to access domestic Chinese funding and operate within China legally, while maintaining a strong, accountable, and international team approach to our sustainable fisheries and seafood work in the region.
 
-Together, we design and implement solutions that are practical, science-based, and locally relevant. Working to advance fishery and aquaculture improvement efforts, support the conservation of critical marine habitats, engage seafood industry and supply chain actors, and build local capacity for lasting impact. This model allows us to drive change from within while staying aligned with global best practice.
+Together, we design and implement solutions that are practical, science-based, and locally relevant — working to advance fishery and aquaculture improvement efforts, support the conservation of critical marine habitats, engage seafood industry and supply chain actors, and build local capacity for lasting impact. This model allows us to drive change from within while staying aligned with global best practice.
 
 ![O2+and+QMCS.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/O2+and+QMCS.png)
-*O2, QMCS, and partners gathered during the Our Oceans 2025 Conference.*
+*O2, QMCS, and other East Asia partners gathered during the Our Oceans Conference in Busan, South Korea in 2025.*
 
 Without a significant, concerted, and locally-led push for reform, overfishing, irresponsible aquaculture, and habitat loss and degradation in China likely will continue. Lasting progress requires more than individual projects — it requires a broader shift across systems. We support that transition by strengthening local leadership, engaging industry and government stakeholders, and demonstrating scalable models for sustainable fisheries and seafood systems. 
 
@@ -42,13 +42,15 @@ We are working with [QMCS to protect the Bohai Bay eelgrass bed](https://www.oce
 
 **Improving small pelagic fisheries**
 
-We’re working with Tao Ran to lay the foundation for a fishery improvement effort in China’s small pelagic fisheries, such as anchovy and chub mackerel. These fisheries play a critical role in producing fishmeal and fish oil for global aquaculture, but face pressure from rising demand, climate variability, and complex supply chains. Our work focuses on scoping and developing a pathway for improvement — assessing environmental and social performance and engaging key stakeholders to build conditions needed for long-term sustainability. 
+![China-Small-Pelagics.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/China-Small-Pelagics.png)
+
+[With support from an innovative multistakeholder blue finance solution,](https://finance.earth/fif/) working with Tao Ran to lay the foundation for a fishery improvement effort in China’s small pelagic fisheries, such as anchovy and chub mackerel. These fisheries play a critical role in producing fishmeal and fish oil for global aquaculture, but face pressure from rising demand, climate variability, and complex supply chains. Our work focuses on scoping and developing a pathway for improvement — assessing environmental and social performance and engaging key stakeholders to build conditions needed for long-term sustainability. 
 
 **Advancing responsible crab fisheries**
 
 ![fujian-zhangzhou-red-swimming-crab-china.jpg](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/fujian-zhangzhou-red-swimming-crab-china.jpg)
 
-Through our partnership with the NFI Crab Council, we are supporting improvements in the [Fujian Zhangzhou Red Swimming Crab FIP](https://www.oceanoutcomes.org/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/) — a key source of red swimming crab for global markets. The work focuses on transitioning fishery management to science-based catch management and supporting social safeguards across the supply chain, helping ensure the long-term sustainability of such an important export fishery. 
+Through our partnership with the NFI Crab Council, we are supporting improvements in the [Fujian Zhangzhou Red Swimming Crab FIP](https://www.oceanoutcomes.org/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/) — a key source of red swimming crab for global markets. The work focuses on transitioning fishery management to science-based catch management and supporting social safeguards across the supply chain, helping ensure the long-term sustainability of an important export fishery. 
 
 ---
 ##O2 and Tao Ran Chinese Fishery Improvement Projects:
@@ -59,6 +61,7 @@ Through our partnership with the NFI Crab Council, we are supporting improvement
 ---
 ##Stories from the Field: China
 
+* [East Asia's Sustainable Seafood Movement Taking Center Stage](/news/east-asias-sustainable-seafood-movement-taking-center-stage)
 * [Ocean Outcomes and Seafood Legacy Form East Asian Partnership] (/news/new-partnership-to-advance-sustainable-seafood-and-fisheries-across-east-asia/)
 * [Insights from Our Work on the Water — 2025 Reflections and Looking Ahead to 2026] (/news/insights-from-our-work-on-the-water-reflections-and-looking-ahead/)
 * [Human Rights Day 2025 - Advancing Dignity and Decent Work in Global Fisheries] (/news/human-rights-day-decent-work-global-fisheries/)
