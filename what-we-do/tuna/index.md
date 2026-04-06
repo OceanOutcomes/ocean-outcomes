@@ -52,7 +52,7 @@ In South Korea, O2 partnered with leading tuna companies — [including Sajo Ind
 
 **Scaling Transparency at Sea**
 
-We support the adoption and use of electronic monitoring (EM) to improve visibility, strengthen compliance, and build accountability in high seas fisheries. 
+We support the adoption and use of [electronic monitoring (EM)](https://www.oceanoutcomes.org/what-we-do/electronic-monitoring/) to improve visibility, strengthen compliance, and build accountability in high seas fisheries. 
 
 [![FSF+EM+Blog_Ho+Tu+installation.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Ho+Tu+installation.png)](https://www.oceanoutcomes.org/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
 
