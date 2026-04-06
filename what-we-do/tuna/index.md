@@ -10,19 +10,19 @@ subtitle: Tuna and other high seas fisheries are some of the most important but 
 
 ##Where complexity meets opportunity
 
-Tuna fisheries are among the most globally important — and among the hardest to improve. They operate across vast ocean regions, span complex international supply chains, and can involve environmental, governance, and social risks that cannot be solved by any one actor alone. 
+Tuna and other high seas fisheries like squid are among the most globally important — and among the hardest to improve. They operate across vast ocean regions, span complex international supply chains, and can involve environmental, governance, and social risks that cannot be solved by any one actor alone. 
 
-Our collaborative work over the past decade has supported sustainability improvements in over 30% of the East Asian tuna longline fleet. Whether it's helping those fleets achieve Marine Stewardship Council certification, addressing human rights and environmental needs through Fishery Improvement Projects, or advancing transparency through electronic monitoring initiatives, 600 longline vessels are now producing tuna more sustainably than when we set out.
+Our collaborative work over the past decade has supported sustainability improvements in over 30% of the East Asian tuna longline fleet. Whether it's helping those fleets achieve Marine Stewardship Council Certification, addressing human rights and environmental needs through Fishery Improvement Projects, or advancing transparency through electronic monitoring initiatives, 600 longline vessels are now producing tuna more sustainably than when we set out.
 
-These efforts sit within a broader picture of progress. According to the <a href="https://www.fao.org/fishery/en/publications/323052" _blank">FAO’s 2025 Review of the State of World Marine Fishery Resources,</a> 87% of assessed tuna stocks are considered biologically sustainable, and 99% of global tuna landings come from stocks at or above sustainable levels. In 2023 alone, about 5.2 million tons of tuna were caught globally with the Pacific accounting for the majority of production.
+These efforts sit within a broader picture of progress. According to the <a href="https://www.fao.org/fishery/en/publications/323052" _blank">FAO’s 2025 Review of the State of World Marine Fishery Resources,</a> 87% of assessed tuna stocks are considered biologically sustainable, and 99% of global tuna landings come from stocks at or above sustainable levels. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZARBu2JswQ4?si=eJPQZ9F-CddpM7ad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-At the same time, many high seas fisheries, including tuna, still face real challenges — from limited visibility at sea, to uneven implementation of management measures, to ongoing risks for ecosystems and crew. Squid fishing (one of the two largest fished high seas fisheries by volume) effort has grown significantly in recent years, yet only a small share of these fisheries are currently considered sustainably managed. In regions without strong governance frameworks, progress depends on collaboration across fleets, markets, and supply chains.
+At the same time, many high seas fisheries, including tuna, still face real challenges — from limited visibility at sea, to uneven implementation of management measures, to ongoing risks for ecosystems and crew. Squid fishing, one of the largest high seas fisheries by volume, has grown significantly in recent years, yet only a small share of these fisheries are currently considered sustainably managed. In regions without strong governance frameworks, progress depends on collaboration across fleets, markets, and supply chains.
 
-Much of this activity is concentrated in [East Asia](https://www.oceanoutcomes.org/where-we-work/japanese-fisheries-seafood/), where distant-water fleets from countries like Taiwan, South Korea, Japan, and China play a central role in global seafood production. A small number of countries account for the majority of distant-water fishing effort, making the region a hot-spot for improving how high seas fisheries operate. 
+Much of this activity is concentrated in [East Asia](https://www.oceanoutcomes.org/where-we-work/japanese-fisheries-seafood/), where distant-water fleets from Taiwan, South Korea, Japan, and China play a central role in global seafood production. A small number of countries account for the majority of distant-water fishing effort, making the region a hot-spot for improving how high seas fisheries operate. 
 
-![capture-fishery-production.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/capture-fishery-production.png)
+![March+2026+BOD+Meeting+Presentation+East+Asia+%26+Programmatic+Updates.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/March+2026+BOD+Meeting+Presentation+East+Asia+%26+Programmatic+Updates.png)
 
 Ocean Outcomes partners with companies, governments, NGOs, and fishery stakeholders to turn complexity into progress. Our work focuses on high-risk, high-impact fisheries like tuna and squid where improvements can strengthen environmental performance, support worker well-being, and build more transparent and resilient seafood systems.
 
@@ -34,7 +34,7 @@ Ocean Outcomes works across this broader system — supporting fishery and suppl
 
 As observers, our focus is on supporting practical, science-based approaches — from strengthening monitoring and transparency to advancing management objectives that can be implemented effectively across fleets and regions.
 
-As a contributing member of the <a href="https://ngotunaforum.org/NGO"target="_blank">NGO Tuna Forum</a>, O2 also collaborates with leading NGOs to advance science-based management, strengthen transparency, and promote responsible practices across tuna fisheries worldwide.
+As a contributing member of the <a href="https://ngotunaforum.org/"target="_blank">NGO Tuna Forum</a>, O2 also collaborates with leading NGOs to advance science-based management, strengthen transparency, and promote responsible practices across tuna fisheries worldwide.
 
 ##From risk to results 
 
@@ -42,41 +42,34 @@ Our work focuses on practical tools that help partners make progress — on the 
 
 **Driving Fishery Improvement**
 
-![tuna+page+case+study+1.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tuna+page+case+study+1.png)
-
 We work with partners to design and implement credible fishery improvement pathways that strengthen management, reduce environmental impacts, and support progress toward global recognized standards.
 
----
+[![tuna+page+case+study+1.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/tuna+page+case+study+1.png)](https://www.oceanoutcomes.org/news/Sajo-Awarded-MSC-Certification-for-Longline-Tuna/)
+
 *Case Study: Raising the Bar in Korean Tuna Fisheries*
 
-In South Korea, O2 partnered with leading tuna companies — [including Sajo Industries — to strengthen longline fishery performance, supporting MSC certification for 28 vessels and demonstrating how structured improvement can deliver measurable results.](https://www.oceanoutcomes.org/news/Sajo-Awarded-MSC-Certification-for-Longline-Tuna/)
+In South Korea, O2 partnered with leading tuna companies — [including Sajo Industries — to strengthen longline fishery performance, supporting MSC Certification for 28 vessels and demonstrating how structured improvement can deliver measurable results.](https://www.oceanoutcomes.org/news/Sajo-Awarded-MSC-Certification-for-Longline-Tuna/)
 
----
 **Scaling Transparency at Sea**
 
-![FSF+EM+Blog_Ho+Tu+installation.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Ho+Tu+installation.png)
+We support the adoption and use of electronic monitoring (EM) to improve visibility, strengthen compliance, and build accountability in high seas fisheries. 
 
-We support the adoption and use of electronic monitoring (EM) to improve visibility, strengthen compliance, and build accountability in high seas fisheries.
+[![FSF+EM+Blog_Ho+Tu+installation.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/FSF+EM+Blog_Ho+Tu+installation.png)](https://www.oceanoutcomes.org/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
 
----
 *Case Study: Scaling EM Across Tuna Fleets*
 
 [Across East Asia, partners are deploying EM systems to close data gaps where observer coverage is limited](https://www.oceanoutcomes.org/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/) — helping turn increased transparency into better decision-making and stronger oversight at sea.
 
----
 **Advancing Worker Protections**
-
-![EMC4C+Hero+Image.png]
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EMC4C+Hero+Image.png)
 
 We integrate human rights due diligence and worker-centered approaches into tuna fishery improvement efforts, helping partners better understand risks and implement practical solutions that improve conditions for crew.
 
----
+[![EMC4C+Hero+Image.png]
+(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EMC4C+Hero+Image.png)](https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
+
 *Case Study: Worker-Centered Solutions in Taiwan*
 
 In Taiwan’s distant-water fleet, [O2 is working with industry partners to pilot crew training and explore how tools like EM and onboard connectivity can improve access to information, strengthen protections, and support better conditions at sea.](https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
-
----
 
 ##Beyond the Catch 
 
@@ -101,6 +94,7 @@ That’s where we focus — working with partners to make progress that is pract
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
 
+* [East Asia's Sustainable Seafood Movement Taking Center Stage](/news/east-asias-sustainable-seafood-movement-taking-center-stage)
 * [Ocean Outcomes and Seafood Legacy Form East Asian Partnership] (/news/new-partnership-to-advance-sustainable-seafood-and-fisheries-across-east-asia/)
 * [Insights from Our Work on the Water — 2025 Reflections and Looking Ahead to 2026] (/news/insights-from-our-work-on-the-water-reflections-and-looking-ahead/)
 * [Human Rights Day 2025 - Advancing Dignity and Decent Work in Global Fisheries] (/news/human-rights-day-decent-work-global-fisheries/)
