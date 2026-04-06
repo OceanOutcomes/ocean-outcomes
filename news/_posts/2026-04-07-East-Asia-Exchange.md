@@ -69,10 +69,10 @@ The Majuro work is part of a broader effort to demonstrate that electronic monit
 This series continues through October of this year, with sessions spotlighting Japan, China, Taiwan, and Hong Kong. Each will feature regional experts sharing lessons from the field, highlighting innovations, and exploring how cross-regional collaboration can accelerate progress.
 
 Upcoming sessions include:
-*China Spotlight – May 2026
-*Taiwan Spotlight – June 2026
-*Hong Kong Spotlight – July 2026
-*In-person convenings at CASS CON (September) and TSSS Tokyo (October)
+*  China Spotlight – May 2026
+*  Taiwan Spotlight – June 2026
+*  Hong Kong Spotlight – July 2026
+*  In-person convenings at CASS CON (September) and TSSS Tokyo (October)
 
 ![QMCS+1](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/QMCS+1.png)
 
