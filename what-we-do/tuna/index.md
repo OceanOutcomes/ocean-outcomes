@@ -73,6 +73,8 @@ In Taiwan’s distant-water fleet, [O2 is working with industry partners to pilo
 
 ##Beyond the Catch 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zqNXHBY2YXI?si=lX706_0KHmNlCV93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Improving tuna and high seas fisheries is not just about fish stocks. It’s about how seafood systems function and whether they work for the people, communities, and ecosystems that depend on them.
 
 Stronger management, better data, safer working conditions, and more transparent supply chains all reinforce one another. When they come together, they create fisheries that are more resilient, more accountable, and better equipped for the long term.
