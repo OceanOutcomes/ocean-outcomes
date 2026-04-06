@@ -3,7 +3,7 @@ layout: news
 title: Ocean Outcomes and Seafood Legacy Form East Asian Partnership
 teaser-text: Together, the two organizations will bolster seafood sustainability, support human rights initiatives and catalyze fisheries traceability across East Asia.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/O2-SFL-partnership-announcement-hero.png
-featured: TRUE
+featured: FALSE
 ---
 *Wakao Hanaoka, Founder & President/CEO of Seafood Legacy Inc. and Kelly Harrell, Executive Director of Ocean Outcomes*
 
