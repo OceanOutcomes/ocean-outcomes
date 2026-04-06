@@ -5,16 +5,17 @@ title: Electronic Monitoring
 landing-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EM+HERO.jpg
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EM+Website+Hero.png
 teaser-text: As global expectations for transparency increase, Electronic Monitoring is becoming essential to fisheries management and market access. Ocean Outcomes supports the development, deployment, and scaling of EM systems — building the technical, policy, and human foundations needed for long-term impact.
-subtitle: From pilots to policy — scaling transparency across fisheries
+subtitle: Our work adapts best practice to real-world conditions, demonstrating how technologies like electronic monitoring can drive better environmental and social outcomes.
 ---
+*Photo Credit: Global Fishing Watch*
 
 ##Advancing transparency, accountability, and better outcomes at sea
 
 Across global fisheries — especially in [high-risk, high-impact sectors like tuna](https://www.oceanoutcomes.org/what-we-do/tuna/) — one of the biggest barriers to sustainability is visibility. What happens at sea often goes unseen. For distant-water fleets operating far from shore, limited visibility creates challenges for environmental sustainability, compliance, and worker well-being. At the same time, expectations are rapidly evolving. 
 
-Regional fisheries management organizations (RFMOs) are strengthening monitoring requirements, while market driven initiatives are calling for higher levels of transparency. Industry commitments — such as the <a href="https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/food-and-water-stories/eyes-on-tuna/"target="_blank">Tuna Transparency Pledge</a>, which aims for 100% on-the-water monitoring coverage across supply chains, and company-led efforts like <a href="https://www.thaiunion.com/newsroom/sustainability-and-csr/thai-union-commits-to-free-wi-fi-for-fishers-on-its-partners-vessels-underscoring-that-quality-seafo" target="_blank">Thai Union Group’s commitment to expand onboard Wi-Fi connectivity across its tuna supply chains</a> — are accelerating momentum toward more comprehensive oversight, enabling both improved monitoring and stronger communication for crew.
+Regional fisheries management organizations (RFMOs) are strengthening monitoring requirements, while market driven initiatives are calling for higher levels of transparency. Industry commitments — such as the <a href="https://www.nature.org/en-us/what-we-do/our-priorities/provide-food-and-water-sustainably/food-and-water-stories/eyes-on-tuna/"target="_blank">Tuna Transparency Pledge</a>, which aims for 100% on-the-water monitoring coverage across supply chains, and company-led efforts like <a href="https://www.thaiunion.com/newsroom/sustainability-and-csr/thai-union-commits-to-free-wi-fi-for-fishers-on-its-partners-vessels-underscoring-that-quality-seafo" target="_blank">Thai Union Group’s commitment to expand onboard Wi-Fi connectivity across its tuna supply chains</a> — are accelerating momentum toward more comprehensive oversight, enabling both improved monitoring and connectivity opportunities for crew.
 
-Despite this progress, most fisheries remain far from aspirational levels of coverage. Monitoring systems are often fragmented, pilot-based, and limited in scale, leaving significant gaps in data, accountability and visibility at sea. 
+Despite this progress, most fisheries remain far from aspirational levels of coverage. Monitoring systems are often fragmented and limited in scale, leaving significant gaps in data, accountability and visibility at sea. 
 
 At Ocean Outcomes, we are working with partners across industry, government, and fishing communities to help close this gap. From expanding EM access on distant-water vessels to working alongside crew, captains, and communities to facilitate the uptake of new technologies like Wi-Fi, our work adapts best practice to real-world conditions, demonstrating how technologies like EM can drive better environmental and social outcomes.
 
@@ -35,7 +36,7 @@ Across many East Asian fisheries, monitoring coverage remains limited, leaving f
 
 O2 works with our partners to demonstrate how EM can close this gap in practice. Through our on-the-water pilots, system installations, and direct collaboration with vessel owners and operators, we’re helping to expand EM uptake and test solutions in real-world conditions. 
 
-This work is critical to moving EM beyond theory. Our work helps stakeholders understand the what, why and how of EM — application, costs, how it can deliver market value. These demonstrations provide the foundation for broader adoption and help build shared understanding and value among industry and regulators alike. 
+This work is critical to moving EM beyond theory. Our work helps stakeholders understand the what, why and how of EM — application, costs and how it can deliver market value. These demonstrations provide the foundation for broader adoption and help build shared understanding and value among industry and regulators alike. 
 
 ##Establishing frameworks for change 
 
@@ -56,9 +57,16 @@ O2 integrates EM into broader efforts to strengthen social responsibility and hu
 
 In practice, Wi-Fi has proven to be a critical unlock, transforming EM from a monitoring tool into a bridge between vessel and shore. It can enable more timely reporting, strengthen grievance mechanisms, and help reduce isolation for crew working far from land. Using technology not only improves environmental performance but also helps build more transparent, accountable, and equitable fisheries for the people who depend on them. 
 
+---
 ##Stories from the Field: Electronic Monitoring 
+* <a href="https://em4.fish/connecting-crews-and-vessels-emc4cs-latest-milestone-in-majuro/"target="_blank">Connecting Crews and Vessels: EMC4C’s Latest Milestone in Majuro)</a>
 * [Ocean Outcomes and Seafood Legacy Form East Asian Partnership](https://www.oceanoutcomes.org/news/new-partnership-to-advance-sustainable-seafood-and-fisheries-across-east-asia/)
-* [EM4Humanity – Technology Meets Labor Rights in Global Fisheries](https://em4.fish/em4humanity-technology-meets-labor-rights-in-global-fisheries/)
+* <a href="https://em4.fish/em4humanity-technology-meets-labor-rights-in-global-fisheries/"target="_blank">Insights from three NGOs collaborating to improve crew welfare in high-seas fisheries with electronic monitoring and Wi-Fi</a>
+* <a href="https://em4.fish/em4humanity/"target="_blank">EM4Humanity: Join us as we journal this remarkable project</a>
 * [Insights from Our Work on the Water — 2025 Reflections and Looking Ahead to 2026](https://www.oceanoutcomes.org/news/insights-from-our-work-on-the-water-reflections-and-looking-ahead/)
 * [Ocean Outcomes Collaborates on Groundbreaking Project to Enhance Social Responsibility at Sea](https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
+* [At Our Ocean Conference, Spotlight Shines on Northeast Asia’s Tuna Fleets](https://www.oceanoutcomes.org/news/ocean-outcomes-and-global-fishing-watch-electronic-monitoring-tuna-our-ocean-conference/)
 * [Building Regional Capacity for Electronic Monitoring Across Taiwan](https://www.oceanoutcomes.org/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/)
+* [Electronic Monitoring and the MSC Standard 3.0 in Korea’s Largest Tuna Fisheries](https://www.oceanoutcomes.org/news/electronic-monitoring-msc-korea-largest-tuna-fisheries-sustainability-roundtable/)
+* [Developing Solutions to Illegal Seafood Imports in Northeast Asian Markets](https://www.oceanoutcomes.org/news/korea-solutions-illegal-seafood-imports-northeast-asian-markets/)
+---
