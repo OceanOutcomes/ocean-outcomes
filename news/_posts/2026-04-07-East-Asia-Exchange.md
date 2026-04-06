@@ -70,8 +70,11 @@ This series continues through October of this year, with sessions spotlighting J
 
 Upcoming sessions include:
 *  China Spotlight – May 2026
+  
 *  Taiwan Spotlight – June 2026
+  
 *  Hong Kong Spotlight – July 2026
+  
 *  In-person convenings at CASS CON (September) and TSSS Tokyo (October)
 
 ![QMCS+1](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/QMCS+1.png)
