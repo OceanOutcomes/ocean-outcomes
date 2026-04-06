@@ -5,7 +5,7 @@ title: Electronic Monitoring
 landing-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EM+HERO.jpg
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EM+Website+Hero.png
 teaser-text: As global expectations for transparency increase, Electronic Monitoring is becoming essential to fisheries management and market access. Ocean Outcomes supports the development, deployment, and scaling of EM systems — building the technical, policy, and human foundations needed for long-term impact.
-subtitle: From pilots to policy: scaling transparency across fisheries
+subtitle: From pilots to policy — scaling transparency across fisheries
 ---
 
 ##Advancing transparency, accountability, and better outcomes at sea
