@@ -22,7 +22,7 @@ At the same time, many high seas fisheries, including tuna, still face real chal
 
 Much of this activity is concentrated in [East Asia](https://www.oceanoutcomes.org/where-we-work/japanese-fisheries-seafood/), where distant-water fleets from Taiwan, South Korea, Japan, and China play a central role in global seafood production. A small number of flag states account for the majority of distant-water fishing effort, making the region a hot-spot for improving how high seas fisheries operate. 
 
-![March+2026+BOD+Meeting+Presentation+East+Asia+%26+Programmatic+Updates.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/March+2026+BOD+Meeting+Presentation+East+Asia+%26+Programmatic+Updates.png)
+![March+2026+BOD+Meeting+Presentation+East+Asia+%26+Programmatic+Updates.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/March+2026+BOD+Meeting+Presentation+East+Asia+%26+Programmatic+Updates.png+)
 
 Ocean Outcomes partners with companies, governments, NGOs, and fishery stakeholders to turn complexity into progress. Our work focuses on high-risk, high-impact fisheries like tuna and squid where improvements can strengthen environmental performance, support worker well-being, and build more transparent and resilient seafood systems.
 
