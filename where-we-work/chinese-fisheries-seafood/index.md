@@ -4,8 +4,8 @@ title: China
 landing-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai-observe.png 
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Bohai-observe.png 
 weight: 1
-teaser-text: In addition to accounting for ⅓ of the world’s seafood production, China as a country consumes more seafood than the next 10 countries combined. Given this, a dedicated strategy and effort to ensure sustainable Chinese fisheries and aquaculture is paramount to our ability to conserve ocean resources and healthy seafood supply chains.
-subtitle: China as a country consumes more seafood than the next 10 countries combined. To ensure this seafood is produced and consumed sustainably, we’re working closely with a local Chinese NGO and company to implement scientifically-rigorous Chinese sustainable fisheries and seafood initiatives.
+teaser-text: In addition to accounting for ⅓ of the world’s seafood production, China as a country consumes more seafood than the next 10 countries combined. Given this, a dedicated efforts to ensure sustainable Chinese fisheries and aquaculture are paramount to our ability to conserve ocean resources and healthy seafood supply chains.
+subtitle: China as a country consumes more seafood than the next 10 countries combined. To ensure this seafood is produced and consumed sustainably, we’re working closely with local partners to implement scientifically-rigorous sustainable fisheries and seafood initiatives.
 ---
 
 ##Driving change in the world's largest seafood system 
@@ -23,14 +23,14 @@ There is little consumer awareness or demand for sustainable seafood, government
 
 ##Locally led. Globally connected.
 
-Our work in China is grounded in long-term, in-country partnerships with a local NGO named Qingdao Marine Conservation Society (QMCS) and Tao Ran, a local environmental services organization. Both these entities were established with O2 support, and the partnership arrangement between O2 and these entities provides a flexible avenue to access domestic Chinese funding and operate within China legally, while maintaining a strong, accountable, and international team approach to our sustainable fisheries and seafood work in the region.
+Our work in China is grounded in long-term, in-country partnerships with a local NGO named Qingdao Marine Conservation Society (QMCS) and Tao Ran, an environmental services organization.
 
 Together, we design and implement solutions that are practical, science-based, and locally relevant — working to advance fishery and aquaculture improvement efforts, support the conservation of critical marine habitats, engage seafood industry and supply chain actors, and build local capacity for lasting impact. This model allows us to drive change from within while staying aligned with global best practice.
 
 ![O2+and+QMCS.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/O2+and+QMCS.png)
 *O2, QMCS, and other East Asia partners gathered during the Our Oceans Conference in Busan, South Korea in 2025.*
 
-Without a significant, concerted, and locally-led push for reform, overfishing, irresponsible aquaculture, and habitat loss and degradation in China likely will continue. Lasting progress requires more than individual projects — it requires a broader shift across systems. We support that transition by strengthening local leadership, engaging industry and government stakeholders, and demonstrating scalable models for sustainable fisheries and seafood systems. 
+Lasting progress requires more than individual projects — it requires a broader shift across systems. We support that transition by strengthening local leadership, engaging stakeholders, supporting research and learning from international models.
 
 ##Highlights from our work in China with local partners  
 
