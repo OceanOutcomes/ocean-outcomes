@@ -4,15 +4,15 @@ title: Tuna & High Seas Fisheries
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/tuna-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/tunahero.jpg
 weight: 5
-teaser-text: High seas fisheries, such as tuna — one of the highest valued and most sought after species — are seeing record global catches, but tuna and other high seas fisheries continue to face sustainability challenges without adequate on the water monitoring and science-based, collaborative international management.
-subtitle: Tuna and other high seas fisheries are some of the most important but challenging fisheries to sustainably manage.
+teaser-text: High seas fisheries, such as tuna — one of the highest valued and most sought after seafood commodities — are seeing record global catches. Yet tuna and other high seas fisheries will continue to face sustainability challenges unless adequate frameworks for transparency, monitoring and science-based, collaborative international management are in place.
+subtitle: Tuna and other high seas fisheries are some of the most important — but also the most challenging— fisheries to sustainably manage.
 ---
 
 ##Where complexity meets opportunity
 
-Tuna and other high seas fisheries like squid are among the most globally important — and among the hardest to improve. They operate across vast ocean regions, span complex international supply chains, and can involve environmental, governance, and social risks that cannot be solved by any one actor alone. 
+Tuna and other high seas fisheries like squid are among the most globally important traded seafood commodities — and among the hardest to improve. They operate across vast ocean regions, span complex international supply chains, and can involve environmental, governance, and social risks that cannot be solved by any one actor alone. 
 
-Our collaborative work over the past decade has supported sustainability improvements in over 30% of the East Asian tuna longline fleet. Whether it's helping those fleets achieve Marine Stewardship Council Certification, addressing human rights and environmental needs through Fishery Improvement Projects, or advancing transparency through electronic monitoring initiatives, 600 longline vessels are now producing tuna more sustainably than when we set out.
+Our collaborative work over the past decade has supported sustainability improvements in over 30% of the East Asian tuna longline fleet. Whether it's helping those fleets achieve Marine Stewardship Council Certification, addressing human rights and environmental needs through Fishery Improvement Projects, or advancing transparency through electronic monitoring initiatives, 600 longline tuna vessels are now producing tuna more sustainably than when we set out.
 
 These efforts sit within a broader picture of progress. According to the <a href="https://www.fao.org/fishery/en/publications/323052" _blank">FAO’s 2025 Review of the State of World Marine Fishery Resources,</a> 87% of assessed tuna stocks are considered biologically sustainable, and 99% of global tuna landings come from stocks at or above sustainable levels. 
 
@@ -20,7 +20,7 @@ These efforts sit within a broader picture of progress. According to the <a href
 
 At the same time, many high seas fisheries, including tuna, still face real challenges — from limited visibility at sea, to uneven implementation of management measures, to ongoing risks for ecosystems and crew. Squid fishing, one of the largest high seas fisheries by volume, has grown significantly in recent years, yet only a small share of these fisheries are currently considered sustainably managed. In regions without strong governance frameworks, progress depends on collaboration across fleets, markets, and supply chains.
 
-Much of this activity is concentrated in [East Asia](https://www.oceanoutcomes.org/where-we-work/japanese-fisheries-seafood/), where distant-water fleets from Taiwan, South Korea, Japan, and China play a central role in global seafood production. A small number of countries account for the majority of distant-water fishing effort, making the region a hot-spot for improving how high seas fisheries operate. 
+Much of this activity is concentrated in [East Asia](https://www.oceanoutcomes.org/where-we-work/japanese-fisheries-seafood/), where distant-water fleets from Taiwan, South Korea, Japan, and China play a central role in global seafood production. A small number of flag states account for the majority of distant-water fishing effort, making the region a hot-spot for improving how high seas fisheries operate. 
 
 ![March+2026+BOD+Meeting+Presentation+East+Asia+%26+Programmatic+Updates.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/March+2026+BOD+Meeting+Presentation+East+Asia+%26+Programmatic+Updates.png)
 
@@ -35,6 +35,8 @@ Ocean Outcomes works across this broader system — supporting fishery and suppl
 As observers, our focus is on supporting practical, science-based approaches — from strengthening monitoring and transparency to advancing management objectives that can be implemented effectively across fleets and regions.
 
 As a contributing member of the <a href="https://ngotunaforum.org/"target="_blank">NGO Tuna Forum</a>, O2 also collaborates with leading NGOs to advance science-based management, strengthen transparency, and promote responsible practices across tuna fisheries worldwide.
+
+<a href="https://www.oceanoutcomes.org/news/korea-tuna-sustainability-industy-roundtable-meeting/"target="_blank">In South Korea, this systems-level work includes co-convening the Korean Roundtable for Sustainable Tuna Fishing alongside industry and partners.</a> The Roundtable brings together governmental agencies, Korea’s largest tuna fishing companies, and fisher associations to discuss relevant topics and advocate for better management and operation of key tuna fisheries in the Western and Central Pacific Oceans.
 
 ##From risk to results 
 
