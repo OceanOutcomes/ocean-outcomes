@@ -4,15 +4,15 @@ title: East Asia
 landing-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/East+Asia+Hero.png
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/East+Asia+Hero.png
 weight: 3
-teaser-text: We have always had a specific focus on East Asia and a unique capacity and ability to accomplish work on the ground in the region. Our work across East Asia includes seeding the sustainable fisheries movement in China, Japan, South Korea and Russia through a variety of partnerships, programs and projects, both past and current.
-subtitle: Few countries and regions in the world are more important to the future of global fisheries and the sustainability of global seafood supplies than those in East Asia. China, Japan, South Korea and Taiwan play an outsized role in seafood, and sustainable fisheries globally will not be possible without these countries playing a constructive role.
+teaser-text: Since our founding, Ocean Outcomes has had a focus on East Asia and a unique ability to accomplish work in the region. Our work across East Asia includes seeding the sustainable fisheries movement in China, Japan, South Korea and Taiwan through a variety of partnerships, programs and projects, both past and current. 
+subtitle: Few regions in the world are more important to the future of global fisheries and sustainable seafood than East Asia. China, Japan, South Korea and Taiwan play an outsized role in seafood, and sustainable fisheries globally will not be possible without them playing a constructive role.
 ---
 
 ##A region shaping the future of global seafood 
 
-East Asia is home to some of the world’s most important seafood producing and consuming regions, with China, Taiwan, Japan, and South Korea playing a central role in supplying globally sought-after species like tuna and crab. 
+East Asia is a globally critical seafood producing and consuming region, with China, Taiwan, Japan, and South Korea playing a central role in supplying globally sought-after species like tuna and crab.  
 
-Together, <a href="https://www.stimson.org/2019/report-reveals-impact-massive-fishing-fleets/"target="_blank">five countries/regions account for roughly 90 percent of distant-water fishing effort — China and Taiwan alone make up 60 percent, while Japan, South Korea, and Spain each contribute about 10 percent.</a> Fisheries across this region are not only economically vital, but deeply embedded in cultural traditions, and the decisions made here — on the water and across supply chains — have an outsized influence on ocean health, market expectations, and the future of fisheries worldwide.
+Together, <a href="https://www.stimson.org/2019/report-reveals-impact-massive-fishing-fleets/"target="_blank">five countries/regions account for roughly 90 percent of distant-water fishing effort — China and Taiwan alone make up 60 percent, while Japan, South Korea, and Spain each contribute about 10 percent.</a> Fisheries across this region are not only economically vital, but deeply embedded in cultural traditions, and the decisions made here have an outsized influence on ocean health, global seafood supply chains and the future of fisheries worldwide.
 
 Across the region, these fisheries are navigating rising expectations for monitoring, transparency, and accountability, driven by evolving regional fisheries management organization (RFMO) requirements and increasing supply chain scrutiny. At the same time, governments and industry leaders are entering a critical window to test, refine, and scale solutions that can deliver real change.
 
