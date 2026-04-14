@@ -29,7 +29,7 @@ We have earned a Gold Seal of Transparency from GuideStar, a four star rating fr
 
 <table border="0"> 
   <tr>
-    <td><a href="https://app.candid.org/profile/9523457/ocean-outcomes-46-4901375" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-candid-seal.png" style="max-width: 110px;" style="max-height: 110px;"/></a></td>
+    <td><a href="https://app.candid.org/profile/9523457/ocean-outcomes-46-4901375" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-guidestar-candid-seal.png" style="max-width: 110px;" style="max-height: 110px;"/></a></td>
     <td><a href="https://www.charitynavigator.org/ein/464901375" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-Charity-Navigator-Badge.png" style="max-width: 110px;" style="max-height: 110px;"/></a></td>
     <td> <a href="https://directories.onepercentfortheplanet.org/profile/ocean-outcomes" target="_blank"><img src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/donate+badges/O2-one-percent-partner-badge.png" style="max-width: 110px;" style="max-height: 110px;"/></a></td>
   </tr>
