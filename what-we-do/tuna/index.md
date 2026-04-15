@@ -30,7 +30,7 @@ Ocean Outcomes partners with companies, governments, NGOs, and fishery stakehold
 
 Tuna fisheries are managed across multiple jurisdictions, with key decisions made through Regional Fisheries Management Organizations (RFMOs) — international bodies responsible for setting rules on catch limits, monitoring, and conservation across the high seas.
 
-Ocean Outcomes works across this broader system — supporting fishery and supply chain improvements on the water while contributing to global conversations that shape how tuna fisheries are managed. We participate as observers to several RFMOs most relevant to our work, including the Western and Central Pacific Fisheries Commission (WCPFC) and the Inter-American Tropical Tuna Commission (IATTC).
+Ocean Outcomes works across this broader system supporting fishery and supply chain improvements on the water while contributing to global conversations that shape how tuna fisheries are managed. We participate as observers to several RFMOs most relevant to our work, including the Western and Central Pacific Fisheries Commission (WCPFC) and the Inter-American Tropical Tuna Commission (IATTC).
 
 As observers, our focus is on supporting practical, science-based approaches — from strengthening monitoring and transparency to advancing management objectives that can be implemented effectively across fleets and regions.
 
