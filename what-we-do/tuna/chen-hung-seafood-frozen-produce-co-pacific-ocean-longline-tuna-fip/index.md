@@ -40,7 +40,7 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 
 |||
 | ---: | --- |
-| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/pacific-ocean-tuna-longline-cheng-hung-seafood-frozen-produce-co-ltd">tracked fully on FisheryProgress.org</a>) |
+| FIP Status: | Comprehensive FIP (<a href="https://fisheryprogress.org/fip-profile/18626#overview">tracked fully on FisheryProgress.org</a>) |
 | Project Launch: | August 2022 |
 | Location: | Pacific Ocean |
 | Participants: | Ocean Outcomes, Cheng Hung Seafood Frozen Produce Co., Ltd Helen Hua |
@@ -51,4 +51,4 @@ This FIP is part of a larger effort O2 is pursuing across Northeast Asia to help
 
 ---
 
-<a href="https://fisheryprogress.org/fip-profile/pacific-ocean-tuna-longline-cheng-hung-seafood-frozen-produce-co-ltd">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Pacific Ocean tuna - longline (Cheng Hung Seafood Frozen Produce Co., Ltd.) profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/18626#overview">**This FIP is tracked publically in its entirety on FisheryProgress.org, see the Pacific Ocean tuna - longline (Cheng Hung Seafood Frozen Produce Co., Ltd.) profile here.**</a>

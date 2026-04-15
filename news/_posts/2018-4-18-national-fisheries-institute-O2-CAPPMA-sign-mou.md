@@ -26,9 +26,9 @@ Thus far the FIP has been funded by the NFI Red Crab Council and generous suppor
 
 >**“It’s a joy to see dedicated industry leaders, fishing communities, and foundations come together to help us address the sustainability challenges of our Red Swimming Crab fisheries,” said O2’s China Program Director Songlin Wang. “We’re excited to grow these efforts and others of commercially important Chinese fisheries.”**
 
-While project development has been underway for years, the FIP is set to officially launch in early August and a <a href="https://fisheryprogress.org/fip-profile/9013/overview" target="_blank">prospective FIP profile is now publicly available on fisheryprogress.org</a>.
+While project development has been underway for years, the FIP is set to officially launch in early August and a <a href="https://fisheryprogress.org/fip-profile/9013#overview" target="_blank">prospective FIP profile is now publicly available on fisheryprogress.org</a>.
 
-----
+---- <a href=""target="_blank"></a>
 
 **Additional Resources:**
 
