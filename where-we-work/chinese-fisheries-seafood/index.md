@@ -44,7 +44,7 @@ We are working with [QMCS to protect the Bohai Bay eelgrass bed](https://www.oce
 
 ![China-Small-Pelagics.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/China-Small-Pelagics.png)
 
-[With support from an innovative multistakeholder blue finance solution,](https://finance.earth/fif/) working with Tao Ran to lay the foundation for a fishery improvement effort in China’s small pelagic fisheries, such as anchovy and chub mackerel. These fisheries play a critical role in producing fishmeal and fish oil for global aquaculture, but face pressure from rising demand, climate variability, and complex supply chains. Our work focuses on scoping and developing a pathway for improvement — assessing environmental and social performance and engaging key stakeholders to build conditions needed for long-term sustainability. 
+[With support from an innovative multistakeholder blue finance solution,](https://finance.earth/fif/) we are working with Tao Ran to lay the foundation for a fishery improvement effort in China’s small pelagic fisheries, such as anchovy and chub mackerel. These fisheries play a critical role in producing fishmeal and fish oil for global aquaculture, but face pressure from rising demand, climate variability, and complex supply chains. Our work focuses on scoping and developing a pathway for improvement — assessing environmental and social performance and engaging key stakeholders to build conditions needed for long-term sustainability. 
 
 **Advancing responsible crab fisheries**
 
