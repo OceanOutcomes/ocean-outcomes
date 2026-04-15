@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 O2 works with our partners to catalyze the uptake of EM in East Asia’s distant water fishing industry. Through our on-the-water pilots, system installations, and direct collaboration with vessel owners and operators, we’re helping to overcome barriers to getting EM equipment on industrial tuna vessels and collecting critical data on catch and bycatch. 
 
-This work is critical to moving EM beyond theory -– and to sustainable tuna fisheries. Our work helps stakeholders understand the what, why, and how of EM — providing the foundation for broader adoption that is vital to increasing monitoring coverage in the data poor distant water longline tuna industry. 
+This work is critical to moving EM beyond theory and to sustainable tuna fisheries. Our work helps stakeholders understand the what, why, and how of EM — providing the foundation for broader adoption that is vital to increasing monitoring coverage in the data poor distant water longline tuna industry. 
 
 ##Establishing frameworks for change 
 
@@ -44,7 +44,7 @@ While pilots are essential, scaling EM requires the systems, governance, structu
 
 O2 is working with governments, industry, and academic partners to help establish these enabling conditions for EM adoption. This includes supporting the development of national policy frameworks, convening stakeholder groups, and building in-country capacity for data review, analysis, and system oversight. 
 
-In Taiwan, for example, our work is focusing on helping bridge the gap between pilot efforts and a larger policy framework— supporting development of standards, strengthening coordination across stakeholders, and aligning systems with evolving international requirements. 
+In Taiwan, for example, our work is focusing on helping bridge the gap between pilot efforts and a larger policy framework — supporting development of standards, strengthening coordination across stakeholders, and aligning systems with evolving international requirements. 
 
 ##Supporting crew welfare 
 
