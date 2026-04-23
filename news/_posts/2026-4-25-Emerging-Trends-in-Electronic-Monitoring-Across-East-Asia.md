@@ -2,7 +2,7 @@
 layout: news
 title: Emerging Trends in Electronic Monitoring Across East Asia
 teaser-text: Synthesis from stakeholder convenings at the 2025 Our Ocean Conference in Busan, South Korea
-hero-image: 
+hero-image: https://s3.us-west 2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EM%2BSystem%2BVessel+(1).png
 featured: TRUE
 ---
 
@@ -16,7 +16,7 @@ They serve as a home base for distant-water fleets that fish on the high seas an
 
 ##One area where this traction is particularly visible is in global tuna fisheries, where East Asian fleets play a large role. 
 
-![EM+System+Vessel (1).png ](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EM%2BSystem%2BVessel+(1).png)
+![tuna-hero.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/tunahero.jpg)
 
 In 2024, The Nature Conservancy introduced the Tuna Transparency Pledge, an initiative designed to unite retailers, suppliers, and governments in achieving 100% on-the-water monitoring coverage by 2027. This objective applies to all industrial tuna fishing vessels within signatory supply chains and is facilitated through either EM or human observers. Major signatories such as Walmart, Albertsons, Thai Union, and several Pacific Island governments have amplified momentum around EM adoption, underscoring market and governance expectations for greater transparency.
 
