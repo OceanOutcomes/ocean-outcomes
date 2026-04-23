@@ -26,5 +26,7 @@ Jurisdictions across East Asia are pursuing EM through their own blend of pilot 
 
 To address these systemic gaps, Ocean Outcomes (O2) and Environmental Defense Fund (EDF) convened a regional workshop in Busan, South Korea, in April 2025, adjacent to the Our Ocean Conference. The workshop aimed to facilitate cross-border learning on electronic monitoring among experts, fishery managers, and NGO representatives from the four jurisdictions. 
 
+[![EM-Report-Image.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EM+Report+Image.png)](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Emerging+Trends+in+Electronic+Monitoring+Across+East+Asia.pdf)
+
 <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Emerging+Trends+in+Electronic+Monitoring+Across+East+Asia.pdf"target="_blank">This report — authored by Ocean Outcomes with contributions from Qingdao Marine Conservation Society and Environmental Defense Fund —  synthesizes the resulting developments and stakeholder perspectives, providing an analysis of the current EM landscape and the advancement of monitoring technology across these major fishing economies.</a>
 
