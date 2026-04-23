@@ -2,7 +2,7 @@
 layout: news
 title: Emerging Trends in Electronic Monitoring Across East Asia
 teaser-text: Synthesis from stakeholder convenings at the 2025 Our Ocean Conference in Busan, South Korea
-hero-image: https://s3.us-west2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EM%2BSystem%2BVessel+(1).png
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EM%2BSystem%2BVessel+(1).png
 featured: TRUE
 ---
 
