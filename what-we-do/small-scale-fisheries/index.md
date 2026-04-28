@@ -10,7 +10,7 @@ subtitle: To date, small-scale fisheries and their stakeholders are underserved 
 
 ##Small in scale, big in value
 
-Small-scale fisheries sit at the center of global seafood systems, supporting livelihoods, feeding communities, and shaping the health of coastal ecosystems worldwide. <a href="https://ourworldindata.org/fish-and-overfishing/"target="_blank>Fish and seafood provide a primary source of protein for nearly half the global population,</a> and small-scale fisheries play a disproportionate role in meeting that need, producing much of the seafood destined for direct human consumption and employing the vast majority of fishworkers globally.
+Small-scale fisheries sit at the center of global seafood systems, supporting livelihoods, feeding communities, and shaping the health of coastal ecosystems worldwide. <a href="https://ourworldindata.org/fish-and-overfishing/"target="_blank">Fish and seafood provide a primary source of protein for nearly half the global population,</a> and small-scale fisheries play a disproportionate role in meeting that need, producing much of the seafood destined for direct human consumption and employing the vast majority of fishworkers globally.
 
 Yet despite their importance, these fisheries remain among the most underserved in sustainability efforts. Many face mounting pressures — from overfishing and climate-driven shifts in fish populations to pollution and degraded ecosystems — while the communities that depend on them often lack access to markets, services, and decision-making processes.
 
