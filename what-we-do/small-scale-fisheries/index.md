@@ -7,36 +7,57 @@ hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/ne
 teaser-text: We are advancing a business-driven, triple impact approach to the challenges facing many of the world’s small-scale fisheries. This approach focuses on harnessing untapped financing and increasing profitability in small-scale fishing enterprises to improve livelihoods and ecosystem health; creating a positive feedback loop for people, planet and profit.
 subtitle: To date, small-scale fisheries and their stakeholders are underserved and underrepresented in the global seafood environment and movement. New approaches, collaborations and tools from Ocean Outcomes and partners are working to change this.
 ---
+
 ##Small in scale, big in value
 
-Small-scale fisheries provide livelihoods for millions, food for billions and are an integral part of local coastal communities, their economies and the fulcrum around which any coastal conservation and development initiatives must operate. However, despite their collective significance, the needs of small-scale fisheries and their stakeholders have generally been underserved and underrepresented in both the global seafood environment and movement. 
+Small-scale fisheries sit at the center of global seafood systems, supporting livelihoods, feeding communities, and shaping the health of coastal ecosystems worldwide. <a href="https://ourworldindata.org/fish-and-overfishing/"target="_blank>Fish and seafood provide a primary source of protein for nearly half the global population,</a> and small-scale fisheries play a disproportionate role in meeting that need, producing much of the seafood destined for direct human consumption and employing the vast majority of fishworkers globally.
 
-In addition to disenfranchisement, small-scale fisheries face a myriad socioeconomic and environmental challenges, such as low prices, unfair competition, a lack of markets and cold chain access, climate change and evolving fish stock competitions and ranges. To ensure food security, thriving local livelihoods and durable conservation outcomes, we are working to identify the needs of small-scale fisheries and their stakeholders and developing tools, approaches and partnerships for addressing these needs.
+Yet despite their importance, these fisheries remain among the most underserved in sustainability efforts. Many face mounting pressures — from overfishing and climate-driven shifts in fish populations to pollution and degraded ecosystems — while the communities that depend on them often lack access to markets, services, and decision-making processes.
+
+The future of fisheries will not be determined by large-scale systems alone. It will also be shaped in coastal communities, where access, equity, and opportunity define what sustainable fishing looks like in practice.
+
+At Ocean Outcomes, we work alongside communities, governments, and partners to strengthen the conditions that make lasting change possible — supporting local leadership, building capacity, and co-developing solutions that reflect the realities of each fishery. Because there are no universal solutions in small-scale fisheries, only approaches that work when they are shaped by the people and systems they are meant to support.
+
+----
+
+##A more complete approach to the needs of small-scale fisheries
+
+![woman-processing-fish.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Women+processing+fish.png)
+
+Our work in small-scale fisheries is grounded in a [triple bottom line approach](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-improvement/) — considering and working to advance environmental sustainability, social responsibility, and economic viability together.
+
+Alongside partners SmartFish AC and Conservation International, we are taking this approach to address a clear challenge: efforts focused on environmental outcomes alone often fail to deliver lasting results when social and economic realities are left unaddressed.
+
+*[See our triple impact case studies that demonstrate how Ocean Outcomes and partners are successfully producing outcomes in small-scale fisheries.](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-case-studies/)* 
+
 
 ----
 
-**What is a small-scale?**
+##Community Fishery Improvement Projects (CFIPs)
 
-According to the Food and Agriculture Organization of the United Nations, there is no universal definition of artisanal or small-scale fisheries or aquaculture. In general, these terms describe fisheries and aquaculture that use relatively small production units with relatively low input and low output, and limited levels of technology and small capital investment. They are commonly managed on a family level, sometimes with a small group of employees, or at a community level. The fish are often sold in local markets but can also reach national and international markets.
+<a href="https://www.seafoodsource.com/news/environment-sustainability/ocean-outcomes-finding-success-with-more-tailored-community-focused-c-fip-approach-to-improving-fisheries/"target="_blank">Community Fishery Improvement Projects (CFIPs) bring this approach into practice.</a>
+
+Building on traditional Fishery Improvement Projects, CFIPs are designed specifically for small-scale fisheries, shifting from top-down interventions to bottom-up, community-led action. Fishers and local stakeholders define priorities, co-design solutions, and lead implementation. CFIPs apply the triple impact lens, allowing actions to be sequenced and adapted based on local realities — ensuring that improvements are relevant, achievable, and durable.
+
+[![CFIP-Manual-Image.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CFIP+Manual+Image.png)](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Community+Fishery+Improvement+Project+Manual.pdf)
+
+<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Community+Fishery+Improvement+Project+Manual.pdf/"target="_blank">To support the adoption and implementation of this approach, Ocean Outcomes worked alongside Conservation International and the Wildlife Conservation Society to develop a practical guide to designing and implementing CFIPs.</a> The manual outlines the full process — from scoping and co-design through implementation and measuring impact — grounded in real-world application across small-scale fisheries.
 
 ----
-##Supporting small-scale fisheries improvement
 
-<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/ssf-hub-logo-partners.png">
+##Partnerships & Collaborations
 
-Ocean Outcomes is part of the global coalition of partners working in and with small-scale fisheries which helped launch the <a href="https://ssfhub.org/" target="_blank">Small-Scale Fisheries Resource and Collaboration Hub</a>. The SSF Hub is an online, interactive, and multilingual platform for small-scale fishers, fish workers, and their communities and allies. It provides access to free tools and resources to strengthen small-scale fisheries governance and community development. The SSF Hub creates an opportunity to learn, share information, and enhance capacities for all small-scale fishery stakeholders. It aims to address small-scale fisheries governance and community development, to support the well-being of small-scale fishing communities and sustainable use of resources.
+We work as part of a broader ecosystem supporting small-scale fisheries globally.
+This includes our engagement with the Small-Scale Fisheries Intermediary Collective – a growing network of non-profits, startups, researchers, cooperatives, and intermediaries all working shoulder-to-shoulder with small-scale fishing communities around the world. Other Collective members include organizations such as ABALOBI and SmartFish Rescate de Valor, with whom we have worked on a number of projects that support improvements to small-scale fishing practices and healthier fishing communities. 
 
-<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/iyafa-logo-partners.png">
-
-As an official supporter of the <a href="https://www.fao.org/artisanal-fisheries-aquaculture-2022/home/en/" target="_blank">International Year of Artisanal Fisheries and Aquaculture (IYAFA2022)</a>, we are working together with other small-scale fisheries stakeholders towards a world in which small-scale artisanal fishers, fish farmers and fish workers are fully recognized and empowered to continue their contributions for human well-being, food systems and poverty alleviation through the responsible and sustainable use of fisheries and aquaculture resources.
-
-Much of our small-scale fisheries work is based on the [Triple Impact Fisheries Improvement Framework] (/what-we-do/services/triple-impact-improvement/), an open-source, modular and agnostic tool for evaluating needs, planning improvements, monitoring and publicly reporting progress against the environmental, social and financial dimensions of fisheries.
-
-Through our triple impact approach, international collaborations and local partnerships, we develop and implement triple impact projects across a range of small-scale fisheries, conditions and locations. As we do in all our work, we co-design our small-scale fisheries initiatives with all affected stakeholders, taking into account the experiences and realities on the ground, while always continuing to learn and adapt to maximize impact.
+At a global level, we are contributors to events such as the <a href="https://www.worldssfcongress.com/"target="_blank">World Small-Scale Fisheries Congress</a> and the <a href="https://www.fao.org/artisanal-fisheries-aquaculture-2022/home/en/"target="_blank">International Year of Artisanal Fisheries and Aquaculture (IYAFA 2022),</a> and knowledge-sharing initiatives like the <a href="https://ssfhub.org/"target="_blank">Small-Scale Fisheries Hub.</a> These collaborations help strengthen connections, share knowledge, and elevate community voices across the sector.
 
 ---
+
 ##Stories from the Field: Small-Scale Fisheries
 
+* [Ocean Outcomes finding success with more tailored, community-focused C-FIP approach to fisheries improvement](https://www.seafoodsource.com/news/environment-sustainability/ocean-outcomes-finding-success-with-more-tailored-community-focused-c-fip-approach-to-improving-fisheries)
+* [How Can We Secure Sustainable Small-Scale Fisheries Beyond the Catch?](https://heyzine.com/flip-book/f53c1d9c79.html) 
 * [Insights from Our Work on the Water — 2025 Reflections and Looking Ahead to 2026] (/news/insights-from-our-work-on-the-water-reflections-and-looking-ahead/)
 * [Human Rights Day 2025 - Advancing Dignity and Decent Work in Global Fisheries] (/news/human-rights-day-decent-work-global-fisheries/)
 * [Assessing and Addressing Social Risks in Fishery Improvement Projects] (/news/Assessing-and-Addressing-Social-Risks-in-Fishery-Improvement-Projects/)
@@ -55,24 +76,5 @@ Through our triple impact approach, international collaborations and local partn
 * [Triple Impact FIPs - Improving Fisheries' Social, Economic and Environmental Performance] (/news/triple-impact-fips-session-boston-seafood-show/)
 * [Conservation International, Ocean Outcomes Seek a More Sustainable Global Seafood Supply Chain] (/news/conservation-international-O2-partnership/)
 * [Committing to Socially Responsible Seafood] (/news/committing-to-socially-responsible-seafood/)
-
----
-
-##Select a case study below to learn more about how Ocean Outcomes and partners are successfully producing triple impact outcomes in small-scale fisheries.
-
-[![Triple Impact Case Study 1 - Baja Mexico]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+1+-+Baja+Mexico.png)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+1+-+Baja+Mexico.pdf)
-
-[![Triple Impact Case Study 2 - Guyana]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+2+-+Guyana.png)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+2+-+Guyana.pdf)
-
-[![Triple Impact Case Study 3 - Abalobi]
-(https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+3+-+Abalobi.png)] (https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+3+-+Abalobi.pdf)
-
-[![Triple Impact Case Study 4 - CFIPs]
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+4+-+CFIPs.png)] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+4+-+CFIPs.pdf)
-
-[![Triple Impact Case Study 5 - Del Pacifico]
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+5+-+Del+Pacifico.png)] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+5+-+Del+Pacifico.pdf)
 
 -----
