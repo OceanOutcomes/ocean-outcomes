@@ -18,8 +18,6 @@ The future of fisheries will not be determined by large-scale systems alone. It 
 
 At Ocean Outcomes, we work alongside communities, governments, and partners to strengthen the conditions that make lasting change possible — supporting local leadership, building capacity, and co-developing solutions that reflect the realities of each fishery. Because there are no universal solutions in small-scale fisheries, only approaches that work when they are shaped by the people and systems they are meant to support.
 
-----
-
 ##A more complete approach to the needs of small-scale fisheries
 
 ![woman-processing-fish.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Women+processing+fish.png)
@@ -29,9 +27,6 @@ Our work in small-scale fisheries is grounded in a [triple bottom line approach]
 Alongside partners SmartFish AC and Conservation International, we are taking this approach to address a clear challenge: efforts focused on environmental outcomes alone often fail to deliver lasting results when social and economic realities are left unaddressed.
 
 *[See our triple impact case studies that demonstrate how Ocean Outcomes and partners are successfully producing outcomes in small-scale fisheries.](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-case-studies/)* 
-
-
-----
 
 ##Community Fishery Improvement Projects (CFIPs)
 
