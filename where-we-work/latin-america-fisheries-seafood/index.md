@@ -31,10 +31,11 @@ Rather than applying one-size-fits-all solutions, we co-design approaches with p
 Across the region, we collaborate with partners and support clients and a growing network of local organizations to address the needs of Latin American fisheries.
 
 In Costa Rica, Belize, Mexico and elsewhere in the region — we are helping to:
- * Pilot and scale community-centered improvement models
- * Strengthen fisheries governance and policy frameworks
- * Improve traceability, transparency, and market access
- * Build capacity within fishing communities and local institutions
+
+* Pilot and scale community-centered improvement models
+* Strengthen fisheries governance and policy frameworks
+* Improve traceability, transparency, and market access
+* Build capacity within fishing communities and local institutions
 
 ---
 
