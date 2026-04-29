@@ -30,7 +30,7 @@ Alongside partners SmartFish AC and Conservation International, we are taking th
 
 ##Community Fishery Improvement Projects (CFIPs)
 
-<a href="https://www.seafoodsource.com/news/environment-sustainability/ocean-outcomes-finding-success-with-more-tailored-community-focused-c-fip-approach-to-improving-fisheries/"target="_blank">Community Fishery Improvement Projects (CFIPs) bring this approach into practice.</a>
+Community Fishery Improvement Projects (CFIPs) bring this approach into practice.
 
 Building on traditional Fishery Improvement Projects, CFIPs are designed specifically for small-scale fisheries, shifting from top-down interventions to bottom-up, community-led action. Fishers and local stakeholders define priorities, co-design solutions, and lead implementation. CFIPs apply the triple impact lens, allowing actions to be sequenced and adapted based on local realities — ensuring that improvements are relevant, achievable, and durable.
 
