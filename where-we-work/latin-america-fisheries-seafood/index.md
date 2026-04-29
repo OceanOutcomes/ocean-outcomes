@@ -2,7 +2,7 @@
 layout: page
 title: Latin America
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/latin-america-hover.jpg
-hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/latin-america-fisheries-seafood-hero.jpg
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/latin+america+hero.png
 weight: 3
 teaser-text: Despite possessing some of the most productive marine ecosystems on earth, which support millions of fishers, disproportionately few sustainable seafood certifications and fishery improvement initiatives have focused on understanding the challenges and needs of Latin American small-scale fisheries. We are working to change this.
 subtitle: Small-scale fisheries underpin the livelihoods, food security and social fabric of coastal communities across Latin America. Dedicated, culturally- and context-relevant approaches which focus on the livelihoods and well-being of seafood harvesters are the starting point for fishery improvement and sustainable seafood in Latin America.
@@ -26,6 +26,8 @@ Rather than applying one-size-fits-all solutions, we co-design approaches with p
 
 ##Building regional momentum through partnerships
 
+![latin-america-dock-workers.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/latin+america+dock+workers.png)
+
 Across the region, we collaborate with partners and support clients and a growing network of local organizations to address the needs of Latin American fisheries.
 
 In Costa Rica, Belize, Mexico and elsewhere in the region — we are helping to:
@@ -38,6 +40,8 @@ In Costa Rica, Belize, Mexico and elsewhere in the region — we are helping to:
 
 *Community-centered fisheries improvement in Costa Rica*
 
+![latin-america-community.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/latin+america+community.png)
+
  <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+4+-+CFIPs.pdf/"target="_blank">In Costa Rica, we are advancing community-based fishery improvement projects (C-FIPs) in partnership with Conservation International and local stakeholders.</a>
 
 Building on traditional Fishery Improvement Projects, CFIPs are designed specifically for small-scale fisheries, shifting from top-down interventions to bottom-up, community-led action. Fishers and local stakeholders define priorities, co-design solutions, and lead implementation. CFIPs apply the triple impact lens, allowing actions to be sequenced and adapted based on local realities — ensuring that improvements are relevant, achievable, and durable.
@@ -46,6 +50,8 @@ Building on traditional Fishery Improvement Projects, CFIPs are designed specifi
 
 *Strengthening fisheries governance in Belize*
 
+![latin-america-row-of-boats.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/latin+america+row+of+boats.png)
+
 In Belize, we are working alongside Oceana to support a comprehensive fisheries sector assessment.
 
 This work helps evaluate management performance across policy, transparency, and stock health — identifying priority actions to strengthen the system. While Belize has made important progress, including modern fisheries legislation and gear restrictions, gaps in data collection, transparency, and stock monitoring continue to limit effective management. By connecting these insights with on-the-water realities, the work supports stronger governance, more informed decision-making, and more resilient fisheries systems over time.
@@ -53,6 +59,8 @@ This work helps evaluate management performance across policy, transparency, and
 ---
 
 *Scaling triple impact models in Mexico*
+
+![latin-america-fisherman.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/latin+america+fisherman.png)
 
  <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+1+-+Baja+Mexico.pdf/"target="_blank">In Mexico, we worked with SmartFish to demonstrate how business-driven models can transform small-scale fisheries.</a>
 
