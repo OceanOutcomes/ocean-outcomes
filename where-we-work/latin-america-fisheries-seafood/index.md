@@ -31,10 +31,10 @@ Rather than applying one-size-fits-all solutions, we co-design approaches with p
 Across the region, we collaborate with partners and support clients and a growing network of local organizations to address the needs of Latin American fisheries.
 
 In Costa Rica, Belize, Mexico and elsewhere in the region — we are helping to:
-* Pilot and scale community-centered improvement models
-* Strengthen fisheries governance and policy frameworks
-* Improve traceability, transparency, and market access
-* Build capacity within fishing communities and local institutions
+ * Pilot and scale community-centered improvement models
+ * Strengthen fisheries governance and policy frameworks
+ * Improve traceability, transparency, and market access
+ * Build capacity within fishing communities and local institutions
 
 ---
 
@@ -52,9 +52,9 @@ Building on traditional Fishery Improvement Projects, CFIPs are designed specifi
 
 ![latin-america-row-of-boats.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/latin+america+row+of+boats.png)
 
-In Belize, we are working alongside Oceana to support a comprehensive fisheries sector assessment.
+ <a href="https://belize.oceana.org/wp-content/uploads/sites/15/Belize-Fisheries-Audit-2021-FINAL.pdf/"target="_blank">In Belize, we are working alongside Oceana to support a comprehensive fisheries sector assessment.</a>
 
-This work helps evaluate management performance across policy, transparency, and stock health — identifying priority actions to strengthen the system. While Belize has made important progress, including modern fisheries legislation and gear restrictions, gaps in data collection, transparency, and stock monitoring continue to limit effective management. By connecting these insights with on-the-water realities, the work supports stronger governance, more informed decision-making, and more resilient fisheries systems over time.
+This work helps evaluate management performance across policy, transparency, and stock health — identifying priority actions to strengthen the system.  <a href="https://news.mongabay.com/2025/10/belizes-blue-reputation-vs-reef-reality-marine-conservation-wins-and-whats-missing/"target="_blank">While Belize has made important progress, including modern fisheries legislation and gear restrictions, gaps in data collection, transparency, and stock monitoring continue to limit effective management.</a> By connecting these insights with on-the-water realities, the work supports stronger governance, more informed decision-making, and more resilient fisheries systems over time.
 
 ---
 
