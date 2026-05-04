@@ -36,7 +36,12 @@ Building on traditional Fishery Improvement Projects, CFIPs are designed specifi
 
 [![CFIP-Manual-Image.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CFIP+Manual+Image.png)](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Community+Fishery+Improvement+Project+Manual.pdf)
 
-<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Community+Fishery+Improvement+Project+Manual.pdf/"target="_blank">**To support the adoption and implementation of this approach, Ocean Outcomes worked alongside Conservation International and the Wildlife Conservation Society to develop a practical guide to designing and implementing CFIPs.</a>** The manual outlines the full process — from scoping and co-design through implementation and measuring impact — grounded in real-world application across small-scale fisheries.
+<strong>
+  <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Community+Fishery+Improvement+Project+Manual.pdf" target="_blank">
+    To support the adoption and implementation of this approach, Ocean Outcomes worked alongside Conservation International and the Wildlife Conservation Society to develop a practical guide to designing and implementing CFIPs.
+  </a>
+</strong>
+The manual outlines the full process — from scoping and co-design through implementation and measuring impact — grounded in real-world application across small-scale fisheries.
 
 ----
 
