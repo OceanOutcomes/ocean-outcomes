@@ -14,7 +14,7 @@ From the highly productive waters of the Humboldt Current (responsible for rough
 
 Yet despite this importance, many small-scale fisheries in Latin America remain underserved by traditional sustainability approaches. Efforts have often focused on environmental performance and export-driven markets, without fully accounting for the economic realities, governance challenges, and community priorities that actually shape fisheries in the region.
 
-As a result, many fishers operate within a cycle of low value and limited market access — selling poorly handled or undervalued catch, which drives the need to fish more, often in ways that put additional pressure on already vulnerable ecosystems. Breaking this cycle requires approaches that go beyond conventional models — linking environmental improvements with stronger livelihoods, functioning markets, and locally grounded solutions.
+As a result, many fishers operate within a cycle of low value and limited market access,  selling poorly handled or undervalued catch, which drives the need to fish more, often in ways that put additional pressure on already vulnerable ecosystems. Breaking this cycle requires approaches that go beyond conventional models — linking environmental improvements with stronger livelihoods, functioning markets, and locally grounded solutions.
 
 At Ocean Outcomes, we work alongside communities, partners, and supply chains to provide technical support, build capacity and helpbridge that gap. We’re building practical pathways toward sustainability that reflect the realities of Latin American fisheries and create lasting change where it matters most.
 
@@ -49,7 +49,7 @@ In Costa Rica, Belize, Mexico and elsewhere in the region — we are helping to:
   </a>
 </strong>
 
-Building on traditional Fishery Improvement Projects, CFIPs are designed specifically for small-scale fisheries. Instead of taking a top-down intervention approach, they take a bottom-up, community-led approach. Fishers and local stakeholders define priorities, co-design solutions, and lead implementation. CFIPs apply the triple impact approach, allowing actions to be sequenced and adapted based on local realities — ensuring that improvements are relevant, achievable, and durable.
+Building on traditional Fishery Improvement Projects, CFIPs are designed specifically for small-scale fisheries. Instead of taking a top-down intervention approach, they take a bottom-up, community-led approach. Fishers and local stakeholders define priorities, co-design solutions, and lead implementation. CFIPs apply the triple impact approach, allowing actions to be sequenced and adapted based on local realities, ensuring that improvements are relevant, achievable, and durable.
 
 ---
 
