@@ -4,7 +4,7 @@ title: Small-Scale Fisheries
 weight: 4
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/our-work-hover.jpg
 hero-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/convergence-funds-ocean-outcomes-and-blue-finance-hero.jpg
-teaser-text: mall-scale fisheries sit at the center of global seafood systems, supporting livelihoods, feeding communities, and shaping the health of coastal ecosystems worldwide. Yet despite their importance, these fisheries remain among the most underserved in sustainability efforts. At Ocean Outcomes, we work alongside communities, governments, and partners to strengthen the conditions that make lasting change in small-scale fisheries possible.
+teaser-text: Small-scale fisheries sit at the center of global seafood systems, supporting livelihoods, feeding communities, and shaping the health of coastal ecosystems worldwide. Yet despite their importance, these fisheries remain among the most underserved in sustainability efforts. At Ocean Outcomes, we work alongside communities, governments, and partners to strengthen the conditions that make lasting change in small-scale fisheries possible.
 subtitle: To date, small-scale fisheries and their stakeholders are underserved and underrepresented in the global seafood environment and movement. New approaches, collaborations and tools from Ocean Outcomes and partners are working to change this.
 ---
 
