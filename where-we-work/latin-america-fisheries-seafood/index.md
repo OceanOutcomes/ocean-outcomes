@@ -43,7 +43,11 @@ In Costa Rica, Belize, Mexico and elsewhere in the region — we are helping to:
 
 ![latin-america-community.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/latin+america+community.png) 
 
-<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+4+-+CFIPs.pdf/"target="_blank">In Costa Rica, we are advancing community-based fishery improvement projects (CFIPs) in partnership with Conservation International and local stakeholders.</a>
+<strong>
+  <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+4+-+CFIPs.pdf" target="_blank">
+    In Costa Rica, we are advancing community-based fishery improvement projects (CFIPs) in partnership with Conservation International and local stakeholders.
+  </a>
+</strong>
 
 Building on traditional Fishery Improvement Projects, CFIPs are designed specifically for small-scale fisheries. Instead of taking a top-down intervention approach, they take a bottom-up, community-led approach. Fishers and local stakeholders define priorities, co-design solutions, and lead implementation. CFIPs apply the triple impact approach, allowing actions to be sequenced and adapted based on local realities — ensuring that improvements are relevant, achievable, and durable.
 
@@ -53,7 +57,11 @@ Building on traditional Fishery Improvement Projects, CFIPs are designed specifi
 
 ![latin-america-row-of-boats.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/latin+america+row+of+boats.png)
 
-<a href="https://belize.oceana.org/wp-content/uploads/sites/15/Belize-Fisheries-Audit-2021-FINAL.pdf/"target="_blank">In Belize, we are working alongside Oceana to support a comprehensive fisheries sector assessment.</a>
+<strong>
+  <a href="https://belize.oceana.org/wp-content/uploads/sites/15/Belize-Fisheries-Audit-2021-FINAL.pdf" target="_blank" rel="noopener noreferrer">
+    In Belize, we are working alongside Oceana to support a comprehensive fisheries sector assessment.
+  </a>
+</strong>
 
 This work helps evaluate management performance across policy, transparency, and stock health — identifying priority actions to strengthen the overall management system. <a href="https://news.mongabay.com/2025/10/belizes-blue-reputation-vs-reef-reality-marine-conservation-wins-and-whats-missing/"target="_blank">While Belize has made important progress, including modern fisheries legislation and gear restrictions, gaps in data collection, transparency, and stock monitoring continue to limit effective management.</a> By connecting these insights with on-the-water realities, the work supports stronger governance, more informed decision-making, and more resilient fisheries systems over time.
 
@@ -63,9 +71,17 @@ This work helps evaluate management performance across policy, transparency, and
 
 ![latin-america-fisherman.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/latin+america+fisherman.png)
 
-<a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+1+-+Baja+Mexico.pdf/"target="_blank">We worked with SmartFish to demonstrate how business-driven models can transform small-scale fisheries.</a> This approach has led to improved fishing and handling practices resulting in higher prices and a reduction in overfishing and better ecosystem protections. 
+<strong>
+  <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+1+-+Baja+Mexico.pdf" target="_blank" rel="noopener noreferrer">
+    We worked with SmartFish to demonstrate how business-driven models can transform small-scale fisheries.
+  </a>
+</strong> This approach has led to improved fishing and handling practices resulting in higher prices and a reduction in overfishing and better ecosystem protections. 
 
-<a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+5+-+Del+Pacifico.pdf/"target="_blank">We worked with fishing cooperatives to strengthen operations, improve product quality, and increase the value of their catch — aligning economic incentives with more responsible fishing practices.</a> This work has aligned fishery stakeholders — from seafood companies, fishing cooperatives and government managers — to make progress towards shared sustainability objectives. 
+<strong>
+  <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+5+-+Del+Pacifico.pdf" target="_blank" rel="noopener noreferrer">
+    We worked with fishing cooperatives to strengthen operations, improve product quality, and increase the value of their catch — aligning economic incentives with more responsible fishing practices.
+  </a>
+</strong>This work has aligned fishery stakeholders — from seafood companies, fishing cooperatives and government managers — to make progress towards shared sustainability objectives. 
 
 ---
 
