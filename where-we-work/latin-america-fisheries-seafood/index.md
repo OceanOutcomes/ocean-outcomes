@@ -94,6 +94,8 @@ By working alongside communities, partners, and supply chains, we are helping bu
 ---
 ##Stories from the Field: Latin America
 
+* [Ocean Outcomes finding success with more tailored, community-focused C-FIP approach to fisheries improvement](https://www.seafoodsource.com/news/environment-sustainability/ocean-outcomes-finding-success-with-more-tailored-community-focused-c-fip-approach-to-improving-fisheries)
+* [How Can We Secure Sustainable Small-Scale Fisheries Beyond the Catch?](https://heyzine.com/flip-book/f53c1d9c79.html) 
 * [Insights from Our Work on the Water — 2025 Reflections and Looking Ahead to 2026] (/news/insights-from-our-work-on-the-water-reflections-and-looking-ahead/)
 * [Human Rights Day 2025 - Advancing Dignity and Decent Work in Global Fisheries] (/news/human-rights-day-decent-work-global-fisheries/)
 * [Assessing and Addressing Social Risks in Fishery Improvement Projects] (/news/Assessing-and-Addressing-Social-Risks-in-Fishery-Improvement-Projects/)
