@@ -4,19 +4,19 @@ title: Latin America
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/latin-america-hover.jpg
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/latin+america+hero.png
 weight: 3
-teaser-text: Across Latin America the small-scale fisheries sector directly employs millions of people and supports millions more who rely on these fisheries for food and livelihoods. At Ocean Outcomes, we work alongside communities, partners, and supply chains to provide technical support, build capacity and help build practical pathways toward sustainability that reflect the realities of Latin American fisheries. 
-subtitle: Small-scale fisheries underpin the livelihoods, food security and social fabric of coastal communities across Latin America. Dedicated, culturally- and context-relevant approaches which focus on the livelihoods and well-being of seafood harvesters are the starting point for fishery improvement and sustainable seafood in Latin America.
+teaser-text: Across Latin America the small-scale fisheries sector directly employs millions of people and supports millions more who rely on these fisheries for food and livelihoods. At Ocean Outcomes, we work alongside communities, partners, and supply chains to provide technical support, build capacity and help build practical pathways toward sustainability that reflect the realities of Latin American fisheries.
+subtitle: Small-scale fisheries underpin the livelihoods, food security, and social fabric of coastal communities across Latin America. Context-relevant approaches that focus on the livelihoods and well-being of seafood harvesters are the starting point for fishery improvement and sustainable seafood in Latin America.
 ---
 
 ##Across Latin America the small-scale fisheries sector directly employs millions of people and supports millions more who rely on these fisheries for food and livelihoods.
 
-From the highly productive waters of the Humboldt Current (responsible for roughly 20% of global wild marine fish catch) to coastal fisheries across Central America and Mexico, Latin America plays an outsized role in global seafood production. Fish consumption in the region is also rising rapidly, expected to increase by more than 33% by 2030, further elevating the importance of sustainable fisheries for both local and global food systems.
+From the highly productive waters of the Humboldt Current (responsible for roughly 20% of global wild marine fish catch) to coastal fisheries across Central America and Mexico, Latin America plays a major role in global seafood production. Fish consumption in the region is also rising rapidly, expected to increase by more than 33% by 2030, further elevating the importance of sustainable fisheries for both local and global food systems.
 
 Yet despite this importance, many small-scale fisheries in Latin America remain underserved by traditional sustainability approaches. Efforts have often focused on environmental performance and export-driven markets, without fully accounting for the economic realities, governance challenges, and community priorities that actually shape fisheries in the region.
 
 As a result, many fishers operate within a cycle of low value and limited market access,  selling poorly handled or undervalued catch, which drives the need to fish more, often in ways that put additional pressure on already vulnerable ecosystems. Breaking this cycle requires approaches that go beyond conventional models — linking environmental improvements with stronger livelihoods, functioning markets, and locally grounded solutions.
 
-At Ocean Outcomes, we work alongside communities, partners, and supply chains to provide technical support, build capacity and helpbridge that gap. We’re building practical pathways toward sustainability that reflect the realities of Latin American fisheries and create lasting change where it matters most.
+At Ocean Outcomes, we work alongside communities, partners, and supply chains to provide technical support, build capacity, and help bridge that gap. We’re building practical pathways toward sustainability that reflect the realities of Latin American fisheries to create lasting change where it matters most.
 
 ##Our approach: building conditions for change
 
@@ -53,33 +53,19 @@ Building on traditional Fishery Improvement Projects, CFIPs are designed specifi
 
 ---
 
-**Strengthening fisheries governance in Belize**
-
-![latin-america-row-of-boats.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/latin+america+row+of+boats.png)
-
-<strong>
-  <a href="https://belize.oceana.org/wp-content/uploads/sites/15/Belize-Fisheries-Audit-2021-FINAL.pdf" target="_blank" rel="noopener noreferrer">
-    In Belize, we are working alongside Oceana to support a comprehensive fisheries sector assessment.
-  </a>
-</strong>
-
-This work helps evaluate management performance across policy, transparency, and stock health — identifying priority actions to strengthen the overall management system. <a href="https://news.mongabay.com/2025/10/belizes-blue-reputation-vs-reef-reality-marine-conservation-wins-and-whats-missing/"target="_blank">While Belize has made important progress, including modern fisheries legislation and gear restrictions, gaps in data collection, transparency, and stock monitoring continue to limit effective management.</a> By connecting these insights with on-the-water realities, the work supports stronger governance, more informed decision-making, and more resilient fisheries systems over time.
-
----
-
 **Scaling triple impact models in Mexico**
 
 ![latin-america-fisherman.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/latin+america+fisherman.png)
 
 <strong>
   <a href="https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+1+-+Baja+Mexico.pdf" target="_blank" rel="noopener noreferrer">
-    We worked with SmartFish to demonstrate how business-driven models can transform small-scale fisheries.
+   In Mexico, we worked with SmartFish to demonstrate how business-driven models can transform small-scale fisheries.
   </a>
 </strong> This approach has led to improved fishing and handling practices resulting in higher prices and a reduction in overfishing and better ecosystem protections. 
 
 <strong>
   <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/triple+impact+framework/Triple+Impact+Case+Study+5+-+Del+Pacifico.pdf" target="_blank" rel="noopener noreferrer">
-    We worked with fishing cooperatives to strengthen operations, improve product quality, and increase the value of their catch — aligning economic incentives with more responsible fishing practices.
+    We've also worked with fishing cooperatives to strengthen operations, improve product quality, and increase the value of their catch.
   </a>
 </strong>This work has aligned fishery stakeholders — from seafood companies, fishing cooperatives and government managers — to make progress towards shared sustainability objectives. 
 
