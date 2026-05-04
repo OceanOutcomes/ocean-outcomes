@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Emerging Trends in Electronic Monitoring Across East Asia
-teaser-text: Synthesis from stakeholder convenings at the 2025 Our Ocean Conference in Busan, South Korea
+teaser-text: Global tuna fisheries, especially high seas longline fleets that have independent monitoring rates below 10%, are a major focus for electronic monitoring adoption.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/EM+Vessel.png
 featured: TRUE
 ---
@@ -12,7 +12,7 @@ China, Japan, South Korea, and Taiwan are among the world’s top fishing econom
 
 They serve as a home base for distant-water fleets that fish on the high seas and supply important seafood commodities such as tuna and squid to Asian, North American, and European seafood markets. These economies are not only seafood powerhouses—they also shape the global direction of fisheries governance, technology, and innovation. 
 
-<a href="https://www.oceanoutcomes.org/what-we-do/electronic-monitoring/"target="_blank">Electronic monitoring (EM) — a suite of cameras, sensors, and Global Positioning System (GPS) technologies installed on fishing vessels to track fishing activities — is gaining traction across the region.</a> Governments, fishing companies, and Non-Governmental Organizations (NGOs) are investing in EM to improve transparency, ensure compliance with domestic and international rules, address illegal, unreported, and unregulated (IUU) fishing concerns, and meet growing market demands for traceable, sustainable seafood. EM holds promise as a scalable fisheries management tool that enhances supply chain transparency—especially in distant-water and high-seas fleets, where human observers are costly or infeasible.
+<a href="https://www.oceanoutcomes.org/what-we-do/electronic-monitoring/"target="_blank">Electronic monitoring (EM)—a suite of cameras, sensors, and Global Positioning System (GPS) technologies installed on fishing vessels to track fishing activities—is gaining traction across the region.</a> Governments, fishing companies, and Non-Governmental Organizations (NGOs) are investing in EM to improve transparency, ensure compliance with domestic and international rules, address illegal, unreported, and unregulated (IUU) fishing concerns, and meet growing market demands for traceable, sustainable seafood. EM holds promise as a scalable fisheries management tool that enhances supply chain transparency—especially in distant-water and high-seas fleets, where human observers are costly or infeasible.
 
 ##Global tuna fisheries, especially high seas longline fleets that have independent monitoring rates below 10%, are a major focus for EM adoption. 
 
