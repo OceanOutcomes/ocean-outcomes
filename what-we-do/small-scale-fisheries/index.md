@@ -12,7 +12,7 @@ subtitle: Small-scale fisheries and their stakeholders are underserved and under
 
 Small-scale fisheries sit at the center of global seafood systems, supporting livelihoods, feeding communities, and shaping the health of coastal ecosystems worldwide. <a href="https://ourworldindata.org/fish-and-overfishing/"target="_blank">Fish and seafood provide a primary source of protein for nearly half the global population.</a> Small-scale fisheries play a disproportionate role in meeting that need, producing much of the seafood destined for direct human consumption and employing the vast majority of fishworkers globally.
 
-Yet despite their importance, these fisheries remain among the most underserved in sustainability efforts. Many face mounting pressures, from overfishing and climate-driven shifts in fish populations, to pollution and degraded ecosystems. Meanwhile,the communities that depend on them often lack access to markets, services, and decision-making processes.
+Yet despite their importance, these fisheries remain among the most underserved in sustainability efforts. Many face mounting pressures, from overfishing and climate-driven shifts in fish populations, to pollution and degraded ecosystems. Meanwhile, the communities that depend on them often lack access to markets, services, and decision-making processes.
 
 The future of fisheries will not be determined by large-scale systems alone. It will also be shaped in coastal communities, where access, equity, and opportunity define what sustainable fishing looks like in practice.
 
@@ -22,7 +22,7 @@ At Ocean Outcomes, we work alongside communities, governments, and partners to s
 
 ![woman-processing-fish.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Women+processing+fish.png)
 
-Our work in small-scale fisheries is grounded in a [triple bottom line approach](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-improvement/) — considering and working to advance environmental sustainability, social responsibility, and economic viability together.
+Our work in small-scale fisheries is grounded in a [triple bottom line approach](https://www.oceanoutcomes.org/what-we-do/services/triple-impact-improvement/), considering and working to advance environmental sustainability, social responsibility, and economic viability together.
 
 Alongside partners including SmartFish AC and Conservation International, we have leveraged this approach to address a clear challenge: efforts focused on environmental outcomes alone often fail to deliver lasting results when social and economic realities are left unaddressed.
 
