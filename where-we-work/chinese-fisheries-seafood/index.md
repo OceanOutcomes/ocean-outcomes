@@ -61,6 +61,7 @@ Through our partnership with the NFI Crab Council, we are supporting improvement
 ---
 ##Stories from the Field: China
 
+* [Emerging Trends in Electronic Monitoring Across East Asia](https://www.oceanoutcomes.org/news/Emerging-Trends-in-Electronic-Monitoring-Across-East-Asia/)
 * [East Asia's Sustainable Seafood Movement Taking Center Stage](/news/East-Asia-Exchange/)
 * [Ocean Outcomes and Seafood Legacy Form East Asian Partnership] (/news/new-partnership-to-advance-sustainable-seafood-and-fisheries-across-east-asia/)
 * [Insights from Our Work on the Water — 2025 Reflections and Looking Ahead to 2026] (/news/insights-from-our-work-on-the-water-reflections-and-looking-ahead/)

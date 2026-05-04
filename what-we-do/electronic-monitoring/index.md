@@ -58,6 +58,7 @@ In practice, Wi-Fi has proven to be critical, transforming EM from a monitoring 
 
 ---
 ##Stories from the Field: Electronic Monitoring 
+* [Emerging Trends in Electronic Monitoring Across East Asia](https://www.oceanoutcomes.org/news/Emerging-Trends-in-Electronic-Monitoring-Across-East-Asia/)
 * <a href="https://em4.fish/connecting-crews-and-vessels-emc4cs-latest-milestone-in-majuro/"target="_blank">Connecting Crews and Vessels: EMC4C’s Latest Milestone in Majuro</a>
 * [Ocean Outcomes and Seafood Legacy Form East Asian Partnership](https://www.oceanoutcomes.org/news/new-partnership-to-advance-sustainable-seafood-and-fisheries-across-east-asia/)
 * <a href="https://em4.fish/em4humanity-technology-meets-labor-rights-in-global-fisheries/"target="_blank">Insights from three NGOs collaborating to improve crew welfare in high-seas fisheries with electronic monitoring and Wi-Fi</a>
