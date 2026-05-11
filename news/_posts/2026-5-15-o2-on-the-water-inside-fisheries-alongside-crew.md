@@ -39,7 +39,7 @@ Crew members might speak multiple languages and hail from different countries th
 
 ![photo+blog+image+6.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Inside+Fisheries+Alongside+Crews+Photo+Blog+/photo+blog+image+6.png)
 
-*Gabby Lout and an interpreter speak with the crew as part of the <a href="https://em4.fish/connecting-crews-and-vessels-emc4cs-latest-milestone-in-majuro/"_blank">EMC4C Marshall Island Site Visit in Majuro</a>*.
+*Gabby Lout and an interpreter speak with the crew as part of the EMC4C Marshall Island Site Visit in Majuro*.
 
 ##Turning Tools into Practice
 
@@ -69,7 +69,7 @@ Beyond technology, our larger work is to build understanding, create space for d
 
 ![photo+blog+image+10.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Inside+Fisheries+Alongside+Crews+Photo+Blog+/photo+blog+image+10.png)
 
-*O2’s Asia Fisheries Coordinator, Ryan Xu, working with a member of the crew during a Cheng Hung Seafood Frozen FIP training, highlighting best practices related to baiting hooks that can reduce unintended and unwanted bycatch.*
+*O2’s Asia Fisheries Coordinator, Ryan Xu, working with a member of the crew during a CHSF FIP training, highlighting best practices related to baiting hooks that can reduce unintended and unwanted bycatch.*
 
 Our team conducts training on best fishing practices, including how EM supports fisheries management, how Wi-Fi access helps crew stay connected with family and access financial services, and workers’ rights and grievance reporting. We work closely with partners—from NGOs to worker organizations—leveraging one another's expertise and contributions to ensure work is efficient and non-duplicative. We work with interpreters that are embedded within our projects and teams, and create materials that the captains and crew can reference later. These aren’t just one-time sessions, they’re ongoing conversations which support meaningful partnerships.
 
@@ -93,7 +93,7 @@ How? Data collected through EM supports more accurate stock assessments and stre
 
 ![photo+blog+image+14.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Inside+Fisheries+Alongside+Crews+Photo+Blog+/photo+blog+image+14.png)
 
-*Ho-Tu Chiang opens a Social Responsibility Assessment workshop with the Taiwan Tuna Longline Association.*
+*Ho-Tu Chiang opens a Social Responsibility Assessment workshop with the TTLA.*
 
 **Work at the vessel-level also strengthens policy conversations.** When we take our on-the-water learnings and participate in regional workshops on EM standards, or contribute to discussions on labor protections in distant-water fleets, we bring essential insights grounded in real-world implementation—insights that can ultimately inform larger initiatives, regional labor standards, and broader industry engagement. 
 
