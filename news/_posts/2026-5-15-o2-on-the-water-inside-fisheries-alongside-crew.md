@@ -1,7 +1,7 @@
 ---
 layout: news
 title: "O2 On the Water: Inside Fisheries, Alongside Crews"
-teaser-text: 
+teaser-text: Step onboard with O2 for a behind-the-scenes look at how our teams work directly with crews, captains, and partners to support more transparent and responsible fisheries.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Inside+Fisheries+Alongside+Crews+Photo+Blog+/photo+blog+image+1.png
 featured: TRUE
 ---
