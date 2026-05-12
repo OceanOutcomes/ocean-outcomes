@@ -17,11 +17,7 @@ At Ocean Outcomes, our approach has always been grounded in three principles: **
 
 Our work bridges the gap between what **sustainability frameworks require** and **what’s actually possible on the water.** 
 
-![photo+blog+image+3.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Inside+Fisheries+Alongside+Crews+Photo+Blog+/photo+blog+image+3.png)
-
-*Gabby Lout assisting Mei-Chin Juan as they disembark a vessel following a site visit in Pago Pago, American Samoa.*
-
-Policies, certifications, and market requirements help set best practice expectations for transparency, traceability, and worker welfare. And translating those expectations into functional systems requires understanding the **operational realities** fishers face: space constraints, connectivity challenges, crew dynamics, and the relentless rhythm of fishing operations. 
+Policies, certifications, and market commitments help set best practice expectations and requirements for transparency, traceability, and worker welfare. And translating those expectations into functional systems and change in practice requires understanding the **operational realities** fishers face including space constraints, connectivity challenges, crew dynamics, and the relentless rhythm of fishing operations.  
 
 ##Life at Sea: Understanding the Reality
 
@@ -33,13 +29,13 @@ A first step in our process is to spend time **listening and learning about what
 
 ![photo+blog+image+5.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Inside+Fisheries+Alongside+Crews+Photo+Blog+/photo+blog+image+5.png)
 
-*Kevin Lin, O2’s Taiwan Fisheries Manager, speaks with members of the crew aboard a Cheng Hung Seafood Frozen (CHSF) vessel during a Fishery Improvement Project (FIP) training.* 
+*Kevin Lin (left), O2’s Taiwan Fisheries Manager, speaks with members of the crew aboard a Cheng Hung Seafood Frozen (CHSF) vessel during a Fishery Improvement Project (FIP) training.* 
 
 Crew members might speak multiple languages and hail from different countries than the vessel’s flag state. Captains balance fishing efficiency, safety, compliance, and crew welfare while operating on tight schedules. For those working on the water, the constraints aren’t abstract—they’re the conditions under which any tool, technology, or improvement process has to function. 
 
 ![photo+blog+image+6.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Inside+Fisheries+Alongside+Crews+Photo+Blog+/photo+blog+image+6.png)
 
-*Gabby Lout and an interpreter speak with the crew as part of the EMC4C Marshall Island Site Visit in Majuro*.
+*Gabby Lout (right) and project interpreter, Ari, speak with the crew as part of the EMC4C Marshall Island Site Visit in Majuro.*
 
 ##Turning Tools into Practice
 
@@ -55,7 +51,7 @@ Transparency is built, not installed.
 
 *Partners from Conservation International and Satlink test recently installed EM systems onboard a Taiwan-flagged longline vessel [as part of our EMC4C work.](https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)*
 
-Even more importantly, **it requires collaboration.** O2 works alongside vessel engineers, captains, and technology providers to adapt systems to each vessel’s unique setup, and then **troubleshoot in real time and adjust based on feedback.** We then train crew and captains on how the systems work, why they matter, and how to address issues when they arise.
+Even more importantly, **it requires collaboration.** O2 works alongside vessel engineers, captains, and technology providers to adapt systems to each vessel’s unique setup, and then **troubleshoot in real time and adjust based on feedback.** We then work with EM technology providers to train crew and captains on how the systems work, why they matter, and how to address issues when they arise.
 
 Technology only works if it works in practice.
 
