@@ -69,6 +69,7 @@ Together, these efforts reflect our broader approach: linking on-the-water impro
 ---
 ##Stories from the Field: East Asia
 
+* [O2 On the Water: Inside Fisheries, Alongside Crew](https://www.oceanoutcomes.org/news/o2-on-the-water-inside-fisheries-alongisde-crew/)
 * [Emerging Trends in Electronic Monitoring Across East Asia](https://www.oceanoutcomes.org/news/Emerging-Trends-in-Electronic-Monitoring-Across-East-Asia/)
 * [East Asia's Sustainable Seafood Movement Taking Center Stage](/news/East-Asia-Exchange/)
 * [Ocean Outcomes and Seafood Legacy Form East Asian Partnership] (/news/new-partnership-to-advance-sustainable-seafood-and-fisheries-across-east-asia/)
