@@ -98,7 +98,7 @@ That’s where we focus — working with partners to make progress that is pract
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
 
-* [O2 On the Water: Inside Fisheries, Alongside Crew](https://www.oceanoutcomes.org/news/o2-on-the-water-inside-fisheries-alongisde-crew/)
+* [O2 On the Water: Inside Fisheries, Alongside Crew](https://www.oceanoutcomes.org/news/o2-on-the-water-inside-fisheries-alongside-crew/)
 * [East Asia's Sustainable Seafood Movement Taking Center Stage](/news/East-Asia-Exchange/)
 * [Ocean Outcomes and Seafood Legacy Form East Asian Partnership] (/news/new-partnership-to-advance-sustainable-seafood-and-fisheries-across-east-asia/)
 * [Insights from Our Work on the Water — 2025 Reflections and Looking Ahead to 2026] (/news/insights-from-our-work-on-the-water-reflections-and-looking-ahead/)
