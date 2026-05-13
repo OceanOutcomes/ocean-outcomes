@@ -3,7 +3,7 @@ layout: news
 title: East Asia's Sustainable Seafood Movement Taking Center Stage
 teaser-text: How a new collaborative series is connecting local expertise and innovative initiatives with global impact, and why it matters.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/East-Asia-Exchange-SENA-1.png
-featured: TRUE
+featured: FALSE
 ---
 
 ##East Asia accounts for nearly half of global seafood production and consumption. 
