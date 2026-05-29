@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Chen Hung Seafood Frozen Produce Co. Ltd. Pacific Ocean Longline Tuna FIP
+title: Cheng Hung Seafood Frozen Produce Co. Ltd. Pacific Ocean Longline Tuna FIP
 landing-image:
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/V2+-+Yellowfin+tuna%2C+an+important+import+species+for+US+(1).png
 weight: 
