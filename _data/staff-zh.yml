@@ -21,9 +21,9 @@
   bio: |
     和都領導並支持 Ocean Outcomes 在台灣漁業改善計畫的開發和實施、包括這些計畫的研究和技術支援。 這包括與該地區的商業鮪魚漁業和非政府組織合作、以及協調專案工作計劃和利益相關者會議。 和都曾在台灣海巡署工作、在國際事務以及監測、控制和管制（MCS）方面擁有超過六年的幕僚和實務經驗。 此外、他還與台灣漁業署、海洋委員會和其他利益相關者合作支持國際會議和研討會。 懷著對漁業保護和管理的熱情、和都擁有中央警察大學水警系學士學位和美國紐約市立大學約翰傑刑事司法學院國際犯罪與司法碩士學位。 
 
-- name: 資深顧問
+- name: Marina Colby
   contractor: false
-  title: 首席漁業科學家
+  title: 資深顧問
   email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Marina+Headshot.png
   bio: |
@@ -85,7 +85,7 @@
 
 - name: Iván Martínez-Tovar
   contractor: false
-  title: Fisheries Science Senior Manager
+  title: 資深漁業科學家
   email:
   image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/staff+photos/Ivan_staffphoto.png
   bio: |
