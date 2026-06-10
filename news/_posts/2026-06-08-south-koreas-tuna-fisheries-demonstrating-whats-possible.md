@@ -23,7 +23,9 @@ With modern electronic monitoring systems comes better connectivity. And that co
 
 Tuna produced by Sajo is consumed in South Korea and Japan, and also exported to the United States and European Union. As seafood buyers increasingly become aware of the labor risks of high seas fishing for species like tuna, Sajo is taking a proactive approach to assessing and addressing opportunities for improved labor and crew conditions on their company owned vessels.  
 
-##Sajo plans to use learnings and insight from this work to inform government programs designed to improve working conditions on distant water fishing vessels. This is creating a ripple effect across the tuna industry at large. 
+##Sajo plans to use learnings and insight from this work to inform government programs designed to improve working conditions on distant water fishing vessels. 
+
+This is creating a ripple effect across the tuna industry at large. 
 
 >**“As the largest tuna longline vessel operator in Korea, we have great ambitions for our sustainability work. And great responsibility. We hope to eventually expand this work to all our vessels and crew,” added Chi-Gon Kim. “Because we believe that companies that lead on sustainability today will be better positioned to earn the trust of markets and society tomorrow.”** 
 
@@ -34,4 +36,5 @@ Tuna produced by Sajo is consumed in South Korea and Japan, and also exported to
 **Additional Resources**
 
 [Download a PDF of this announcement.](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/English+-+South+Korea%E2%80%99s+Tuna+Fisheries+Demonstrating+What%E2%80%99s+Possible+Media+Release+8+June+2026.pdf)
+
 [한국어 버전](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Korean+-+South+Korea%E2%80%99s+Tuna+Fisheries+Demonstrating+What%E2%80%99s+Possible+Media+Release+8+June+2026.pdf)
