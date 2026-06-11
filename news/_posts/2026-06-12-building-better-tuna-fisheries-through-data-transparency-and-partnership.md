@@ -31,6 +31,9 @@ The assessment, completed in October 2025, found meaningful improvements across 
 
 Today, the FIP is addressing 27 of 28 environmental MSC performance indicators, while social responsibility efforts continue to advance through a combination of policy development, training, and worker engagement.
 
+![CHSF-ISSF.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+ISSF.png)
+*Crew from a CHSF Vessel participate in the ISSF Skipper & Grievance Trainings*
+
 Additionally, the FIP has participated in <a href="https://www.iss-foundation.org/"target="_blank">International Seafood Sustainability Foundation (ISSF)</a> skipper best practice training, conducted with interpreters to ensure accessibility for migrant crew. To date, 18 of 20 FIP vessels are listed on the <a href="https://www.iss-foundation.org/vessel-and-company-commitments/proactive-vessel-register/proactive-vessel-register-pvr/"target="_blank">ISSF ProActive Vessel Register</a> — a public vessel list that ISSF provides to foster transparency in tuna fishing — with the remaining two vessels to follow.
 
 >*"The success of the FIP is not the result of any single organization. It reflects the willingness of CHSF, participating vessel owners, captains, crew, government agencies, and partners to stay engaged, address challenges openly, and keep improving year after year." — Kevin Lin, Taiwan Fisheries Manager, Ocean Outcomes and CHSF FIP Lead
@@ -38,7 +41,6 @@ Additionally, the FIP has participated in <a href="https://www.iss-foundation.or
 **Electronic Monitoring: Building Transparency**
 
 ![CHSF-EM.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+EM.png)
-
 *Electronic monitoring cameras provide a window into fishing operations at sea, helping improve transparency, data quality, and accountability across the CHSF FIP fleet.*
 
 One of the most notable areas of advancement has been the rollout of electronic monitoring (EM) systems within the fleet. 
@@ -48,8 +50,7 @@ Prior to Ocean Outcomes’ involvement, the fleet had little independent observe
 As part of the FIP work, EM systems were installed in late 2024 and by the end of 2025, four vessels were equipped with onboard cameras and monitoring technology. Data from two vessels has already been analyzed — covering more than 673,000 hooks deployed across 168 sets. 
 
 ![CHSF-Ryan.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+Ryan.png)
-
-O2’s Asia Fisheries Coordinator, Ryan Xu, working with a member of the crew during a CHSF FIP training, highlighting best practices related to baiting hooks that can reduce unintended and unwanted bycatch.
+*O2’s Asia Fisheries Coordinator, Ryan Xu, working with a member of the crew during a CHSF FIP training, highlighting best practices related to baiting hooks that can reduce unintended and unwanted bycatch.*
 
 The EM systems allow for around-the-clock visibility into fishing operations. Importantly, they are helping the fleet and CHSF better understand interactions with non-target species, including sharks, seabirds, turtles, and other protected marine life.
 
@@ -78,9 +79,6 @@ This advocacy work has contributed to tangible results at the RFMO level. IATTC 
 Healthy fisheries depend on healthy working conditions. That’s why Ocean Outcomes integrates social responsibility into fishery improvement work from the start. We recognize protecting workers and protecting fish stocks are inseparable parts of building resilient, sustainable fisheries.
 
 Like many distant-water fisheries around the world, the CHSF FIP fishery operates in a context where labor risks are elevated. Addressing these risks is an essential part of building a responsible and accountable seafood supply chain. 
-
-![CHSF-ISSF.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+ISSF.png)
-*Crew from a CHSF Vessel participate in the ISSF Skipper & Grievance Trainings*
 
 Under O2’s management, the FIP has implemented crew and captain training in Taiwan and the Solomon Islands, covering rights and responsibilities and grievance access. Ongoing social responsibility work with O2 addresses fisher rights training and awareness of grievance channels. Efforts to enhance onboard safety, first aid preparedness and recruitment processes remain key priorities within the broader social responsibility workplan of the FIP.
 
