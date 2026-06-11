@@ -18,7 +18,7 @@ What changed? Sustained investment, a willingness to implement systems that work
 In 2024, Ocean Outcomes assumed management and implementation of the [CHSF Pacific Ocean Longline Tuna Fishery Improvement Project (FIP)](https://www.oceanoutcomes.org/what-we-do/tuna/chen-hung-seafood-frozen-produce-co-pacific-ocean-longline-tuna-fip/), bringing our hands-on approach and technical expertise shaped by years of experience working in complex fisheries around the world.
 
 ![CHSF-logbook.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+logbook.png)
-*Ocean Outcomes delivers onboard best fishing practices training to crew members participating in the CHSF FIP, covering bycatch mitigation measures and sustainable fishing techniques.* 
+*A logbook on CHSF FIP Vessel tracks species counts and weights.* 
 
 The 20 fishing vessels which are part of the FIP catch yellowfin, skipjack, bigeye, and albacore tuna. These vessels fish on the high seas and in the Solomon Islands Exclusive Economic Zone (EEZ) —  making effective monitoring, data collection, and accountability especially challenging but critical. 
 
@@ -73,7 +73,6 @@ This advocacy work has contributed to tangible results at the RFMO level. IATTC 
 **Putting People at the Center of Fishery Improvement**
 
 ![CHSF-Crew.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+crew+reading.png)
-
 *Crew members review training materials covering worker rights, responsibilities, and access to grievance mechanisms aboard a CHSF FIP vessel.*
 
 Healthy fisheries depend on healthy working conditions. That’s why Ocean Outcomes integrates social responsibility into fishery improvement work from the start. We recognize protecting workers and protecting fish stocks are inseparable parts of building resilient, sustainable fisheries.
