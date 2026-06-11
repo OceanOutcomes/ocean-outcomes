@@ -58,6 +58,7 @@ In practice, Wi-Fi has proven to be critical, transforming EM from a monitoring 
 
 ---
 ##Stories from the Field: Electronic Monitoring 
+* [Building Better Tuna Fisheries through Data Transparency and Partnership](https://www.oceanoutcomes.org/news/building-better-tuna-fisheries-through-data-transparency-and-partnership/) 
 * [O2 On the Water: Inside Fisheries, Alongside Crew](https://www.oceanoutcomes.org/news/o2-on-the-water-inside-fisheries-alongside-crew/)
 * [Emerging Trends in Electronic Monitoring Across East Asia](https://www.oceanoutcomes.org/news/Emerging-Trends-in-Electronic-Monitoring-Across-East-Asia/)
 * <a href="https://em4.fish/connecting-crews-and-vessels-emc4cs-latest-milestone-in-majuro/"target="_blank">Connecting Crews and Vessels: EMC4C’s Latest Milestone in Majuro</a>
