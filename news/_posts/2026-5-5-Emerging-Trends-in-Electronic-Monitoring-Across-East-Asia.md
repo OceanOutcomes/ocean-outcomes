@@ -3,7 +3,7 @@ layout: news
 title: Emerging Trends in Electronic Monitoring Across East Asia
 teaser-text: Global tuna fisheries, especially high seas longline fleets that have independent monitoring rates below 10%, are a major focus for electronic monitoring adoption.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/EM+Vessel.png
-featured: TRUE
+featured: FALSE
 ---
 
 ##East Asia plays a critical role in global fisheries. 
