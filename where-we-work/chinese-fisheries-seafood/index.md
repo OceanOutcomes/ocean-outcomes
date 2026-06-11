@@ -61,6 +61,7 @@ Through our partnership with the NFI Crab Council, we are supporting improvement
 ---
 ##Stories from the Field: China
 
+* [South Korea's Tuna Fisheries Demonstrating What's Possible](https://www.oceanoutcomes.org/news/south-koreas-tuna-fisheries-demonstrating-whats-possible/)
 * [Emerging Trends in Electronic Monitoring Across East Asia](https://www.oceanoutcomes.org/news/Emerging-Trends-in-Electronic-Monitoring-Across-East-Asia/)
 * [East Asia's Sustainable Seafood Movement Taking Center Stage](/news/East-Asia-Exchange/)
 * [Ocean Outcomes and Seafood Legacy Form East Asian Partnership] (/news/new-partnership-to-advance-sustainable-seafood-and-fisheries-across-east-asia/)
