@@ -2,7 +2,7 @@
 layout: news
 title: Building Better Tuna Fisheries Through Data, Transparency, and Partnership
 teaser-text: A distant-water tuna fleet demonstrates what’s possible when better data, stronger safeguards, and long-term partnership come together. 
-hero-image: 
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+Kevin.png
 featured: TRUE
 ---
 *Kevin Lin (left), O2’s Taiwan Fisheries Manager, speaks with members of the crew aboard a Cheng Hung Seafood Frozen (CHSF) vessel during a Fishery Improvement Project (FIP) training.*
@@ -17,7 +17,7 @@ What changed? Sustained investment, a willingness to implement systems that work
 
 In 2024, Ocean Outcomes assumed management and implementation of the [CHSF Pacific Ocean Longline Tuna Fishery Improvement Project (FIP)](https://www.oceanoutcomes.org/what-we-do/tuna/chen-hung-seafood-frozen-produce-co-pacific-ocean-longline-tuna-fip/), bringing our hands-on approach and technical expertise shaped by years of experience working in complex fisheries around the world.
 
-![]()
+![CHSF-logbook.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+logbook.png)
 *Ocean Outcomes delivers onboard best fishing practices training to crew members participating in the CHSF FIP, covering bycatch mitigation measures and sustainable fishing techniques.* 
 
 The 20 fishing vessels which are part of the FIP catch yellowfin, skipjack, bigeye, and albacore tuna. These vessels fish on the high seas and in the Solomon Islands Exclusive Economic Zone (EEZ) —  making effective monitoring, data collection, and accountability especially challenging but critical. 
@@ -37,14 +37,18 @@ Additionally, the FIP has participated in <a href="https://www.iss-foundation.or
 
 **Electronic Monitoring: Building Transparency**
 
-![]()
+![CHSF-EM.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+EM.png)
 
 *Electronic monitoring cameras provide a window into fishing operations at sea, helping improve transparency, data quality, and accountability across the CHSF FIP fleet.*
 
 One of the most notable areas of advancement has been the rollout of electronic monitoring (EM) systems within the fleet. 
+
 Prior to Ocean Outcomes’ involvement, the fleet had little independent observer coverage. This is common for distant-water longline fleets, but it presents a barrier to generating reliable data and demonstrating sustainable practices.
 
 As part of the FIP work, EM systems were installed in late 2024 and by the end of 2025, four vessels were equipped with onboard cameras and monitoring technology. Data from two vessels has already been analyzed — covering more than 673,000 hooks deployed across 168 sets. 
+
+![CHSF-Ryan.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+Ryan.png)
+
 O2’s Asia Fisheries Coordinator, Ryan Xu, working with a member of the crew during a CHSF FIP training, highlighting best practices related to baiting hooks that can reduce unintended and unwanted bycatch.
 
 The EM systems allow for around-the-clock visibility into fishing operations. Importantly, they are helping the fleet and CHSF better understand interactions with non-target species, including sharks, seabirds, turtles, and other protected marine life.
@@ -67,14 +71,15 @@ This advocacy work has contributed to tangible results at the RFMO level. IATTC 
 
 **Putting People at the Center of Fishery Improvement**
 
-![]()
+![CHSF-Crew.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+crew+reading.png)
+
 *Crew members review training materials covering worker rights, responsibilities, and access to grievance mechanisms aboard a CHSF FIP vessel.*
 
 Healthy fisheries depend on healthy working conditions. That’s why Ocean Outcomes integrates social responsibility into fishery improvement work from the start. We recognize protecting workers and protecting fish stocks are inseparable parts of building resilient, sustainable fisheries.
 
 Like many distant-water fisheries around the world, the CHSF FIP fishery operates in a context where labor risks are elevated. Addressing these risks is an essential part of building a responsible and accountable seafood supply chain. 
 
-![]()
+![CHSF-ISSF.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+ISSF.png)
 *Crew from a CHSF Vessel participate in the ISSF Skipper & Grievance Trainings*
 
 Under O2’s management, the FIP has implemented crew and captain training in Taiwan and the Solomon Islands, covering rights and responsibilities and grievance access. Ongoing social responsibility work with O2 addresses fisher rights training and awareness of grievance channels. Efforts to enhance onboard safety, first aid preparedness and recruitment processes remain key priorities within the broader social responsibility workplan of the FIP.
