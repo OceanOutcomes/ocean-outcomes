@@ -32,11 +32,11 @@ The assessment, completed in October 2025, found meaningful improvements across 
 Today, the FIP is addressing 27 of 28 environmental MSC performance indicators, while social responsibility efforts continue to advance through a combination of policy development, training, and worker engagement.
 
 ![CHSF-ISSF.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+ISSF.png)
-*Crew from a CHSF Vessel participate in the ISSF Skipper & Grievance Trainings*
+*Crew aboard a CHSF FIP vessel participate in the International Seafood Sustainability Foundation skipper best practice training & grievance process training.*
 
 Additionally, the FIP has participated in <a href="https://www.iss-foundation.org/"target="_blank">International Seafood Sustainability Foundation (ISSF)</a> skipper best practice training, conducted with interpreters to ensure accessibility for migrant crew. To date, 18 of 20 FIP vessels are listed on the <a href="https://www.iss-foundation.org/vessel-and-company-commitments/proactive-vessel-register/proactive-vessel-register-pvr/"target="_blank">ISSF ProActive Vessel Register</a> — a public vessel list that ISSF provides to foster transparency in tuna fishing — with the remaining two vessels to follow.
 
->*"The success of the FIP is not the result of any single organization. It reflects the willingness of CHSF, participating vessel owners, captains, crew, government agencies, and partners to stay engaged, address challenges openly, and keep improving year after year." — Kevin Lin, Taiwan Fisheries Manager, Ocean Outcomes and CHSF FIP Lead
+>**"The success of the FIP is not the result of any single organization. It reflects the willingness of CHSF, participating vessel owners, captains, crew, government agencies, and partners to stay engaged, address challenges openly, and keep improving year after year." — Kevin Lin, O2 Taiwan Fisheries Manager and CHSF FIP Lead**
 
 **Electronic Monitoring: Building Transparency**
 
@@ -64,7 +64,7 @@ Improving a fishery isn’t only about what happens onboard — it also requires
 
 Over the past several years, the FIP has actively engaged with two tuna Regional Fishery Management Organizations (RFMOs) — the <a href="https://www.wcpfc.int"target="_blank">Western and Central Pacific Fisheries Commission (WCPFC)</a> and the <a href="https://www.iattc.org/"target="_blank">Inter-American Tropical Tuna Commission (IATTC).</a>
 
->*"Lasting fishery improvement requires more than action on the water. It also requires active participation in the management systems that shape how fisheries are governed, monitored, and improved over time." — Ho-Tu Chiang, Taiwan Fisheries Senior Manager, Ocean Outcomes and CHSF FIP Lead*
+>**"Lasting fishery improvement requires more than action on the water. It also requires active participation in the management systems that shape how fisheries are governed, monitored, and improved over time." — Ho-Tu Chiang, O2 Taiwan Fisheries Senior Manage and CHSF FIP Lead**
 
 Working alongside industry representatives, government agencies, and conservation partners, the project has led CHSF to advocate for stronger harvest strategies and management measures designed to keep tuna populations healthy over the long term.
 
@@ -85,7 +85,7 @@ These efforts go beyond compliance. They are about creating systems that support
 
 **What’s Next: Expanding the Partnership**
 
-Building on the progress achieved through the CHSF FIP, Ocean Outcomes and CHSF are expanding their partnership to support Marine Stewardship Council (MSC) certification efforts for CHSF tuna fisheries operating in both the Pacific and Indian Oceans. O2 will provide technical support throughout the MSC assessment process, helping coordinate with certification bodies, compile and submit evidence, engage fishery stakeholders, and develop action plans where additional improvements may be needed. 
+Building on the progress achieved through the CHSF FIP, Ocean Outcomes and CHSF are expanding their partnership to support MSC certification efforts for CHSF tuna fisheries operating in both the Pacific and Indian Oceans. O2 will provide technical support throughout the MSC assessment process, helping coordinate with certification bodies, compile and submit evidence, engage fishery stakeholders, and develop action plans where additional improvements may be needed. 
 
 For now, the work continues: EM coverage will expand. Social responsibility efforts will continue to evolve and strengthen. Engagement in regional fisheries management will remain a priority. And the partnership will keep working toward a future where sustainability is backed not only by commitments, but by data, transparency, and measurable results.
 
