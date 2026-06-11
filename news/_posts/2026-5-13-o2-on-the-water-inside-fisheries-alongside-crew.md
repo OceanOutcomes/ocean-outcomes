@@ -3,7 +3,7 @@ layout: news
 title: "O2 On the Water: Inside Fisheries, Alongside Crews"
 teaser-text: Step onboard with O2 for a behind-the-scenes look at how our teams work directly with crews, captains, and partners to support more transparent and responsible fisheries.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Inside+Fisheries+Alongside+Crews+Photo+Blog+/photo+blog+image+1.png
-featured: TRUE
+featured: FALSE
 ---
 *O2’s Social Responsibility Senior Manager, Gabby Lout, and Social Responsibility Coordinator, Mei-Chin Juan get ready to go aboard a longline tuna vessel for the recent <a href="https://em4.fish/connecting-crews-and-vessels-emc4cs-latest-milestone-in-majuro/"target="_blank">Electronic Monitoring and Connectivity for Crews at Sea (EMC4C) Marshall Island Site Visit in Majuro</a>*.
 
