@@ -19,7 +19,7 @@ Sajo is the first Korean company to install electronic monitoring systems on the
 
 With modern electronic monitoring systems comes better connectivity. And that connectivity is expanding to meet crew needs, such as through crew access to Wi-Fi, crew training on worker rights, establishing grievance mechanisms for crew and improving transparency around labor recruitment practices.  
 
-“This work is particularly meaningful as it is designed to benefit everyone — those working on the vessels, Sajo in meeting their environmental, social, and governance commitments, fisheries managers who need better and more reliable data, and the end consumer that wants tuna produced without adverse impacts on people or planet,” said Doohyun Park, Korea Fisheries Senior Manager for Ocean Outcomes. 
+>**“This work is particularly meaningful as it is designed to benefit everyone — those working on the vessels, Sajo in meeting their environmental, social, and governance commitments, fisheries managers who need better and more reliable data, and the end consumer that wants tuna produced without adverse impacts on people or planet,” said Doohyun Park, Korea Fisheries Senior Manager for Ocean Outcomes.**
 
 Tuna produced by Sajo is consumed in South Korea and Japan, and also exported to the United States and European Union. As seafood buyers increasingly become aware of the labor risks of high seas fishing for species like tuna, Sajo is taking a proactive approach to assessing and addressing opportunities for improved labor and crew conditions on their company owned vessels.  
 
