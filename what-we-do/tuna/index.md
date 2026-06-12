@@ -86,7 +86,6 @@ That’s where we focus — working with partners to make progress that is pract
 ---
 
 ##Tuna and High Seas Fisheries Fishery Improvement Projects:
-
 * [Cheng Hung Seafood Frozen Produce Co Ltd. Pacific Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/chen-hung-seafood-frozen-produce-co-pacific-ocean-longline-tuna-fip)
 * [Fue Shin Fishery Pacific Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/)
 * [Fue Shin Fishery Indian Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/fue-shin-fishery-indian-ocean-longline-tuna-fip/)
@@ -98,6 +97,8 @@ That’s where we focus — working with partners to make progress that is pract
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
 
+* [Building Better Tuna Fisheries through Data Transparency and Partnership](https://www.oceanoutcomes.org/news/building-better-tuna-fisheries-through-data-transparency-and-partnership/) 
+* [South Korea's Tuna Fisheries Demonstrating What's Possible](https://www.oceanoutcomes.org/news/south-koreas-tuna-fisheries-demonstrating-whats-possible/)
 * [O2 On the Water: Inside Fisheries, Alongside Crew](https://www.oceanoutcomes.org/news/o2-on-the-water-inside-fisheries-alongside-crew/)
 * [East Asia's Sustainable Seafood Movement Taking Center Stage](/news/East-Asia-Exchange/)
 * [Ocean Outcomes and Seafood Legacy Form East Asian Partnership] (/news/new-partnership-to-advance-sustainable-seafood-and-fisheries-across-east-asia/)
