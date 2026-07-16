@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Korean Tuna Roundtable Advances Sustainable Fisheries Priorities Ahead of Critical Reassessments
-teaser-text: Multi-stakeholder forum highlights collective action to strengthen the sustainability and resilience of Korea's distant-water tuna fisheries
+teaser-text: Multi-stakeholder forum highlights collective action to strengthen the sustainability and resilience of Korea's distant-water tuna fisheries.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/Roundtable+Hero.png
 featured: TRUE 
 ---
