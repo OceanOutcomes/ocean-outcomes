@@ -69,7 +69,7 @@ Together, these efforts reflect our broader approach: linking on-the-water impro
 ---
 ##Stories from the Field: East Asia
 
-* [Korean Tuna Roundtable Advances Sustainable Fisheries Priorities Ahead of Critical Reassessments](https://www.oceanoutcomes.org/news/korean-tuna-roundtable-advances-sustainable-fisheries-priorities-ahead-of-critical-reassessments/)
+* [Korean Tuna Roundtable Advances Sustainable Fisheries Priorities Ahead of Critical Reassessments](https://www.oceanoutcomes.org/news/korean-tuna-roundtable-advances-sustainable-fisheries-prioirities-ahead-of-critical-reassessments/)
 * [Building Better Tuna Fisheries through Data Transparency and Partnership](https://www.oceanoutcomes.org/news/building-better-tuna-fisheries-through-data-transparency-and-partnership/) 
 * [South Korea's Tuna Fisheries Demonstrating What's Possible](https://www.oceanoutcomes.org/news/south-koreas-tuna-fisheries-demonstrating-whats-possible/)
 * [O2 On the Water: Inside Fisheries, Alongside Crew](https://www.oceanoutcomes.org/news/o2-on-the-water-inside-fisheries-alongside-crew/)
