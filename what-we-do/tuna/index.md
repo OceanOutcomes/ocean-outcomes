@@ -97,7 +97,7 @@ That’s where we focus — working with partners to make progress that is pract
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
 
-* [Korean Tuna Roundtable Advances Sustainable Fisheries Priorities Ahead of Critical Reassessments](https://www.oceanoutcomes.org/news/korean-tuna-roundtable-advances-sustainable-fisheries-prioirities-ahead-of-critical-reassessments/)
+* [Korean Tuna Roundtable Advances Sustainable Fisheries Priorities Ahead of Critical Reassessments](https://www.oceanoutcomes.org/news/korean-tuna-roundtable-advances-sustainable-fisheries-priorities-ahead-of-critical-reassessments/)
 * [Building Better Tuna Fisheries through Data Transparency and Partnership](https://www.oceanoutcomes.org/news/building-better-tuna-fisheries-through-data-transparency-and-partnership/) 
 * [South Korea's Tuna Fisheries Demonstrating What's Possible](https://www.oceanoutcomes.org/news/south-koreas-tuna-fisheries-demonstrating-whats-possible/)
 * [O2 On the Water: Inside Fisheries, Alongside Crew](https://www.oceanoutcomes.org/news/o2-on-the-water-inside-fisheries-alongside-crew/)
