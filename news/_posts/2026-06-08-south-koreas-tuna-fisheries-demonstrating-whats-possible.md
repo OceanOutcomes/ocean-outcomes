@@ -3,7 +3,7 @@ layout: news
 title: South Korea's Tuna Fisheries Demonstrating What's Possible
 teaser-text: With MSC Certification in the bag, one of Korea’s largest tuna companies is just beginning its sustainability work for bigeye, yellowfin and albacore tuna fisheries.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/SAJO+blog+hero.png
-featured: FALSE
+featured: TRUE
 ---
 [한국어 버전](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Korean+-+South+Korea%E2%80%99s+Tuna+Fisheries+Demonstrating+What%E2%80%99s+Possible+Media+Release+8+June+2026.pdf) 
 
