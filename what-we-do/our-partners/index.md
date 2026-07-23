@@ -17,7 +17,7 @@ We are recognized by Community Catch as a group able to effectively provide serv
 Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on both the Advisory Council and Board of the Alliance. <a href="http://www.solutionsforseafood.org/" target="_blank">solutionsforseafood.org</a> 
 
 ----
-<<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/FGP-diagram-logo.png"><h4>Fisheries Governance Project</h4>
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/FGP-diagram-logo.png"><h4>Fisheries Governance Project</h4>
 
 Ocean Outcomes is an endorser of the Fisheries Governance Project's *Defining Corporate Duties in Seafood Supply Chains to Prevent IUU Fishing and Labor Rights Abuses on Industrial Fishing Vessels*. The document provides a consolidated set of environmental and labor rights duties into a single set of corporate responsibilities that seafood companies should implement to identify, prevent, and address labor rights abuse and illegal, unreported, and unregulated (IUU) fishing in their seafood supply chains. <a href="https://www.fisheriesgovernance.org/market-compliance" target="_blank">fisheriesgovernance.org/</a>
 
