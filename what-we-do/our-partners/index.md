@@ -17,14 +17,14 @@ We are recognized by Community Catch as a group able to effectively provide serv
 Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on both the Advisory Council and Board of the Alliance. <a href="http://www.solutionsforseafood.org/" target="_blank">solutionsforseafood.org</a> 
 
 ----
-<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/FGP-diagram-logo.png"><h4>Fisheries Governance Project</h4>
-
-Ocean Outcomes is an endorser of the Fisheries Governance Project's *Defining Corporate Duties in Seafood Supply Chains to Prevent IUU Fishing and Labor Rights Abuses on Industrial Fishing Vessels*. The document provides a consolidated set of environmental and labor rights duties into a single set of corporate responsibilities that seafood companies should implement to identify, prevent, and address labor rights abuse and illegal, unreported, and unregulated (IUU) fishing in their seafood supply chains. <a href="https://www.fisheriesgovernance.org/market-compliance" target="_blank">fisheriesgovernance.org/</a>
-
-----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/EM4Fish-partner-logo.png"><h4>EM4Fish Community</h4>
 
 The field of fisheries management is undergoing fundamental change as emerging technologies enable new methods for acquiring, sharing, analyzing, and utilizing data. EM4Fish is a knowledge base and community of practice for the people driving this evolution. As a Community member we are collaborating with some of the people and companies working every day to advance fisheries management through electronic monitoring and reporting initiatives, improved data analysis, and technological advances. <a target="_blank" href="https://em4.fish/our-community/?search=Ocean+Outcomes">em4.fish</a>
+
+----
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/FGP-diagram-logo.png"><h4>Fisheries Governance Project</h4>
+
+Ocean Outcomes is an endorser of the Fisheries Governance Project's *Defining Corporate Duties in Seafood Supply Chains to Prevent IUU Fishing and Labor Rights Abuses on Industrial Fishing Vessels*. The document provides a consolidated set of environmental and labor rights duties into a single set of corporate responsibilities that seafood companies should implement to identify, prevent, and address labor rights abuse and illegal, unreported, and unregulated (IUU) fishing in their seafood supply chains. <a href="https://www.fisheriesgovernance.org/market-compliance" target="_blank">fisheriesgovernance.org/</a>
 
 ----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/FIP-COP-partner-logo.png"><h4>Fishery Improvement Project Community of Practice</h4>
