@@ -1,4 +1,4 @@
-- featured: TRUE
+- featured: FALSE
   language: en
   heading: Working in sustainable seafood or fisheries improvement?
   title: We can help you deliver on your goals. 
@@ -52,11 +52,11 @@
     link-text: Donate to Healthy Fisheries and Oceans
     link-url: https://bit.ly/3z70ePW
     
-- featured: FALSE
+- featured: TRUE
   language: en
   heading: We are hiring! 
   title: Are you passionate about advancing human rights due diligence, responsible labor practices, and social responsibility in global seafood supply chains?
-  hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/EM+featured-block.png
+  hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/featured-block-6.jpg
   link:
     link-text: Work With Us
     link-url: https://www.oceanoutcomes.org/who-we-are/join-our-team/
