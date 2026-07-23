@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Get Involved
+title: Get Involved (We're Hiring!)
 subtitle: Do you care as much about sustainable fisheries as we do? Here are a few ways to contribute.
 landing-image: https://s3-us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/rollover+images/join-our-team-rollover.jpg
 hero-image:
@@ -8,6 +8,12 @@ teaser-text: An estimated 3 billion people worldwide depend on seafood as their 
 weight: 5
 ---
 ##Career and volunteer opportunities
+
+(**Social Responsibility Manager**)[https://app.trinethire.com/companies/38810-ocean-outcomes/jobs/122814-social-responsibility-manager]
+
+Ocean Outcomes is seeking a full-time **Social Responsibility Manager** to co-lead our Accountability at Sea: Wi-Fi Scaling Initiative, an innovative program expanding onboard connectivity to improve crew wellbeing, strengthen worker voice and grievance mechanisms, and advance human rights due diligence across global seafood supply chains. This is a remote U.S.-based position, with candidates in Pacific, Mountain, or Hawaii time zones preferred.
+
+Working with an international team and partners from industry, government, and civil society, you'll help scale practical solutions that create safer, more transparent, and more responsible fisheries. (View the full job description and apply today.)[https://app.trinethire.com/companies/38810-ocean-outcomes/jobs/122814-social-responsibility-manager]
 
 We’re always interested in connecting with folks who are creative, motivated, and passionate about fisheries, sustainable seafood and ocean health. If you’re interested in volunteering or want to be kept in mind for future job opportunities, [please drop us a note] (/contact) explaining your interest in our work! Feel free to include a link to a resume, portfolio, LinkedIn profile, or whatever else you have to share.
 
