@@ -5,7 +5,7 @@ teaser-text: How Ocean Outcomes is helping strengthen the policies, partnerships
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/From+Research+to+Reform%3A+Building+Better+Fisheries+Governance+in+South+Korea/O5+Blog_Hero.png
 featured: TRUE 
 ---
-*(Kwonpil Jeong - Reporter (Joongang Ilbo), Martin Lee - General Manager (ASC Korea), Doohyun Park - Korea Senior Fisheries Manager (O2), Dongho Kim - Fisheries Reporter (The Agriculture, Fisheries & Livestock News), Yoojin Song - Campaigner (KFEM), Ji Yoon Kim - Global TF/Reporter (NEWSTAPA), Youngran Lee - CEO/Founder (Plan Ocean)*
+*From left to right: Kwonpil Jeong - Reporter from Joongang Ilbo, Martin Lee - ASC Korea General Manager, Doohyun Park - O2 Korea Senior Fisheries Manager, Dongho Kim - Fisheries Reporter from The Agriculture, Fisheries & Livestock News, Yoojin Song - Campaigner from KFEM, Ji Yoon Kim - Global Reporter from NEWSTAPA, Youngran Lee - Plan Ocean CEO & Founder*
 
 Ocean Outcomes (O2) has worked alongside seafood companies, governments, scientists, and fishing communities across South Korea to improve fisheries sustainability. [From Marine Stewardship Council Certification projects](https://www.oceanoutcomes.org/news/south-koreas-tuna-fisheries-demonstrating-whats-possible/) and convening the [Korean Roundtable for Sustainable Tuna Fishing](https://www.oceanoutcomes.org/news/korean-tuna-roundtable-advances-sustainable-fisheries-priorities-ahead-of-critical-reassessments/), to advancing electronic monitoring (EM) and [strengthening labor conditions aboard fishing vessels](https://www.oceanoutcomes.org/news/human-rights-due-diligence-in-korean-tuna-fisheries/), one lesson has become increasingly clear: **lasting improvements in fisheries depend on more than individual projects or technologies — they depend on strong governance.**
 
@@ -77,7 +77,7 @@ Together, these reforms outline a pathway toward an integrated, science-driven g
 
 *Doohyun Park speaks at the National Press Briefing in Seoul.* 
 
-One of the project's greatest successes was moving fisheries governance beyond technical discussions and into the national conversation. In September 2025, O2 joined a coalition of NGOs to publicly present the findings through a national press briefing in Seoul. <a href="https://www.hkbs.co.kr/news/articleView.html?idxno=806021"target="_blank">The event generated coverage across seven major Korean media outlets,</a> bringing greater public attention to issues including fisheries transparency, data quality, bycatch, labor protections, and electronic monitoring.
+One of the project's greatest successes was moving fisheries governance beyond technical discussions and into the national conversation. In September 2025, O2 joined a coalition of NGOs to publicly present the findings through a national press briefing in Seoul. <a href="https://www.hkbs.co.kr/news/articleView.html?idxno=806021"target="_blank">The event generated coverage across seven major Korean media outlets,</a> bringing greater public attention to issues including fisheries transparency, data quality, bycatch, labor protections, and EM.
 
 That visibility also prompted direct engagement from the Korean National Assembly. Representative Ok-joo Song requested technical input from O2 to support parliamentary oversight of fisheries management and submitted detailed questions to the Ministry of Oceans and Fisheries covering data collection, TAC implementation, stock assessments, and monitoring systems.
 
