@@ -1,6 +1,6 @@
 ---
 layout: news
-title: From Research to Reform: Building Better Fisheries Governance in South Korea
+title: From Research to Reform — Building Better Fisheries Governance in South Korea
 teaser-text: How Ocean Outcomes is helping strengthen the policies, partnerships, and institutions that support sustainable fisheries
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/From+Research+to+Reform%3A+Building+Better+Fisheries+Governance+in+South+Korea/O5+Blog_Hero.png
 featured: TRUE 
@@ -14,7 +14,7 @@ The most effective fisheries management systems are built on reliable data, inde
 Recognizing this, O2 — alongside a multi-disciplinary advisory body of scientists, former government officials, NGOs, and academic experts — launched an ambitious initiative focused not on a single fishery, but on strengthening the institutions that govern fisheries across South Korea. Through peer-reviewed research, multi-stakeholder collaboration, policy engagement, and public outreach, we are building momentum toward a more transparent, science-based fisheries management system.
 
 ##Closing the Gap Between Science and Management
-![CHSF+Kevin.png.](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+Kevin.png)
+![HRDD-Tuna-Fisheries-South-Korea.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/HRDD-Tuna-Fisheries-South-Korea.png)
 
 South Korea is one of the world's leading fishing nations. Its distant-water fleets supply seafood to markets around the world, while its domestic fisheries support coastal communities, national food security, and an industry worth billions of dollars each year. At the same time, Korean fisheries face growing pressure to meet international expectations for sustainability, transparency, and accountability.
 
