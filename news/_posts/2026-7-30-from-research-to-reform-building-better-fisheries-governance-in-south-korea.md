@@ -26,7 +26,7 @@ That question became the foundation for a comprehensive comparative study examin
 
 ##What the Research Revealed
 
-![O5+Blog+article.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/From+Research+to+Reform%3A+Building+Better+Fisheries+Governance+in+South+Korea/O5+Blog_article.png)
+![O5+Blog+Article.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/From+Research+to+Reform%3A+Building+Better+Fisheries+Governance+in+South+Korea/O5+Blog+Article.png)
 
 <a href="https://e-kfas.org/Upload/files/kfas/16.%2058(6)%20790-804.pdf"target="_blank">The comparative analysis found that Korea has already established many of the building blocks associated with modern fisheries management.</a> 
 
