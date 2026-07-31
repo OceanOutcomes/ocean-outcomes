@@ -3,7 +3,7 @@ layout: news
 title: Building Better Tuna Fisheries Through Data, Transparency, and Partnership
 teaser-text: A distant-water tuna fleet demonstrates what’s possible when better data, stronger safeguards, and long-term partnership come together. 
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+Kevin.png
-featured: TRUE
+featured: FALSE
 ---
 *Kevin Lin (right), O2’s Taiwan Fisheries Manager, speaks with members of the crew aboard a Cheng Hung Seafood Frozen (CHSF) vessel during a Fishery Improvement Project (FIP) training.*
 
