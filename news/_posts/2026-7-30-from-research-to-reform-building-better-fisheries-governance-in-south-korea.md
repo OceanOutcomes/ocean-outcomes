@@ -53,7 +53,7 @@ Over the course of a year, the group went beyond simply reviewing research findi
 Those discussions surfaced issues ranging from inconsistent data verification procedures and fragmented governance responsibilities to the need for stronger quality assurance systems and more independent scientific advisory processes. The conversations also helped ensure that recommendations were not only scientifically rigorous, but politically and institutionally realistic.
 
 ##Electronic Monitoring as Part of Better Governance
-[![O5+Blog+EM.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/From+Research+to+Reform%3A+Building+Better+Fisheries+Governance+in+South+Korea/O5+Blog_EM.png)](https://e-kfas.org/Upload/files/kfas/16.%2058(6)%20790-804.pdf)
+![O5+Blog+EM.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/From+Research+to+Reform%3A+Building+Better+Fisheries+Governance+in+South+Korea/O5+Blog_EM.png)
 
 EM became an important part of the project's broader governance work. In 2025, [O2 helped convene regional discussions on EM through a 40-person workshop alongside the Our Ocean Conference in Busan](https://www.oceanoutcomes.org/news/ocean-outcomes-and-global-fishing-watch-electronic-monitoring-tuna-our-ocean-conference/) and a technical side event at The Sustainable Seafood Summit in Osaka. These conversations brought together governments, NGOs, industry, and technology experts to explore how EM can strengthen fisheries management — not just through better technology, but through stronger governance, standardized reporting, and internationally aligned implementation.
 
