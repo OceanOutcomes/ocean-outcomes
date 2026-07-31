@@ -26,8 +26,6 @@ That question became the foundation for a comprehensive comparative study examin
 
 ##What the Research Revealed
 
-![O5+Blog+Article.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/From+Research+to+Reform%3A+Building+Better+Fisheries+Governance+in+South+Korea/O5+Blog+Article.png)
-
 <a href="https://e-kfas.org/Upload/files/kfas/16.%2058(6)%20790-804.pdf"target="_blank">The comparative analysis found that Korea has already established many of the building blocks associated with modern fisheries management.</a> 
 
 Data collection programs exist. Stock assessments are conducted. Scientific advice informs management decisions. Catch limits are increasingly being expanded to an increasing number of fisheries and species. The challenge is that these components do not yet function as a single integrated management process consistent with internationally recognized and agreed principles and practices of fisheries management.
