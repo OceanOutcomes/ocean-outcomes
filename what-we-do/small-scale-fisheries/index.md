@@ -51,7 +51,7 @@ O2 works as part of a broader ecosystem supporting small-scale fisheries globall
 
 This includes our engagement with the <a href="https://heyzine.com/flip-book/f53c1d9c79.html/"target="_blank">**Small-Scale Fisheries Intermediary Collective</a>** – a growing network of non-profits, startups, researchers, cooperatives, and intermediaries all working shoulder-to-shoulder with small-scale fishing communities around the world. Other Collective members include organizations such as ABALOBI and SmartFish Rescate de Valor, with whom we have worked on a number of projects that support improvements to small-scale fishing practices and healthier fishing communities. 
 
-At a global level, we are contributors to events such as the <a href="https://www.worldssfcongress.com/"target="_blank">**World Small-Scale Fisheries Congress</a>** and the <a href="https://www.fao.org/artisanal-fisheries-aquaculture-2022/home/en/"target="_blank">**International Year of Artisanal Fisheries and Aquaculture (IYAFA 2022),</a>** and knowledge-sharing initiatives like the <a href="https://ssfhub.org/"target="_blank">**Small-Scale Fisheries Hub.</a>** These collaborations help strengthen connections, share knowledge, and elevate community voices across the sector.
+At a global level, we are contributors to events such as the <a href="https://www.worldssfcongress.com/"target="_blank">**World Small-Scale Fisheries Congress</a>** and the **International Year of Artisanal Fisheries and Aquaculture (IYAFA 2022),** and knowledge-sharing initiatives like the <a href="https://ssfhub.org/"target="_blank">**Small-Scale Fisheries Hub.</a>** These collaborations help strengthen connections, share knowledge, and elevate community voices across the sector.
 
 ---
 

@@ -22,6 +22,17 @@ Ocean Outcomes is a long-time contributing member of the Conservation Alliance f
 The field of fisheries management is undergoing fundamental change as emerging technologies enable new methods for acquiring, sharing, analyzing, and utilizing data. EM4Fish is a knowledge base and community of practice for the people driving this evolution. As a Community member we are collaborating with some of the people and companies working every day to advance fisheries management through electronic monitoring and reporting initiatives, improved data analysis, and technological advances. <a target="_blank" href="https://em4.fish/our-community/?search=Ocean+Outcomes">em4.fish</a>
 
 ----
+<img
+  align="left"
+  width="165"
+  style="margin-right: 22px; margin-bottom: 12px;"
+  src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/FGP_logo_vertical_RGB_sm.png"
+  alt="Fisheries Governance Project">
+  <h4>Fisheries Governance Project</h4>
+
+Ocean Outcomes is proud to endorse the [*“Defining Corporate Duties in Seafood Supply Chains to Prevent IUU Fishing and Labor Rights Abuses on Industrial Fishing Vessels”*](https://www.fisheriesgovernance.org/market-compliance) framework from the Fisheries Governance Project (FGP). FGP is a funder-practitioner collaboration working to advance solutions that focus on the interconnected governance issues related to IUU fishing and labor rights in marine fisheries. FGP focuses on three contributing factors that play a critical role in improving governance of environmental sustainability and labor rights in marine fisheries — market compliance, international treaties, and accountability and fisher organizing. They work on these contributing factors individually — and look for ways to connect the dots between them — to drive global change. <a target="_blank" href="https://www.fisheriesgovernance.org/">fisheriesgovernance.org</a>
+
+----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/FIP-COP-partner-logo.png"><h4>Fishery Improvement Project Community of Practice</h4>
 
 The Fishery Improvement Project (FIP) Community of Practice (CoP), established in 2016, connects the global community of FIPs to learn from each other and take action to increase FIP impact. As a leading FIP implementer, we have played an active role in the FIP CoP including workshop support, training and case study development. <a target="_blank" href="https://www.fipcop.org/">fipcop.org</a>
