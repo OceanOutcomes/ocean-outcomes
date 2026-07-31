@@ -28,6 +28,7 @@ The field of fisheries management is undergoing fundamental change as emerging t
   style="margin-right: 22px; margin-bottom: 12px;"
   src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/FGP_logo_vertical_RGB_sm.png"
   alt="Fisheries Governance Project">
+  <h4>Fisheries Governance Project</h4>
 
 Ocean Outcomes is proud to endorse the [*“Defining Corporate Duties in Seafood Supply Chains to Prevent IUU Fishing and Labor Rights Abuses on Industrial Fishing Vessels”*](https://www.fisheriesgovernance.org/market-compliance) framework from the Fisheries Governance Project (FGP). FGP is a funder-practitioner collaboration working to advance solutions that focus on the interconnected governance issues related to IUU fishing and labor rights in marine fisheries. FGP focuses on three contributing factors that play a critical role in improving governance of environmental sustainability and labor rights in marine fisheries — market compliance, international treaties, and accountability and fisher organizing. They work on these contributing factors individually — and look for ways to connect the dots between them — to drive global change. <a target="_blank" href="https://www.fisheriesgovernance.org/">fisheriesgovernance.org</a>
 
