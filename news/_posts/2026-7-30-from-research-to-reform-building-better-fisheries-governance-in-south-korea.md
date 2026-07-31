@@ -26,7 +26,7 @@ That question became the foundation for a comprehensive comparative study examin
 
 ##What the Research Revealed
 
-![O5+Blog+Hero.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/From+Research+to+Reform%3A+Building+Better+Fisheries+Governance+in+South+Korea/O5+Blog_article.png)
+![O5+Blog+article.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/From+Research+to+Reform%3A+Building+Better+Fisheries+Governance+in+South+Korea/O5+Blog_article.png)
 
 <a href="https://e-kfas.org/Upload/files/kfas/16.%2058(6)%20790-804.pdf"target="_blank">The comparative analysis found that Korea has already established many of the building blocks associated with modern fisheries management.</a> 
 
@@ -42,7 +42,7 @@ By comparison, countries such as the United States and Australia have institutio
 
 ![O5+Blog+Meeting.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/From+Research+to+Reform%3A+Building+Better+Fisheries+Governance+in+South+Korea/O5+Blog_Meeting.png)
 
-*Korea Fisheries Senior Manager, Doohyun Park, speaks to the project advisory group in August 2025.*
+*Doohyun Park speaks to the project advisory group in August 2025.*
 
 While publishing a research paper is one step, ensuring its findings reach the people who can act on them is another. That’s why O2 built a multi-disciplinary advisory group spanning senior scientists, former government officials, and civil society representatives from organizations including Environmental Justice Foundation, Korea Federation for Environmental Movement, Plan Ocean, Climate Ocean Research Institute, and the Korea Consumer Federation.
 
