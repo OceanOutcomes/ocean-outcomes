@@ -87,7 +87,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     kramdown (1.17.0)
     liquid (2.6.3)
     listen (3.1.5)
