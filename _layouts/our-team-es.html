@@ -33,25 +33,5 @@ bodyclass: content-page
           {% endif %}
         {% endfor %}
       </ul>
-      <h3 class="left">Asesores Estratégicos</h3>
-      <ul id="og-grid-2" class="og-grid">
-        {% for person in site.data.staff-es %}
-        {% if person.contractor %}
-        <li>
-           <a href="/"
-             data-largesrc="{{person.image}}"
-             data-title="{{person.name}}" data-description="{{person.bio | markdownify}}"
-             data-position="{{person.title}}">
-            <img src="{{person.image}}" alt="staff image"/>
-            <span class="initial-details">
-              <span class="og-name">{{person.name}}</span>
-              <span class="og-title">{{person.title}}</span>
-            </span>
-          </a>
-        </li>
-        {% endif %}
-        {% endfor%}
-      </ul>
     </div>
   </article>
-</div>
