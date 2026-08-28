@@ -9,7 +9,7 @@ featured: TRUE
 
 ###Conservation International and Ocean Outcomes announced today a new $3.23 million grant from the Walmart Foundation that will help scale a first-of-its-kind effort to bring reliable Wi-Fi connectivity and strengthened labor protections to industrial tuna fishing vessels.
 
-**ARLINGTON, Va. (Aug. 20, 2026)** – The initiative addresses long-standing gaps in worker protections and accountability across fisheries operating on the high seas.
+**ARLINGTON, Va.** – The initiative addresses long-standing gaps in worker protections and accountability across fisheries operating on the high seas.
 
 Work to date has demonstrated that onboard Wi‑Fi connectivity gives fishers a reliable way to communicate while at sea, helping them stay in touch with family members, access support services, and raise workplace concerns through trusted channels. This improved connectivity can help identify labor concerns earlier, enabling more timely responses to worker grievances and strengthening efforts to prevent serious abuses, including forced labor.
 
