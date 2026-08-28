@@ -3,7 +3,7 @@ layout: news
 title: Korean Tuna Roundtable Advances Sustainable Fisheries Priorities Ahead of Critical Reassessments
 teaser-text: Multi-stakeholder forum highlights collective action to strengthen the sustainability and resilience of Korea's distant-water tuna fisheries.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/hero+images/Roundtable+Hero.png
-featured: TRUE 
+featured: FALSE
 ---
 **Seoul, Republic of Korea** — The Korean Roundtable for Sustainable Tuna Fishing has become an important forum for collaboration across Korea's tuna sector. Co-organized by Ocean Outcomes and Marine Stewardship Council (MSC) Korea, it provides a space for certified fisheries, government agencies, and technical experts to address shared MSC certification challenges, exchange knowledge, coordinate advocacy, and advance practical solutions that strengthen fisheries governance and long-term sustainability.
 
