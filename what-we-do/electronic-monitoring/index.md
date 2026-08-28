@@ -67,6 +67,8 @@ In practice, Wi-Fi has proven to be critical, transforming EM from a monitoring 
 ---
 ##Stories from the Field: Electronic Monitoring 
 
+* [Opportunities for Advancing Transparency through Technology in Taiwan’s Tuna Fleet](https://www.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/)
+* [Global Tuna Fisheries to See Major Expansion of Crew Connectivity to Enable Worker Protections](https://www.oceanoutcomes.org/news/Global-Tuna-Fisheries-to-See-Major-Expansion-of-Crew-Connectivity-to-Enable-Worker-Protections/)
 * [From Research to Reform — Building Better Fisheries Governance in South Korea](https://www.oceanoutcomes.org/news/from-research-to-reform-building-better-fisheries-governance-in-south-korea/)
 * [Korean Tuna Roundtable Advances Sustainable Fisheries Priorities Ahead of Critical Reassessments](https://www.oceanoutcomes.org/news/korean-tuna-roundtable-advances-sustainable-fisheries-priorities-ahead-of-critical-reassessments/)
 * [Building Better Tuna Fisheries through Data Transparency and Partnership](https://www.oceanoutcomes.org/news/building-better-tuna-fisheries-through-data-transparency-and-partnership/)
