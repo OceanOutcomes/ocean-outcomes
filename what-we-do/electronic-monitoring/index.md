@@ -46,6 +46,14 @@ O2 is working with governments, industry, and academic partners to help establis
 
 In Taiwan, for example, our work is focusing on helping bridge the gap between pilot efforts and a larger policy framework — supporting development of standards, strengthening coordination across stakeholders, and aligning systems with evolving international requirements. 
 
+_______________________________________________________________________________________________
+
+![EM-Report-Visual.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EM+Report+visual.png)
+
+[This comprehensive analysis examines the opportunities, tradeoffs and practical considerations involved in expanding EM across Taiwan’s distant water longline fleet. Drawing on international EM programs and stakeholder input, the report explores program design, technical standards, data transmission and review, vendor models, costs and financing, and incentives for adoption.](https://stage.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/)
+_______________________________________________________________________________________________
+
+
 ##Supporting crew welfare 
 
 ![EMC4C+Gabby+Crew.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EMC4C+Gabby+Crew.png) 
