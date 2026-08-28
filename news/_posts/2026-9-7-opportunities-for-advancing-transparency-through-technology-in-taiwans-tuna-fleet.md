@@ -15,11 +15,16 @@ With approximately 900 longline vessels operating across the world’s oceans, T
 
 The report also highlights why now is an important window for Taiwan to begin serious program design before future management requirements and market expectations become more binding.
 
+> [Read the full version of the report here.] (https://www.google.com/)  
+> [Read the summary version of the report here.] (https://www.google.com/)  
+
 The four major tuna Regional Fisheries Management Organizations (RFMOs) have adopted or begun developing technical standards for EM, which is increasingly recognized internationally as an important tool for fisheries monitoring, compliance, and scientific data collection. However, EM is not yet mandatory and international experiences featured in the report show the timeline from policy development to a functioning fleet-wide EM system can take many years—often a decade or more.
 
 >**“Taiwan does not need to wait for a mandatory requirement before beginning to prepare for the future of fisheries monitoring. The international direction is increasingly clear. Starting the design process now will give Taiwan the opportunity to build a system deliberately, drawing on its existing monitoring infrastructure and technological strengths,” said Kevin Lin who leads Ocean Outcomes’ on-the-water projects in Taiwan and contributed to the report.**
 
-Taiwan’s distant water tuna fleet operates at a scale and geographic reach that makes effective fisheries monitoring both essential and technically challenging. One of the report’s most important findings is how Taiwan can leverage this scale and its existing infrastructure.
+Taiwan’s distant water tuna fleet operates at a scale and geographic reach that makes effective fisheries monitoring both essential and technically challenging. 
+
+### One of the report’s most important findings is how Taiwan can leverage this scale and its existing infrastructure.
 
 As examples, there already exist vessel monitoring systems (VMS), electronic logbooks, fisheries monitoring and verification infrastructure, institutional experience with fisheries data, and onboard closed-circuit television (CCTV) systems. Coupled with Taiwan’s broader strength in technology and digital infrastructure, Taiwan has many building blocks already in place for greater EM adoption.
 
@@ -27,12 +32,14 @@ However, there is no one size fits all approach to EM initiatives. International
 
 >**“Done well, electronic monitoring can be more than a compliance tool—it can strengthen fisheries management, support vessel operators, respond to evolving market expectations, and ultimately provide greater confidence in the sustainability and responsibility of Taiwan’s tuna fleet,” said Kevin.**
 
-The report and its findings will contribute to dialogue among Taiwan’s government, fishing industry, technology providers, seafood markets, and other stakeholders about how a future EM system might be designed and implemented. It articulates actual costs of EM — from hardware to setup and data review — as well as data ownership and governance configurations. It also highlights the approaches to different vendor and implementation models.
+### The report and its findings will contribute to dialogue among Taiwan’s government, fishing industry, technology providers, seafood markets, and other stakeholders about how a future EM system might be designed and implemented. 
+
+It articulates actual costs of EM — from hardware to setup and data review — as well as data ownership and governance configurations. It also highlights the approaches to different vendor and implementation models.
 
 >**“These findings and insights are very valuable for anyone working to advance tuna fisheries sustainability globally,” added Kevin. “Ultimately, Taiwan doesn’t need to deploy EM everywhere tomorrow. But we do need to start designing for tomorrow today.”**
 
-Read the report in Chinese: summary version and full version.
-Read the report in English: summary version and full version.
+**Read the report in Chinese: [summary version] (https://www.google.com/) and [full version.] ((https://www.google.com/)**  
+**Read the report in English: [summary version] (https://www.google.com/) and [full version.] (https://www.google.com/)**  
 
 ----
 
