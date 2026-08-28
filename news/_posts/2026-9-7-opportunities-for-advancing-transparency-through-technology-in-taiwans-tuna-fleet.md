@@ -38,7 +38,7 @@ It articulates actual costs of EM — from hardware to setup and data review —
 
 >**“These findings and insights are very valuable for anyone working to advance tuna fisheries sustainability globally,” added Kevin. “Ultimately, Taiwan doesn’t need to deploy EM everywhere tomorrow. But we do need to start designing for tomorrow today.”**
 
-**R阅读该报告的中文版本： [摘要] (https://www.google.com/) 和 [全文。] (https://www.google.com/)**  
+**阅读该报告的中文版本：[摘要] (https://www.google.com/) 和 [全文。] (https://www.google.com/)**  
 **Read the report in English: [summary version] (https://www.google.com/) and [full version.] (https://www.google.com/)**  
 
 ----
