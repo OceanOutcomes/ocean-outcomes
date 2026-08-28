@@ -3,7 +3,7 @@ layout: news
 title: Opportunities for Advancing Transparency through Technology in Taiwan’s Tuna Fleet
 date: 2026-9-7
 teaser-text: A new report from Ocean Outcomes finds Taiwan can capitalize on a strong foundation to meet mounting transparency expectations through electronic monitoring. 
-hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/TTLA-tuna-fip-launch-hero.png
+hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet-hero.png
 featured: TRUE
 ---
 
@@ -15,8 +15,8 @@ With approximately 900 longline vessels operating across the world’s oceans, T
 
 The report also highlights why now is an important window for Taiwan to begin serious program design before future management requirements and market expectations become more binding.
 
-> **[Read the full version of the report here.] (https://www.google.com/)**  
-> **[Read the summary version of the report here.] (https://www.google.com/)** 
+> **[Read the full version of the report here.] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Advancing+Electronic+Monitoring+in+Taiwan%E2%80%99s+Distant+Water+Longline+Fisheries+/Advancing+Electronic+Monitoring+in+Taiwan%E2%80%99s+Distant+Water+Longline+Fisheries_Aug2026_English.pdf)**  
+> **[Read the summary version of the report here.] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Advancing+Electronic+Monitoring+in+Taiwan%E2%80%99s+Distant+Water+Longline+Fisheries+/Summary_Advancing+Electronic+Monitoring+in+Taiwan%E2%80%99s+Distant+Water+Longline+Fisheries_Aug2026_English.pdf)** 
 
 The four major tuna Regional Fisheries Management Organizations (RFMOs) have adopted or begun developing technical standards for EM, which is increasingly recognized internationally as an important tool for fisheries monitoring, compliance, and scientific data collection. However, EM is not yet mandatory and international experiences featured in the report show the timeline from policy development to a functioning fleet-wide EM system can take many years—often a decade or more.
 
@@ -38,8 +38,8 @@ It articulates actual costs of EM — from hardware to setup and data review —
 
 >**“These findings and insights are very valuable for anyone working to advance tuna fisheries sustainability globally,” added Kevin. “Ultimately, Taiwan doesn’t need to deploy EM everywhere tomorrow. But we do need to start designing for tomorrow today.”**
 
-**阅读该报告的中文版本：[摘要] (https://www.google.com/) 和 [全文。] (https://www.google.com/)**  
-**Read the report in English: [summary version] (https://www.google.com/) and [full version.] (https://www.google.com/)**  
+**阅读该报告的中文版本：[摘要] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Advancing+Electronic+Monitoring+in+Taiwan%E2%80%99s+Distant+Water+Longline+Fisheries+/Summary_Advancing+Electronic+Monitoring+in+Taiwan%E2%80%99s+Distant+Water+Longline+Fisheries_Aug2026_Mandarin.pdf) 和 [全文。] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Advancing+Electronic+Monitoring+in+Taiwan%E2%80%99s+Distant+Water+Longline+Fisheries+/Advancing+Electronic+Monitoring+in+Taiwan%E2%80%99s+Distant+Water+Longline+Fisheries_August2026_Mandarin.pdf)**  
+**Read the report in English: [summary version] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Advancing+Electronic+Monitoring+in+Taiwan%E2%80%99s+Distant+Water+Longline+Fisheries+/Summary_Advancing+Electronic+Monitoring+in+Taiwan%E2%80%99s+Distant+Water+Longline+Fisheries_Aug2026_English.pdf) and [full version.] (https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Advancing+Electronic+Monitoring+in+Taiwan%E2%80%99s+Distant+Water+Longline+Fisheries+/Advancing+Electronic+Monitoring+in+Taiwan%E2%80%99s+Distant+Water+Longline+Fisheries_Aug2026_English.pdf)**  
 
 ----
 
