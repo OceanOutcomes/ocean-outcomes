@@ -48,7 +48,7 @@ In Taiwan, for example, our work is focusing on helping bridge the gap between p
 
 _______________________________________________________________________________________________
 
-[![EM Report Visual](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EM+Report+visual.png)](https://stage.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/)
+[![EM Report Visual](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EM+Report+Visual.png)](https://stage.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/)
 
 [This comprehensive analysis examines the opportunities, tradeoffs and practical considerations involved in expanding EM across Taiwan’s distant water longline fleet. Drawing on international EM programs and stakeholder input, the report explores program design, technical standards, data transmission and review, vendor models, costs and financing, and incentives for adoption.](https://stage.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/)
 _______________________________________________________________________________________________
