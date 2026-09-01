@@ -3,7 +3,7 @@ layout: news
 title: From Research to Reform — Building Better Fisheries Governance in South Korea
 teaser-text: How Ocean Outcomes is helping strengthen the policies, partnerships, and institutions that support sustainable fisheries
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/From+Research+to+Reform%3A+Building+Better+Fisheries+Governance+in+South+Korea/O5+Blog_Hero.png
-featured: TRUE 
+featured: FALSE
 ---
 *From left to right: Kwonpil Jeong - Reporter from Joongang Ilbo, Martin Lee - ASC Korea General Manager, Doohyun Park - O2 Korea Senior Fisheries Manager, Dongho Kim - Fisheries Reporter from The Agriculture, Fisheries & Livestock News, Yoojin Song - Campaigner from KFEM, Ji Yoon Kim - Global Reporter from NEWSTAPA, Youngran Lee - Plan Ocean CEO & Founder.*
 
