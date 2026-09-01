@@ -7,7 +7,7 @@ hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/he
 featured: TRUE
 ---
 
-[中文版在這裡](https://www.google.com/)
+[中文版在這裡](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Advancing+Electronic+Monitoring+in+Taiwan's+Distant+Water+Fisheries+Press+Release+-+Chinese+-+2+September+2026.pdf)
 
 ### Ocean Outcomes today released _Advancing Electronic Monitoring in Taiwan’s Distant Water Longline Fisheries_, a new bilingual and detailed analysis of electronic monitoring (EM) in Taiwan’s longline tuna fleet.
 
@@ -45,4 +45,4 @@ It articulates actual costs of EM — from hardware to setup and data review —
 
 **Additional Resources**
 
-[Download a PDF of this announcement.](https://www.google.com/) [中文版在這裡](https://www.google.com/)
+[Download a PDF of this announcement.](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Advancing+Electronic+Monitoring+in+Taiwan's+Distant+Water+Fisheries+Press+Release+-+2+September+2026.pdf) [中文版在這裡](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Advancing+Electronic+Monitoring+in+Taiwan's+Distant+Water+Fisheries+Press+Release+-+Chinese+-+2+September+2026.pdf)
