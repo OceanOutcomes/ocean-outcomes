@@ -62,14 +62,7 @@ We support the adoption and use of [electronic monitoring (EM)](https://www.ocea
 
 [Across East Asia, partners are deploying EM systems to close data gaps where observer coverage is limited](https://www.oceanoutcomes.org/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/) — helping turn increased transparency into better decision-making and stronger oversight at sea.
 
-----
-*Featured Research*
-
-What does it take to scale EM across an entire fleet?
-
-Our new report, [*Advancing Electronic Monitoring in Taiwan’s Distant Water Longline Fisheries*](https://stage.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/), takes a deeper look at what’s needed to move beyond individual pilots toward effective, scalable implementation. Drawing on international experience, the analysis explores program design, technical standards, data systems, costs and financing, and other practical considerations for a fleet of nearly 900 distant-water longline vessels.
-
-----
+What does it take to scale those efforts across an entire fleet? Our new report, [*Advancing Electronic Monitoring in Taiwan’s Distant Water Longline Fisheries*](https://stage.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/), examines the practical considerations for moving beyond individual pilots toward scalable implementation, from program design and technical standards to data systems, costs and financing.
 
 **Advancing Worker Protections**
 
