@@ -28,7 +28,9 @@ There, we helped our former China Program Director, Songlin Wang, launch and gro
 
 ![EM+HRDD+work](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EM+HRDD+work.png)
 
-In Taiwan, we work with seafood companies, vessel owners, academic institutions, and government stakeholders to build the foundations for scalable fisheries improvement. This includes developing and implementing Fishery Improvement Projects (FIPs), supporting companies to achieve Marine Stewardship Council Certification, piloting [electronic monitoring systems](https://www.oceanoutcomes.org/what-we-do/electronic-monitoring/), and helping establish the in-country capacity needed to review data, inform policy, and guide implementation at scale.
+In Taiwan, we work with seafood companies, vessel owners, academic institutions, and government stakeholders to build the foundations for scalable fisheries improvement. This includes developing and implementing Fishery Improvement Projects (FIPs), supporting companies to achieve Marine Stewardship Council Certification, piloting [electronic monitoring systems](https://www.oceanoutcomes.org/what-we-do/electronic-monitoring/) and helping establish the in-country capacity needed to review data, inform policy, and guide implementation at scale.
+
+This includes [*Advancing Electronic Monitoring in Taiwan’s Distant Water Longline Fisheries*](https://www.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/) — a comprehensive analysis that examines the opportunities, tradeoffs and practical considerations involved in expanding EM across Taiwan’s distant water longline fleet.
 
 [In South Korea, we are working with the country’s premier tuna companies to support better fisheries data collection,](https://www.oceanoutcomes.org/news/korea-tuna-sustainability-industy-roundtable-meeting/) science-based fisheries management, and improved fishing practices in their fleets. These companies represent and manage a significant portion of the Korean distant water tuna fleet. Our work there also supports efforts to improve domestic fisheries policy, including to strengthen Total Allowable Catch (TAC) systems and improve transparency, data integrity and accountability in fisheries governance. 
 
@@ -69,7 +71,8 @@ Together, these efforts reflect our broader approach: linking on-the-water impro
 ---
 ##Stories from the Field: East Asia
 
-
+* [Opportunities for Advancing Transparency through Technology in Taiwan’s Tuna Fleet](https://www.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/)
+* [Global Tuna Fisheries to See Major Expansion of Crew Connectivity to Enable Worker Protections](https://www.oceanoutcomes.org/news/Global-Tuna-Fisheries-to-See-Major-Expansion-of-Crew-Connectivity-to-Enable-Worker-Protections/)
 * [From Research to Reform — Building Better Fisheries Governance in South Korea](https://www.oceanoutcomes.org/news/from-research-to-reform-building-better-fisheries-governance-in-south-korea/)
 * [Korean Tuna Roundtable Advances Sustainable Fisheries Priorities Ahead of Critical Reassessments](https://www.oceanoutcomes.org/news/korean-tuna-roundtable-advances-sustainable-fisheries-priorities-ahead-of-critical-reassessments/)
 * [Building Better Tuna Fisheries through Data Transparency and Partnership](https://www.oceanoutcomes.org/news/building-better-tuna-fisheries-through-data-transparency-and-partnership/) 

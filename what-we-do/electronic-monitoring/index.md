@@ -46,6 +46,14 @@ O2 is working with governments, industry, and academic partners to help establis
 
 In Taiwan, for example, our work is focusing on helping bridge the gap between pilot efforts and a larger policy framework — supporting development of standards, strengthening coordination across stakeholders, and aligning systems with evolving international requirements. 
 
+_______________________________________________________________________________________________
+
+[![EM Report Visual](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EM+Report+Visual.png)](https://www.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/)
+
+[This comprehensive analysis examines the opportunities, tradeoffs and practical considerations involved in expanding EM across Taiwan’s distant water longline fleet. Drawing on international EM programs and stakeholder input, the report explores program design, technical standards, data transmission and review, vendor models, costs and financing, and incentives for adoption.](https://www.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/)
+_______________________________________________________________________________________________
+
+
 ##Supporting crew welfare 
 
 ![EMC4C+Gabby+Crew.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/EMC4C+Gabby+Crew.png) 
@@ -59,6 +67,8 @@ In practice, Wi-Fi has proven to be critical, transforming EM from a monitoring 
 ---
 ##Stories from the Field: Electronic Monitoring 
 
+* [Opportunities for Advancing Transparency through Technology in Taiwan’s Tuna Fleet](https://www.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/)
+* [Global Tuna Fisheries to See Major Expansion of Crew Connectivity to Enable Worker Protections](https://www.oceanoutcomes.org/news/Global-Tuna-Fisheries-to-See-Major-Expansion-of-Crew-Connectivity-to-Enable-Worker-Protections/)
 * [From Research to Reform — Building Better Fisheries Governance in South Korea](https://www.oceanoutcomes.org/news/from-research-to-reform-building-better-fisheries-governance-in-south-korea/)
 * [Korean Tuna Roundtable Advances Sustainable Fisheries Priorities Ahead of Critical Reassessments](https://www.oceanoutcomes.org/news/korean-tuna-roundtable-advances-sustainable-fisheries-priorities-ahead-of-critical-reassessments/)
 * [Building Better Tuna Fisheries through Data Transparency and Partnership](https://www.oceanoutcomes.org/news/building-better-tuna-fisheries-through-data-transparency-and-partnership/)

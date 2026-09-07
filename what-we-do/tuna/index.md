@@ -62,6 +62,8 @@ We support the adoption and use of [electronic monitoring (EM)](https://www.ocea
 
 [Across East Asia, partners are deploying EM systems to close data gaps where observer coverage is limited](https://www.oceanoutcomes.org/news/building-regional-capacity-for-electronic-monitoring-across-Taiwan/) — helping turn increased transparency into better decision-making and stronger oversight at sea.
 
+What does it take to scale those efforts across an entire fleet? [*Advancing Electronic Monitoring in Taiwan’s Distant Water Longline Fisheries*](https://www.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/) provides a comprehensive analysis that examines the opportunities, tradeoffs and practical considerations involved in expanding EM across Taiwan’s distant water longline fleet.
+
 **Advancing Worker Protections**
 
 We integrate human rights due diligence and worker-centered approaches into tuna fishery improvement efforts, helping partners better understand risks and implement practical solutions that improve conditions for crew.
@@ -97,6 +99,8 @@ That’s where we focus — working with partners to make progress that is pract
 ---
 ##Stories from the Field: Tuna and High Seas Fisheries
 
+* [Opportunities for Advancing Transparency through Technology in Taiwan’s Tuna Fleet](https://www.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/)
+* [Global Tuna Fisheries to See Major Expansion of Crew Connectivity to Enable Worker Protections](https://www.oceanoutcomes.org/news/Global-Tuna-Fisheries-to-See-Major-Expansion-of-Crew-Connectivity-to-Enable-Worker-Protections/)
 * [From Research to Reform — Building Better Fisheries Governance in South Korea](https://www.oceanoutcomes.org/news/from-research-to-reform-building-better-fisheries-governance-in-south-korea/)
 * [Korean Tuna Roundtable Advances Sustainable Fisheries Priorities Ahead of Critical Reassessments](https://www.oceanoutcomes.org/news/korean-tuna-roundtable-advances-sustainable-fisheries-priorities-ahead-of-critical-reassessments/)
 * [Building Better Tuna Fisheries through Data Transparency and Partnership](https://www.oceanoutcomes.org/news/building-better-tuna-fisheries-through-data-transparency-and-partnership/) 
