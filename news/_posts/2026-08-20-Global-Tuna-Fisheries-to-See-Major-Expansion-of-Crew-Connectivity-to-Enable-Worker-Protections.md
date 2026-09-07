@@ -27,7 +27,7 @@ By aligning market incentives, governance frameworks, and emerging technologies,
 
 ----
 
-About Conservation International: Conservation International protects nature for the benefit of humanity. Through science, policy, fieldwork and finance, we spotlight and secure the most important places in nature for the climate, for biodiversity and for people. With offices in 30 countries and projects in more than 100 countries, Conservation International partners with governments, companies, civil society, Indigenous peoples and local communities to help people and nature thrive together. Go to Conservation.org for more.
+<a href="https://www.conservation.org/"target="_blank">About Conservation International:</a> Conservation International protects nature for the benefit of humanity. Through science, policy, fieldwork and finance, we spotlight and secure the most important places in nature for the climate, for biodiversity and for people. With offices in 30 countries and projects in more than 100 countries, Conservation International partners with governments, companies, civil society, Indigenous peoples and local communities to help people and nature thrive together.
 
-About Ocean Outcomes: Ocean Outcomes (O2) is a mission-driven technical partner that improves fisheries and seafood supply chains worldwide. Working alongside fishing communities, seafood businesses, governments, and NGOs, O2 develops and implements practical solutions that advance environmental sustainability, strengthen labor conditions, and support resilient fisheries. Learn more at oceanoutcomes.org.
+About Ocean Outcomes: Ocean Outcomes (O2) is a mission-driven technical partner that improves fisheries and seafood supply chains worldwide. Working alongside fishing communities, seafood businesses, governments, and NGOs, O2 develops and implements practical solutions that advance environmental sustainability, strengthen labor conditions, and support resilient fisheries. 
 
