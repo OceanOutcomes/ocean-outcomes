@@ -17,6 +17,11 @@ We are recognized by Community Catch as a group able to effectively provide serv
 Ocean Outcomes is a long-time contributing member of the Conservation Alliance for Seafood Solutions, formed in 2008 to build communication and coordination among conservation organizations working to promote sustainable seafood. In addition to participating in the Alliance, Ocean Outcomes team members have served on both the Advisory Council and Board of the Alliance. <a href="http://www.solutionsforseafood.org/" target="_blank">solutionsforseafood.org</a> 
 
 ----
+<img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/conservation-international-partners-logo.png"><h4>Conservation International</h4>
+
+Ocean Outcomes partners with Conservation International (CI) to advance environmental sustainability, social responsibility, and resilient livelihoods across fisheries and seafood supply chains. Our collaboration spans small-scale fisheries and global tuna supply chains, bringing together technical expertise, on-the-water implementation, and locally driven approaches to create practical and scalable solutions. Current work includes efforts to advance human rights in tuna supply chains through electronic monitoring, crew connectivity, worker representation, human rights due diligence, and stronger systems for accountability and worker protection. **Learn more about our work together:** <a href="https://www.conservation.org/projects/advancing-human-rights-in-tuna-supply-chains/" target="_blank">Advancing Human Rights in Tuna Supply Chains</a>
+
+----
 <img align="left" src="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/embedded+photos/partners/EM4Fish-partner-logo.png"><h4>EM4Fish Community</h4>
 
 The field of fisheries management is undergoing fundamental change as emerging technologies enable new methods for acquiring, sharing, analyzing, and utilizing data. EM4Fish is a knowledge base and community of practice for the people driving this evolution. As a Community member we are collaborating with some of the people and companies working every day to advance fisheries management through electronic monitoring and reporting initiatives, improved data analysis, and technological advances. <a target="_blank" href="https://em4.fish/our-community/?search=Ocean+Outcomes">em4.fish</a>
