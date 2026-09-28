@@ -68,12 +68,15 @@ What does it take to scale those efforts across an entire fleet? [*Advancing Ele
 
 We integrate human rights due diligence and worker-centered approaches into tuna fishery improvement efforts, helping partners better understand risks and implement practical solutions that improve conditions for crew.
 
-[![EMC4C+Hero+Image.png]
-(https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EMC4C+Hero+Image.png)](https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
+[![EMC4C Hero Image](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/EMC4C+Hero+Image.png)](https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
 
-*Case Study: Worker-Centered Solutions in Taiwan*
+*Case Study: Advancing Human Rights in Tuna Supply Chains*
 
-In Taiwan’s distant-water fleet, [O2 is working with industry partners to pilot crew training and explore how tools like EM and onboard connectivity can improve access to information, strengthen protections, and support better conditions at sea.](https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
+In partnership with Conservation International and others, O2 is helping advance a more connected approach to worker protections across Pacific tuna supply chains. Our work brings together EM, onboard Wi-Fi and crew connectivity, worker training and representation, grievance mechanisms, and human rights due diligence — helping strengthen visibility, worker voice, and accountability both at sea and across seafood supply chains.
+
+In Taiwan’s distant-water fleet, [these approaches are already being put into practice through partnerships with industry and workers, including crew training and exploring how tools like EM and onboard connectivity can improve access to information, strengthen protections, and support better conditions at sea.](https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
+
+<a href="https://www.conservation.org/projects/advancing-human-rights-in-tuna-supply-chains" target="_blank" rel="noopener noreferrer">Learn more about our work with Conservation International to advance human rights in tuna supply chains →</a>
 
 ##Beyond the Catch 
 
