@@ -76,7 +76,7 @@ In partnership with Conservation International and others, O2 is helping advance
 
 In Taiwan’s distant-water fleet, [these approaches are already being put into practice through partnerships with industry and workers, including crew training and exploring how tools like EM and onboard connectivity can improve access to information, strengthen protections, and support better conditions at sea.](https://www.oceanoutcomes.org/news/O2-Collaborates-on-Groundbreaking-Study-to-Enhance-Social-Responsibility-at-Sea/)
 
-<a href="https://www.conservation.org/projects/advancing-human-rights-in-tuna-supply-chains" target="_blank" rel="noopener noreferrer">Learn more about our work with Conservation International to advance human rights in tuna supply chains →</a>
+<a href="https://www.conservation.org/projects/advancing-human-rights-in-tuna-supply-chains" target="_blank" rel="noopener noreferrer">Learn more about our work with Conservation International to advance human rights in tuna supply chains.</a>
 
 ##Beyond the Catch 
 
