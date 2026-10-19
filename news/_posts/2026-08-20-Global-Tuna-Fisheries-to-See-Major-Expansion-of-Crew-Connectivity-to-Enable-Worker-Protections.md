@@ -4,7 +4,7 @@ title: Global Tuna Fisheries to See Major Expansion of Crew Connectivity to Enab
 date: 2026-8-20
 teaser-text: Building on successful pilot efforts, a $3.23 million Walmart Foundation investment will help Conservation International, Ocean Outcomes, and partners scale a model that gives fishers reliable Wi‑Fi access, safe ways to report concerns and stronger worker protections across industrial tuna fleets.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Inside+Fisheries+Alongside+Crews+Photo+Blog+/photo+blog+image+9.png
-featured: TRUE
+featured: FALSE
 ---
 
 ###Conservation International and Ocean Outcomes announced today a new $3.23 million grant from the Walmart Foundation that will help scale a first-of-its-kind effort to bring reliable Wi-Fi connectivity and strengthened labor protections to industrial tuna fishing vessels.
