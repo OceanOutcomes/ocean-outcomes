@@ -25,6 +25,8 @@ Yet the organizations and industries that influence East Asian fisheries sustain
 
 ### What BEACON will do
 
+![BEACON+1Credit+Ocean+Outcomes+-+11.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Beacon+Launch+Oct+21+26/BEACON+1Credit+Ocean+Outcomes+-+11.png)
+
 Founded by Qingdao Marine Conservation Society (QMCS), Hong Kong Sustainable Seafood Coalition (HKSSC), Ocean Outcomes (O2), DearOcean, and Seafood Legacy (SFL), BEACON brings together regional partnerships, projects, and capacity spanning Mainland China, Hong Kong, Taiwan, South Korea, and Japan. BEACON will advance six connected areas of work:
 
 1. Science and evidence: Bring together relevant research and identify priority information gaps.
@@ -38,6 +40,8 @@ Founded by Qingdao Marine Conservation Society (QMCS), Hong Kong Sustainable Sea
 
 ### Why alignment matters
 
+![Credit+Ocean+Outcomes+-+7.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Beacon+Launch+Oct+21+26/Credit+Ocean+Outcomes+-+7.png)
+
 Fisheries sustainability depends on more than good science or better fishing practices in a single fishery or on a single vessel alone. Improvements must be feasible for producers, understood by seafood buyers, supported by credible information, and informed by relevant management processes. And the work has to span the entire fishery system — across production, markets, finance, science, and governance.
 
 BEACON strengthens these links. For example, scientific evidence can help identify fisheries priorities; practical improvement work allows producers to respond; supply-chain engagement can clarify expectations; implementation experience can inform governance discussions; and financial institutions can use better information to assess and mitigate fisheries-related risks.
@@ -47,6 +51,8 @@ BEACON strengthens these links. For example, scientific evidence can help identi
 This is particularly important and relevant for international seafood markets. FAO reports that more than one-third of global seafood is traded internationally, and that Europe and North America are major net-importing regions for seafood. The sustainability of fisheries connected to East Asian production and trade therefore has significant implications for businesses, consumers, and food systems well beyond the region.
 
 ### A regional initiative built on local relationships
+
+![Credit+Ocean+Outcomes+-+5.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Beacon+Launch+Oct+21+26/Credit+Ocean+Outcomes+-+5.png)
 
 BEACON’s five founding members bring distinct expertise and established relationships in their respective geographies. The initiative is designed to combine that local knowledge with regional coordination — recognizing that fisheries, seafood supply chains, and management challenges cross borders, while solutions must ultimately reflect local conditions for them to be successful.
 
@@ -59,6 +65,7 @@ This collaborative approach is intended to complement, not replace, the work of 
 ----
 
 **Additional Resources**
+
 [Download a PDF of the full announcement](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_21+Oct+2026_ENG.pdf)
 
 [下載完整公告](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_+21+October+2026_TC.pdf)
