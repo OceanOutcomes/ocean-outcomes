@@ -2,14 +2,17 @@
 layout: news
 title: Five Organizations Launch New Network to Accelerate Seafood Sustainability Across East Asia
 date: 2026-10-21
-teaser-text: The new initiative brings together science, fisheries and aquaculture improvement, seafood businesses, markets, and finance to catalyze positive change for fisheries, seafood markets, community resilience, and ocean health
+teaser-text: The new initiative brings together science, fisheries and aquaculture improvement, seafood businesses, markets, and finance to catalyze positive change for fisheries, seafood markets, community resilience, and ocean health.
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Beacon+Launch.png
 featured: TRUE
 ---
 
-[繁體中文版]((https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_+21+October+2026_TC.pdf))
+[繁體中文版](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_+21+October+2026_TC.pdf) 
+
 [简体中文版]
+
 [日本語版](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_21+Oct+20226_KOR.pdf)
+
 [한국어 버전](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+launch_21+Oct+26_JPN.pdf)
 
 **21 October, 2026 - Tokyo, Japan** — A vision and guiding light for addressing the complex and interconnected challenges facing our oceans, food systems, and fish workers has shown bright from the epicenter of seafood in East Asia. Five organizations today announced at The Sustainable Seafood Summit (TSSS) the launch of BEACON — the Blue East Asia Collaborative for Ocean Networks — a new initiative to connect organizations and stakeholders working on fisheries and seafood sustainability.
@@ -18,7 +21,7 @@ The implications for BEACON and its ambition extend far beyond the region. Produ
 
 Yet the organizations and industries that influence East Asian fisheries sustainability, oversee governance, and produce seafood often work separately, disconnected from one another. 
 
-“East Asia is central to the global seafood system, but the work to make fisheries more sustainable is often fragmented across countries and sectors,” said Wakao Hanaoka, Founder/CEO of Seafood Legacy. “BEACON is designed to connect sustainability efforts across East Asia. It brings organizations together to align, build on existing expertise, and ensure decisions across the seafood system reinforce one another.”
+>**“East Asia is central to the global seafood system, but the work to make fisheries more sustainable is often fragmented across countries and sectors,” said Wakao Hanaoka, Founder/CEO of Seafood Legacy. “BEACON is designed to connect sustainability efforts across East Asia. It brings organizations together to align, build on existing expertise, and ensure decisions across the seafood system reinforce one another.”**
 
 ### What BEACON will do
 
@@ -56,8 +59,12 @@ This collaborative approach is intended to complement, not replace, the work of 
 ----
 
 **Additional Resources**
-[Download a PDF of the full announcement]
+[Download a PDF of the full announcement](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_21+Oct+2026_ENG.pdf)
+
 [下載完整公告](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_+21+October+2026_TC.pdf)
+
 [下载完整公告]
+
 [発表全文をダウンロードする](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_21+Oct+20226_KOR.pdf)
+
 [전체 공고문 다운로드](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+launch_21+Oct+26_JPN.pdf)
