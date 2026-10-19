@@ -25,7 +25,7 @@ Yet the organizations and industries that influence East Asian fisheries sustain
 
 ### What BEACON will do
 
-![BEACON+1Credit+Ocean+Outcomes+-+11.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Beacon+Launch+Oct+21+26/BEACON+1Credit+Ocean+Outcomes+-+11.png)
+![Credit+Ocean+Outcomes+-+5.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Beacon+Launch+Oct+21+26/Credit+Ocean+Outcomes+-+5.png)
 
 Founded by Qingdao Marine Conservation Society (QMCS), Hong Kong Sustainable Seafood Coalition (HKSSC), Ocean Outcomes (O2), DearOcean, and Seafood Legacy (SFL), BEACON brings together regional partnerships, projects, and capacity spanning Mainland China, Hong Kong, Taiwan, South Korea, and Japan. BEACON will advance six connected areas of work:
 
@@ -52,7 +52,7 @@ This is particularly important and relevant for international seafood markets. F
 
 ### A regional initiative built on local relationships
 
-![Credit+Ocean+Outcomes+-+5.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Beacon+Launch+Oct+21+26/Credit+Ocean+Outcomes+-+5.png)
+![BEACON+1Credit+Ocean+Outcomes+-+11.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Beacon+Launch+Oct+21+26/BEACON+1Credit+Ocean+Outcomes+-+11.png)
 
 BEACON’s five founding members bring distinct expertise and established relationships in their respective geographies. The initiative is designed to combine that local knowledge with regional coordination — recognizing that fisheries, seafood supply chains, and management challenges cross borders, while solutions must ultimately reflect local conditions for them to be successful.
 
