@@ -11,9 +11,9 @@ featured: TRUE
 
 [简体中文版](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_21+October+2026_SC.pdf)
 
-[日本語版](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_21+Oct+20226_KOR.pdf)
+[日本語版](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+launch_21+Oct+26_JPN.pdf)
 
-[한국어 버전](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+launch_21+Oct+26_JPN.pdf)
+[한국어 버전](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_21+Oct+20226_KOR.pdf)
 
 **21 October, 2026 - Tokyo, Japan** — A vision and guiding light for addressing the complex and interconnected challenges facing our oceans, food systems, and fish workers has shown bright from the epicenter of seafood in East Asia. Five organizations today announced at The Sustainable Seafood Summit (TSSS) the launch of BEACON — the Blue East Asia Collaborative for Ocean Networks — a new initiative to connect organizations and stakeholders working on fisheries and seafood sustainability.
 
@@ -72,6 +72,6 @@ This collaborative approach is intended to complement, not replace, the work of 
 
 [下载完整公告](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_21+October+2026_SC.pdf)
 
-[発表全文をダウンロードする](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_21+Oct+20226_KOR.pdf)
+[発表全文をダウンロードする](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+launch_21+Oct+26_JPN.pdf)
 
-[전체 공고문 다운로드](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+launch_21+Oct+26_JPN.pdf)
+[전체 공고문 다운로드](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/BEACON+Launch_21+Oct+20226_KOR.pdf)
