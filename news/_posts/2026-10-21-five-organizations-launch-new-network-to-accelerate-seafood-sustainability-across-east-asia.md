@@ -27,7 +27,7 @@ Yet the organizations and industries that influence East Asian fisheries sustain
 
 ![Credit+Ocean+Outcomes+-+5.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Beacon+Launch+Oct+21+26/Credit+Ocean+Outcomes+-+5.png)
 
-Founded by <a href="http://www.qmcs.org.cn/"_blank">Qingdao Marine Conservation Society (QMCS)</a>, <a href="https://hksustainableseafoodcoalition.org/"_blank">Hong Kong Sustainable Seafood Coalition (HKSSC)</a>, Ocean Outcomes (O2), <a href="https://dearoceans.com/"_blank">DearOcean</a>, and <a href="https://seafoodlegacy.com/en"_blank"Seafood Legacy (SFL)</a>, BEACON brings together regional partnerships, projects, and capacity spanning Mainland China, Hong Kong, Taiwan, South Korea, and Japan. BEACON will advance six connected areas of work:
+Founded by <a href="http://www.qmcs.org.cn/"_blank">Qingdao Marine Conservation Society (QMCS)</a>, <a href="https://hksustainableseafoodcoalition.org/"_blank">Hong Kong Sustainable Seafood Coalition (HKSSC)</a>, Ocean Outcomes (O2), <a href="https://dearoceans.com/"_blank">DearOcean</a>, and <a href="https://seafoodlegacy.com/en"_blank">Seafood Legacy (SFL)</a>, BEACON brings together regional partnerships, projects, and capacity spanning Mainland China, Hong Kong, Taiwan, South Korea, and Japan. BEACON will advance six connected areas of work:
 
 1. Science and evidence: Bring together relevant research and identify priority information gaps.
 2. Seafood supply chains and markets: Connect seafood companies and supply-chain actors around sourcing, traceability, due diligence, and supplier engagement.
