@@ -73,6 +73,7 @@ Together, these efforts reflect our broader approach: linking on-the-water impro
 ---
 ##Stories from the Field: East Asia
 
+* [Five Organizations Launch New Network to Accelerate Seafood Sustainability Across East Asia](https://www.oceanoutcomes.org/news/five-organizations-launch-new-network-to-accelerate-seafood-sustainability-across-east-asia/)
 * [Opportunities for Advancing Transparency through Technology in Taiwan’s Tuna Fleet](https://www.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/)
 * [Global Tuna Fisheries to See Major Expansion of Crew Connectivity to Enable Worker Protections](https://www.oceanoutcomes.org/news/Global-Tuna-Fisheries-to-See-Major-Expansion-of-Crew-Connectivity-to-Enable-Worker-Protections/)
 * [From Research to Reform — Building Better Fisheries Governance in South Korea](https://www.oceanoutcomes.org/news/from-research-to-reform-building-better-fisheries-governance-in-south-korea/)
