@@ -4,7 +4,7 @@ title: Opportunities for Advancing Transparency through Technology in Taiwan’s
 date: 2026-9-7
 teaser-text: A new report from Ocean Outcomes finds Taiwan can capitalize on a strong foundation to meet mounting transparency expectations through electronic monitoring. 
 hero-image: https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet-hero.png
-featured: TRUE
+featured: FALSE
 ---
 
 [中文版在這裡](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Advancing+Electronic+Monitoring+in+Taiwan's+Distant+Water+Fisheries+Press+Release+-+Chinese+-+2+September+2026.pdf)
