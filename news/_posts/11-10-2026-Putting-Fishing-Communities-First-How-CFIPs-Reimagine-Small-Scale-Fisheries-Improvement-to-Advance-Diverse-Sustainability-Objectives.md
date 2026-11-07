@@ -15,7 +15,7 @@ Yet many of the sustainability initiatives and market-based tools built to impro
 
 A newly published journal article, <a href="https://onlinelibrary.wiley.com/doi/epub/10.1111/fme.70123?domain=author&token=MIWZJEVN3AQAQZDFMUGG"target="_blank">*Beyond Commodities: Centering Communities in Fisheries Improvement Efforts*</a>, explores an alternative approach: Community-based Fishery Improvement Projects (C-FIPs), developed to put communities, not commodities, at the center of fisheries improvement.
 
-It’s hard to overstate the scale and significance of small-scale fisheries research cited in the article shows they account for roughly 40 percent of the global catch and employ 90 percent of the world’s fishers and fish workers, with women making up nearly half of that workforce. In the Americas alone, an estimated 17.7 million people depend on small-scale fisheries for their livelihoods, either directly or indirectly. 
+It’s hard to overstate the scale and significance of small-scale fisheries: research cited in the article shows they account for roughly 40 percent of the global catch and employ 90 percent of the world’s fishers and fish workers, with women making up nearly half of that workforce. In the Americas alone, an estimated 17.7 million people depend on small-scale fisheries for their livelihoods, either directly or indirectly. 
 
 ### What is a Community-Based Fishery Improvement Project (C-FIP)?
 
@@ -27,7 +27,7 @@ Traditional Fishery Improvement Projects (FIPs) have driven real environmental p
 
 The model builds on the <a href="https://www.oceanoutcomes.org/what-we-do/services/triple-impact-case-studies/"target="_blank">Triple Impact Fisheries Evaluation Framework</a>, which O2 co-developed in 2020 alongside Conservation International, SmartFishAC, and Wilderness Markets. The framework was developed to evaluate needs, design improvement plans, and monitor and publicly report progress against the environmental, economic, and social dimensions of sustainability.
 
- ### Turning Assessments Into Action
+### Turning Assessments Into Action
 
  ![rnd-mexshrimp-037.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Putting+Fishing+Communities+First/rnd-mexshrimp-037.png)
 
@@ -43,17 +43,19 @@ Importantly, success is not defined the same way everywhere. The article emphasi
 
 ### Costa Rica: A Case Study
 
-![Aguilera-Sn+Carlos+Sonora-7+(2).png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Putting+Fishing+Communities+First/Aguilera-Sn+Carlos+Sonora-7+(2).png)
+![20211116_141754+(2).png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Putting+Fishing+Communities+First/20211116_141754+(2).png)
 
 Costa Rica offers one of the clearest examples of the model in practice.  
 
 C-FIP work began in the summer of 2019 with five communities along Costa Rica’s Pacific Coast. These communities faced a familiar set of challenges: outdated information on their target species, limited management efforts that had overlooked their economic and social needs, and fragmented supply chains that kept fishers from capturing the value of strong local demand.
 
-Conservation International Costa Rica worked with O2 to bring the C-FIP model to these communities. Together, they carried out the first assessments, co-designed improvement plans directly with fishers, and rolled the work out alongside the launch of CI’s EcoGourmet program, connecting fishing organizations to commercial partners committed to fair, transparent purchasing. The resulting plans included lower-impact gear, minimum size limits, extended off-seasons, and investments in the cold storage and processing infrastructure needed to meet those partners’ standards.
+Conservation International Costa Rica worked with O2 to bring the C-FIP model to these communities. Together, they carried out the first assessments, co-designed improvement plans directly with fishers, and rolled the work out alongside the launch of CI’s <a href="https://www.ecogourmet.org/?lang=en"target="_blank">EcoGourmet program</a>, connecting fishing organizations to commercial partners committed to fair, transparent purchasing. The resulting plans included lower-impact gear, minimum size limits, extended off-seasons, and investments in the cold storage and processing infrastructure needed to meet those partners’ standards.
 
 Over four years, five fisher organizations representing roughly 115 fishers committed to 35 environmental improvement activities. Progress was supported by digital tracking of 25,800 fishing trips from 50 boats and biological monitoring of another 450 trips.
 
-Fishers participating through <a href="https://www.ecogourmet.org/?lang=en"target="_blank">EcoGourmet</a> also saw an average 40 percent increase in profits compared with a reference intermediary price, while new systems for traceability, quality and sustainability took hold. 
+Fishers participating through EcoGourmet also saw an average 40 percent increase in profits compared with a reference intermediary price, while new systems for traceability, quality and sustainability took hold. 
+
+![misc-mexshrimp-077.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/Putting+Fishing+Communities+First/misc-mexshrimp-077.png)
 
 As one participant put it, they were glad to see their own wellbeing treated as part of the conservation work, “instead of the only focus on protecting species or habitats.” The process wasn’t without friction. For example, an early 68-indicator assessment proved too heavy to sustain every six months — a significant reporting burden for participating communities and project teams. Over time, partners agreed to streamline the approach, reducing the number of indicators and instead directing more resources toward implementing priority actions.
 
@@ -84,4 +86,4 @@ Those questions extend well beyond Latin America.
 
 Across O2’s work, including in East Asia, community engagement, governance, livelihoods, markets, and environmental sustainability are rarely separate challenges. The C-FIP experience offers one model for approaching those challenges as interconnected parts of the same system — while keeping the people who depend on fisheries at the center of the process.
 
-Read the full article: <a href="https://onlinelibrary.wiley.com/doi/epub/10.1111/fme.70123?domain=author&token=MIWZJEVN3AQAQZDFMUGG"target="_blank">*Beyond Commodities: Centering Communities in Fisheries Improvement Efforts*</a>,
+Read the full article: <a href="https://onlinelibrary.wiley.com/doi/epub/10.1111/fme.70123?domain=author&token=MIWZJEVN3AQAQZDFMUGG"target="_blank">*Beyond Commodities: Centering Communities in Fisheries Improvement Efforts*</a>
