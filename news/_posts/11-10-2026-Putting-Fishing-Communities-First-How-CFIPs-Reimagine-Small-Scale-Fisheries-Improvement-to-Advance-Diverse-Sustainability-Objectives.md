@@ -25,7 +25,7 @@ Traditional Fishery Improvement Projects (FIPs) have driven real environmental p
 
 <a href="https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/supporting+documents/Community+Fishery+Improvement+Project+Manual.pdf"target="_blank">C-FIPs, on the other hand, take a different approach.</a> They are built around bottom-up efforts led by local fishing communities. They use domestic and local market linkages, and integrate  social, environmental, and economic needs, rather than treating fisheries sustainability as only an ecological issue. 
 
-The model builds on the <a href="https://www.oceanoutcomes.org/what-we-do/services/triple-impact-case-studies/"target="_blank">Triple Impact Fisheries Evaluation Framework</a>, which O2 co-developed in 2020 alongside Conservation International, SmartFishAC, and Wilderness Markets. The framework was developed to evaluate needs, design improvement plans, and monitor and publicly report progress against the environmental, economic, and social dimensions of sustainability.
+The model builds on the <a href="https://www.oceanoutcomes.org/what-we-do/services/triple-impact-improvement/"target="_blank">Triple Impact Fisheries Evaluation Framework</a>, which O2 co-developed in 2020 alongside Conservation International, SmartFishAC, and Wilderness Markets. The framework was developed to evaluate needs, design improvement plans, and monitor and publicly report progress against the environmental, economic, and social dimensions of sustainability.
 
 ### Turning Assessments Into Action
 
