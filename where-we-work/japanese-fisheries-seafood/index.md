@@ -59,7 +59,7 @@ Together, these efforts reflect our broader approach: linking on-the-water impro
 
 * [Chen Hung Seafood Frozen Produce Co Ltd. Pacific Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/chen-hung-seafood-frozen-produce-co-pacific-ocean-longline-tuna-fip)
 * [East China Sea and Yellow Sea Squid FIP (*Inactive*)] (/where-we-work/chinese-fisheries-seafood/east-china-sea-and-yellow-sea-squid/)
-* [Fue Shin Fishery Pacific Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/)
+* [Fue Shin Fishery Pacific Ocean Longline Tuna FIP (*Completed*)] (/what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/)
 * [Fue Shin Fishery Indian Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/fue-shin-fishery-indian-ocean-longline-tuna-fip/)
 * [Fujian Zhangzhou Red Swimming Crab FIP (*Active*)] (/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/)
 * [Hiroshima Pacific Oyster FIP (*Inactive*)] (/where-we-work/japanese-fisheries-seafood/hiroshima-pacific-oyster/)
