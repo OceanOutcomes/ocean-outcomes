@@ -38,11 +38,13 @@ This includes [*Advancing Electronic Monitoring in Taiwan’s Distant Water Long
 
 ##Across East Asia, we work in partnership with governments, NGOs, seafood companies, and regional initiatives to build the conditions for lasting change. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tsb1xRc-vcU?si=wc0-z5jyBDZwqxmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Through collaborative projects, technical support, and stakeholder engagement, we help align priorities, strengthen capacity, and translate global expectations into practical, on-the-water solutions. 
 
 Our approach focuses on more than individual interventions — we support the systems, relationships, and local leadership needed to sustain progress over time. By connecting partners, co-developing solutions, and investing in the skills and structure that enable implementation, we help turn shared ambition into measurable outcomes across fisheries and seafood supply chains. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tsb1xRc-vcU?si=wc0-z5jyBDZwqxmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![BEACON Launch](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Beacon+Launch.png)](https://www.oceanoutcomes.org/news/five-organizations-launch-new-network-to-accelerate-seafood-sustainability-across-east-asia/)
 
 As a founding partner of [BEACON (Blue East Asia Collaborative for Ocean Networks)](https://www.oceanoutcomes.org/news/five-organizations-launch-new-network-to-accelerate-seafood-sustainability-across-east-asia/), we are helping strengthen regional collaboration to advance sustainable fisheries and seafood supply chains across East Asia. Bringing together organizations from Mainland China, Hong Kong, Taiwan, South Korea, and Japan, BEACON connects expertise across science, markets, policy, and on-the-water implementation to address shared challenges and accelerate progress toward a more sustainable seafood sector.
 
