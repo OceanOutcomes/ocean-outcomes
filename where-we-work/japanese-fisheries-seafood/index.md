@@ -18,6 +18,8 @@ Across the region, these fisheries are navigating rising expectations for monito
 
 ##O2 was founded with focus on East Asia and has been instrumental in seeding the sustainable seafood movement across this global epicenter for seafood production. 
 
+![HRDD-Work.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/HRDD-Work.png) 
+
 Over the past decade, we have worked to expand adoption of science-based approaches to fisheries management and to build local capacity to support lasting impact. 
 
 In Japan, we developed a program that would go on to launch both the [first fishery improvement project (FIP)](https://www.oceanoutcomes.org/where-we-work/japanese-fisheries-seafood/tokyo-bay-sea-perch/) and the [first aquaculture improvement project](https://www.oceanoutcomes.org/where-we-work/japanese-fisheries-seafood/miyagi-coho-salmon/) in the country. Both projects leveraged commitments from an important seafood company to spur collaboration and engage local fishery stakeholders to work towards internationally recognized best practices.
@@ -33,8 +35,6 @@ In Taiwan, we work with seafood companies, vessel owners, academic institutions,
 This includes [*Advancing Electronic Monitoring in Taiwan’s Distant Water Longline Fisheries*](https://www.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/) — a comprehensive analysis that examines the opportunities, tradeoffs and practical considerations involved in expanding EM across Taiwan’s distant water longline fleet.
 
 [In South Korea, we are working with the country’s premier tuna companies to support better fisheries data collection,](https://www.oceanoutcomes.org/news/korea-tuna-sustainability-industy-roundtable-meeting/) science-based fisheries management, and improved fishing practices in their fleets. These companies represent and manage a significant portion of the Korean distant water tuna fleet. Our work there also supports efforts to improve domestic fisheries policy, including to strengthen Total Allowable Catch (TAC) systems and improve transparency, data integrity and accountability in fisheries governance. 
-
-![HRDD-Work.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/HRDD-Work.png) 
 
 ##Across East Asia, we work in partnership with governments, NGOs, seafood companies, and regional initiatives to build the conditions for lasting change. 
 
