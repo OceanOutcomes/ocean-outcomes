@@ -94,6 +94,8 @@ By working alongside communities, partners, and supply chains, we are helping bu
 ---
 ##Stories from the Field: Latin America
 
+* [Putting Fishing Communities First](/news/Putting-Fishing-Communities-First-How-CFIPs-Reimagine-Small-Scale-Fisheries-Improvement-to-Advance-Diverse-Sustainability-Objectives/)
+* [Beyond Commodities: Centering Communities in Fisheries Improvement Efforts](https://onlinelibrary.wiley.com/doi/epub/10.1111/fme.70123?domain=author&token=MIWZJEVN3AQAQZDFMUGG)
 * [Ocean Outcomes finding success with more tailored, community-focused C-FIP approach to fisheries improvement](https://www.seafoodsource.com/news/environment-sustainability/ocean-outcomes-finding-success-with-more-tailored-community-focused-c-fip-approach-to-improving-fisheries)
 * [How Can We Secure Sustainable Small-Scale Fisheries Beyond the Catch?](https://heyzine.com/flip-book/f53c1d9c79.html) 
 * [Insights from Our Work on the Water — 2025 Reflections and Looking Ahead to 2026] (/news/insights-from-our-work-on-the-water-reflections-and-looking-ahead/)

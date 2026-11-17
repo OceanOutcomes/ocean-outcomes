@@ -18,6 +18,8 @@ Across the region, these fisheries are navigating rising expectations for monito
 
 ##O2 was founded with focus on East Asia and has been instrumental in seeding the sustainable seafood movement across this global epicenter for seafood production. 
 
+![HRDD-Work.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/HRDD-Work.png) 
+
 Over the past decade, we have worked to expand adoption of science-based approaches to fisheries management and to build local capacity to support lasting impact. 
 
 In Japan, we developed a program that would go on to launch both the [first fishery improvement project (FIP)](https://www.oceanoutcomes.org/where-we-work/japanese-fisheries-seafood/tokyo-bay-sea-perch/) and the [first aquaculture improvement project](https://www.oceanoutcomes.org/where-we-work/japanese-fisheries-seafood/miyagi-coho-salmon/) in the country. Both projects leveraged commitments from an important seafood company to spur collaboration and engage local fishery stakeholders to work towards internationally recognized best practices.
@@ -34,15 +36,17 @@ This includes [*Advancing Electronic Monitoring in Taiwan’s Distant Water Long
 
 [In South Korea, we are working with the country’s premier tuna companies to support better fisheries data collection,](https://www.oceanoutcomes.org/news/korea-tuna-sustainability-industy-roundtable-meeting/) science-based fisheries management, and improved fishing practices in their fleets. These companies represent and manage a significant portion of the Korean distant water tuna fleet. Our work there also supports efforts to improve domestic fisheries policy, including to strengthen Total Allowable Catch (TAC) systems and improve transparency, data integrity and accountability in fisheries governance. 
 
-![HRDD-Work.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/HRDD-Work.png) 
-
 ##Across East Asia, we work in partnership with governments, NGOs, seafood companies, and regional initiatives to build the conditions for lasting change. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tsb1xRc-vcU?si=wc0-z5jyBDZwqxmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Through collaborative projects, technical support, and stakeholder engagement, we help align priorities, strengthen capacity, and translate global expectations into practical, on-the-water solutions. 
 
 Our approach focuses on more than individual interventions — we support the systems, relationships, and local leadership needed to sustain progress over time. By connecting partners, co-developing solutions, and investing in the skills and structure that enable implementation, we help turn shared ambition into measurable outcomes across fisheries and seafood supply chains. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tsb1xRc-vcU?si=wc0-z5jyBDZwqxmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![BEACON Launch](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/hero+photos/Beacon+Launch.png)](https://www.oceanoutcomes.org/news/five-organizations-launch-new-network-to-accelerate-seafood-sustainability-across-east-asia/)
+
+As a founding partner of [BEACON (Blue East Asia Collaborative for Ocean Networks)](https://www.oceanoutcomes.org/news/five-organizations-launch-new-network-to-accelerate-seafood-sustainability-across-east-asia/), we are helping strengthen regional collaboration to advance sustainable fisheries and seafood supply chains across East Asia. Bringing together organizations from Mainland China, Hong Kong, Taiwan, South Korea, and Japan, BEACON connects expertise across science, markets, policy, and on-the-water implementation to address shared challenges and accelerate progress toward a more sustainable seafood sector.
 
 Through initiatives like the  <a href="https://solutionsforseafood.org/east-asia-exchange-2026/"target="_blank">East Asia Exchange</a>, we engage key stakeholders on the region’s most pressing issues, highlight progress driven by local NGOs and industry, and provide a platform for East Asia-based voices to educate global audiences on the challenges, opportunities, and successes in the East Asian seafood landscape.
 
@@ -55,7 +59,7 @@ Together, these efforts reflect our broader approach: linking on-the-water impro
 
 * [Chen Hung Seafood Frozen Produce Co Ltd. Pacific Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/chen-hung-seafood-frozen-produce-co-pacific-ocean-longline-tuna-fip)
 * [East China Sea and Yellow Sea Squid FIP (*Inactive*)] (/where-we-work/chinese-fisheries-seafood/east-china-sea-and-yellow-sea-squid/)
-* [Fue Shin Fishery Pacific Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/)
+* [Fue Shin Fishery Pacific Ocean Longline Tuna FIP (*Completed*)] (/what-we-do/tuna/fue-shin-fishery-pacific-ocean-longline-tuna-fip/)
 * [Fue Shin Fishery Indian Ocean Longline Tuna FIP (*Active*)] (/what-we-do/tuna/fue-shin-fishery-indian-ocean-longline-tuna-fip/)
 * [Fujian Zhangzhou Red Swimming Crab FIP (*Active*)] (/where-we-work/chinese-fisheries-seafood/fujian-zhangzhou-red-swimming-crab/)
 * [Hiroshima Pacific Oyster FIP (*Inactive*)] (/where-we-work/japanese-fisheries-seafood/hiroshima-pacific-oyster/)
@@ -71,6 +75,7 @@ Together, these efforts reflect our broader approach: linking on-the-water impro
 ---
 ##Stories from the Field: East Asia
 
+* [Five Organizations Launch New Network to Accelerate Seafood Sustainability Across East Asia](https://www.oceanoutcomes.org/news/five-organizations-launch-new-network-to-accelerate-seafood-sustainability-across-east-asia/)
 * [Opportunities for Advancing Transparency through Technology in Taiwan’s Tuna Fleet](https://www.oceanoutcomes.org/news/opportunities-for-advancing-transparency-through-technology-in-taiwans-tuna-fleet/)
 * [Global Tuna Fisheries to See Major Expansion of Crew Connectivity to Enable Worker Protections](https://www.oceanoutcomes.org/news/Global-Tuna-Fisheries-to-See-Major-Expansion-of-Crew-Connectivity-to-Enable-Worker-Protections/)
 * [From Research to Reform — Building Better Fisheries Governance in South Korea](https://www.oceanoutcomes.org/news/from-research-to-reform-building-better-fisheries-governance-in-south-korea/)
