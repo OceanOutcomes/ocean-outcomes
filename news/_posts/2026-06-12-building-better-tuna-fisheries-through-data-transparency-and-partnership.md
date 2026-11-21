@@ -20,7 +20,7 @@ In 2024, Ocean Outcomes assumed management and implementation of the [CHSF Pacif
 ![CHSF-logbook.png](https://s3.us-west-2.amazonaws.com/staticassets.oceanoutcomes.org/news+and+analysis/CHSF+Fip+Blog/CHSF+logbook.png)
 *Accurate recordkeeping is an important part of fishery improvement. Through onboard engagement, captains are encouraged to verify catch records against electronic logbook submissions, supporting greater transparency and accountability throughout the fishery.* 
 
-The 20 fishing vessels which are part of the FIP catch yellowfin, skipjack, bigeye, and albacore tuna. These vessels fish on the high seas and in the Solomon Islands Exclusive Economic Zone (EEZ) —  making effective monitoring, data collection, and accountability especially challenging but critical. 
+The 28 fishing vessels which are part of the FIP catch yellowfin, skipjack, bigeye, and albacore tuna. These vessels fish on the high seas and in the Solomon Islands Exclusive Economic Zone (EEZ) —  making effective monitoring, data collection, and accountability especially challenging but critical. 
 
 While the target tuna stocks are generally considered healthy, long-term sustainability depends on strong management systems that can respond to changing conditions and prevent overfishing before it occurs. The FIP is bolstering the need for those robust management systems while working toward certification under the <a href="https://www.msc.org/standards-and-certification/fisheries-standard/"target="_blank">Marine Stewardship Council (MSC) Fisheries Standard</a> by 2027.
 

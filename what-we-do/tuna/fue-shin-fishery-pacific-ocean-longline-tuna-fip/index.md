@@ -55,4 +55,4 @@ This FIP was part of a larger effort O2 is pursuing across East Asia to help lea
 
 ---
 
-<a href="https://fisheryprogress.org/fip-profile/13398#overview" target="_blank">**This FIP was tracked publically in its entirety on FisheryProgress.org, see the completed Fue Shin Fishery Pacific Ocean Longline Tuna FIP profile here.**</a>
+<a href="https://fisheryprogress.org/fip-profile/13398#overview" target="_blank">**This FIP was tracked publicly in its entirety on FisheryProgress.org, see the completed Fue Shin Fishery Pacific Ocean Longline Tuna FIP profile here.**</a>
